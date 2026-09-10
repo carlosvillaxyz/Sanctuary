@@ -1,3 +1,22 @@
+> ## About this fork
+>
+> This is **Carlos Villa's personal fork** of [Sanctuary](https://github.com/Open-Source-Free-Realms/Sanctuary).
+> It is not the community project and does not send changes upstream.
+>
+> Goal: a **single-player-first, actually playable** Free Realms — faithful where the original data survived,
+> our own design where it was lost (XP curves, loot tables, most quest text). Built with heavy AI assistance,
+> which is why it lives here rather than upstream, whose contribution policy excludes AI-authored code.
+>
+> - [docs/ROADMAP.md](docs/ROADMAP.md) — the phased plan
+> - [docs/HANDOFF-2026-09-10.md](docs/HANDOFF-2026-09-10.md) — current status, decisions, next steps
+> - [research/README.md](research/README.md) — what game data survived the 2014 shutdown, and where
+> - [tools/asset-server/README.md](tools/asset-server/README.md) — the client's asset streaming protocol
+>
+> **Quick start:** install the .NET 10 SDK, then run `.\run_local.ps1` from the repo root. It builds, starts the
+> asset server and the three game servers, downloads the client on first run, and launches into the game.
+> The upstream README below still describes the original project.
+
+---
 
 <a id="readme-top"></a>
 <!-- PROJECT SHIELDS -->

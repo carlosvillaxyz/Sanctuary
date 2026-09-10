@@ -1,5 +1,9 @@
 # Roadmap: a playable, single-developer Free Realms
 
+**Status 2026-09-10:** Phase 0 substantially done — the game builds, runs and is playable locally with our
+own asset server. See [HANDOFF-2026-09-10.md](HANDOFF-2026-09-10.md) for everything done so far and the
+immediate next steps.
+
 Goal: turn the community "walking emulator" into a real single-player-first game, faithful to the 2009-2014
 experience where the data survives and our own design where it doesn't. AI-assisted throughout. Upstream
 compatibility is not a goal; we track upstream only to cherry-pick fixes.

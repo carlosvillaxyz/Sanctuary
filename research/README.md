@@ -1,6 +1,8 @@
 # Research: what survived of Free Realms, and where
 
 Working notes for rebuilding the server side of Free Realms (SOE, 2009-2014). Compiled 2026-09-10.
+Plan that acts on this: [../docs/ROADMAP.md](../docs/ROADMAP.md). Current status:
+[../docs/HANDOFF-2026-09-10.md](../docs/HANDOFF-2026-09-10.md).
 `wiki/` holds raw wikitext pulled from the Free Realms Fandom wiki via its MediaWiki API
 (`https://freerealms.fandom.com/api.php?action=parse&page=<Title>&prop=wikitext`), CC-BY-SA.
 

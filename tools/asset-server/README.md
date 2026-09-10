@@ -1,5 +1,8 @@
 # Local asset-delivery server
 
+Part of [this fork's plan](../../docs/ROADMAP.md); status in
+[docs/HANDOFF-2026-09-10.md](../../docs/HANDOFF-2026-09-10.md).
+
 The Free Realms client ships with ~470 MB of base pack files and **streams everything else**
 (models, textures, animations, sounds, effects, UI art) over HTTP at runtime from an
 "asset delivery" server named by the `AssetDelivery:IndirectServerAddress` launch argument.
