@@ -41,7 +41,14 @@ Working notes for rebuilding the server side of Free Realms (SOE, 2009-2014). Co
 - `soir20/oxide` + `oxide-client`: Rust server for Clone Wars Adventures (same engine). Has an asset server and a
   client proxy that serves assets straight from pack files; also shows the client accepts `IndirectServerAddress=file://...`.
 - `FabledRealmsProject/FabledRealms`: Rust land-walker with `items.json`, `npcs.json`, `journal.json` (quest journal regions/hubs/chapters), `zone_areas.json`.
-- `Udaya-X2/FreeRealmsUnpacker` (+ `FreeRealmsLocaleTools`): read/write `.pack`, `.dat`, locale files.
+- `Udaya-X2/FreeRealmsUnpacker` (no license, reference only): read/write `.pack`, `.dat`, repair `.pack.temp`.
+  `Udaya-X2/FreeRealmsLocaleTools` (MIT): read/write `en_us_data.dat/.dir`; NameId = Jenkins lookup2 hash of the key.
+- `mercish/TCG-Files` AuthBridge: a working Free Realms asset server in JS, incl. CRC/size overrides and generated
+  placeholder DDS for assets missing from the community CDN (housing, minigames). Only FR-client-tested reference.
+- Upstream Sanctuary open PRs worth cherry-picking: #109 quests, #120 XP/levels, #116 zoning, #111 housing editor.
+- Client facts: loose files in the client folder override packed `.z` assets; `LoadingScreen.xml` is a weighted list
+  of `loadingscreen*.swf` with tip StringIds; UI is 267 Scaleform window XMLs under `UI/UiModules/Main`.
+- Sony's original asset URL was `http://fr.patch.station.sony.com/patch/freerealms/live/assets` (not on Wayback).
 - `edenfps/fr-adr-toolkit`, `EDITzDev/ForgeLightToolkit` (Unity importer), `ryanjsims/pydmod` (DME -> glTF): model formats.
 - `yungcomputerchair/free-realms-ai-decomp`: Ghidra pseudo-C of the whole client, one file per function.
 - Prior emulators: Free Realms Reconnected (dead 2017; Daybreak DMCA'd the client mirror on GitHub in 2016 —
