@@ -12,9 +12,17 @@
 > - [research/README.md](research/README.md) — what game data survived the 2014 shutdown, and where
 > - [tools/asset-server/README.md](tools/asset-server/README.md) — the client's asset streaming protocol
 >
-> **Quick start:** install the .NET 10 SDK, then run `.\run_local.ps1` from the repo root. It builds, starts the
-> asset server and the three game servers, downloads the client on first run, and launches into the game.
-> The upstream README below still describes the original project.
+> **Quick start:** install the .NET 10 SDK, then from **this repo's folder** run:
+>
+> ```powershell
+> powershell -ExecutionPolicy Bypass -File .\run_local.ps1
+> ```
+>
+> It builds, starts the asset server and the three game servers in their own windows, downloads the client on
+> first run (~0.8 GB), and launches into the game. Three gotchas: run it from the repo folder or by full path;
+> Windows blocks unsigned scripts by default, hence `-ExecutionPolicy Bypass` (or set it once with
+> `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`); and stop any previous run first, since the servers
+> bind fixed ports. The upstream README below still describes the original project.
 
 ---
 
