@@ -23,8 +23,8 @@ CLIENT_MANIFEST_URL = "https://opensourcefreerealms.com/clientmanifest.xml"
 DOWNLOAD_CHUNK_SIZE = 1024 * 1024
 DOWNLOAD_WORKERS = 16
 DEFAULT_LAUNCH_ARGS = [
-    "AssetDelivery:IndirectServerAddress=http://osfr.editz.dev/assets",
-    "Portrait:UploadUrl=http://127.0.0.1:20040/image",
+    "AssetDelivery:IndirectServerAddress=http://opensourcefreerealms.com/assets",
+    "Portrait:UploadUrl=http://127.0.0.1:5000/image",
 ]
 
 def user_data_dir(app_name):
