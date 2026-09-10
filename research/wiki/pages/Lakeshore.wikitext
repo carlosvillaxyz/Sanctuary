@@ -1,0 +1,43 @@
+<!-- Lakeshore | https://freerealms.fandom.com/wiki/Lakeshore | CC-BY-SA -->
+{{Infobox
+|Image file = 8139621484 feec265947 o by krisfirebolt-d8uz8ra.jpg
+|Row 1 title = Type
+|Row 1 info = Town
+|Row 2 title = Location
+|Row 2 info = Northeast of [[Sanctuary]], southwest of [[Shrouded Glade]]}}{{Quote|The fishing center of of the world! Too bad I can't catch a thing...|Lakeshore citizen}}
+'''Lakeshore''' is a town northeast of [[Sanctuary]], southwest of [[Shrouded Glade]]. It is surrounded mostly by water, and is a good spot for [[Fisherman|fishermen]] to level up. The closest [[Dungeons|dungeon]] to it is [[Robgoblin Treasure Trove]]. It has many activities such as fishing in Rainbow Lake, Lakshore Fields Farming, Checkers & Chess, and Jump Pads.
+
+==Points of Interest==
+*Rainbow Lake Fishing
+*Lakshore Well
+*[[Durango Zoo]]
+
+==Job Trainers==
+*[[Ty]] ([[Ninja]] Trainer)
+
+==Shops==
+*Brawler Clothing and Weapons (lvl 20 clothing, lvl 19 weapons)
+*Ninja Clothing and Weapons (lvl 20 clothing, lvl 19 weapons)
+*Chef Supplies
+
+==Local [[Dungeons]]==
+*[[Robgoblin Treasure Trove]]
+
+==Resources==
+*Pumpkin
+*Sunleaf
+*Rainlef
+*Gummyfruit
+
+==Gallery==
+<gallery>
+Lakeshore.jpg|Lakeshore boats and piers
+</gallery>
+
+==See Also==
+*Lakeshore Fields
+*Thunder Falls Speedway
+{{location}}
+[[Category:Locations]]
+[[Category:Lakeshore]]
+[[Category:Sacred Grove]]

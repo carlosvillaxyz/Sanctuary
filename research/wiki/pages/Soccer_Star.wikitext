@@ -1,0 +1,16 @@
+<!-- Soccer Star | https://freerealms.fandom.com/wiki/Soccer%20Star | CC-BY-SA -->
+[[File:Freerealms soccer02.jpg|thumb|336x336px]]
+'''Soccer Star''' (Football Star in UK) is an athlete [[Jobs|Job]]. Players can interact with the [[Mini-Games|minigames]] either solo or in teams, non-[[Membership|members]] can play a limited amount of games before upgrade is required.
+
+Soccer Stars gain levels (specifically they gain what is titled "stars" - essentially experience points that levels up Jobs) through the quest series and by participating in soccer minigames. Click on the icon at the [[Snowhill]] Soccer Field entrance and complete the soccer tutorial to gain knowledge of the game mechanics.
+
+There are special stats for Soccer Stars that are listed below:
+* Kick Power (increase to your kicks)
+* Tackle Power (increase to tackling others)
+* Toughness (get back up quicker after being knocked down)
+
+==Trivia==
+*The Soccer Star Job was introduced in-game during the Goal Time update on October 2, 2009.
+{{Template:Jobs}}
+[[Category:Jobs]]
+[[Category:Soccer Star]]

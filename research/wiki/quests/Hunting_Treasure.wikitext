@@ -1,0 +1,55 @@
+<!-- Quest:Hunting Treasure | https://freerealms.fandom.com/wiki/Quest%3AHunting%20Treasure | CC-BY-SA -->
+{{Quest2
+|name = Hunting Treasure
+|detail summary = Use the clue to find the lost treasure chest.
+|coin amount = Random}}
+{{Questprog
+|quest series = [[Lost Treasures Month]]
+|previous = [[Quest:Scrap Collector|Scrap Collector]]}}
+
+==Notes==
+This quest is repeatable daily.
+
+==Requirements==
+Player must complete [[Quest:Scrap Collector]] in order to do [[Quest:Hunting Treasure]].
+
+==To Start==
+Speak with [[Kara Loft]] found northwest of the [[Sanctuary]] [[Warpstones|Warpstone]].
+
+==Goals==
+Use the clue to find the lost treasure chest.
+
+==Steps==
+#Speak with Kara Loft found northwest of the Sanctuary Warpstone.
+#*"Well I've managed to piece this map together, but all I can make out is this riddle:"
+#**"Across from the stairs leading to the rainbow spire."
+#***Across from the [[Ever Rainbow]] in [[Merry Vale]].
+#**"After the first right turn in the ancient hedge maze."
+#***After the first right turn in the [[Thistlerow]] Hedge Maze.
+#**"Behind the field where the black and white ball is kicked."
+#***Behind the [[Snowhill]] Soccer Field.
+#**"In the cave leading to the glade that lies concealed."
+#***The entrance tunnel to [[Shrouded Glade]].
+#**"In the valley of sun and stone east of the great gears of water."
+#***In [[Sunstone Valley]], east of the [[Glimmerdeep Hydropower Dam]].
+#**"In the valley of sun and stone outside the ruins of those who came first."
+#***In Sunstone Valley, near the [[Precursor Ruins]] [[Dungeons|dungeon]].
+#**"Near entrance to the speedway by the sea."
+#***Near the [[Seaside]] [[Speedways|speedway]].
+#**"Near the anvil that sits at the great quarry in the swamp."
+#***Near a crafting station in [[Blackspore Swamp]].
+#**"Near the doors to the [[World Tree|great tree]] where a queen resides."
+#***Near the [[The Heartseed|Heartseed]] in Sanctuary.
+#**"Near the entrance to the great speedway in the south."
+#***Near the Wildwood [[Speedways|Speedway]] south of [[Cobblestone Village]]
+#**"Near the gates of the fort that lies tangled in wood."
+#***Near the [[Tanglewood Fort]] dungeon.
+#**"Through the hollowed tree that leads to the southern swamp."
+#***Near the Passwind Pass in northeast Blackspore Swamp.
+#**"On the deck of the ship the pirates abandoned."
+#***On the [[Pirate Ship]] found in southwest [[Seaside]].
+#**"On the stage where the [[Chugawugs]] chug their mugs."
+#***On the [[Wugachug Stage|stage]] in [[Wugachug]].
+#*"That must be where your treasure is!" -Kara Loft
+[[Category:Quest]]
+[[Category:Lost Treasures Month]]

@@ -1,0 +1,25 @@
+<!-- Quest:The Legendary Sunstone | https://freerealms.fandom.com/wiki/Quest%3AThe%20Legendary%20Sunstone | CC-BY-SA -->
+{{Quest2
+|detail summary = Rizzle wants to thank you for all the help you've given him, so he's decided to tell you about the famed Legendary Sunstone. Rizzle doesn't know why anyone would want a "Legendary Sunstone" but helping out the dwarf that's looking for it could earn you a lot of quality junk.|coin amount = 5}}{{Questprog
+|previous = [[Quest:Robot Woes|Robot Woes]]|next = [[Quest:Ambush Recovery|Ambush Recovery]]|quest series = [[Sunstone_Valley#Whirly's_Scrap_Camp|Sunstone Valley Quest Series]]}}
+==Requirements==
+Player must complete [[Quest:Robot Woes]] in order to do [[Quest:The Legendary Sunstone]]
+==To Start==
+Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+==Goals==
+Rizzle has pointed you at a strange dwarf in search of the "Legendary Sunstone" in Sunstone Valley.
+*Find Noggle Cogloose
+==Steps==
+#Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"Wait, I know! I’ll give you information!<br />Yes, this is really valuable. See, there’s this crazy dwarf with a whole bunch of junk, but he won’t let anyone touch it unless they help him find some “Legendary Sunstone.” <font color='#D9781A'>Help the dwarf</font> and you could be rich!" -Rizzle
+#Speak with [[Noggle Cogloose]] located in [[Noggle's Retreat]], [[Sunstone Valley]].
+#*"You there, yes you with the face!<br />You heard the news then? About my Power Crystals? Oh but of course you did! Who hasn’t really? That’s a much better question.<br />Well, what are you going to do about it?" -Noggle Cogloose
+==References==
+*[[Dwarves]]
+*[[Legendary Sunstone]]
+*[[Noggle Cogloose]]
+*[[Noggle's Retreat]]
+*[[Rizzle]]
+*[[Sunstone Valley]]
+*[[Whirly's Scrap Camp]]
+[[Category:Quest]]

@@ -1,0 +1,25 @@
+<!-- Quest:For Rizzle | https://freerealms.fandom.com/wiki/Quest%3AFor%20Rizzle | CC-BY-SA -->
+{{Quest2
+|detail summary = Robgoblins aren't really known for their interest in anything that isn't junk, but Wheelie Pete happens to have a robgoblin regular that absolutely loves his Sunstone Sasparilla. Do Pete one last favor by delivering a barrel to Rizzle in the robgoblin scrap yard.|coin amount = 5}}{{Questprog
+|next = [[Quest:A Beautiful Friendship|A Beautiful Friendship]]|quest series = [[Sunstone_Valley#Wheelie_Pete's_Roadhouse|Sunstone Valley Quest Series]]|previous = [[Quest:The Secret Ingredient Is...|The Secret Ingredient Is...]]}}
+==Requirements==
+Player must complete [[Quest:The Secret Ingredient Is...]] in order to do [[Quest:For Rizzle]]
+==To Start==
+Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+
+==Goals==
+Wheelie Pete has asked you to deliver a barrel of sasparilla to Rizzle in Sunstone Valley.
+*Deliver the sasparilla to Rizzle
+==Steps==
+#Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+#*"Robgoblins typically only like junk, but I happen to have a robgoblin customer that loves my sasparilla.<br />Could you do me one last favor and <font color='#D9781A'>take a barrel to Rizzle</font>? I would do it myself, but all that brewing really did a number on my back." -Wheelie Pete
+#Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"Whoa! Is that a barrel of Wheelie Pete’s Sunstone Sasparilla? Well give it here!<br /><nowiki>*glug, glug*</nowiki><br />Ah, that hit the spot.?" -Rizzle
+==References==
+*[[Rizzle]]
+*[[Robgoblin]]
+*[[Sunstone Sasparilla]]
+*[[Sunstone Valley]]
+*[[Wheelie Pete]]
+*[[Whirly's Scrap Camp]]
+[[Category:Quest]]

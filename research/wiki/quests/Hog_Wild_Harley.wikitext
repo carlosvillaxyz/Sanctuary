@@ -1,0 +1,31 @@
+<!-- Quest:Hog Wild Harley | https://freerealms.fandom.com/wiki/Quest%3AHog%20Wild%20Harley | CC-BY-SA -->
+{{Quest2
+|detail summary = Pete's pet hog, Harley, has wondered off again. Pete thinks she might be giving the Sandscale a little payback, but he's worried she may be in over her head. Find Harley and escort her to safety.|first reward = Mystery Reward|first reward image name = Sunstonemysteryicon.jpg}}{{Questprog
+|previous = [[Quest:Like Scavengers in a Barrel|Like Scavengers in a Barrel]]|quest series = [[Sunstone_Valley#Wheelie_Pete's_Roadhouse|Sunstone Valley Quest Series]]|next = [[Quest:The Water Must Flow!|The Water Must Flow!]]}}
+==Notes==
+This quest is repeatable
+==Requirements==
+Player must complete [[Quest:Like Scavengers in a Barrel]] in order to do [[Quest:Hog Wild Harley]]
+==To Start==
+Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+==Goals==
+Wheelie Pete needs your help finding his pet hog, Harley in Sunstone Valley.
+*Find Harley
+*Escort Harley to safety
+*Return to Wheelie Pete
+==Steps==
+#Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+#*"Harley went and wandered off again!<br />I figure she went after the Sandscale down in the valley, but there's no way I can go after her with my bad hip. So what do you say, <Player Name>, will you <font color='#D9781A'>bring Harley back to me</font>?" -Wheelie Pete
+#Find Harley
+#*[[Harley]] can be found in [[Sandscale Territory]] South-East of [[Sandspear]] in [[Sunstone Valley]].
+#Escort Harley to safety
+#*Protect [[Harley]] from the [[Manguana]] enemies until she is out of [[Sandscale Territory]].
+#Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+#*"That Harley is a real firecracker, but so are you, <Player Name>!<br />I bet the manguana will steer clear of my place for a while, now that they’ve seen what the two of you can do." -Wheelie Pete
+
+==References==
+*[[Harley]]
+*[[Manguana]]
+*[[Wheelie Pete]]
+*[[Sunstone Valley]]
+[[Category:Quest]]

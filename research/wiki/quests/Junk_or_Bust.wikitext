@@ -1,0 +1,27 @@
+<!-- Quest:Junk or Bust | https://freerealms.fandom.com/wiki/Quest%3AJunk%20or%20Bust | CC-BY-SA -->
+{{Quest2
+|detail summary = While you were away Rizzle's boss, Whirly Willis, found him napping on the job and gave him an ultimatum: Bring back some junk or Rizzle is kicked out of the scrap yard! Unfortunately the only place Rizzle knows to find junk is IN the scrap yard... maybe you can help him get some.
+|coin amount = 45}}{{Questprog
+|previous = [[Quest:Ka-Boom or Not To Boom|Ka-Boom or Not To Boom]]|next = [[Quest:Robot Woes|Robot Woes]]|quest series = [[Sunstone_Valley#Whirly's_Scrap_Camp|Sunstone Valley Quest Series]]}}
+==Requirements==
+Player must complete [[Quest:Ka-Boom or Not To Boom]] in order to do [[Quest:Junk or Bust]]
+==To Start==
+Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+==Goals==
+Rizzle needs you to get him some Scrap Yard Junk in Sunstone Valley.
+*Collect Scrap Yard Junk - /10
+*Return to Rizzle
+==Steps==
+#Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"It's my boss, Whirly Willis. He wants junk or I’m kicked out!<br />But where am I going to get junk? Every last piece is already IN the scrap yard... Wait a second. Are you thinking what I’m thinking? Great, then <font color='#D9781A'>go get me some junk from the scrap yard</font>.<br />Please?" -Rizzle
+#Collect Scrap Yard Junk - /10
+#*Scrapyard Junk are located all around the [[Scrap Master Fizzbang]]'s Junkyard located in North-West [[Sunstone Valley]]
+#Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"<Player Name>! You won't believe what happend... I got promoted! Crazy, right?<br />Willis was so impressed when I told him that I con- err, asked you to bring me some junk that he made me Chief of Junk Security!<br />Now all I have to do is supervise a bunch of robots. There's just one problem..." -Rizzle
+
+==References==
+*[[Whirly Willis]]
+*[[Rizzle]]
+*[[Sunstone Valley]]
+*[[Scrap Yard Junk]]
+[[Category:Quest]]

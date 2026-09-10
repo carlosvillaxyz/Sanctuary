@@ -1,0 +1,34 @@
+<!-- Lavender Coast | https://freerealms.fandom.com/wiki/Lavender%20Coast | CC-BY-SA -->
+{{LocationInfobox
+|name= Lavender Coast
+|image= 8e897e9054cdd639a2d8229869f31dea.png
+|type= Region
+|level= N/A
+|location= South of [[Lavender Coast Pass]]
+|inhabitants= Harpies}}
+'''Lavender Coast''' was an [[:Category:Unreleased|unreleased]] [[Locations|location]] that was never opened to denizens of [[Sacred Grove]]. It would've been located to the far south of [[Lavender Coast Pass]], with the [[Warpstones|warpstone]] nearby which its entrance is blocked by barriers. Few official details were known about Lavender Coast.
+
+The [[Elves|elf]] known as [[Chugzy]] also mentioned that harpies like [[Raven]] are native to Lavender Coast during the Heroes Journal [[Quests|quest]] titled, ''Raven, Lunatic''.
+
+Like [[Silver Hills|other]] [[Black Forest|unreleased]] [[Glimmerdeep|locations]], Lavender Coast was never added to ''[[Free Realms]]'' before it was closed on March 31, 2014.
+
+==Gallery==
+<gallery>
+LavenderCoast 2007.jpg|Lavender Coast in the early design of the [[Atlas]].
+The-free-realms-filter-9.webp
+lavender coast concept1.jpg|First concept art of Lavender Coast. 
+lavender coast concept2.jpg|Second concept art of Lavender Coast.
+lavender coast concept3.jpg|Third concept art of Lavender Coast.
+</gallery>
+
+==Trivia==
+*Lavender Coast would have contained a lake of molten [[wikipedia:Lava|lava]], as seen through the [[wikipedia:Concept art|concept art]] by Edwin Rosell, and referenced through the in-game description of the purple [[Dragons|dragon]] [[Pet Pals|Pet Pal]], [[Embers]].
+*It is unknown why Lavender Coast got its name when it is all lava lakes and volcanoes. It is possible that the ocean would've be viewable in the location, just like [[Seaside]], but it is separate between water and lava.
+
+==Sources==
+*[https://www.slideshare.net/crowempires/the-free-realms-filter The Free Realms Filter] on [https://www.slideshare.net/ SlideShare]
+*[http://web.archive.org/web/20130903145420/http://edwinrosell.com/59040/512984/gallery/freerealms-environments FreeRealms Environments] on [https://edwinrosell.com/ Edwin Rosell]
+*[http://edwinrosell.blogspot.ca/2010/08/freerealms-eye-candy.html FreeRealms Eye Candy] on [http://edwinrosell.blogspot.ca/ The Dog'n Pony Show!]
+[[Category:Locations]]
+[[Category:Unreleased]]
+[[Category:Lavender Coast]]

@@ -1,0 +1,114 @@
+<!-- Blacksmith | https://freerealms.fandom.com/wiki/Blacksmith | CC-BY-SA -->
+{{ZAM|Blacksmith_(FR_Job)}}
+{{JobInfobox
+|name= Blacksmith
+|image= Blacksmith.png
+|caption= Male [[Human]] Blacksmith}}
+[[Image:BlacksmithT.png|left]]''<font style="font-size:15px">{{Quote|Blacksmiths use metal ore and other natural materials to create ingenious tools and dangerous weapons. You can craft [[Items|items]] for your own jobs or sell them to other players to earn [[Coins|coins]]. Work with other professions to help you harvest the raw materials you need to craft additional items. Smitty in [[Snowhill]] can teach the tricks of the trade.|Job description}}</font>''
+'''''Blacksmith''''' is a [[Membership|Members]]-only crafting [[Jobs|job]], specializing in the creation of weapons. A crafting class job, experience is gained by completing Blacksmith quests and by playing the forge [[Mini-Games|minigames]].
+
+==Unlocking Blacksmith==
+Blacksmith can be unlocked by speaking with Smitty in [[Snowhill]].
+
+==Trainers==
+*Steelbloom in [[Sanctuary]]
+*Smitty in Snowhill
+*Trixi in the [[Singing Crystal Mines]], Snowhill
+*Brody Sparfist in the Singing Crystal Mines, Snowhill
+*Derp Axemaker in the [[Dartmoor Quarry]]
+*Supply Master Leo in [[Southvale Quarry]]
+*Mili Ironcall in Southvale Quarry
+*Billie JoBob in outside [[Blackspore Swamp]]
+*Silverray in [[Quagmire Quarry]]
+*Anata Caliburn in [[Stillwater Crossing]]
+
+==[[Quests]]==
+'''Introductions'''
+* Give my Regards to Smitty - Steelbloom in Sanctuary, sends you to Smitty
+
+'''Smitty'''
+* Blacksmith: Basics of Blacksmithing
+* Blacksmith: Smithy Merchandise
+* Blacksmith: Hammer Training
+* Blacksmith: Curious Cancellation
+
+'''Trixi'''
+* Blacksmith: Warrior Weapon
+
+'''Brody Sparfist'''
+* Blacksmith: Bat Fighter
+
+'''Derp Axemaker'''
+* Blacksmith: Impressing the Axemaker
+* Blacksmith: Dull Challenge
+* Blacksmith: Hammer Quality
+* Blacksmith: Reach Level 10
+* Blacksmith: Supply Delivery
+
+'''Supply Master Leo'''
+* Blacksmith: Do Work!
+
+'''Mili Ironcall'''
+* Blacksmith: Bolstering the Bows
+* Blacksmith: Chivalrous Carlos
+* Blacksmith: Local Bonesaw Shortage
+* Blacksmith: Breaking Bank
+
+'''Billie JoBob'''
+* Blacksmith: Silver Appearance
+
+'''Silverray'''
+* Blacksmith: Wand Replacement
+* Blacksmith: Teacher's Aid [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* Blacksmith: Scythes of Stalking
+* Blacksmith: Reach Level 20
+* Blacksmith: Forging Rumors
+
+'''Anata Caliburn'''
+* Blacksmith: Lady of the Lake
+* Blacksmith: Tools of the Trade
+* Blacksmith: No Sticks and Plenty of Stones
+* Blacksmith: Gemstone Roundup
+* Blacksmith: Legendary Summersaber
+* Blacksmith: The Royal Smithy
+
+'''Steelbloom'''
+* Blacksmith: Helping the Hospital [[Image:Icon repeat.png|15px|Repeatable Quest]]
+
+==[[Collections]]==
+{{Main|Job Specific (Collections)#Blacksmith Collections}}
+* Blacksmith's Forge Adventures
+* Blacksmith Materials
+* Blacksmith Stories
+
+==Recipes==
+{{Main|List of Recipes (Blacksmith)}}
+* [[Alley Fighter Hammer]]
+* [[Anguish Aid Bonesaw]]
+* [[Biting Mongoose Blade]]
+* [[Chivalrous Guardian Hammer]]
+* [[Dancing Monkey Bokken]]
+* [[Diving Hawk Scythe]]
+* [[Eclipse Infused Wand]]
+* [[Field Support Scalpel]]
+* [[Focus Fire Bow]]
+* [[Intrepid Protector Axe]]
+* [[Lunar Enchanted Wand]]
+* [[Pain Relief Bonesaw]]
+* [[Power Charmed Wand]]
+* [[Power Crystal Flair Shard]]
+* [[Quick Shot Bow]]
+* [[Rowdy Rumbler Hammer]]
+* [[Savage Sting Bow]]
+* [[Spunky Scrapper Hammer]]
+* [[Stalking Panther Scythe]]
+* [[Stalwart Protector Hammer]]
+* [[Strong Scrapper Hammer]]
+* [[Sturdy Summersaber]]
+* [[Tempest Woven Wand]]
+* [[Trauma Support Shockrod]]
+* [[Valiant Guardian Cudgel]]
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Blacksmith]]
+[[Category:Members Only]]

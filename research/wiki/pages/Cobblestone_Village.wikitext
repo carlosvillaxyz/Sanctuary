@@ -1,0 +1,35 @@
+<!-- Cobblestone Village | https://freerealms.fandom.com/wiki/Cobblestone%20Village | CC-BY-SA -->
+{{LocationInfobox2
+|image= 129804.png
+|type= Town
+|location= [[Southern Wilds]]}}
+The '''Cobblestone Village''', formerly known as '''Crossroads''', is a very small municipality at the center of [[World|Free Realms]] and, as the former name states, is at a crossroad. It sits where the road from [[Sanctuary]] to Wildwood Speedway intersects the road from [[Blackspore Swamp]] to [[Lavender Coast]]. 
+
+The Cobblestone Village is little more than a small gathering of buildings and it is really most notable for having a [[Warpstones|warpstone]] that allows travelers to visit [[Farnum's Farm]] and Wildwood Speedway easily. The portion of the [[Locations|area]] located west of the main road is considered to be part of [[Southern Wilds|southwest Wilds]], while the portion located east of the main road is considered to be part of southeast Wilds.
+
+New players leaving the tutorial will enter Free Realms here instead of [[Highroad Junction]].
+
+==Points of Interest==
+*Adoption Center
+
+== Minigames ==
+
+* Cooking Table
+
+==Job Trainers==
+*Majorie ([[Pet Trainer]])
+*Carlos Brazenfist ([[Brawler]] Trainer)
+*Simone ([[Chef]] Trainer)
+
+==Shops==
+*Potions (health, energy, replenishing)
+*Pet Collars
+*Pet Supplies
+
+==See Also==
+* Wildwood Speedway
+
+{{Location}}
+[[Category:Locations]]
+[[Category:Cobblestone Village]]
+[[Category:Sacred Grove]]

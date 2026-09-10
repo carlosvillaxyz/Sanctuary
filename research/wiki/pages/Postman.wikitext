@@ -1,0 +1,74 @@
+<!-- Postman | https://freerealms.fandom.com/wiki/Postman | CC-BY-SA -->
+{{JobInfobox
+|name= Postman
+|image= Postman.png
+|caption= Male [[Human]] Postman }}
+[[Image:PostmanT.png|left]]''<font style="font-size:15px">{{Quote|Come rain, wind, snow or sleet, the Postman is responsible for delivering all the important deliveries in [[Free Realms|Free Realms™]]. Mailboxes and other Postmen often host quests and challenges that require someone fleet of foot and swift of mind to sort and deliver packages on time. Don't be late!|Job description}}</font>''
+'''Postman''' is a delivery [[Jobs|job]], specializing in delivering the mail. A freestyle class job, experience is gained by completing [[Quests|quests]] and by playing the Postman [[Mini-Games|minigames]].
+
+==Skills==
+{|text-align="center" cellpadding=6
+!bgcolor="silver"|Skill
+!bgcolor="silver"|Effect
+|-
+|Mail Throw
+|Throws the mail into the targeted mailbox
+|-
+|bgcolor="#F5F5F5"|Toss Bone
+|bgcolor="#F5F5F5"|Tosses a bone to distract dogs from knocking the postman over
+|}
+
+==Unlocking Postman==
+Postman can be unlocked by speaking to Felipe in [[Sanctuary]].
+
+Alternately, interacting with a set of postboxes inside a town before having the job adds a quest to the journal directing the player to Felipe.
+
+==Trainers==
+*Felipe in [[Sanctuary]]
+*Flitter in Sanctuary
+*Postmaster Vixie in [[Merry Vale]]
+*Postchug Runalug in [[Wugachug]]
+*Loryn in [[Snowhill]]
+*Brin Galeglow in [[Shrouded Glade]]
+
+==Quests==
+* '''Postman: It's all in the Training''': clicking on a postbox (optional)
+
+* '''Postman: Can You Deliver?''': Felipe in [[Sanctuary]]
+* '''Postman: Mail Marksman''': Felipe in Sanctuary (learn Mail Throw ability)
+* '''Postman: Beware of Ankle Biters''': Felipe in Sanctuary (learn Bone Toss ability)
+* '''Postman: It's a Postal Disaster!''': Flitter in Sanctuary
+* '''Postman: Sort of a Mess''': Flitter in Sanctuary
+* '''Postman: Running the Route''': Flitter in Sanctuary
+* '''Postman: Special Delivery''': Felipe in Sanctuary
+* '''Postman: Achieve Level 5''': Felipe in Sanctuary
+* '''Postman: Bixie Buds''': Felipe in Sanctuary
+* '''Postman: Missing Mail''': Postmaster Vixie in [[Merry Vale]]
+* '''Postman: Mail Mix-Up''': Postmaster Vixie in Merry Vale
+* '''Postman: And the Winner Is...''': Postmaster Vixie in Merry Vale
+* '''Postman: It's a Breeze!''': Enaine in [[Seaside]]
+* '''Postman: Achieve Level 10''': Enve LeStampin Seaside
+* '''Postman: Invitation Only''': Enaine in Seaside
+* '''Postman: Where's the Sasparilla''': Enaine in Seaside
+* '''Postman: Jug Clean Up''': Postchug Runalug in [[Wugachug]]
+* '''Postman: Sorting it Out''': Postchug Runalug in Wugachug
+* '''Postman: Achieve level 15''': Postchug Runalug in Wugachug
+* '''Postman: Fair Warning''': Postchug Runalug in Wugachug
+* '''Postman: What a Mess!''': Loryn in [[Snowhill]]
+* '''Postman: A Plea for Help''': Loryn in Snowhill
+* '''Postman: Biting Back''': Loryn in Snowhill
+* '''Postman: Summit in Shrouded Glade''': Loryn in Snowhill
+* '''Postman: Beware of Dogs''': Brin Galeglow in [[Shrouded Glade]]
+* '''Postman: Mile High Mail''': Brin Galeglow in Shrouded Glade
+* '''Postman: Always on Time''': Brin Galeglow in Shrouded Glade
+* '''Postman: Trail of Mail''': Postmaster Lane in Shrouded Glade
+* '''Postman: Outpost Ordeal''': [[Emahl]] in the [[PCA Camp]].
+
+==Collections==
+{{main|Job Specific (Collections)#Postman Collections}}
+* Postman Packages and Envelopes
+* Postman Postcards
+* Postman Stamps
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Postman]]

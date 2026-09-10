@@ -1,0 +1,27 @@
+<!-- Quest:Fighting off the Pack | https://freerealms.fandom.com/wiki/Quest%3AFighting%20off%20the%20Pack | CC-BY-SA -->
+{{Quest2
+|detail summary = With a new weapon in hand, it is time to learn how to use it to become a hero and protector of the Realms.|coin amount = 18}}{{Questprog
+|next = [[Quest:Eviction Notice|Eviction Notice]]|previous = [[Quest:Your First Weapon|Your First Weapon]]|quest series = Farnum's Farm}}
+==Requirements==
+Player must complete [[Quest:Your First Weapon]] in order to do [[Quest:Fighting off the Pack]]
+==To Start==
+Speak with [[Cleetus Farnum]] that can be found on [[Farnum's Farm]] located in Southern [[Wilds]].
+==Goals==
+Learn how to use your weapon by fighting Hooligan Wolves.
+*Switch to the Brawler job
+*Knock out Hooligan Wolves - /5
+*Return to Cleetus Farnum
+==Steps==
+#Speak with [[Cleetus Farnum]] that can be found on [[Farnum's Farm]] located in Southern [[Wilds]].
+#*"Unfortunately now is one of those times to where you’ll need to use that hammer. Use it to defeat 5 Hooligan Wolves. Be sure to switch to your Brawler job. Return to me when you are finished." -Cleetus Farnum
+#Switch to the [[Brawler]] [[Job]].
+#Knock out Hooligan Wolves - /5
+#*Knock out 5 [[Hooligan Wolves]] nearby in the [[Wilds]].
+#Speak with [[Cleetus Farnum]] that can be found on [[Farnum's Farm]] located in Southern [[Wilds]].
+#*"We should be having less wolf attacks after the trashing that you gave those Hooligan Wolves." -Cleetus Farnum
+==References==
+*[[Brawler]]
+*[[Hooligan Wolves]]
+*[[Cleetus Farnum]]
+*[[Wolf]]
+[[Category:Quest]]

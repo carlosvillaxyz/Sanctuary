@@ -1,0 +1,24 @@
+<!-- Quest:Aiding our Allies | https://freerealms.fandom.com/wiki/Quest%3AAiding%20our%20Allies | CC-BY-SA -->
+{{Quest2
+|detail summary = Arch Druid Camellia in Shrouded Glade has asked you to aid the dwarves of Sunstone Valley.|first reward = [[Rise of the Skullz]]|first reward image name = Riseofskullzicon.jpg}}{{Questprog
+|next = [[Quest:Sobering Homecoming|Sobering Homecoming]]|quest series = [[Sunstone_Valley#Shrouded_Glade|Sunstone Valley Quest Series]]|previous =  }}
+==To Start==
+Speak with [[Arch Druid Camellia]] located in front of the [[Druid Academy]] in [[Shrouded Glade]].
+==Goals==
+Arch Druid Camellia in Shrouded Glade has asked you to aid the dwarves of Sunstone Valley.
+*Talk to Headmaster Merk
+==Steps==
+#Speak with [[Arch Druid Camellia]] located in front of the [[Druid Academy]] in [[Shrouded Glade]].
+#*"Gus Geargrinder sacrificed everything to save us from the Gloam. Now we have a chance to repay him.<br />A group called the Skullz has taken over <font color='#D9781A'>Sunstone Valley</font>, putting Gus' friends and family in great danger!<br />If you want to help, find and speak with <font color='#D9781A'>Headmaster Merk</font>." -Arch Druid Camellia
+#Speak with [[Headmaster Merk]] located in [[Rumble Ridge]] in [[Sunstone Valley]].
+#*"Arch Druid Camellia sent you?<br />That's great! The situation here is bad and we can definitely use your help." -Headmaster Merk
+
+==References==
+*[[Arch Druid Camellia]]
+*[[Gloam]]
+*[[Gus Geargrinder]]
+*[[Headmaster Merk]]
+*[[Skullz]]
+*[[Sunstone Valley]]
+*[[Shrouded Glade]]
+[[Category:Quest]]

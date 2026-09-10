@@ -1,0 +1,21 @@
+<!-- Quest:Forgotten Lunchbox | https://freerealms.fandom.com/wiki/Quest%3AForgotten%20Lunchbox | CC-BY-SA -->
+{{Template:Quest2
+|name = Forgotten Lunchbox
+|detail summary = My husband, Leddiwug, and his men forgot their lunches. Help restock the provisions at each of the four watchtowers in the Trail of Betrayal
+|coin amount = 24}}{{Template:Questprog
+|quest series = Forgotten Lunchbox}}
+
+==To Start ==
+
+Speak with [[Chugilda]] located in [[Bristlewood]]. 
+==Goals ==
+Chugilda has asked you to take Leddiwug and his men in the [[Trail of Betrayal]] their lunchboxes. 
+*Restock the Watchtower Provisions!
+==Steps==
+#Speak with [[Chugilda]] located in [[Bristlewood]].
+*My husband, Leddiwug, and his men forgot their lunches. Help rest​ock the provisions at each of the four watchtowers in the Trail of Betrayal. When you come back, my raven beak soup should be ready!
+2.  Restock the watchtower provisions. 
+*-/4
+3.  Return to Chugilda. 
+*Oh, back so soon? The raven beak soup is not done yet, so you will have to do without. But take this for helping out.
+[[Category:Quest]]

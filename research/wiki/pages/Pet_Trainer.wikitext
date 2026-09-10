@@ -1,0 +1,139 @@
+<!-- Pet Trainer | https://freerealms.fandom.com/wiki/Pet%20Trainer | CC-BY-SA -->
+{{JobInfobox
+|name = Pet Trainer
+|image = PetTrain.png
+|caption = Female [[Pixies|Pixie]] Pet Trainer}}
+[[Image:PetTrainT.png|left]]''<font style="font-size:15px">{{Quote|As a Pet Trainer you can watch your [[Pets|pet]] learn right in front of your eyes. Spend time training your pet, or set out on a journey exploring the [[World|world]] together! Whether you choose a [[Dogs|dog]] or [[Cats|cat]], be sure to take care of your pet to keep it happy, and help it master tricks like Dance and Play Dead.|Job description}}</font>''
+<br />
+'''Pet Trainer''' was a trainer [[Jobs|job]], specializing in teaching tricks to Pets. A freestyle class job, experience is gained by teaching tricks to pets. The Pet Trainer job has been removed from the game, and it was no longer available to players. Even so, you can still see Pet Trainer [[Non-Playable-Character|NPCs]] training their pets as before.
+
+*'''Note: Though Pet Trainer has been removed on December 14, 2009, it is still available for players who created their accounts before the job was removed. The job does nothing though, except act as another free style slot were you can only dress your character.'''
+
+==Skills==
+===[[Cats|Cat]] Tricks===
+{|text-align="center" cellpadding=6 width=60%
+!bgcolor="black" width=5%|Lvl
+!bgcolor="black" width=12%|Skill
+!bgcolor="black"|Effect
+|-
+|style="text-align:center;"|1
+|Speak
+|Teaches your cat to speak
+|-
+|bgcolor="#000000" style="text-align:center;"|5
+|bgcolor="#000000"|Jump
+|bgcolor="#000000"|Teaches your cat to jump
+|-
+|style="text-align:center;"|10
+|Box
+|Teaches your cat to box
+|-
+|bgcolor="#000000" style="text-align:center;"|15
+|bgcolor="#000000"|Spin
+|bgcolor="#000000"|Teaches your cat to spin
+|-
+|style="text-align:center;"|15
+|Handstand
+|Teaches your cat to perform a handstand
+|-
+|bgcolor="#000000" style="text-align:center;"|20
+|bgcolor="#000000"|Dance
+|bgcolor="#000000"|Teaches your cat to dance
+|-
+|style="text-align:center;"|20
+|Play Dead
+|Teaches your cat to play dead
+|}
+
+===[[Dogs|Dog]] Tricks===
+{|text-align="center" cellpadding=6 width=60%
+!bgcolor="black" width=5%|Lvl
+!bgcolor="black" width=12%|Skill
+!bgcolor="black"|Effect
+|-
+|style="text-align:center;"|1
+|Speak
+|Teaches your dog to speak
+|-
+|bgcolor="#000000" style="text-align:center;"|5
+|bgcolor="#000000"|Sit Up
+|bgcolor="#000000"|Teaches your dog to sit up
+|-
+|style="text-align:center;"|10
+|Rollover
+|Teaches your to dog roll over
+|-
+|bgcolor="#000000" style="text-align:center;"|10
+|bgcolor="#000000"|Peek-A-Boo
+|bgcolor="#000000"|Teaches your dog to play peek-a-boo
+|-
+|style="text-align:center;"|15
+|Hand Stand
+|Teaches your dog to perform a hand stand
+|-
+|bgcolor="#000000" style="text-align:center;"|20
+|bgcolor="#000000"|Dance
+|bgcolor="#000000"|Teaches your dog to dance
+|-
+|style="text-align:center;"|20
+|Play Dead
+|Teaches your dog to play dead
+|}
+
+==Unlocking Pet Trainer==
+Pet Trainer can be unlocked by speaking with any of the following trainers:
+* Zachery in [[Stillwater Crossing]]
+* Majorie in [[Cobblestone Village]]
+* Mercy Merrywings in [[Highroad Junction]]
+
+==Trainers==
+* Zachary in [[Stillwater Crossing]]  (unlocks job; pet tutorial)
+* Majorie in [[Cobblestone Village]] (unlocks job; pet tutorial)
+* Mercy Merrywing in Highroad Junction (unlocks job; pet tutorial)
+* Roscoe in [[Sanctuary]]
+* Verill Shiverwings in Highroad Junction
+* Vido Stormshroud in [[Shrouded Glade]]
+* Moanna in [[Seaside]]
+* Kirill Moonrunner in Sanctuary (Master Trainer)
+
+==[[Quests]]==
+===Trainer Series===
+'''''NB!''''' The Trainer series quests are all the same no matter which unlocking trainer you choose and will all lead to Sanctuary
+* Pet Tutorial: Basics
+* Pet Tutorial: Happiness
+* Pet Tutorial: Training
+* Pet Trainer: Speak Up
+* Pet Trainer: To Sanctuary
+
+===Main Series===
+* '''Pet Trainer: Sit Up and Take Notice''': Roscoe in Sanctuary
+* '''Pet Trainer: Jump High!''': Roscoe in Sanctuary
+* '''Pet Trainer: Achieve Level 10''': Roscoe in Sanctuary
+* '''Pet Trainer: Mosey on Up''': Roscoe in Sanctuary
+* '''Pet Trainer: Peek-A-Boo''': Vidor Stormshroud in Shrouded Glade
+* '''Pet Trainer: A Rolling Good Time''': Vidor Stormshroud in Shrouded Glade
+* '''Pet Trainer: Go with the Punches''': Vidor Stormshroud in Shrouded Glade
+* '''Pet Trainer: Making a Champ''': Vidor Stormshroud in Shrouded Glade
+* '''Pet Trainer: Achieve Level 15''': Vidor Stormshroud in Shrouded Glade
+* '''Pet Trainer: All Aboard to Highroad Junction''': Vidor Stormshroud in Shrouded Glade
+* '''Pet Trainer: Can You Give me a Hand...Stand''': Verill Shiverwings in Highroad Junction
+* '''Pet Trainer: Spinning Tails''': Verill Shiverwings in Highroad Junction
+* '''Pet Trainer: Skills for Stars''': Verill Shiverwings in Highroad Junction
+* '''Pet Trainer: Achieve Level 20''': Verill Shiverwings in Highroad Junction
+* '''Pet Trainer: Amaze me!''': Verill Shiverwings in Highroad Junction
+* '''Pet Trainer: Down by the Bay''': Verill Shiverwings in Highroad Junction
+* '''Pet Trainer: Shake your Groove Thing''': Moanna in Seaside
+* '''Pet Trainer: Seek the Master''': Moanna in Seaside
+* '''Pet Trainer: Nearly Departed''': Kirill Moonrunner in Sanctuary
+* '''Pet Trainer: Show Off!''': Kirill Moonrunner in Sanctuary
+
+==Gallery==
+<gallery orientation="none" captiontextcolor="#000000">
+Petout.png|Pet Trainer
+petshirt.png|Pet Trainer Apron
+petpants.png|Pet Trainer Pants
+petboots.png|Pet Trainer Boots
+</gallery>
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:No longer in-game]]

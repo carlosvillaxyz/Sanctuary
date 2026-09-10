@@ -1,0 +1,27 @@
+<!-- Quest:Noise Permit | https://freerealms.fandom.com/wiki/Quest%3ANoise%20Permit | CC-BY-SA -->
+{{Quest2
+|name = Noise Permit
+|detail summary = Flynn swears he has permission to put on a concert in Snowhill. He hasn't received the permit in the mail yet however. Search around Snowhill for the permit. Perhaps one of the penguin mailmen delivered it to the wrong address or dropped it while making their rounds.
+|coin amount = 48}}{{Questprog
+|previous = [[Quest:Noisy Neighbors|Noisy Neighbors]]}}
+==Requirements==
+Player must complete [[Quest:Noisy Neighbors]] in order to do [[Quest:Noise Permit]]
+==To Start==
+Speak with [[Flynn]] located in [[Snowhill]].
+==Goals==
+Find Flynn's noise permit in Snowhill.
+*Find the Permit
+*Return to Flynn at the Snowhill Stage
+==Steps==
+#Speak with [[Flynn]] located on the right side of the [[Snowhill]] stage.
+#*"Maybe one of the penguin mailmen dropped our permit or delivered it to the wrong address!<br /><font color="#CE7C28">Look around Snowhill</font> and find the <font color="#CE7C28">permit</font> before we have to close the show!" -Flynn
+#Locate the permit
+#*It can be found near the entrance to [[Snowhill]].
+#Speak with [[Flynn]] located on the right side of the [[Snowhill]] stage.
+#*"You found the permit?<br />Thank goodness. Those penguins sure do make loousy mailmen. The show will be able to continue now.<br />Thanks, and remember to rock on!" -Flynn
+==References==
+*[[Flynn]]
+*[[Penguin]]
+*[[Snowhill]]
+*[[Permit]]
+[[Category:Quest]]

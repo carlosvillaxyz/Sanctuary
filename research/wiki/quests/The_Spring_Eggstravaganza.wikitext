@@ -1,0 +1,26 @@
+<!-- Quest:The Spring Eggstravaganza | https://freerealms.fandom.com/wiki/Quest%3AThe%20Spring%20Eggstravaganza | CC-BY-SA -->
+{{Quest2
+|detail summary = A robgoblin stole one of Alyssa Eggelyn's special eggs and hid it somewhere in Sacred Grove. She wants you to find it and return it to her.|first reward = Egg Coloring Kit|first reward image name = Eggcolouringkit.png|second reward = Alyssa's Wacky Striped Egg|second reward image name = |left}}{{Questprog
+|previous = |next = [[Quest:The Eggcellent Egg Hunt|The Eggcellent Egg Hunt]]|quest series = [[Spring_Eggstravaganza#Daily_Quests|Spring Eggstravaganza Quest Series]]}}
+==Notes==
+This quest is only available during the time of [[Spring Eggstravaganza]].
+==To Start==
+Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+==Goals==
+One of Alyssa's eggs has been hidden somewhere in Sacred Grove and she needs you to find it.
+*Find Alyssa Eggelyn's stolen egg.
+*Return to Alyssa Eggelyn.
+==Steps==
+#Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+#*"A mean robgoblin took one of my eggs and hid them somewhere. Spring Eggstravaganza is around the corner and I need your help finding it." -Alyssa Eggelyn
+#Find Alyssa Eggelyn's stolen egg.
+#*The egg is located in the [[Briarwood Maze]] a short distance to the left of [[Snarling Hedges]].
+#Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+#*"Wow I thought you would never find it. Your egg seeking abilities are eggsemplary and are deserving of one of my special eggs." -Alyssa Eggelyn
+==References==
+*[[Spring Eggstravaganza]]
+*[[Robgoblin]]
+*[[Alyssa Eggelyn]]
+*[[Sacred Grove]]
+[[Category:Quest]]
+[[Category:Spring Eggstravaganza]]

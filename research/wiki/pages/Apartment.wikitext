@@ -1,0 +1,19 @@
+<!-- Apartment | https://freerealms.fandom.com/wiki/Apartment | CC-BY-SA -->
+[[File:Apartment.png|thumb|256px|View of the entrance.<ref name="ZAM">[https://fr.zam.com/wiki/FR_Place:Apartment Apartment] on [https://fr.zam.com/ ZAM]</ref>]]
+[[File:Apartment from the door.png|thumb|256px|View from the doorway.<ref name="ZAM"></ref>]]
+The Apartment is a [[:Category:Housing|housing]] [[Lots|lot]] that was formerly awarded to every new player.<ref>[https://archive.org/details/freerealmsoffi00trac Free Realms: The Official Handbook and Strategy Guide] on [https://www.archive.org Internet Archive]</ref> On January 26, 2012, the [[Wilds Condo]] replaced the Apartment as the starting home for new players. Players who already had an Apartment before this date kept their Apartment and received a new Wilds Condo.
+
+==Description==
+This plot contains only a small apartment with 1 room. Default, the walls are a dark blue and the floor is made out of wood. It contains a fireplace and 5 windows. It is possible to go out of bounds by passing through the roof. <ref>[https://www.youtube.com/watch?v=xlK_LQJmuUQ free realms how to get out of your house (laketree lot, condo, and apartment)] on [https://www.youtube.com YouTube]</ref>
+
+==Dimensions==
+The dimensions<ref>[https://guidescroll.com/2011/10/free-realms-detailed-housing-guide/ Free Realms Detailed Housing Guide] on [https://guidescroll.com/ GuideScroll]</ref> of the apartment are:
+*Height: 4 Blocks
+*Width 9.5 Blocks
+*Length 10.5 Blocks
+*Volume 399 Blocks
+
+==References==
+<references/>
+[[Category:Housing]]
+[[Category:Lots]]

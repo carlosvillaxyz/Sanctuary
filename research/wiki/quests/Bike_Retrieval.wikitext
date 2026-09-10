@@ -1,0 +1,34 @@
+<!-- Quest:Bike Retrieval | https://freerealms.fandom.com/wiki/Quest%3ABike%20Retrieval | CC-BY-SA -->
+{{Quest2
+|detail summary = The Freewheelers are back together again and Dorn is almost ready to challenge the Skullz. Unfortunately while Dorn was away, the Skullz stole the Freewheelers' bikes and threw them off the ridge into Sandscale territory.|coin amount = 50}}{{Questprog
+|previous = [[Quest:Sobering Homecoming|Sobering Homecoming]]|next = [[Quest:A Deal with a Dust Devil|A Deal with a Dust Devil]]|quest series = [[Sunstone_Valley#Rumble_Ridge|Sunstone Valley Quest Series]]}}
+==Requirements==
+Player must complete [[Quest:Sobering Homecoming]] in order to do [[Quest:Bike Retrieval]]
+==To Start==
+Speak with [[Dorn Geargrinder]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+==Goals==
+Find the missing Freewheeler bikes in Sandscale territory.
+*Find Freewheeler Bikes - /6
+*Return to Dorn Geargrinder
+*Talk to Golmie Greasebeard
+==Steps==
+#Speak with [[Dorn Geargrinder]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"What good's a bunch of Dwarven Bikers without bikes? While I was gone, those darned Skullz pitched our bikes over the ridge into <font color='#D9781A'>Sandscale</font> territory.<br />If you can find our <font color='#D9781A'>bikes</font> we’ll be able to serve up some humble pie to the Skullz." -Dorn Geargrinder
+#Find Freewheeler Bikes - /6
+#*Freewheeler Bike pieces are scattered all around Sandscale Territory
+#Speak with [[Dorn Geargrinder]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"It's good to see my old ride again. It’s in bad shape, but I’m sure Golmie Greasebeard can fix it up." -Dorn Geargrinder
+#*"Golmie can fix anything." -Player response
+#Speak with [[Golmie Greasebeard]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"Woo wee, these hogs've seen better days. Well, a busy dwarf's a happy dwarf." -Golmie Greasebeard
+#*"Thanks!" -Player response
+==References==
+*[[Dorn Geargrinder]]
+*[[Dwarves]]
+*[[Freewheelers' Bikes]]
+*[[Freewheelers]]
+*[[Golmie Greasebeard]]
+*[[Sandscale Territory]]
+*[[Skullz]]
+*[[Sunstone Valley]]
+[[Category:Quest]]

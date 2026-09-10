@@ -1,0 +1,24 @@
+<!-- Quest:Nature's Cure | https://freerealms.fandom.com/wiki/Quest%3ANature%27s%20Cure | CC-BY-SA -->
+{{Quest2
+|name = Nature's Cure|detail summary = Yarith's Chocolate Ice Cream Mixed Remedy is a success! Now it's time to pass it out to the rest of the Unicorns in Unicorn Forest.}}{{Questprog
+|quest series = [[Pony_Vale#Quest_Series|Pony Vale]]
+|next = [[Quest:Stopping the Spread|Stopping the Spread]]
+|previous = [[Quest:Sweets for Sniffles|Sweets for Sniffles]]}}
+==Requirements==
+Player must complete [[Quest:Sweets for Sniffles]] in order to do [[Quest:Nature's Cure]]
+==To Start==
+Speak with [[Silverspark]] located in [[Unicorn Forest]], [[Pony Vale]].
+==Objectives==
+Pass out Yarith's Chocolate Ice Cream Mixed Remedy to the rest of the Unicorns in Unicorn Forest.
+*'''Cure sneezing Unicorns - /5'''<br>Take Yarith's Chocolate Ice Cream Mixed Remedy to the rest of the Unicorns in Unicorn Forest.
+*'''Return to Silverspark'''<br>Now that you've cured the Unicorns of their sneezing it's time to tell Silverspark all about Xeydia and her vile plants.
+==Steps==
+#Speak with [[Silverspark]] located in [[Unicorn Forest]], [[Pony Vale]].
+#*"My sneezing, it's gone! You've cured me [*player_name*], and with such a delicious treat! Quick, you need to take this to the rest of the Unicorns!" -Silverspark
+#'''Cure sneezing Unicorns - /5'''
+#*Select five [[Unicorn]]s that appear around [[Unicorn Forest]] during the quest.
+#'''Return to Silverspark'''
+#*Speak with [[Silverspark]] located in [[Unicorn Forest]], [[Pony Vale]].
+#**"Thank you again, [*player_name*]. It's such a relief to be free of that terrible sneezing! Now you must tell me everything. What caused all this trouble in the first place?" -Silverspark
+[[Category:Quest]]
+[[Category:Pony Vale]]

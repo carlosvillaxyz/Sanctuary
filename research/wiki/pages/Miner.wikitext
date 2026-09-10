@@ -1,0 +1,182 @@
+<!-- Miner | https://freerealms.fandom.com/wiki/Miner | CC-BY-SA -->
+{{JobInfobox
+|name= Miner
+|image= Miner.png
+|caption= Female [[Pixies|Pixie]] Miner 
+|}}
+[[File:MinerT-0.png|left]]''<font style="font-size:15px">{{Quote|Mining is fun - just ask any Dwarf! If you are ready to get your hands dirty, hop into exciting mining [[Mini-Games|minigames]], where you collect ore and gems as rewards. Miners start by harvesting copper and turquoise. As they level, they learn to dig for new metals, such as tin, silver, iron and even gold. Miners also smelt metal into bars that are used by Blacksmiths to make other cool weapons and armor.|Job description}}</font>'' 
+'''Miner''' is a harvesting [[Jobs|job]], specializing in the mining of ore and gems and can also smelt the ore into ingots. This experience is gained by completing Miner [[Quests|quests]], mining ore and playing the Smelting minigames.
+
+Recently, they removed the mining minigames, and instead changed to a traditional MMORPG mining style.
+
+==Unlocking Miner==
+[[File:Minerok.jpg|thumb|276x276px]]
+Miner can be unlocked by speaking to Therin in the [[Singing Crystal Mines]], located in [[Snowhill]].<br />
+
+Alternately, if the player interacts with one of the various ore nodes or forges, they will receive an optional quest to become a miner.
+
+==Mining==
+[[File:Singing Crystal Mines.png|thumb|Singing Crystal Mines]]
+There are several different places to mine through ''[[Free Realms]]''. The first one that you will be going to will be for a quest. That mining place is toward the north side of Snowhill in the Singing Crystal Mines. There are also rich mining veins in the world that members can only mine from. To mine you make groups (three or more) of similarly colored tiles. Your goal is to get whatever you are mining to the bottom of the board.
+
+==Trainers==
+*Therin in the Singing Crystal Mines, Snowhill
+*Trixi in the Singing Crystal Mines, Snowhill
+*[[Sorin]] in the Singing Crystal Mines, Snowhill
+*Shimmer Shinyaxe in the [[Dartmoor Quarry]]
+*Derp Axemaker in the Dartmoor Quarry
+*Mili Ironcall in the [[Southvale Quarry]]
+*Grumpore in the Southvale Quarry
+*Silverray in the [[Quagmire Quarry]]
+*Pinkelug in the [[Mother Lode Quarry]]
+*Snorg Mother Lode Quarry
+
+==[[Quests]]==
+* '''Become a Miner''': Ore nodes in the wilderness and mines (optional)
+
+'''Therin'''
+* Miner: So, You Want To Be A Miner?
+* Miner: All I Got
+
+'''Trixi'''
+* Miner: Rush Order
+* Miner: Gem Appraisal
+
+'''Sorin'''
+* Miner: Reach Level 5
+* Miner: Dartmoor Mining Camp
+
+'''Shimmer Shinyaxe'''
+* Miner: Simple Surveying
+* Miner: Suspicious Eyes
+
+'''Derp Axemaker'''
+* Miner: Bigger Challenges
+* Miner: The Perfect Pour
+* Miner: Reach Level 10
+* Miner: Finding Southvale
+
+'''Mili Ironcall'''
+* Miner: Gems For Good Luck
+* Miner: Marriage Proposal
+* Miner: Checking the Chug
+
+'''Grumpore'''
+* Miner: Grumpore's Challenge
+* Miner: Arrowheads for Lugabow
+* Miner: Reach Level 15
+* Miner: See For Yourself
+
+'''Silverray'''
+* Miner: Minor Mix-Up
+* Miner: Smelting Secrets
+* Miner: Reach Level 20 [[Image:Micon.png|20px|Members only]]
+* Miner: Growing Up So Quickly [[Image:Micon.png|20px|Members only]]
+
+'''Pinkelug'''
+* Miner: Biggest is Best [[Image:Micon.png|20px|Members only]]
+* Miner: Speed Smelting [[Image:Micon.png|20px|Members only]]
+* Miner: Mother Lode Lift [[Image:Micon.png|20px|Members only]]
+
+'''Snorg'''
+* Miner: Rare Rock Collection [[Image:Micon.png|20px|Members only]]
+* Miner: Part of the Guild [[Image:Micon.png|20px|Members only]]
+
+==[[Collections]]==
+{{main|Job Specific (Collections)#Miner Collections}}
+* Miner's Copper Ore
+* Miner's Fancy Gems
+* Miner's Gold Ore
+* Miner's Precious Gems
+* Miner's Silver Ore
+* Miner's Special Gems
+
+==[[Harvesting]]==
+===Ore & Gem Types===
+{| cellpadding="6" width="45%" text-align="center"
+! rowspan="2" bgcolor="blue" |Min. Lvl
+! rowspan="2" bgcolor="blue" |Ore
+! colspan="2" bgcolor="blue" |Gems
+|-
+! bgcolor="blue" |Common
+! bgcolor="blue" |Rich
+|-
+| style="text-align:center;" |1
+|Copper Ore
+|Turquoise
+|Malachite
+|-
+| style="text-align:center;" |5
+|Tin Ore
+|Topaz
+|Garnet
+|-
+| style="text-align:center;" |10
+|Iron Ore
+|Tourmaline
+|Amethyst
+|-
+| style="text-align:center;" |15
+|Silver Ore
+|Onyx
+|Ruby
+|-
+| style="text-align:center;" |20
+|Gold Ore
+|Moonstone
+|Fireagate
+|}
+
+===Locations===
+{| cellpadding="6" text-align="center"
+! rowspan="2" bgcolor="blue" |Ore
+! colspan="2" bgcolor="blue" |Location
+|-
+! bgcolor="blue" |Common
+! bgcolor="blue" |Rich
+|-
+|Copper Ore
+|[[Singing Crystal Mines]] ([[Snowhill]])
+|Southern Snowhill
+|-
+|Tin Ore
+|[[Dartmoor Quarry]] ([[Merry Vale]])
+|[[Northern Wilds]]
+|-
+|Iron Ore
+|[[Southvale Quarry]]
+|[[Southern Wilds|Southern]] & Western Wilds
+|-
+|Silver Ore
+|[[Quagmire Quarry]] ([[Blackspore Swamp]])
+|Outside of Blackspore; Eastern Wilds
+|-
+|Gold Ore
+|[[Mother Lode Quarry]] ([[Briarwood]] - [[Nettleseed]])
+|All regions of Briarwood
+|}
+
+==Smelting==
+Before a [[Blacksmith]] can use the harvested metal, it must be turned into an ingot at a Smelting Furnace. A furnace can often be found just outside of the mines.
+
+===Recipes===
+==== Copper Bar ====
+:'''''Ingredients:''''' Copper Ore x5, Singing Coal x3
+
+====Tin Bar====
+:'''''Ingredients:''''' Tin Ore x5, Rosin Rock x3
+
+====Iron Bar====
+:'''''Ingredients:''''' Iron Ore x5, Cinder Skub x3
+
+====Silver Bar====
+:'''''Ingredients:''''' Silver Ore x5, Braze x3
+
+====Gold Bar====
+:'''''Ingredients:''''' Gold Ore x5, Briarblaze x3
+
+==Vendors==
+* Singing Crystal Mines: Tennin - Lvl 20 Clothing and Tools
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Miner]]

@@ -1,0 +1,33 @@
+<!-- Quest:Your First Weapon | https://freerealms.fandom.com/wiki/Quest%3AYour%20First%20Weapon | CC-BY-SA -->
+{{Quest2
+|detail summary = You've helped almost all you can on the farm and as a reward Farnum will help you with forging your first weapon.  This should be useful in defending yourself from the raiding Hooligans.|first reward = |first reward image name = |coin amount = 16}}{{Questprog
+|next = [[Quest:Fighting off the Pack|Fighting off the Pack]]|previous = [[Quest:Learn to Mine & Smelt Ore|Learn to Mine & Smelt Ore]]|quest series = Farnum's Farm}}
+==Requirements==
+Player must complete [[Quest:Learn to Mine & Smelt Ore]] in order to do [[Quest:Your First Weapon]]
+==To Start==
+Speak with [[Cleetus Farnum]] that can be found on [[Farnum's Farm]] located in Southern [[Wilds]].
+==Goals==
+Learn how to forge weapons with Cleetus Farnum's help.
+*Forge a Funky Scrapper Hammer
+*Return to Cleetus Farnum
+==Steps==
+#Speak with [[Cleetus Farnum]] that can be found on [[Farnum's Farm]] located in Southern [[Wilds]].
+#*"These Hooligans have been causing us a lot of problems and picking up after a mess is only part of the solution. We need to stop them from breaking things in the first place." -Cleetus Farnum
+#*"Since you’ve been so helpful around here I’m going to give you everything you need to craft yourself a better hammer. Use this Anvil to forge a Spunky Scrapper Hammer." -Cleetus Farnum
+#**Player receives:
+#***10 Copper Bars
+#***5 Turquoise
+#***5 Wooden Planks
+#***5 Thorny Fasteners
+#Forge a Funky Scrapper Hammer
+#*Forge the Funky Scrapper Hammer at the nearby Blacksmith Anvil.
+#Speak with [[Cleetus Farnum]] that can be found on [[Farnum's Farm]] located in Southern [[Wilds]].
+#*"That’s one mighty hammer, I hope you won’t have to put it to good use too often." -Cleetus Farnum
+==References==
+*[[Farnum]]
+*[[Blacksmith]]
+*[[Forging]]
+*[[Cleetus Farnum]]
+*[[Hooligans]]
+*[[Spunky Scrapper Hammer]]
+[[Category:Quest]]

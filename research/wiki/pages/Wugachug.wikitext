@@ -1,0 +1,54 @@
+<!-- Wugachug | https://freerealms.fandom.com/wiki/Wugachug | CC-BY-SA -->
+{{locationInfobox
+|name= Wugachug[[File:Logo wugachug.png|50px]]
+|image= Map wugachug.png
+|type= City
+|level= All
+|location= NE of [[Seaside]], N of [[Merry Vale]]
+|inhabitants= [[Chugawugs]]}}
+'''Wugachug''' is the hometown of the [[Chugawugs]]. Several [[Quests|quests]] related to the Sasparilla Brewery are started here. Because of it's location north, it has slight signs of snow around. It is right next to [[Snowhill]], and [[Seaside]]. Below is [[Merry Vale]]. The town itself resembles a carnival, as it has a carnival tent, stage, shops, etc.
+[[File:Wugachug..png|thumb|300px]]
+==Points of Interest==
+*Chugaroot Farm
+*The Carnival
+*The Party Tent
+*The Sasparilla Brewery
+*The Thoroughfare
+
+==Shops==
+*[[Chef]] Clothing & Tools - (lvl 9 tools, lvl 20 clothing)
+*Chef Recipes & Supplies
+*Shards & Accessories - (assorted)
+*Potions - (health, energy, replenishing)
+
+==Local [[Dungeons]]==
+* [[Sweetwater Climb]]
+
+==Resources==
+*Choychoy
+*Chugaroot
+*Gummyfruit
+*Rainleaf
+*Spiralmint
+*Stainberry
+
+==[[Collections]]==
+*Wugachug
+*Wugachug Rare Exploration
+*Wugachug Elite Exploration
+
+==Gallery==
+<gallery>
+Wugachug.jpg
+D8uij26-8a7c5131-6c09-4fea-940d-5fba0ff8d28f.jpg
+</gallery>
+
+==Trivia==
+*Wugachug was originally called Chugawug Village back in the early development of ''[[Free Realms]]''.
+
+==See Also==
+*[[Chugawugs]]
+{{location}}
+[[Category:Locations]]
+[[Category:Wugachug]]
+[[Category:Sacred Grove]]

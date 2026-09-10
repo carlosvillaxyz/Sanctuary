@@ -1,0 +1,247 @@
+<!-- Adventurer | https://freerealms.fandom.com/wiki/Adventurer | CC-BY-SA -->
+[[Image:AdventurerT.png|left|230x230px]]''<font style="font-size:15px">{{Quote|Adventurers seek the thrills of exploring the wilderness, finding others who need their assistance, and picking up interesting trinkets along the way.|Job description}}</font>''
+'''Adventurer''' is the default [[Jobs|job]] the player starts out with. A freestyle class job, experience is mainly gained by completing [[Collections|collections]].
+
+==Restrictions - This job is no longer going to be unlocking==
+Adventurer could be unlocked by speaking to [[Michael Tallstrider]] after finishing the first quest in the tutorial. It was automatically unlocked if the tutorial were skipped.
+
+==[[Collections]]==
+{{Main|Exploration (Collections)}}
+* Blackspore
+* Blackspore Rare Exploration
+* Briarwood - Briarheart
+* Briarwood - Bristlewood
+* Briarwood - Nettleseed
+* Briarwood - Thistlerow
+* Briarwood Explorer
+* Briarwood Rare Exploration
+* Cobblestone Village
+* Forest Troll Village
+* Highroad Junction
+* Lakeshore
+* Major Warpstones
+* Merry Vale
+* Merry Vale Rare Exploration
+* Newbie Explorer
+* Queensfields
+* Sacred Grove Explorer
+* Sanctuary
+* Sanctuary Rare Exploration
+* Seaside
+* Seaside Rare Exploration
+* Shrouded Glade
+* Shrouded Glade Rare Exploration
+* Snowhill
+* Snowhill Rare Exploration
+* Stillwater Crossing
+* Warpstones
+* Wilds Explorer
+* Wilds Northeast Rare Exploration
+* Wilds Northwest Rare Exploration
+* Wilds Southeast Rare Exploration
+* Wilds Southwest Rare Exploration
+* Wugachug
+* Wugachug Rare Exploration
+
+==Freestyle Clothing==
+''NB!'' Any non-job specific clothing can be worn with this job. However, there is a few special sets of clothing that can be obtained by completing rare [[Exploration (Collections)|exploration collections]].
+
+'''Pathfinder's Clothing:'''
+<gallery>
+Pathfinder's Boots (Girls).png|Pathfinder's Boots (Girls)
+Pathfinder's Boots (Guys).png|Pathfinder's Boots (Guys)
+Pathfinder's Capris (Girls).png|Pathfinder's Capris (Girls)
+Pathfinder's Pants (Guys).png|Pathfinder's Pants (Guys)
+Pathfinder's Shirt (Guys).png|Pathfinder's Shirt (Guys)
+Pathfinder's Midfriff (Girls).png|Pathfinder's Midriff (Girls)
+Pathfinder's Gloves (Boys).png|Pathfinder's Gloves (Guys)
+Pathfinder's Gloves (Girls).png|Pathfinder's Gloves (Girls)
+Pathfinder's Hat (Guys).png|Pathfinder's Hat (Guys)
+Pathfinder's Hat (Girls).png|Pathfinder's Hat (Girls)
+</gallery>
+
+* Pathfinder's Hat [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+* Pathfinder's Gloves [[Image:Male.png|10px]] [[Image:Female.png|8px]] - Acquired by completing Plates collection part of a Meta collection.
+* Pathfinder's Shirt [[Image:Male.png|10px]]
+* Pathfinder's Midriff Shirt [[Image:Female.png|8px]]
+* Pathfinder Pants [[Image:Male.png|10px]]
+* Pathfinder Capri's [[Image:Female.png|8px]]
+* Pathfinder's Boots [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+* Pathfinder's Backpack (Both Genders)
+
+'''Seeker's Clothing:'''
+<gallery widths="200" orientation="none" spacing="small">
+Seekers Backpack.png|Seeker's Backpack
+Seekers Boots (Guys).png|Seeker's Boots (Guys)
+Seekers Boots (Girls).png|Seeker's Boots (Girls)
+Seeker Pants (Girls).png|Seeker's Pants (Girls)
+Seeker Pants (Guys).png|Seeker's Shorts (Guys)
+Seeker Midriff (Girls).png|Seeker's Midriff (Girls)
+Seeker Gloves (Girls).png|Seeker's Gloves (Girls)
+Seeker Gloves (Guys).png|Seeker's Gloves (Guys)
+Seeker Hat (Girls).png|Seeker's Hat (Girls)
+Seeker Hat (Guys).png|Seeker's Hat (Guys)
+</gallery>
+
+* Seeker's Hat [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+* Seekers Gloves [[Image:Male.png|10px]] [[Image:Female.png|8px]] - Acquired by completing Mission Complete collection part of a Meta collection.
+* Seeker's Shirt [[Image:Male.png|10px]]
+* Seeker's Midriff Shirt [[Image:Female.png|8px]]
+* Seeker's Pants [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+* Seeker's Boots [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+* Seeker's Backpack (Both Genders)
+
+
+'''Traveler's Clothing:'''
+<gallery>
+Traveler's Backpack.png|Traveler's Backpack
+Traveler's Boots (Girls).png|Traveler's Boots (Girls)
+Traveler's Boots (Guys).png|Traveler's Boots (Guys)
+Traveler's Short (Guys).png|Traveler's Shorts (Guys)
+Traveler's Shorts (Girls).png|Traveler's Shorts (Girls)
+Traveler's Shirt (Guys).png|Traveler's Shirt (Guys)
+Traveler's Tank Top (Girls).png|Traveler's Tank Top (Girls)
+Traveler's Wristbands.png|Traveler's Wristband
+Traveler's Cap.png|Traveler's Cap
+</gallery>
+
+* Traveler's Cap [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+* Traveler's Shirt [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+* Traveler's Wristband [[Image:Male.png|10px]] [[Image:Female.png|8px]] - Acquired by completing Yo-yos collection part of a Meta collection.
+* Traveler's Shorts [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+* Traveler's Boots [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+* Traveler's Backpack [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+
+===Vaultberries Clothing Guys & Girls===
+Vaultberries are seeds growing out of the [[Royal Vault]] that can be purchased in the marketplace or from Gulsh located outside the Royal Vault in Sanctuary. These seeds can be planted in your farm and take one day to harvest, but if you want to speed up the process purchase and use fertilizer to reduce the harvesting time from one day to 12 hours. When harvested, vaultberries give random items in any of Free Realms's colors. Here are the possible rewards.
+
+<gallery>
+Swimmer Short Sleeve.png|Swimmer Short Sleeve
+Striped T-shirt.png|Striped T-Shirt
+Small Stitched Pants.png|Small Stitched Pants
+Boot Cut Pants.png|Boot Cut Pants
+Bermuda Shorts.png|Bermuda Shorts
+Baseball Hat.png|Baseball Hat
+Orange Striped Flip Flops.png|Orange Strapped Flip Flops
+</gallery>
+
+'''Unisex Clothing:'''
+*[[Baseball Cap]] [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*Sunglasses [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*[[Heart T-Shirt]] [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*[[Robgoblin T-Shirt]] [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*Striped T-Shirt [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*Swimmer Short Sleeve [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*Wilds T-Shirt [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*Board Shorts [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*[[Bermuda Shorts]] [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*Boot Cut Pants [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*Small Stitched Pants [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*Orange Strapped Flip Flops [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+*Striped Sandals [[Image:Male.png|10px]] [[Image:Female.png|8px]]
+
+<gallery>
+Work Boot.png|Work Boots
+Striped Shirt.png|Striped Shirt
+Long Sleeve Flared Shirt.png|Long Sleeve Flared Shirt
+</gallery>
+
+'''Guys Only:'''
+*Baggy Jeans [[Image:Male.png|10px]]
+*[[Cargo Shorts]] [[Image:Male.png|10px]]
+*Flannel Shirt [[Image:Male.png|10px]]
+*Hightops [[Image:Male.png|10px]]
+*Hoodie [[Image:Male.png|10px]]
+*Layered Shirt [[Image:Male.png|10px]]
+*Long Sleeve Flared Shirt [[Image:Male.png|10px]]
+*One Stripe Shirt [[Image:Male.png|10px]]
+*Striped Shirt [[Image:Male.png|10px]]
+*Striped Polo Shirt [[Image:Male.png|10px]]
+*Short Sleeve Plaid [[Image:Male.png|10px]]
+*Short Sleeve Flared Shirt [[Image:Male.png|10px]]
+*Swirly Shirt [[Image:Male.png|10px]]
+*Slipper Sandals [[Image:Male.png|10px]]
+*Three Quarted Plaid [[Image:Male.png|10px]]
+*Work Boots [[Image:Male.png|10px]]
+
+<gallery>
+Sporty Sandals.png|Closed Toe Sandals
+Rollded Sleeve Hoodie.png|Rolled Sleeve Hoodie
+Peep Toe Pumps.png|Peep Toe Pumps
+One Shoulder Shirt.png|One Shoulder Shirt
+Layered Skirt.png|Layered Skirt
+Hightops (Girls).png|Hightops
+Flared Pants.png|Flared Pants
+Cardigan Sweater.png|Cardigan Sweater
+Boot Cut Pointy Pants.png|Boot Cut Pointy Pants
+Blouse Vest.png|Blouse Vest
+</gallery>
+
+'''Girls Only:'''
+*Blouse Vest [[Image:Female.png|8px]]
+*Boot Cut Pointy Pants [[Image:Female.png|8px]]
+*Cardigan Sweater [[Image:Female.png|8px]]
+*Closed Toe Sandals [[Image:Female.png|8px]]
+*Cowboy Hat [[Image:Female.png|8px]]
+*Dark Shoulder Midriff [[Image:Female.png|8px]]
+*Filigree Long Sleeve [[Image:Female.png|8px]]
+*Flared Capris [[Image:Female.png|8px]]
+*Flared Pants [[Image:Female.png|8px]]
+*Hightops [[Image:Female.png|8px]]
+*Layered Skirt [[Image:Female.png|8px]]
+*One Shoulder Shirt [[Image:Female.png|8px]]
+*Peep Toe Pumps [[Image:Female.png|8px]]
+*Pink Small Sweater Blouse [[Image:Female.png|8px]]
+*Rolled Sleeve Hoodie [[Image:Female.png|8px]]
+*Ruffled Blouse [[Image:Female.png|8px]]
+*Small Sweater Blouse [[Image:Female.png|8px]]
+*Stitched Capris [[Image:Female.png|8px]]
+*Strapped Shoes [[Image:Female.png|8px]]
+*Striped Ruffled Blouse [[Image:Female.png|8px]]
+*Striped Baggy Pants  [[Image:Female.png|8px]]
+*Sporty Sandals [[Image:Female.png|8px]]
+*Striped Tank Tops  [[Image:Female.png|8px]]
+*Vest Blouse [[Image:Female.png|8px]]
+
+===Weeding & Farming Guys & Girls===
+Once you purchase a farm or visit your Wilds Farm or Brairwood Farm you would see weeds, tree, piles of rocks and boulders. These would give you either coins or chests, but not all items are received from chests. The rest are acquired by spinning the farmer market by completing their list of harvested crops. These items are only achieved by farming.
+
+'''Unisex:'''
+*Astro Helmet [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>[[Image:Female.png|8px]]
+*Jester Hat [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>[[Image:Female.png|8px]]
+*Dobo Side Kicks [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>[[Image:Female.png|8px]]
+*[[Felt Beret]] [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>[[Image:Female.png|8px]]
+*Ku-Fung Shirt [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>[[Image:Female.png|8px]]
+*Baseball Cap [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>[[Image:Female.png|8px]]
+*Board Shorts [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>[[Image:Female.png|8px]]
+*Wilds T-Shirt [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>[[Image:Female.png|8px]]
+*Swimmer Short Sleeve [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>[[Image:Female.png|8px]]
+*White Stitched Fingerless Gloves [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>[[Image:Female.png|8px]]
+
+'''Guys Only:'''
+*Gold Trimmed Gloves [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>
+*Bomber Jacket [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>
+*Flannel Shirt [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>
+*Gold Tipped Work Boots [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>
+*Grappling Hook Pants [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>
+*Beige Strapped Fedora [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>
+*Brown Rope Rolled Sleeve Shirt [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>
+*Brown Rope Fedora [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>
+*White Stitched Work Boots [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>
+*White Stitched Boot Cut Pants [[Image:Male.png|10px]]<span style="line-height:20px;"> </span>
+
+'''Girls Only:'''
+*Designer Gloves [[Image:Female.png|8px]]
+*Poofy Blouse Vest [[Image:Female.png|8px]]
+*Pink Small Sweater Blouse [[Image:Female.png|8px]]
+*Blouse Vest [[Image:Female.png|8px]]
+*Riding Pants [[Image:Female.png|8px]]
+*Gold Buckled Knee High Boos [[Image:Female.png|8px]]
+*Outback Hat [[Image:Female.png|8px]]
+*Orange Ker Chief Mid [[Image:Female.png|8px]]
+*Orange Belt Rider Pants [[Image:Female.png|8px]]
+*Orange Slough Hat [[Image:Female.png|8px]]
+*Orange Knee High Boot [[Image:Female.png|8px]] 
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Adventurer]]

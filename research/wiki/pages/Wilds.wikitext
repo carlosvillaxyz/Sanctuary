@@ -1,0 +1,11 @@
+<!-- Wilds | https://freerealms.fandom.com/wiki/Wilds | CC-BY-SA -->
+[[File:Free Realms Wilds Regions-0.png|thumb|400px]]
+The '''Wilds''' are [[Locations|locations]] that exist outside of the usual towns and cities. Every place within [[Sacred Grove]] exists either in a town, village, a city or in the wilds; any place that is not a town is the wilds.
+
+==Sub-Regions==
+In the Wilds, it's split into sections. The first being the [[Northern Wilds]], where it's on between [[Wugachug]], [[Snowhill]], and [[Shrouded Glade]]. The second being is the [[Central Wilds]], where it's on between [[Merry Vale]], [[Sanctuary]], and [[Briarwood]]. The last being is the [[Southern Wilds]], where it's on between [[Seaside]], Merry Vale, [[Lavender Coast]], and [[Blackspore Swamp]].
+
+{{Location}}
+[[Category:Locations]]
+[[Category:Wilds]]
+[[Category:Sacred Grove]]

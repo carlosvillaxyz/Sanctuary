@@ -1,0 +1,104 @@
+<!-- Locations | https://freerealms.fandom.com/wiki/Locations | CC-BY-SA -->
+[[File:Locationssign.jpg|thumb|300px]]
+'''Locations''' are divided into two main categories: those locations that can be reached from the [[Atlas]] (labeled "On the Atlas") and those that cannot (labeled "Off the Atlas"). Each main category is then divided into several subcategories.
+
+An alternate means of categorizing locations is to divide them according to size or significance. This approach was taken with the Off the Atlas division of Locales and Places of Interest.
+
+==On the Atlas==
+===Regions===
+*[[Sacred Grove]]
+*[[Sunstone Valley]]
+
+===Cities===
+*[[Blackspore Swamp]]
+*[[Briarwood]]
+*[[Merry Vale]]
+*[[Sanctuary]]
+*[[Seaside]]
+*[[Shrouded Glade]]
+*[[Snowhill]]
+*[[Wugachug]]
+
+===Warpstones===
+*[[Warpstones]]
+
+===Dungeons===
+*[[Dungeons]]
+
+===[[Mini-Games|Minigames]]===
+*Checkers & Chess Tables
+*Cooking Tables
+*[[Farms]]
+*Fishing Holes
+*[[Harvesting Patches]]
+*[[Launch Pads]]
+*[[Mines]]
+*[[Pirate's Plunder]]
+*Soccer Fields
+*[[Speedways]]
+*Spot the Difference Telescopes
+*TCG Opponents
+*Tower Defense Tables
+*[[Treasure War]]
+
+===Unreleased===
+*[[Black Forest]]
+*[[Glimmerdeep]]
+*[[Lavender Coast]]
+*[[Silver Hills]]
+
+==Off the Atlas==
+===Locales===
+*[[Briarheart]] (subdivision of Briarwood)
+*[[Bristlewood]] (subdivision of Briarwood)
+*[[Cobblestone Village]]
+*[[Durango Zoo]]
+*[[Forest Troll Village]]
+*[[Greenwood Camp]]
+*[[Highroad Junction]]
+*[[Highroad Vale]]
+*[[Lakeshore]]
+*[[Lavender Coast Pass]]
+*[[Memorial Caverns]]
+*[[Nettleseed]] (subdivision of Briarwood)
+*[[Pixie Nursery]]
+*[[Pixiewood Hills]]
+*[[Pony Vale]] (subdivision of Sunstone Valley)
+*[[Queensfields]]
+*[[Robgoblin Camp]]
+*[[Rocklar Village]] (subdivision of Sunstone Valley)
+*[[Rumble Ridge]]
+*[[Stillwater Crossing]]
+*Summer Camp
+*[[The Roadhouse]]
+*[[Thistlerow]] (subdivision of Briarwood)
+
+===Battles===
+*[[Battles]]
+
+===Removed===
+*[[Sacred Glade]]
+
+===[[Jobs|Job]]/[[Quests|Quest]] Related===
+*Dig Sites: nodes to begin Archaeology minigames
+*Mailboxes: nodes to begin [[Postman]] minigames
+*Music Stands: nodes to begin Feeling the Beat! minigames
+*Places of Interest: named locations that fit no other category
+
+==Dimensions==
+There are dimensions that exists outside of [[World|Free Realms]].
+
+*[[Abyss]]: A dimension that was mentioned in the [[Free Realms Issue 12]] where [[Darkthorne]] send the [[Shapeshifter]] to the Abyss where she will rot for all eternity. However, it's not in the game.
+*[[Cloud World]]: A dimension that is above the Realms. It is also a minigame.
+*[[Underworld]]: A dimension where the [[Pumpkin Prince]] was mentioned to be in there. However, it was never planned to be added.
+
+==Unused Locations==
+There are unused locations that were never developed.
+
+*[[Bay of Serpents]]
+*[[Endless Ice]]
+*[[Isles of the Moon]]
+*[[Scarstone Ruins]]
+*[[The Pit]]
+*[[Unidentified Swamp Area]]
+[[Category:Locations]]

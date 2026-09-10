@@ -1,0 +1,209 @@
+<!-- Warrior | https://freerealms.fandom.com/wiki/Warrior | CC-BY-SA -->
+{{ZAM|Category:Warrior_(FR_Job)}}
+{{JobInfobox
+|name= Warrior
+|image= Warrior.png
+|caption= Male [[Human]] Warrior}}
+[[Image:WarriorT.png|left]]''<font style="font-size:15px">{{Quote|Strong in battle, protector of the weak – that's the Warrior! Warriors use heavy armor and weapons such as swords and axes to defeat opponents. Warriors are usually at the front of the team, leading the way and taking on tough enemies. If you want to prove yourself as a Warrior, see Drill Sergeant Dewey, in front of the Town Hall at [[Snowhill]].|Job description}}</font>''
+'''''Warrior''''' is a [[:Category:Members Only|Members Only]] close combat [[Jobs|job]], specializing in powerful combat techniques and heavy weapons and armor. This experience is gained by completing Warrior [[Quests|quests]] and by battling in combat instances in the [[Wilds]] and in [[Dungeons|dungeons]].
+
+==Unlocking Warrior==
+Warrior can be unlocked by speaking with Drill Sergeant Dewey in [[Snowhill]].
+
+==Trainers==
+*Drill Sergeant Dewey in Snowhill (unlocks)
+*Morninglory in Snowhill
+*[[Steele]] in  Snowhill (blocks partway until lvl 5)
+*Tumbolina in [[Merry Vale]]
+*Aster in [[Northern Wilds]] (blocks partway until lvl 10)
+*[[Doctor Gordon]] in [[Sanctuary]]
+*General Glowlight in Sanctuary
+*Sir Whittington in Sanctuary (blocks  partway until lvl 15)
+*Fastvi Frostflutter in Snowhill (blocks partway until lvl 20)
+
+==Skills==
+{|text-align="center" cellpadding=6 width=95%
+!bgcolor="silver" width=5%|Lvl
+!bgcolor="silver" width=12%|Skill
+!bgcolor="silver"|Effect
+|-
+|style="text-align:center;"|1
+|Kick
+|Strikes your target which stuns and causes 133 damage. Further ranks improve the damage dealt.
+|-
+|bgcolor="#F5F5F5" style="text-align:center;"|5
+|bgcolor="#F5F5F5"|Spinning Blade
+|bgcolor="#F5F5F5"|Executes a spinning attack, dealing two hits for 50-68 damage per hit.
+|-
+|style="text-align:center;"|10
+|Quake
+|Slams the ground, taunting and causing 83-126 damage to enemies directly in your path.
+|-
+|bgcolor="#F5F5F5" style="text-align:center;"|15
+|bgcolor="#F5F5F5"|Commanding Shout
+|bgcolor="#F5F5F5"|A powerful battle cry that strikes fear and does 50-68 damage to nearby enemies.
+|-
+|}
+
+==[[Quests]]==
+'''Drill Sergeant Dewey'''
+* Becoming a Warrior (unlocks Warrior)
+* Warrior: Warrior Warm-up
+* Warrior: Warrior's Rites
+
+'''Morninglory'''
+* Warrior: One With Your Weapon
+
+'''Steele'''
+* Warrior: Achieve Level 5
+:* Contract: Ready Your Weapon! - Caleb Sleepyswing in Northern Wilds [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* Warrior: You Deserve Better
+
+'''Tumbolina'''
+* Warrior: Distracted
+* Warrior: Too Distracted to Work
+
+'''Aster'''
+* Warrior: Achieve Level 10
+:* Contract: Thinning Their Numbers - Caleb Sleepyswing in Northern Wilds [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* Warrior: Knocking Some Sense
+* Warrior: Take Care of That Ankle
+
+'''Doctor Gordon'''
+* Warrior: General Concerns
+
+'''General Glowlight'''
+* Warrior: Finding Facts About Fastvi
+
+'''Sir Whittington'''
+* Warrior: Achieve Level 15
+:* Contract: What Duty Demands - Caleb Sleepyswing in Northern Wilds [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* Warrior: Legend of Fastvi Frostflutter
+* Warrior: Asking Old Folks
+
+'''Steele'''
+* Warrior: Steele is Useful
+
+'''Fastvi Frostflutter'''
+* Warrior: Hero in the Making Coins 
+* Warrior: Achieve Level 20
+:* Contract: Defending Snowhill from Caleb Sleepyswing in Northern Wilds [[Image:Icon repeat.png|15px|Repeatable Quest]]
+*Warrior: A Magical Boost
+
+==[[Collections]]==
+{{Main|Job Specific (Collections)#Warrior Collections}}
+* Warrior Axe Materials
+* Warrior Magical Axe Essences
+* Warrior Stories
+
+==Equipment==
+===Weapons===
+'''Level 1'''
+* [[Student Warrior Cudgel]]
+* [[Valiant Guardian Cudgel]]
+* [[Amateur Warrior Axe]]
+* [[Butterfly Club]]
+
+'''Level 3'''
+* [[Cudgel]]
+* Axe
+
+'''Level 4'''
+* [[Spirited Protector Axe]]
+
+'''Level 8'''
+* [[Chivalrous Guardian Hammer]]
+* [[Juiced Hammer]]
+* [[Tidal Hammer]]
+* [[Alley Fighter Hammer]]
+* [[Anvil Hammer]]
+* [[Chivalrous Guardian Hammer]]
+* [[Warrior’s Battle Hammer of Cleaving]]
+* [[Warrior’s Battle Hammer of Earthquake]]
+* [[Warrior’s Battle Hammer of Hurling]]
+* [[Warrior’s Battle Hammer of Spinning]]
+* [[Warrior’s Battle Hammer of Warcry]]
+* [[Warrior’s Battle Hammer of Whirlwind]]
+
+'''Level 5'''
+* [[Party Axe]]
+* [[Sunlit Axe]]
+* [[Confetti Axe]]
+* [[Warrior’s Axe of Cleaving]]
+
+'''Level 10'''
+* [[Pro Warrior Hammer]]
+
+'''Level 11'''
+* [[Dual Smasher]]
+
+'''Level 12'''
+* [[Fearless Defender Hammer]]
+* [[All-Star Warrior Axe]]
+* [[Warrior’s Double Axe of Berserking]]
+* [[Warrior’s Double Axe of Earthquake]]
+* [[Warrior’s Double Axe of Warcry]]
+* [[Warrior’s Double Axe of Frenzy]]
+* [[Frostflame Hammer]]
+* [[Blazing Hammer]]
+
+'''Level 13'''
+* [[Spectrum Hammer]]
+* [[Rainbow Hammer]]
+
+'''Level 16'''
+* Steadfast Guardian Hammer
+* Fiery Hammer
+* Smokey Axe
+* Luminous Axe
+* Glacial Axe
+
+'''Level 17'''
+* Smasher
+* Steadfast Guardian Hammer
+* Smasher
+
+'''Level 19'''
+* Warlord Axe
+* Intrepid Guardian Axe
+
+===Clothing===
+'''Level 1'''
+* Student Warrior
+* Valiant Guardian
+* Amateur Warrior
+
+'''Level 3'''
+* Daring Champion
+
+'''Level 5'''
+* Spirited Protector
+* Pro Warrior
+
+'''Level 8'''
+* Courageous Defender
+
+'''Level 10'''
+* Pro Warrior Tunic
+
+'''Level 11'''
+* Chivalrous Guardian
+
+'''Level 13'''
+* Fearless Defender
+
+'''Level 15'''
+* Stalwart Protector
+
+'''Level 17'''
+* Steadfast Guardian
+
+'''Level 19'''
+* Intrepid Protector
+
+'''Level 20'''
+* Heroic Champion
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Warrior]]
+[[Category:Members Only]]

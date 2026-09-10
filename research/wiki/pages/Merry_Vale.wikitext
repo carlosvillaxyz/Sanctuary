@@ -1,0 +1,65 @@
+<!-- Merry Vale | https://freerealms.fandom.com/wiki/Merry%20Vale | CC-BY-SA -->
+{{LocationInfobox
+|name= Merry Vale[[File:Logo merryvale.png|50px]]
+|image= Map merryvale.png
+|type= City
+|level= All
+|location= East of [[Sanctuary]]
+|inhabitants= [[Pixies]]<br>[[Human|Humans]]<br>[[Fairies]]}}
+'''Merry Vale''' is a town south of [[Wugachug]], west of [[Sanctuary]], and east of [[Seaside]]. Merry Vale is themed on the season of spring, as you can see many sunflowers and other floral growing. In the center is a large rainbow, which is called the [[Ever Rainbow]], where the Rainbow Festival is held all year round.
+
+According to Arianna, before Merry Vale existed, it only rained until the Ever Rainbow sprouted. Contestants "sacrifice" themselves in the rainbow and go to a different world, which is not known to people of [[Sacred Grove]]. [[Fairies]] are known to originate from this area.
+[[File:Merry Vale..png|thumb|300px]]
+==History==
+The land where Merry Vale now sits was once barren, mountainous, and unexplored. One day (and no one can truly pinpoint which day), the mountains erupted, and a bright rainbow sprang forth. Curious travelers and adventurers went to investigate, and found the settlement of Merry Vale - home of the fairies.
+
+It was as though the place had been around for ages, but was hidden by magic. The fairies welcome all travelers to celebrate with them in an endless party... but is there something darker lurking at the heart of Merry Vale?
+
+==[[Festival of Hearts]]==
+During February, Merry Vale holds an [[Events|event]] called Festival of Hearts, or alias, Valentine's Day. [[Stone Heart]], and his [[Heart Breakers|minions]] try to break all the people's love and ruin Festival of Hearts, but it's up to you to help the people and defeat them.
+
+==Points of Interest==
+*[[Ever Rainbow]]
+*The Merry Vale Mainstage
+*The Midway
+*The Sunflower Patch
+*The Rainbow Spire
+
+==Job Trainers==
+Chef Jarvie is in Merry Vale, he is in the [[Chef]] [[Quests|questline]] you start from [[Bordon Cloo]], he is also in a questline during the [[Birthday Bash]] event located all over Sacred Grove.
+
+==Shops==
+*Chef Clothing & Tools (lvl 1 tools, lvl 20 clothing)
+*Chef Recipes & Supplies
+*Potions
+*Warrior Weapons (lvl 5)
+
+==Local [[Dungeons]]==
+*[[Den of Secrets]]{{Member}}
+
+== Minigames ==
+
+* Spot the Difference
+* Cooking Table
+* Checkers & Chess
+*
+
+==[[Collections]]==
+*Merry Vale
+*Merry Vale Rare Exploration
+*Merry Vale Water Samples
+*Merry Vale Liquid Concoction
+*Merry Vale Mixture
+
+==Gallery==
+<gallery>
+001fc60d4beef1347907cee3cd95cec538f5662f.jpg
+FRIssue10 MerryVale.jpg|Merry Vale in the [[Free Realms (comic)|Free Realms Issue 10]].
+</gallery>
+
+==Trivia==
+*Merry Vale was originally called Pixie Ring back in the early development of ''[[Free Realms]]''.
+{{location}}
+[[Category:Locations]]
+[[Category:Merry Vale]]
+[[Category:Sacred Grove]]

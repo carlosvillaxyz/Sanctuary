@@ -1,0 +1,34 @@
+<!-- Quest:A Deal with a Dust Devil | https://freerealms.fandom.com/wiki/Quest%3AA%20Deal%20with%20a%20Dust%20Devil | CC-BY-SA -->
+{{Quest2
+|detail summary = Golmie Greasebeard needs a few key parts to get Dorn Geargrinder's motorcycle running again. He has made a trading arrangement with the Robgoblins of Sunstone Valley.|first reward = Skullz Pants|first reward image name = Skullzpantsreward.png}}{{Questprog
+|previous = [[Quest:Bike Retrieval|Bike Retrieval]]|next = [[Quest:Fixing Up a Sweet Ride |Fixing Up a Sweet Ride ]]|quest series = [[Sunstone_Valley#Rumble_Ridge|Sunstone Valley Quest Series]]}}
+==Requirements==
+Player must complete [[Quest:Bike Retrieval]] in order to do [[Quest:A Deal with a Dust Devil ]]
+==To Start==
+Speak with [[Golmie Greasebeard]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+==Goals==
+Make the junk trade with Whirly Willis to get the last motorcycle parts.
+*Talk to Whirly Willis
+*Defeat Whirly Willis
+*Talk to Whirly Willis
+*Return to Golmie Greasebeard
+==Steps==
+#Speak with [[Golmie Greasebeard]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"I got my work cut out for me gettin' all of these bikes fixed up in time for Dorn’s challenge with the Skullz. Take these <font color='#D9781A'>parts</font> to <font color='#D9781A'>Whirly Willis</font> the Robgoblin out in the wilds. He’s the only supplier the Skullz ain't scared away." -Golmie Greasebeard
+#Speak with [[Whirly Willis]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"Ooh nice, so much precious junk… I just can’t… I must have it!" -Whirly Willis
+#Defeat [[Whirly Willis]], [[Health Potions]] recommended, watch out for [[Robgoblin Mechanic]]s!
+#*"I'm SORRY, please stop!" -Whirly Willis
+#Speak with [[Whirly Willis]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"Sorry <"Player Name">, just make the world stop spinning. Alright, I’ll make the trade as originally planned. It’s just we Robgoblins have been starving for junk ever since we were cut off from Glimmer Deep." -Whirly Willis
+#Speak with [[Golmie Greasebeard]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"So them dirty Robgoblins tried to pull a fast one on us. Good job puttin' them in their place. With these parts I’ll be able to get our bikes up and runnin' again." -Golmie Greasebeard
+==References==
+*[[Dorn Geargrinder]]
+*[[Glimmer Dreep]]
+*[[Golmie Greasebeard]]
+*[[Robgoblins]]
+*[[Skullz]]
+*[[Sunstone Valley]]
+*[[Whirly Willis]]
+[[Category:Quest]]

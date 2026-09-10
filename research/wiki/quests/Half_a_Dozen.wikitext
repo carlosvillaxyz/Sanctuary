@@ -1,0 +1,21 @@
+<!-- Quest:Half a Dozen | https://freerealms.fandom.com/wiki/Quest%3AHalf%20a%20Dozen | CC-BY-SA -->
+{{Quest2
+|detail summary = Take the picture to the post office.|coin amount = 15}}
+==To Start==
+Speak with [[Tozer]] located near the [[Seaside]] [[Information Center]].
+==Goals==
+Tozer has asked you to deliver a picture to the post office in Seaside.
+*Take the picture to Enve LeStamp
+==Steps==
+#Speak with [[Tozer]] located near the [[Seaside]] [[Information Center]].
+#*"I am really enjoying the view here at Seaside. In fact I took a picture to send back home. Only I don't know where the post office is...<br />Would you be willing to take it for me?" -Tozer
+#Speak with [[Enve LeStamp]] located near the [[Seaside]] [[Seaside Post Office|Post Office]].
+#*"Deliver this picture to Tozer's family in Merry Vale? Sure no problem!" -Enve LeStamp
+==References==
+*[[Seaside]]
+*[[Tozer]]
+*[[Enve LeStamp]]
+*[[Seaside Post Office]]
+*[[Information Center]]
+*[[Merry Vale]]
+[[Category:Quest]]

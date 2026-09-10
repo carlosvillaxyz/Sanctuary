@@ -1,0 +1,25 @@
+<!-- Quest:Trapped and Alone | https://freerealms.fandom.com/wiki/Quest%3ATrapped%20and%20Alone | CC-BY-SA -->
+{{Quest2
+|detail summary = If you want to help the dwarves of Sunstone Valley, Captain Sunspark has suggested that you talk to Gus Geargrinder.|coin amount = 20}}{{Questprog
+|next = [[Quest:Proving Your Worth|Proving Your Worth]]}}
+==Notes==
+This quest is no longer available.
+==To Start==
+Speak with [[Captain Sunspark]] located in front of the [[Warpstone]] in [[Shrouded Glade]].
+==Goals==
+Captain Sunspark in Shrouded Glade has sent you to help the dwarves.
+*Talk to Gus Geargrinder
+==Steps==
+#Speak with [[Captain Sunspark]] located in front of the [[Warpstone]] in [[Shrouded Glade]].
+#*"Because of this invasion, the dwarves may never get home. They came here looking for allies, but the druids turned them down. Then the invasion began, leaving them trapped with no one to turn to for help.<br />If you want to help them, the person you need to <font color='#D9781A'>talk to</font> is <font color='#D9781A'>Gus Geargrinder</font>." -Captain Sunspark
+#Speak with [[Gus Geargrinder]] located in the Pet Park area of the [[Shrouded Glade]].
+#*"Captain Sunspark sent you...<br />What, you think that gives you a free pass or something? I'm going to need more than that before I'll start trusting you!" -Gus Geargrinder
+==References==
+*[[Captain Sunspark]]
+*[[Druids]]
+*[[Dwarves]]
+*[[Gus Geargrinder]]
+*[[Shrouded Glade]]
+*[[Shrouded Gloam]]
+*[[Sunstone Valley]]
+[[Category:Quest]]

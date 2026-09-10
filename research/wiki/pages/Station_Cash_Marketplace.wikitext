@@ -1,0 +1,283 @@
+<!-- Station Cash Marketplace | https://freerealms.fandom.com/wiki/Station%20Cash%20Marketplace | CC-BY-SA -->
+[[File:Screen shot 2013-03-29 at 9.12.23 PM.png|thumb|300px]]
+The '''Station Cash Marketplace''' was an in-game shop that uses [[Station Cash]], an in-game currency.
+
+==Station Cash Prices==
+{{Main|Station Cash}}
+The [[wikipedia:Real world money|money]] value on [[Station Cash]] is equivalent to {{SC|100}} = $1 [[wikipedia:United States dollar|United States dollar]]. Station Cash is available for purchase through transaction on the official ''[[Free Realms]]'' website in the following denominations:
+*$5.00 - {{SC|500}}
+*$10.00 - {{SC|1000}}
+*$20.00 - {{SC|2000}}
+*$25.00 - {{SC|2500}}
+*$45.00 - {{SC|5000}}
+*$85.00 - {{SC|10000}}
+
+==Sunset Sale==
+[[File:Sunsetsale.jpg|thumb|Advertisement image]]
+From January 28 through March 17, 2014, prices on all SC Marketplace items were dropped to 60% of their regular price in response to the announced closure of ''Free Realms'' on January 24, 2014. The closure, also known as the [[Sunset of Free Realms]] is scheduled to take place on March 31, 2014.
+
+On March 18, 2014, prices on Marketplace items dropped to {{SC|1}}.
+
+==The Marketplace Items==
+{{Hidden|Items featured in the Marketplace include:
+|
+*Daily Grab Bag (changes everyday)
+*50-Slot Bank Upgrade
+*Forged Weapon Recipe Bundle
+*Robgoblin Flux Kajigger 
+*[[Archer's Forged Bow of Advantage]] Recipe
+*[[Brawler's Forged Hammer of Challenge]]
+*[[Medic's Forged Saw of Promise|Medic's Forged Saw of Promise&nbsp;]]
+*[[Ninja's Forged Sword of Purge]]
+*[[Warrior's Forged Axe of Boon]]
+*[[Wizard's Forged Wand of Cunning|Wizard's Forged Wand of Cunning&nbsp;]]
+*Mystery Key
+*Bumbleberry Seed Pack 
+*Spiralmint Seed Pack 
+*Wildroot Seed Pack 
+*Snowberry Seed Pack 
+*Rainleaf Seed Pack (Members only) 
+*Gummyfruit Seed Pack (Members only)
+*Starnut Seed pack (Members only)
+*Stickfruit Seed Pack (Members only)
+*Chugaroot Seed pack (Members only)
+*Moonbean Seed pack (Members only)
+*Briarmelon Seed Pack (Members only)
+*Sunleaf Seed Pack (Members only)
+*Wilds Farm
+*Vaultberry Seed Pack 
+*Briarapple Seed 
+*Briarwood Farm
+*Crop Duster
+*Scarecrow
+*Sprinkler
+*Fertilizer 
+*Treasure War Booster Pack 
+*Gold Bauble 
+*Silver Bauble
+*Gold Trinket
+*Silver Trinket 
+*Gold Jewel
+*Silver Jewel
+*Campaign 3: Change of Heart
+*Campaign 4: Lakeshore Shenanigans 
+*Campaign 5: Hot Springs Haven
+*Campaign 6: Tanglewood Fort 
+*Campaign 7: Queen's Last hope
+*[[High Fantasy Outfit]]
+*Phoenix 
+*[[Robot Outfit]]
+*[[Sun]] 
+*VIP Juice Bar (Members only) 
+*Briar Falls Lot (Members only)
+*[[Sci-fi Outfit]] (Girls & Members only) 
+*[[Sci-fi Outfit]] (Boys & Members only)
+*VIP Party Pool (Members only)
+*Hydra Pet (Members only)
+*[[Rogue Outfit]] (Members only)
+*[[VIP Chicken Boombox]] (Members only)
+*[[Hydra Ride]] (Members only)
+*[[King's Outfit]] (Boys & Members only)
+*Queen's Outfit (Girls & Members only)
+*VIP Club House (Members only)
+*5,000 [[Coins]]
+*7,500 [[Coins]]
+*10,000 [[Coins]]
+*20,000 [[Coins]]
+*[[Precursor Hoverboard]] (Members only)
+*[[Molten Precursor Hoverboard]] (Members only)
+*[[Stormy Hoverboard]] (Members only)
+*[[Fiery Hoverboard]] (Members only) 
+*[[Bowling Ball]] (Members only) 
+*[[Eight Ball]](Members only) 
+*[[Armored T-Rex]] (Members only) 
+*[[Black-Nosed Stallion]] (Members only)
+*[[Clockwork Hoverboard]] (Members only)
+*[[Dwarftech Hoverboard]] (Members only)
+*[[Gold-Tipped Dragon]] (Members only)
+*[[Hearts Pegasus]] (Members only)
+*[[Lava Tiger]](Members only)
+*[[Nightmare]](Members only) 
+*[[Pegasus Unicorn]](Members only)
+*[[Saber-Tooth Tiger]](Members only) 
+*[[Scaled Dragon]](Members only)
+*[[Skeletal Dragon]] (Members only) 
+*[[Spotted T-Rex]](Members only) 
+*Stallion (Members only) 
+*[[Stone Saber-Tooth Tiger]](Members only) 
+*[[Striped T-Rex]](Members only)
+*[[Tiger]](Members only)
+*[[Unicorn]] (Members only)
+*[[White-Nosed Mare]](Members only)
+*[[White-Nosed Stallion]](Members only)
+*[[Pegasus]] (Members only)
+*[[Air T-Rex]](Members only)
+*[[Fairweather Hoverboard]](Members only)
+*[[Poison Dragon]](Members only)
+*[[Bicycle]] (Members only)
+*[[Tractor]] (Members only)
+*[[Bat]] (Members only)
+*[[Wolf]] (Members only)
+*[[Dwarftech Chopper]](Members only)
+*[[Pogo Stick]](Members only)
+*[[Robgoblin Mech]](Members only) 
+*[[Fire Pegasus]](Members only)
+*[[Feathered Drake]](Members only) 
+*[[Striped Robgoblin Mech]](Members only)
+*[[Big Band Boombox]]
+*[[Xylophone]]
+*[[Tiki Boombox]]
+*[[Pop-Dance Boombox]]
+*[[Plants Dance Boombox]]
+*Rainbow Randomizeir
+*[[Realms Roll Boombox]]
+*Party Crate
+*[[Boombox XVD-S]]
+*Piano Music Block C-Scale Bundle
+*Fart Music Block C-Scale Bundle
+*Piano C1 C-Scale Music Block
+*Piano D1 C-Scale Music Block
+*Piano E1 C-Scale Music Block
+*Piano F1 C-Scale Music Block
+*Piano G1 C-Scale Music Block
+*Piano A1 C-Scale Music Block
+*Piano B1 C-Scale Music Block
+*Piano C2 C-Scale Music Block
+*Fart C1 C-Scale Music Block
+*Fart D1 C-Scale Music Block
+*Fart E1 C-Scale Music Block
+*Fart F1 C-Scale Music Block
+*Fart G1 C-Scale Music Block
+*Fart B1 C-Scale Music Block
+*Fart C2-Scale Music Block
+*Giant Brick Builders Pack
+*Giant Cobblestone Builders Pack
+*Giant Marble Builders Pack
+*Giant Toy Builders Pack
+*Giant Wood Builders Pack
+*Large Brick Builders Pack
+*Large Cobblestone Builders Pack
+*Large Marble Builders Pack
+*Large Toy Builders Pack
+*Large Wood Builders Pack
+*Big Brick Builders Pack
+*Big Cobblestone Builders Pack
+*Big Marble Builders Pack
+*Big Toy Builders Pack
+*Big Wood Builders Pack
+*[[Sunstone Dam]]
+*Brick Builders Pack
+*Cobblestone Builders Pack
+*Marble Builders Pack
+*Toy Builders Pack
+*Wood Builders Pack
+*Freewheelers Furniture Bundle
+*Sunstone Environment Bundle
+*Lake Tree Lot
+*Freewheelers Bed
+*Freewheelers Chair
+*Freewheelers Table
+*Freewheelers Lamp
+*Freewheelers Couch
+*Freewheelers Wall Trophy
+*Barrel Cactus
+*Beavertail Cactus
+*Saguaro Cactus
+*Pink Agave
+*Blue Agave}}
+
+==Common Marketplace Tint Pallet==
+{| class="frdialogue" border="1" cellspacing="no" cellpadding="no" style="background:white; width:665px; text-align: center; font-weight:bold; color:black;"
+| style="width:95px; border-bottom: none; background-color: rgb(240, 26, 26)" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(128, 74, 0);" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(151, 91, 60);" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(235, 214, 6);" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(36, 234, 235);" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(76, 0, 128);" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(214, 214, 214);" |
+
+
+
+|-
+| style="border-bottom: none; border-top: none;"|
+Rubyburst
+| style="border-bottom: none; border-top: none;"|
+Allspice
+| style="border-bottom: none; border-top: none;"|
+Commoner
+| style="border-bottom: none; border-top: none;"|
+Turbo
+| style="border-bottom: none; border-top: none;"|
+Aqua
+| style="border-bottom: none; border-top: none;"|
+Twilight
+| style="border-bottom: none; border-top: none;"|
+Stonesurf
+|-
+| style="width:95px; border-bottom: none; background-color: rgb(255, 150, 0);" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(190, 166, 136);" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(96, 48, 24);" |
+
+
+
+| style="width:95px; background-color: rgb(28, 167, 29);" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(27, 99, 189);" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(223, 16, 140);" |
+
+
+
+| style="width:95px; border-bottom: none; background-color: rgb(74, 74, 74);" |
+
+
+
+|-
+| style="border-bottom: none; border-top: none;"|
+Sunrise
+| style="border-bottom: none; border-top: none;"|
+Sandrift
+| style="border-bottom: none; border-top: none;"|
+Toasty
+| style="border-bottom: none; border-top: none;"|
+Cloverleaf
+| style="border-bottom: none; border-top: none;"|
+Ocean
+| style="border-bottom: none; border-top: none;"|
+Bubblegum
+| style="border-bottom: none; border-top: none;"|
+Stormcloud
+|}
+[[Category:SC Marketplace]]
+[[Category:Station Cash]]
+[[Category:Marketplace Items]]
+
+{{Sunset Sale}}

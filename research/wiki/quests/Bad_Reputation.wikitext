@@ -1,0 +1,27 @@
+<!-- Quest:Bad Reputation | https://freerealms.fandom.com/wiki/Quest%3ABad%20Reputation | CC-BY-SA -->
+{{Quest2
+|detail summary = Sirdo in Blackspore wants you to steal some supplies from a couple of nearby camps to help him regain his thuggish reputation.|coin amount = 2}}{{Questprog
+|previous = |next = [[Quest:The Last Laugh|The Last Laugh]]}}
+==To Start==
+Speak with [[Sirdo "Squirrel Chaser"]] located South-East of the [[Blackspore]] [[Warpstones|Warpstone]].
+==Goals==
+Steal some supplies from the nearby camps. Don't feel bad. I need them more than they do.
+*Steal some supplies
+*Steal some supplies
+*Return to Sirdo 
+==Steps==
+#Speak with [[Sirdo "Squirrel Chaser"]] located South-East of the [[Blackspore]] [[Warpstones|Warpstone]].
+#*"Don't laugh at my name! I used to be the best thief around until I botched my last mission and earned this ridiculous nickname.<br />I need to rebuild my reputation as a ruthless thug. But let's start small... Help me swipe some <font color='#d9781a'>supplies</font> from the <font color='#d9781a'>nearby camps</font>, and I promise you a nice reward when we're done." -Sirdo "Squirrel Chaser"
+#Steal some supplies
+#*Steal some supplies from [[Mucklewhump]]'s camp.
+#Steal some supplies
+#*Steal some supplies from [[Sal Monella]]'s camp.
+#Speak with [[Sirdo "Squirrel Chaser"]] located South-East of the [[Blackspore]] [[Warpstones|Warpstone]].
+#*"You swiped the supplies? Fantastic! We're one step closer to proving my worth once again!<br />Maybe with a little more work, people will finally forget that I royally screwed up my last mission."<small>-Sirdo "Squirrel Chaser"</small>
+==References==
+*[[Blackspore]]
+*[[Mucklewhump]]
+*[[Sal Monella]]
+*[[Sirdo "Squirrel Chaser"]]
+*[[Supplies]]
+[[Category:Quest]]

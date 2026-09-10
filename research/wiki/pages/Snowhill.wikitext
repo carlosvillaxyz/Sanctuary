@@ -1,0 +1,131 @@
+<!-- Snowhill | https://freerealms.fandom.com/wiki/Snowhill | CC-BY-SA -->
+{{LocationInfobox
+|name= Snowhill[[File:Logo snowhill.png|50px]]
+|image= Map snowhill.png
+|type= City
+|level= All
+|location= North of [[Sanctuary]] 
+|inhabitants= [[Pixies]]<br>[[Human|Humans]]}}
+'''Snowhill''' is a city directly north of [[Sanctuary]]. It sits high in the mountains, ringed by towering peaks, and is blanketed with a permanent layer of snow. Snowhill is a town devoted to the season of winter, and it has snow all year round. Snowhill not only is a popular attraction for it's looks, but it holds important mining areas, [[Dungeons|dungeons]], and is the only area known to spawn snowballs and have snowball fight [[Mini-Games|minigames]] with other players. It's inhabitants range from [[Wolves|wolves]] to [[Human|humans]]/[[Pixies|pixies]] to [[Yeti|yetis]].
+
+An unusually large pine tree dominates the town, The main road into town leads directly to this tree, and then loops around it. All other roads extend off this loop. Snowhill has many areas to explore, especially for those who enjoy mountain climbing and winter sports.
+[[File:Snowhill..webp|thumb|300px]]
+==[[Snow Days]]==
+During December, Snowhill holds an [[Events|event]] called Snow Days, or alias, Christmas. The giant tree in the heart of Snowhill is known as the [[The Gifting Tree|Gifting Tree]]. On top is a pretty star with lights, and it literally pops out presents. The [[Snowman|Evil Snowmen]] try to steal the presents, but it's up to you to help the people and defeat them.
+
+==Points of Interest==
+*Adventurer's League
+*[[Crystal Barrier]]
+*[[Hot Springs]]
+*[[Penguin Training Institute]]
+*Perry's Pastures
+*Post Office
+*[[Singing Crystal Mines]]
+*Smithy
+*[[Snowhill Stage|Stage]]
+*[[Snowhill Town Hall|Town Hall]]
+*Diamondback Raceway
+*Soccer Field
+
+==Local [[Dungeons]]==
+*[[Deep Mines]]
+*[[Frostfang Caverns]]
+*[[Frostfang Snarlers!]]
+*[[Hot Springs Haven]]
+*[[Howling Hills]]
+*[[Ice Crawler]]
+*[[Ice Troll Scout!]]
+*[[Petty Yetis!]]
+*[[Snowy Canyon]]
+*[[The Bat Cave!]]
+*[[Ambushed!]]
+
+==Mobs==
+===[[Non-Playable-Character|NPCs]]===
+*[[Sorin]]
+*[[Big J]]
+*[[Flynn]]
+*Smitty
+*[[Senari]]
+*[[Silversnow]]
+*[[Mayor Crystalline]]
+*Dewey
+*[[Fritti Bluebelle]]
+*[[Pear Jam]]
+*[[Ree Peatpants]]
+*[[Hank Fisticuffs]]
+*[[Buren]]
+*[[Assistant Chief Edward]]
+*[[Mr. Twinkle]]
+*[[Lucca De'Flor]]
+*[[Arci Joan]]
+*[[Senari]]
+*[[Foreman Hetfield]]
+*[[The Dares]] (temporarily sung on stage sometime during the launch of ''[[Free Realms]]'')
+
+===[[:Category:Enemies|Enemies]]=== 
+*[[Yeti|Yetis]]
+*[[Ice Crawler|Ice Crawlers]]
+*[[Ice Troll|Ice Trolls]]
+*[[Frostfang Bat|Frostfang Bats]]
+*Frostfang Wolves
+*[[Snowman|Snowmen]] (limited to Snow Days)
+
+==Questline==
+*[[Quest:Noise Permit|Noise Permit]]
+
+==Shops==
+*[[Blacksmith]] Clothing & Tools - (lvl 9 tools, lvl 20 clothes)
+*[[Brawler]] & [[Ninja]] Weapons - (lvl 11, 15 ninja & brawler weapons)
+*Brawler & [[Warrior]] Clothing - (lvl 20 brawler clothes)
+*[[Chef]] Supplies - (basic cooking supplies)
+*[[Medic]] Clothing & Accessories - (lvl 11 weapon, lvl 20 clothes)
+*Warrior & [[Wizard]] Weapons - (lvl 1 warrior, lvl 5 wizard weapons)
+*Warrior Clothing & Weapons - (lvl 19 weapons, lvl 20 clothes)
+*Shards & Accessories - (assorted)
+*Potions - (health, energy, replenishing)
+*Crafting Supplies & Recipes
+*Fancy Pet Sweaters
+
+==Resources==
+*Copper Ore
+*Turquoise
+*Garnet
+*Gummyfruit
+*Rainleaf
+*Snowberry
+*Spiralmint
+*Stainberry
+*Starnut
+
+==[[Collections]]==
+*Snowhill
+*Snowhill Rare Exploration
+*Snowhill Carnations
+*Snowhill Daffodils
+*Snowhill Daisies
+*Snowhill Leaves
+*Snowhill Lilies
+*Snowhill Orchids
+*Snowhill Roses
+*Snowhill Sunflowers
+*Snowhill Tulips
+
+==Gallery==
+<gallery>
+The-free-realms-filter-5.webp
+The-free-realms-filter-16.jpg
+1f47d37cece6357544b14f76e957c0f9.jpg|Concept art of Snowhill by Edwin Rosell.
+55bf09814fdd879dc85a026c17091745.jpg|Another concept art of Snowhill by Edwin Rosell.
+7366182050 b5a6732e7d o by krisfirebolt-d8wr675.jpg
+FRIssue11 Snowhill1.jpg|Snowhill in the Free Realms Issue 11.
+FRIssue11 Snowhill2.jpg|Throw down in Snowhill, shown many people celebrate where [[Dane]] and [[Maya]] arrived.
+</gallery>
+
+==Sources==
+*[https://www.slideshare.net/crowempires/the-free-realms-filter The Free Realms Filter] on [https://www.slideshare.net/ SlideShare]
+*[http://web.archive.org/web/20130903145420/http://edwinrosell.com/59040/512984/gallery/freerealms-environments FreeRealms Environments] on [https://edwinrosell.com/ Edwin Rosell]
+{{location}}
+[[Category:Locations]]
+[[Category:Snowhill]]
+[[Category:Sacred Grove]]

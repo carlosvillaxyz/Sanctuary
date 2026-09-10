@@ -1,0 +1,245 @@
+<!-- Pets | https://freerealms.fandom.com/wiki/Pets | CC-BY-SA -->
+[[File:Pets.png|thumb|Pet icon]]
+'''Pets''' are [[Non-Playable-Character|NPCs]] who spawn and despawn at your command and who follow you around in the game world. Pets are permanent objects that can be used and reused without a cool down timer. They do not appear in your inventory and cannot be sold or traded. You may have duplicates of pets, but only one pet may be in play at a time.
+
+Pets provide a number of benefits. When you have a happy pet in play it provides you with a speed boost. Pets locate and dig up treasure chests, and the only way to complete the Springs collections<ref>The Springs collections are the following collections: [[Bouncy Metal Springs]], [[Golden Metal Springs]], [[Oiled Metal Springs]], and [[Tightly Coiled Metal Springs]]</ref> is by opening treasure chests. They have thought bubbles that notify you when you are near a [[Battles|battle]]/[[Dungeons|dungeon]] or a [[Collections|collection]] spawn. Pets perform tricks. Cats and dogs can wear clothes and costumes. Pets appear in your [[:Category:Lots|housing lots]] to run around in random fashion. Pets can be renamed by selecting names off of premade name lists.
+
+Pets have requirements to be kept happy. Each pet has their own set of status bars: one for hunger, one for cleanliness, and one for entertainment. While these bars are high your pet will be happy and will provide you with a speed boost. They will also have happy thoughts and visibly appear happy. While these bars are low your pet will be unhappy and will not provide you with a speed boost. They will have sad thoughts and will visibly appear sad. All three status bars will slowly decrease while your pet goes unused and all three bars will quickly decrease while your pet is in use. For more information about maintaining a pet, see [[Pet Care]].
+
+Pets are mainly sold in the [[Station Cash Marketplace|SC Marketplace]], under the Pets category. There are a few pets available from other means though, and there are some pets that were sold for a limited time only.
+
+To use your pet, click on the paw icon in the [[User Interface]] and select a pet from the menu that appears. To remove your pet, locate its information in the upper-right-hand side of the User Interface and click on the X icon. You may not use a pet while in a [[Mini-Games|minigame]], dungeon, or duel, although upon exiting the minigame the pet will still be spawned. For more information how to use pets, see [[Pet Interface]].
+
+==List of Pets==
+{|class="wikitable sortable" style=="width:75%; height:200px" border="1"
+! Pet !! Category !! Subcategory !! SC Price !! Notes
+|-
+| [[Alfy]] || Beetle ||  || {{SC|350}} ||
+|-
+| [[Allie]] || Dog || Small dog || {{SC|400}} ||
+|-
+| [[Arcadius]] || Bear ||  || {{SC|745}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Amira]] || Cat || Long hair cat || {{SC|225}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Archimedes]] || Owl || Spotted owl || {{SC|300}} ||
+|-
+| [[Arun]] || Dog || Large dog || {{SC|225}} ||
+|-
+| [[Balloon Animal]] || Dog || Large dog || {{SC|350}} || Only available during the [[Birthday Bash]].
+|-
+| [[Bandit]] || Dog || Large dog ||  || Available on the [[Daily Wheel]].
+|-
+| [[Barkley]] || Dog || Small dog || {{SC|225}} ||
+|-
+| [[Bat]] || Bat ||  || {{SC|350}} ||
+|-
+| [[Blair]] || Cat || Long hair cat || {{SC|349}} || No longer available.
+|-
+| [[Bort]] || Dog || Large dog || {{SC|225}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Bruno]] || Dog || Large dog || {{SC|225}} ||
+|-
+| [[Bubba]] || Cat || Long hair cat || {{SC|225}} || 
+|-
+| [[Char]] || Dragon || Gold-tip dragon || {{SC|325}} ||
+|-
+| [[Chester]] || Cat || Short hair cat ||  N/A  || Available from a [[Trading Card Game|TCG]] [[Virtual Reward]] card.
+|-
+| [[Chibi]] || Unicorn ||  || {{SC|300}} ||
+|-
+| [[Chuck]] || Groundhog ||  || {{SC|275}} ||
+|-
+| [[Chumly]] || Cat || Long hair cat || {{SC|225}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Cinnamon]] || Unicorn ||  || {{SC|350}} ||
+|-
+| [[Clockwork Beetle]] || Beetle ||  || N/A || Available from a [[Trading Card Game|TCG]] [[Virtual Reward]] card.
+|-
+| [[Crackers]] || Raptor ||  || {{SC|225}} ||
+|-
+| [[Coyote]] || Coyote ||  || {{SC|499}} ||
+|-
+| [[Dakota]] || Pegasus ||  || {{SC|400}} ||
+|-
+| [[Dashes]] || Dog || Small dog || {{SC|400}} ||
+|-
+| [[Dashiell]] || Cat || Long hair cat || {{SC|199}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Diego]] || Dog || Large dog || {{SC|400}} ||
+|-
+| [[Dot]] || Dog || Large dog || {{SC|299}} ||
+|-
+| [[Duke]] || Dog || Large dog ||  N/A  || Available from a [[Trading Card Game|TCG]] [[Virtual Reward]] card.
+|-
+| [[Dumpling]] || Hippo ||  || {{SC|250}} ||
+|-
+| [[Echo]] || Dog || Large dog || {{SC|225}} ||
+|-
+| [[Emo-Tor]] || Raptor ||  ||  N/A  || Available from a [[Trading Card Game|TCG]] [[Virtual Reward]] card.
+|-
+| [[Fire Pegasus (Pet)|Fire Pegasus]] || Pegasus ||  || {{SC|350}} ||
+|-
+| [[Fritz]] || Spider ||  || {{SC|250}} ||
+|-
+| [[Garnet]] || Reindeer ||  || {{SC|350}} || Only available during the [[Snow Days]].
+|-
+| [[Gizmo]] || Cat || Short hair cat || {{SC|400}} ||
+|-
+| [[Gray Toyger]] || Cat || Short hair cat || {{SC|399}} || Only available during the [[Lost Treasures Month]].
+|-
+| [[Hedgewig]] || Owl ||  || {{SC|250}} ||
+|-
+| [[Hugo]] || Dog || Small dog ||  N/A  || Available from a [[Trading Card Game|TCG]] [[Virtual Reward]] card.
+|-
+| [[Hurricane]] || Dog || Small dog || {{SC|400}} ||
+|-
+| [[Harley]] || Boar ||  || {{SC|749}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Hydra Pet|Hydra]] || Hydra ||  || {{SC|550}} || Must be VIP Rank 4 to purchase.
+|-
+| [[Icco]] || Pony ||   || {{SC|250}} ||
+|-
+| [[Iggy]] || Triceratops ||  || {{SC|325}} ||
+|-
+| [[Jaina]] || Pony ||  || {{SC|200}} ||
+|-
+| [[Jasper]] || Cat || Short hair cat || {{SC|225}} || No longer available.
+|-
+| [[Jinx]] || Dog || Small dog || {{SC|399}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Kiri]] || Cat || Short hair cat || {{SC|399}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Koko]] || Cat || Short hair cat || {{SC|225}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Lake]] || Dog || Large dog || {{SC|175}} ||
+|-
+| [[Landshark]] || Groundhog ||  || {{SC|275}} ||
+|-
+| [[Lava Tiger (pet)|Lava Tiger]] || Tiger ||  || {{SC|400}} ||
+|-
+| [[Lexy]] || Cat || Short hair cat ||  N/A  || Available on the [[Daily Wheel]].
+|-
+| [[Lilly]] || Dog || Small dog || {{SC|350}} ||
+|-
+| [[Lovasus]] || Pegasus ||  ||  N/A  || Only available during the [[Festival of Hearts]].
+|-
+| [[Luna]] || Cat || Long hair cat || {{SC|400}} || No longer available.
+|-
+| [[Marlin]] || Dog || Large dog || {{SC|399}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Max]] || Dog || Large dog || {{SC|225}} ||
+|-
+| [[Milo]] || Cat || Short hair cat || {{SC|225}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Minnie]] || Cat || Long hair cat || {{SC|225}} ||
+|-
+| [[Mittens]] || Cat || Short hair cat || {{SC|225}} ||
+|-
+| [[Mojo]] || Cat || Short hair cat || {{SC|225}} ||
+|-
+| [[Monkey]] || Monkey || Capuchin monkey || {{SC|350}} ||
+|-
+| [[Mr. Kitty]] || Cat || Short hair cat || {{SC|400}} ||
+|-
+| [[Muggy]] || Dog || Small dog || {{SC|299}} || Only available during the [[Super Spooktacular]].
+|-
+| [[Munchy]] || Spider || Furry spider || {{SC|200}} ||
+|-
+| [[Nightmare Pony]] || Pony ||  || {{SC|400}} ||
+|-
+| [[Nox]] || Dog || Large dog || {{SC|175}} ||
+|-
+| [[Pavel]] || Dog || Small dog || {{SC|225}} ||
+|-
+| [[Peccadillo]] || Dog || Large dog || {{SC|399}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Petunia]] || Dog || Large dog ||  N/A  || Available from a [[Trading Card Game|TCG]] [[Virtual Reward]] card.
+|-
+| [[Phoenix (Pet)|Phoenix]] || Phoenix ||  || {{SC|450}} || Must be VIP Rank 1 to purchase.
+|-
+| [[Pig]] || Pig ||  || {{SC|350}} ||
+|-
+| [[Piñata Pony]] || Pony ||  || {{SC|?}} || Only available during the [[Birthday Bash]].
+|-
+| [[Pinkeye]] || Flying eyeball ||  || N/A || Received from [[Monthly Member Pack Items|October 2013's Monthly Member Pack]].
+|-
+| [[Pipsqueak]] || Penguin ||  || {{SC|350}} ||
+|-
+| [[Pooky]] || Cat || Short hair cat || {{SC|400}} ||
+|-
+| [[Raja]] || Tiger ||  || {{SC|400}} ||
+|-
+| [[Rascal]] || Dog || Small dog || {{SC|225}} ||
+|-
+| [[Riley]] || Cat || Long hair cat || {{SC|225}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Rocco]] || Pony ||  || {{SC|300}} ||
+|-
+| [[ROFLE]] || Robot ||  || N/A || Available from a [[Treasure War]] [[Virtual Reward]] card.
+|-
+| [[Roxie]] || Dog || Large dog || {{SC|225}} ||
+|-
+| [[Scooter]] || Dog || Small dog || {{SC|400}} ||
+|-
+| [[Scout]] || Dog || Large dog || {{SC|399}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Screech]] || Raptor ||  || {{SC|350}} ||
+|-
+| [[Shadow]] || Dog || Large dog || {{SC|350}} ||
+|-
+| [[She-Rex]] || T-rex ||  || N/A  || Only available during the [[Festival of Hearts]].
+|-
+| [[Ski]] || Dog || Large dog || {{SC|349}} ||
+|-
+| [[Skip]] || Pegasus ||  || {{SC|300}} ||
+|-
+| [[Snowflake]] || Unicorn ||  || {{SC|500}} || No longer available; sales benefited Child's Play in 2011.
+|-
+| [[Snowheart]] || Penguin ||  || N/A || Only available during the [[Festival of Hearts]].
+|-
+| [[Spike]] || Dragon || Spiked dragon || {{SC|175}} ||
+|-
+| [[St. Bernard]] || Dog || Large dog || N/A || Acquired from the [[12 Days of Presents|12 Days of Presents 2012]].
+|-
+| [[Stretch]] || Dogs || Large dogs || {{SC|225}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|-
+| [[Summer]] || Dog || Small dog || {{SC|400}} ||
+|-
+| [[Tacky Sweater Penguin]] || Penguin ||  || {{SC|500}} || No longer available; sales benefited Child's Play in 2010.
+|-
+| [[Tao]] || Cat || Long hair cat || {{SC|200}} ||
+|-
+| [[Taz]] || Dog || Small dog || {{SC|225}} ||
+|-
+| [[Tex]] || T-rex || Spiked t-rex || {{SC|350}} ||
+|-
+| [[Treeble]] || Treeble ||  || {{SC|350}} ||
+|-
+| [[Vivi]] || Pony || Palomino || {{SC|275}} ||
+|-
+| [[Vulture]] || Vulture ||  || {{SC|549}} ||
+|-
+| [[Wolf]] || Wolf ||  || {{SC|350}} ||
+|-
+| [[York]] || Dog || Small dog || {{SC|225}} ||
+|-
+| [[Yule]] || Reindeer ||  || {{SC|250}} || Only available during the [[Snow Days]].
+|-
+| [[Zando]] || T-rex ||  || {{SC|500}} || No longer available; sales benefited Haiti Earthquake Relief.
+|-
+| [[Zax]] || T-rex ||   || {{SC|350}} ||
+|-
+| [[Ziggy]] || Triceratops ||  || {{SC|500}} || No longer available; sales benefited Child's Play in 2009.
+|-
+| [[Zilla]] || T-rex ||  || {{SC|1200}} || No longer available.
+|-
+| [[Zinx]] || Cat || Short hair cat || {{SC|225}} ||
+|-
+| [[Zoey]] || Cat || Short hair cat || {{SC|225}} || Purchased from [[Cragara]], the Mysterious Merchant.
+|}
+
+==References==
+<references/>
+[[Category:Pets]]
+[[Category:Marketplace Items]]

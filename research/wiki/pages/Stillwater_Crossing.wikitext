@@ -1,0 +1,28 @@
+<!-- Stillwater Crossing | https://freerealms.fandom.com/wiki/Stillwater%20Crossing | CC-BY-SA -->
+{{LocationInfobox2
+|image= Img 20120216-18-17-42 thumb.png
+|type= Town
+|location= Southeast of [[Sanctuary]], northeast of [[Blackspore Swamp|Blackspore]]}}
+'''Stillwater Crossing''' is a small town located southeast of [[Sanctuary]], northeast of [[Blackspore Swamp|Blackspore]]. Like the town of [[Lakeshore]] situated directly north of it, it is mainly a fishing town.
+
+==Job Trainers==
+*Zachery ([[Pet Trainer]])
+
+==Shops==
+*Pet Collars
+*Pet Supplies
+*Potions (health, energy, replenishing)
+
+==Local [[Dungeons]]==
+*[[Cursed Graveyard!]]
+
+==Resources==
+*Sacred Grove Shallows (fishing)
+*Checkers & Chess
+
+==See Also==
+*Thunder Falls Speedway
+{{location}}
+[[Category:Locations]]
+[[Category:Stillwater Crossing]]
+[[Category:Sacred Grove]]

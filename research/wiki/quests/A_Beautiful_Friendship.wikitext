@@ -1,0 +1,29 @@
+<!-- Quest:A Beautiful Friendship | https://freerealms.fandom.com/wiki/Quest%3AA%20Beautiful%20Friendship | CC-BY-SA -->
+{{Quest2
+|detail summary = Rizzle is probably the laziest robgoblin in Sunstone Valley, which used to be something a robgoblin could be proud of. Nowadays, with junk in short supply, and scrap master Fizzbang on everyone's back, you can't just sit around drinking sasparilla all day, but Rizzle is certainly going to try. Help him out by finding his stolen sasparilla.
+|coin amount = 15}}{{Questprog
+|previous = [[Quest:For Rizzle|For Rizzle]]|next = [[Quest:Ka-Boom or Not To Boom|Ka-Boom or Not To Boom]]|quest series = [[Sunstone_Valley#Whirly's_Scrap_Camp|Sunstone Valley Quest Series]]}}
+==Requirements==
+Player must achieve at least one Level 8 or higher Combat Job
+==To Start==
+Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+==Goals==
+Rizzle wants you to find his Stolen Sasparilla in Sunstone Valley.
+*Find the Stolen Sasparilla
+*Return to Rizzle
+==Steps==
+#Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"You're new around here, right? Well then I bet you could use a friend that knows how this place works, like me!<br />Now since we're friends, and friends help each other, why don't you help me <font color="#CE7C28">find</font> my <font color="#CE7C28">Stolen Sasparilla</font>? You know, since we're friends." -Rizzle
+#Find the Stolen Sasparilla
+#*There are 5 Stolen Sasparilla barrels scattered South-East of [[Whirly's Scrap Camp]].
+#Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"Way to go, <player Name>! I was worried I would never see those wonderful barrels of joy again, but you really pulled through." -Rizzle
+
+==References==
+*[[Rizzle]]
+*[[Robgoblin]]
+*[[Sasparilla]]
+*[[Stolen Sasparilla]]
+*[[Sunstone Valley]]
+*[[Whirly's Scrap Camp]]
+[[Category:Quest]]

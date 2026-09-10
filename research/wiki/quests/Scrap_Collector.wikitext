@@ -1,0 +1,25 @@
+<!-- Quest:Scrap Collector | https://freerealms.fandom.com/wiki/Quest%3AScrap%20Collector | CC-BY-SA -->
+{{Quest2
+|name = Scrap Collector|detail summary = Complete combat encounters to collect lost treasure map scraps.|coin amount = Random}}{{Questprog
+|quest series = [[Lost Treasures Month]]
+|next = [[Quest:Hunting Treasure|Hunting Treasure]]}}
+==Notes==
+This quest is repeatable daily
+==To Start==
+Speak with [[Sunstone Jones]] located in [[Sanctuary]] during [[Lost Treasures Month]].
+==Goals==
+Complete combat encounters to collect lost treasure map scraps.
+*Map Scraps Collected - /3
+*Return to Sunstone Jones
+*Find Kara Loft
+==Steps==
+#Speak with [[Sunstone Jones]] located in [[Sanctuary]].
+#*"There's treasure out there for the taking. Trust me. There's just one thing... you'll need a map.<br /><br />Rumor has it combat encounters reward secret treasure map scraps when completed. So why don't you go completed some and see what you find?" -Sunstone Jones
+#Map Scraps Collected - /3
+#*Collect map scraps by completing [[Combat]] [[:category:Battle|Battles]].
+#Speak with [[Sunstone Jones]] located in [[Sanctuary]].
+#*"Nice work, kid. Now you need someone with the brains to assemble these scraps, and I know just the woman.<br /><br />A colleague of mine, Kara Loft. Last seen exploring just outside Sanctuary. Track her down and she'll send you in the right direction." -Sunstone Jones
+#Speak with [[Kara Loft]] found northwest of the [[Sanctuary]] [[warpstone]].
+#*"I understand Jones sent you? Lovely chap. I owe him a few favors so perhaps I can help you out...<br /><br />Hmmm. Yes. I believe I can assemble these scraps. Check back with me in a few moments and I should have a map for you." -Kara Loft
+[[Category:Quest]]
+[[Category:Lost Treasures Month]]

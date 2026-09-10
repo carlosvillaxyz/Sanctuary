@@ -1,0 +1,12 @@
+<!-- Stars | https://freerealms.fandom.com/wiki/Stars | CC-BY-SA -->
+[[File:Star icon.png|thumb]]
+
+Stars help players level up their [[jobs]] in ''[[Free Realms]]'', similar to experience points in traditional role-playing games.<ref>[https://fr.fanbyte.com/wiki/Stars_%28FR%29 Stars] on [https://fr.fanbyte.com/wiki/ ZAM]</ref> Most jobs earn stars by playing [[Mini-Games|minigames]], such as [[combat]] and [[cooking]]. [[Adventurer|Adventurers]] earn stars by collecting in-world exploration coins and completing [[Exploration (Collections)|exploration collections]].<ref>[https://youtu.be/T-gxBo8ImE4?t=1966 2011/3/20 - Rise and Shiny recap: Free Realms] on [https://www.youtube.com YouTube]</ref> Stars are also rewarded for completing [[quests]] in each job's questline. Combat jobs offer repeatable contract quests at certain milestones of combat questlines to help players earn additional stars.
+
+In general, stars earned from quests, collections, and minigames only count towards a specific job. For example, the stars from [[Miner]] quests and [[Mining]] minigames go straight to the Miner job. However, some collections reward wildcard stars that can be used to level any job, such as the [[List of Collections#Archaic|Artifacts]] collections in [[Blackspore Swamp]]. Players that engage in overworld combat also receive stars from mob kills, regardless of the job they're using.<ref>[https://youtu.be/ol27Yw9r_MI?t=39 Free Realms - an experiment (how to level up your adventure a funny way)] on [https://www.youtube.com YouTube]</ref>
+
+==References==
+
+<references/>
+
+[[Category:Jobs]]

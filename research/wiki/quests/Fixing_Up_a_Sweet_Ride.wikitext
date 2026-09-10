@@ -1,0 +1,28 @@
+<!-- Quest:Fixing Up a Sweet Ride | https://freerealms.fandom.com/wiki/Quest%3AFixing%20Up%20a%20Sweet%20Ride | CC-BY-SA -->
+{{Quest2
+|detail summary = Golmie Greasebeard now has the parts he needs to fix Dorn's bike, but the Skullz don't want to risk losing the race and they plan to steal the parts before Golmie can finish Dorn's Bike.|first reward = |first reward image name = |coin amount = 30}}{{Questprog
+|previous = [[Quest:A Deal with a Dust Devil|A Deal with a Dust Devil]]|next = [[Quest:Race for Dominance|Race for Dominance]]|quest series = [[Sunstone_Valley#Rumble_Ridge|Sunstone Valley Quest Series]]}}
+==Requirements==
+Player must complete [[Quest:A Deal with a Dust Devil]] in order to do [[Quest:Fixing Up a Sweet Ride]]
+==To Start==
+Speak with [[Golmie Greasebeard]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+==Goals==
+Watch Golmie's back while he finishes the repairs on Dorn's motorcycle.
+*Defend Golmie Greasebeard
+*Talk to Golmie Greasebeard
+*Talk to Dorn Geargrinder
+==Steps==
+#Speak with [[Golmie Greasebeard]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"I got most of the repairs done, but it’s hard to do with all of the <font color='#D9781A'>Skullz</font> gettin' in the way. They been tryin' their best to keep Dorn off the track. It’s like they know they’ll lose in a race against a real biker." -Golmie Greasebeard
+#Defend [[Golmie Greasebeard]] from 3 waves of [[Skullz Thug]].
+#Speak with [[Golmie Greasebeard]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"Thanks for getting' my back. Go let Dorn know that his bike's ready whenever he is." -Golmie Greasebeard
+#Speak with [[Dorn Geargrinder]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"It'll be good to get back on the old hog again. Thanks, <"Player Name">." -Dorn Geargrinder
+==References==
+*[[Dorn Geargrinder]]
+*[[Dorn's Bike]]
+*[[Golmie Greasebeard]]
+*[[Skullz]]
+*[[Sunstone Valley]]
+[[Category:Quest]]

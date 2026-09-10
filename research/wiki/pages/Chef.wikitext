@@ -1,0 +1,170 @@
+<!-- Chef | https://freerealms.fandom.com/wiki/Chef | CC-BY-SA -->
+{{JobInfobox
+|name= Chef
+|image= Chef.png
+|caption= Female [[Human]] Chef}}
+[[Image:ChefT.png|left]]''<font style="font-size:15px">{{Quote|Are you the next top Chef in [[Free Realms|Free Realms™]]? Master the culinary arts, and hone your skills in challenging mini-games. Harvest ingredients, and combine them to create interesting recipes and tasty delights. Food can be given or sold to other players to provide bonuses and helpful effects. Simone in the [[Cobblestone Village|Crossroads]] is an excellent Chef and can teach anyone interested in the culinary arts.|Job description}}</font>''
+'''Chef''' is a crafting [[Jobs|job]], specializing in the creation of food that can temporarily increase a player's stats. A crafting class job, experience is gained by completing Chef quests and by playing the harvesting and cooking [[Mini-Games|minigames]].   
+
+==Restrictions - This job is locked for MEMBERS ONLY==
+[[File:Members only.png|left]]
+: As of December 5th 2009, this job is free to sample through level 4. You will be able to change into this job, but you will not be able to use it until you purchase a Free Realms [[Membership]].
+
+==Unlocking Chef==
+Chef can be unlocked by activating a quest line with any of the following trainers:
+* [[Cookie]] in the [[Sacred Glade]] tutorial (no longer in-game)
+* [[Simone]] in [[Cobblestone Village]]
+* [[Auguste Frydaze]] in [[Highroad Junction]]
+* [[Bordon Cloo]] in [[Sanctuary]]
+* [[Helena]] in [[Stillwater Crossing]]
+
+==Trainers==
+* Simone in Cobblestone Village (unlocks job)
+* Auguste Frydaze in Highroad Junction (unlocks job)
+* Bordon Cloo in Sanctuary (unlocks job)
+* Helena in Stillwater Crossing (unlocks job)
+* Jarvie in [[Merry Vale]]
+* [[Lucca De'Flor]] in [[Snowhill]]
+* Glerga in the [[Robgoblin Camp]]
+
+==[[Quests]]==
+===Trainer Series===
+'''''NB!''''' It is only necessary to go through one of the trainer series lines before continuing from [[Sanctuary]], however completing all three will result in extra experience.
+
+====Tutorial Series (no longer in-game)====
+* '''Tutorial: Chef Express''' - Ashley Lightwings in Sacred Glade (optional, unlocks job)
+* '''Tutorial: Stewing to Success''' - Cookie in Sacred Glade (optional)
+* '''Tutorial: Party Payback''' - Cookie in Sacred Glade (optional)
+
+====Trainer Series: Cobblestone Village====
+* '''Chef: Crossroads Cafe''' - Simone in Cobblestone Village
+* '''Chef: Delivery Derailed''' - Simone in Cobblestone Village
+* '''Chef: Package Recovery!''' - Jonelle in north of Cobblestone Village
+* '''Chef: Queensfields''' - Jonelle in north of Cobblestone Village
+* '''Chef: Crazy Craving''' - Honey in south of [[Sanctuary]]
+
+====Trainer Series: Highroad Junction====
+These start with Auguste Frydaze in Highroad Junction and eventually lead to [[Perry's Pastures]]
+
+* '''Chef: Ranger Requisition'''
+* '''Chef: Fireworks Frenzy!'''
+* '''Chef: Perry's Pastures'''
+* '''Chef: Snowy Treats'''
+
+====Trainer Series: [[Stillwater Crossing]]====
+* '''Chef: Stillwater Inn''' - Helena in Stillwater Crossing
+* '''Chef: Gavin Gone Missing''' - Helena in Stillwater Crossing
+* '''Chef: Harvest Hiccup!''' - Gavin Greenpetal in Stillwater Crossing
+* '''Chef: Queensfields''' - Gavin Greenpetal in Stillwater Crossing
+
+===Main Series===
+* '''Chef: Meet the Reputable Bordon Cloo''' - Honey in south of Sanctuary
+* '''Chef: Achieve Level 5''' - Bordon Cloo in Sanctuary
+* '''Chef: Learning to Crave the Flave''' - Bordon Cloo in Sanctuary
+* '''Chef: Roasted Mysteries''' - Jarvie in Merry Vale
+* '''Chef: Achieve Level 10''' - Jarvie in Merry Vale
+* '''Chef: Chugawhat?''' - Jarvie in Merry Vale
+* '''Chef: Surprise Me!''' - Yumtumlot in [[Wugachug]]
+* '''Chef: The Food Reviewer''' - Yumtumlot in Wugachug
+* '''Chef: Double Dog Dare''' - Lucca De'Flor in Snowhill
+* '''Chef: Achieve Level 15''' - Lucca De'Flor in Snowhill
+* '''Chef: Glerga''': Luca De'Flor in Snowhill
+* '''Chef: Family Style''' - Glerga in the Robgoblin Camp
+* '''Chef: Achieve Level 20''' - Glerga in the Robgoblin Camp
+* '''Chef: Cloo's Cooking Academy''' - Bordon Cloo in Sanctuary{{Member}}
+* '''Chef: Cooking with Cloo''' - Bordon Cloo in Sanctuary{{Member}}
+
+==[[Collections]]==
+* Chef's Cake Baking Books
+* Chef's Cake Baking Utensils
+* Chef's Cake Platters
+
+==Vendors==
+* Merry Vale: Giggles - Lvl 1 tools; Lvl 20 clothing
+* Lakeshore: Bizzie - Lvl 9 tools
+* Sanctuary : Drake - Lvl 20 clothing
+* Sanctuary: Pritti - Lvl 20 clothing
+* Sanctuary: Ribbons - Lvl 1 & 17 tools
+* [[Wugachug]]: Tatounbor - Lvl 9 tools; Lvl 20 clothing
+
+==[[Harvesting]]==
+* [[Brambleback Farm]]
+:Briarmelon
+:Gummyfruit
+:Moonbean
+:Rainleaf
+:Stainberry
+:Spiralmint
+
+* [[Chugaroot Farm]]
+:Choychoy
+:Chugaroot
+:Gummyfruit
+:Rainleaf
+:Spiralmint
+:Stainberry
+
+* [[Farnum's Farm]]
+:Gummyfruit
+:Rainleaf
+:Spiralmint
+:Stainberry
+:Stickfruit
+:Tumtumnip
+* [[Lakeshore Fields]]
+
+:Gummyfruit
+:Rainleaf
+:Punkin
+:Spiralmint
+:Stainberry
+:Sunleaf
+
+* [[Perry's Pastures]]
+:Gummyfruit
+:Rainleaf
+:Snowberry
+:Spiralmint
+:Stainberry
+:Starnut
+
+* [[Queensfields]]
+:Bumbleberry
+:Gummyfruit
+:Honeytwig
+:Rainleaf
+:Spiralmint
+:Stainberry
+
+==Recipes==
+:{{Main|List of Recipes (Chef)}}
+Most recipes are acquired by doing Chef quests, but some are purchased from vendors. Effects from using foods are temporary
+* Briarmelon Surprise - Improves Maker's Stats
+* Burnetta's Curious Creation - Improves Maker's Stats
+* Candied Briarmelon - Increases Attack
+* Crispy Choychoy Delight - Increases movement spped
+* De'Flor Family Fried Dumplings - Increases Size
+* Fried Starnut Stick - Increases Energy
+* Glerga's Gourmet Goulash - Improves Maker's Stats
+* Gummyfruit Gumbo - Increases Energy
+* Gummyfruit Topped Sundae - Increases Maker's Reach
+* Honey Roasted Moonbean - Increases Health
+* Merri's Marinated Mystery Meat - Increases Maker's Speed
+* Moonbean Mousse - Improves Maker's Stats
+* Moonbean Sundae Sweettreat - Increases Energy
+* Mystery Pot Roast - Improves Maker's Stats
+* Oddly Colored Omelette - Improves Maker's Stats
+* Rainleaf Wrapped Dumplings - Improves Maker's Stats
+* Royal Stew Du Jour - Makes you more Powerful
+* Savory Spiralmint Soup - Makes player smaller
+* Seared Stainberry - Improves Maker's Stats
+* Simone's Spiralmint Steak - Increases Health
+* Sizzling Snowberry Saute - Increases Health
+* Slugmud Surprise - Improves Maker's stats
+* Spicy Vegetable Stirfry - Improves Maker's Stats
+* Stainberry Chocolate Gumdrop - Improves Maker's Stats
+* Starnut Sundae - Increases Attack
+* Strong Arm Stew - Increases size and Health
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Chef]]

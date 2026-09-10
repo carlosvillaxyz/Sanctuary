@@ -1,0 +1,39 @@
+<!-- Quest:Friend or Foe:The Savage | https://freerealms.fandom.com/wiki/Quest%3AFriend%20or%20Foe%3AThe%20Savage | CC-BY-SA -->
+{{Quest2
+|detail summary = The Skullz are too strong and too numerous for the Freewheelers to challenge alone. Headmaster Merk has suggested that you try to enlist the aid of the other inhabitants of Sunstone Valley. Start by talking to the Sandscale Leader.|first reward = [[Mini-Manguana]]|first reward image name = Minimanguanaicon.png}}{{Questprog
+|next = [[Quest:Friend or Foe:The Tradesgoblin|Friend or Foe:The Tradesgoblin]]|previous = [[Quest:The Search for Golmie Greasebeard|The Search for Golmie Greasebeard]]|quest series = [[Sunstone_Valley#Rumble_Ridge|Sunstone Valley Quest Series]]}}
+==Requirements==
+Player must complete [[Quest:The Search for Golmie Greasebeard]] in order to do [[Quest:Friend or Foe:The Savage]]
+==To Start==
+Speak with [[Dorn Geargrinder]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+==Goals==
+Try to convince the Sandscale to aid the Freewheelers.
+*Talk to Headmaster Merk
+*Talk to Peace-guana Joe
+*Defeat Skullz in Sandscale Territory - /10
+*Return to Peace-guana Joe
+*Return to Headmaster Merk
+==Steps==
+#Speak with [[Dorn Geargrinder]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"There're too many <font color='#D9781A'>Skullz</font> for us to face in a straight fight. It also doesn’t help that they're using Gloam artifacts.<br /><br />If we’re going to save Golmie we’ll need one crazy plan. Fortunately <font color='#D9781A'>Headmaster Merk</font> is one of those thinking types, I’m sure he’ll have a few useful ideas." -Dorn Geargrinder
+#Speak with [[Headmaster Merk]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"Dorn shows his wisdom as a leader by not rushing in blindly to save his friend.<br />From the little time I have spent in Rumble Ridge, one thing is apparent... no one likes the Skullz. I wonder if we could get the Sandscale Manguanas to help out." -Headmaster Merk
+#Speak with [[Peace-guana Joe]] located in [[Sandscale Territory]] in [[Sunstone Valley]].
+#*"Those Skullz are a major bummer, man. They've like totally harshed the balance of nature.<br />Put some of the feng shui back into the Valley by getting rid of some of those Skullz and we'll like totally help you out, man. Peace!" -Peace-guana Joe
+#Defeat [[Skullz Thug]]s - /10
+#*The [[Skullz Thug]]s are located all around the [[Mystical Barrier]] in [[Sunstone Valley]].
+#Speak with [[Peace-guana Joe]] located in [[Sandscale Territory]] in [[Sunstone Valley]].
+#*"Groovy! Those Skullz are like totally bummed now, thanks to you. We'll for sure help you get your friend back, man." -Peace-guana Joe
+#Speak with [[Headmaster Merk]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"Things must be worse than I imagined if you were able to sway the Manguanas to our cause. Good job! Their help will be invaluable.-Headmaster Merk
+==References==
+*[[Dorn Geargrinder]]
+*[[Headmaster Merk]]
+*[[Manguana]]
+*[[Peace-guana Joe]]
+*[[Skullz]]
+*[[Sunstone Valley]]
+*[[Skullz Thug]]
+*[[Golmie Greasebeard]]
+*[[Sandscale]]
+[[Category:Quest]]

@@ -1,0 +1,19 @@
+<!-- Quest:A Luau | https://freerealms.fandom.com/wiki/Quest%3AA%20Luau | CC-BY-SA -->
+{{Quest2
+|detail summary = Tiger the Party Animal wants you to celebrate in style. Wear an outfit suitable for a luau and he'll give you a party favor. |first reward = Luau Party Favor|first reward image name = petpartyfavoricon.png}}
+==Requirements==
+[[Quest:A Luau]] is only available during Luau [[Community Events]].
+==To Start==
+Speak with [[Tiger the Party Animal]] who spawns during Luau [[Community Events]].
+==Goals==
+Equip a luau outfit and speak to Tiger the Party Animal during a Luau Party.
+*Equip a luau outfit
+*Speak to Tiger
+==Steps==
+#Speak with [[Tiger the Party Animal]] who spawns during Luau [[Community Events]].
+#*"Dude, isn't this party chill?<br>If you put on a luau outfit, I'll give you a special party favor. What do you say?" -Tiger the Party Animal
+#Equip a luau outfit
+#*Equip a luau themed item
+#Speak with [[Tiger the Party Animal]] who spawns during Luau [[Community Events]].
+#*"Stellar luau outfit!<br>Dude, take a party favor." -Tiger the Party Animal
+[[Category:Quest]]

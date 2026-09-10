@@ -1,0 +1,75 @@
+<!-- Seaside | https://freerealms.fandom.com/wiki/Seaside | CC-BY-SA -->
+{{LocationInfobox
+|name= Seaside[[File:Logo seaside.png|50px]]
+|image= Map seaside.png
+|type= City
+|level= All
+|location= SW of [[Wugachug]], W of [[Merry Vale]]
+|inhabitants= [[Human|Humans]]<br>[[Pixies]]}}
+'''Seaside''' is a resort town located on the western coast of [[Sacred Grove]]. It has a tropical climate and has a great view of the ocean from the Boardwalk and the beach. Seaside used to be known for it's quiet serenity, but after a dramatic increase in population and travelers, it has since been a polluted, restless place to go for vacation and trade. Many players have [[Trading Center]] at the Vollyball Net or [[Diggy|Diggy's]] [[Ocean Treasures Cafe|Cafe]], both located nearest to the coast.
+[[File:Seaside..webp|thumb|300px]]
+==Points of Interest==
+*[[Flying Dragon Dojo]]
+*[[Seaside Pet Adoption Center|Adoption Center]]
+*Boardwalk
+*Fisherman's Shanties
+*Information Center
+*Luxurious Oceanfront Homes
+*[[Ocean Treasures Cafe]]
+*[[Seaside Post Office|Post Office]]
+*Tide Pools
+*[[Seaside School of Medicine|School of Medicine]]
+
+==Job Trainers==
+*[[Doctor Callahan]]
+
+==Shops==
+*Medic Clothing & Weapons - (level 19 weapons, level 20 clothing)
+*Ninja Clothing - (level 20)
+*Shards - (level 1, 5, 10, 15, 20 chef)
+*Shards - (level 1, 5, 10, 15, 20 combat jobs)
+*Accessories - (level 1, 5, 10, 15, 20 chef rings)
+*Accessories - (level 1, 5, 10, 15, 20 chef necklaces)
+*Accessories - (level 1, 5, 10, 15, 20 combat rings & necklaces)
+*Potions - (battle orbs)
+*Potions - (health, energy, replenishing)
+*Fancy Pet Sweaters
+*Pet Supplies
+*Pet Collars
+
+==Local [[Dungeons]]==
+*[[Cray Caves]]{{Member}}
+*[[Prince of Low Tide!]]{{Member}}
+
+==[[Collections]]==
+*Seaside
+*Seaside Rare Exploration
+*Seaside Seasnails
+*Seaside Shells
+*Seaside Water Samples
+*Seaside Liquid Concoction
+*Seaside Mixture
+*Seaside Elite Exploration
+*Seaside Exploration Coins
+
+==Gallery==
+<gallery>
+The-free-realms-filter-5.webp
+436e6b381aa5a3a2df5483656170a039.jpg|Concept art of Seaside by Edwin Rosell.
+Seaside color.jpg|Concept art of Seaside in color by Edwin Rosell.
+Freerealms seaside.jpg
+Freerealms seaside2-1-.jpg
+"Free realms seaside by jelzie-d4rcqwd-1-.jpg|The rainbow waterfall
+Employeespotlightnov11.jpg
+</gallery>
+
+==Trivia==
+*Seaside is currently the only [[Locations|location]] where the ocean is viewable in Sacred Grove.
+
+==Sources==
+*[http://web.archive.org/web/20130903145420/http://edwinrosell.com/59040/512984/gallery/freerealms-environments FreeRealms Environments] on [https://edwinrosell.com/ Edwin Rosell]
+{{location}}
+[[Category:Locations]]
+[[Category:Seaside]]
+[[Category:Seaside Locations]]
+[[Category:Sacred Grove]]

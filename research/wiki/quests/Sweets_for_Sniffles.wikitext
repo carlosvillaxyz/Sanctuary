@@ -1,0 +1,38 @@
+<!-- Quest:Sweets for Sniffles | https://freerealms.fandom.com/wiki/Quest%3ASweets%20for%20Sniffles | CC-BY-SA -->
+{{Quest2
+|name = Sweets for Sniffles|detail summary = Yarith has given you medicine that will cure the Unicorns of their allergies. You'll need to take it to Silverspark right away. Hopefully she likes it.}}{{Questprog
+|quest series = [[Pony_Vale#Quest_Series|Pony Vale]]
+|next = [[Quest:Nature's Cure|Nature's Cure]]
+|previous = [[Quest:Gathering Evidence|Gathering Evidence]]}}
+==Requirements==
+Player must complete [[Quest:Gathering Evidence]] in order to do [[Quest:Sweets for Sniffles]]
+==To Start==
+Speak with [[Yarith Yewroot]] located in [[Green Watch]], [[Pony Vale]].
+==Objectives==
+Yarith at Green Watch has given you a remedy for the Unicorns of Unicorn Forest. Use it to cure their allergies.
+*'''Take Yarith's Remedy to Silverspark'''<br>Yarith has given you a remedy to cure the Unicorns of their allergies. Take it to Silverspark in Unicorn Forest as soon as you can.
+*'''Find an expert on sweets near Skysong Ledge'''<br>The allergy medicine Yarith gave you needs to be mixed with something sweet before the Unicorns can eat it. Find a sweets expert near Skysong Ledge that can help you find the perfect sweet to mix with!
+*'''Bring Marzipan some Vanilla Ice Cream'''<br>Marzipan thinks Vanilla Ice Cream will mix perfectly with Yarith's Remedy. Go buy some from Razzle the Robgoblin then bring it back to Marzipan for a taste test.
+*'''Bring Marzipan some Chocolate Ice Cream'''<br>Vanilla was a bust, but Marzipan is sure that Chocolate Ice Cream will mix perfectly with Yarith's Remedy. Go buy some from Razzle the Robgoblin then bring it back to Marzipan for a taste test.
+*'''Take the Mixed Remedy to Silverspark'''<br>Marzipan has given Yarith's Chocolate Ice Cream Mixed Remedy her stamp of approval. Deliver it to Silverspark and the other Unicorns of Unicorn Forest as fast as you can.
+==Steps==
+#Speak with [[Yarith Yewroot]] located at [[Green Watch]], [[Pony Vale]].
+#*"You say someone deliberately created these unnatural plants? That's terrible! They could ruin the delicate balance of nature in Pony Vale!<BR><BR>We must do something to fix this [*player_name*]. I'll start working on a way to counter the spread of these unnatural plants, but first we should help the Unicorns. Here, take this remedy to them. It should clear up that terrible sneezing problem they've been suffering from." -Yarith Yewroot
+#'''Take Yarith's Remedy to Silverspark'''
+#*Speak with [[Silverspark]] located in [[Unicorn Forest]], [[Pony Vale]].
+#**"[*player_name*]! It's so- Ah- So good to see you again. Achoo! Have you learned anything about our sneezing problem? Oh, you brought- Achoo! Brought a druid remedy?<BR><BR>Ack! This is terrible! There's just no way I can eat it. Maybe if- Ah- If you mixed it- Achoo! Mixed it with something sweet I'd be able to get it down. Look for someone that can help near Skysong Ledge.<BR><BR>Achoo!" -Silverspark
+#'''Find an expert on sweets near Skysong Ledge'''
+#*Speak with [[Marzipan]] located near [[Skysong Ledge]], [[Pony Vale]].
+#**"Why hello there! What brings you to my neck of the woods?<BR><BR>Wow! That's quite a story! So you need to mix this remedy with something the Unicorns will like? That's easy! Unicorns just love Ice Cream! You can even get some right here in Pony Vale. A little fellow named Razzle sells it from a kart to the east. But what flavor to use... maybe vanilla? Bring some back and I'll give it a taste test for you." -Marzipan
+#'''Bring Marzipan some Vanilla Ice Cream'''
+#*Purchase one [[Snowhill Ice Cream: Vanilla]] from the [[Coin Shop]]
+#*Speak with [[Marzipan]] located near [[Skysong Ledge]], [[Pony Vale]].
+#**"Do you have the Vanilla Ice Cream? Great, let's taste it!<BR><BR>Oh no... this flavor doesn't work with the remedy at all. I'm sorry, [*player_name*], I really thought vanilla would be perfect. I guess that just leaves chocolate. Bring me some for one last test!" -Marzipan
+#'''Bring Marzipan some Chocolate Ice Cream'''
+#*Purchase one [[Snowhill Ice Cream: Chocolate]] from the [[Coin Shop]]
+#*Speak with [[Marzipan]] located near [[Skysong Ledge]], [[Pony Vale]].
+#**"Ok, the moment of truth...<BR><BR>Yes, this tastes absolutely perfect! You should take it to the Unicorns right away, I'm sure they'll just love this mix." -Marzipan
+#'''Take the Mixed Remedy to Silverspark'''
+#*Speak with [[Silverspark]] located in [[Unicorn Forest]], [[Pony Vale]].
+#**"Oh, [*player_name*], have you- Ah- Have you found something to mix that remedy with? Achoo!<BR><BR>Chocolate ice cream! That's brilliant!<BR><BR>Achoo!" -Silverspark
+[[Category:Quest]]

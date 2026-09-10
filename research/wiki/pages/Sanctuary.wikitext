@@ -1,0 +1,103 @@
+<!-- Sanctuary | https://freerealms.fandom.com/wiki/Sanctuary | CC-BY-SA -->
+{{LocationInfobox
+|name= Sanctuary[[File:Logo sanctuary.png|50px]]
+|image= map sanctuary.png
+|type= City
+|level= All
+|location= Heart of [[Sacred Grove]]
+|inhabitants= [[Human|Humans]]<br>[[Pixies]]}}
+'''Sanctuary''' is the capital of the [[Sacred Grove]], and home to the [[World Tree]] as well as the Royal Family. It is located in the middle of the [[Atlas]]. To the south of the World Tree, there is a shopping district called [[Pixiewood Hills]] that has [[Merchants|merchants]] that sell almost anything found in the marketplace.
+
+Some interesting lore from within the [[Memorial Caverns]] in Sanctuary has been discovered.
+[[File:Sanctuary Arch..png|thumb|291x291px]]
+==Points of Interest==
+*Adoption Center
+*Barracks
+*Hospital
+*[[Memorial Caverns]]
+*[[Pixiewood Hills]]
+*[[Queensfields]]
+*[[World Tree|Royal Palace]]
+*[[Royal Vault]]
+*Sanctuary Post Office
+*Town Hall
+
+==Job Trainers==
+*Card Duelist: [[Poe Tatters]] (unlocks job)
+*Card Duelist: Sam Potts in Sanctuary (unlocks job)
+*Chef: Bordon Cloo (unlocks job)
+*Medic: Nurse Naia (unlocks job) 
+*Medic: Doctor Gordon 
+*Medic: Clover 
+*Pet Trainer: Roscoe
+*Pet Trainer: Kirill Moonrunner (Master Trainer)
+*Postman: Felipe (unlocks job)
+*Postman: Flitter
+*Warrior: Doctor Gordon 
+*Warrior: General Glowlight 
+*Warrior: Sir Whittington 
+
+==Shops==
+*Accessories
+*Archer Clothing & Weapons (lvl 19 weapons, lvl 20 clothes) 
+*Chef Supplies & Recipes
+*Chef Tools (lvl 1, 17)
+*Chef & Wizard Clothing (lvl 20) (Wizard items)
+*Chef & Wizard Clothing (lvl 20) (all pink) (Wizard items)
+*Crafting Supplies
+*Fancy Pet Sweaters
+*Medic Clothing & Weapons (lvl 1 weapon, lvl 20 clothes) 
+*Men's Clothing
+*Pet Collars
+*Pet Supplies
+*Pink Clothing (male & female)
+*Potions
+*Sanctuary Adoption Center (pets) 
+*Warrior Weapons (lvl 11) 
+*Wizard Weapons (lvl 19) 
+*Women's Clothing
+
+==Local [[Dungeons]]==
+*[[Bixie Hive]]
+*[[Cursed Graveyard!]]
+*[[Darvon's Descent]]
+*[[Forgotten Caves]]
+
+==Minigames==
+*Banker
+*Halloween Harry (Halloween Event)
+*Spot the Difference
+*Sam Potts (Card Game)
+*Cooking Table
+*Poe Tatters (Card Game)
+*Jili (Card Game)
+*Bixie Tower Defense
+*Checkers & Chess
+
+==Resources==
+*Gummyfruit
+*Rainleaf
+*Spiralmint
+*Stainberry
+*Bumbleberry
+*Honeytwig
+
+==[[Collections]]==
+*Sanctuary
+*Sanctuary Rare Exploration
+*Sanctuary Water Samples
+*Sanctuary Mixture
+*Sanctuary Liquid Concoction
+
+==Gallery==
+<gallery>
+The-free-realms-filter-5.webp
+Ayani Color Concept.jpg|Concept art of Sanctuary.
+</gallery>
+
+==Trivia==
+*Sanctuary was originally named after [[Ayani]] back in the early development of ''[[Free Realms]]''.
+{{Location}}
+[[Category:Locations]]
+[[Category:Sanctuary]]
+[[Category:Sacred Grove]]

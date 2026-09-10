@@ -1,0 +1,28 @@
+<!-- Quest:The Eggcellent Egg Hunt | https://freerealms.fandom.com/wiki/Quest%3AThe%20Eggcellent%20Egg%20Hunt | CC-BY-SA -->
+{{Quest2
+|detail summary = A robgoblin stole one of Alyssa Eggelyn's special eggs and hid it somewhere in Sacred Grove. She wants you to find it and return it to her.|first reward = Egg Coloring Kit|first reward image name = Eggcolouringkit.png|name = The Eggcellent Egg Hunt|second reward = <small>Alyssa's Oddly Swirled Egg</small>|second reward image name = Allysasswirledegg.png|left}}{{Questprog
+|previous = [[Quest:The Spring Eggstravaganza|The Spring Eggstravaganza]]|next = [[Quest:The Eggcitingly Eggcellent Egg Hunt|The Eggcitingly Eggcellent Egg Hunt]]|quest series = [[Spring_Eggstravaganza#Daily_Quests|Spring Eggstravaganza Quest Series]]}}
+==Notes==
+This quest is only available during the time of [[Spring Eggstravaganza]].
+==Requirements==
+Player must complete [[Quest:The Spring Eggstravaganza]] in order to do [[Quest:The Eggcellent Egg Hunt]]
+==To Start==
+Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+==Goals==
+One of Alyssa's eggs has been hidden somewhere in Sacred Grove and she needs you to find it.
+*Find Alyssa Eggelyn's stolen egg.
+*Return to Alyssa Eggelyn.
+==Steps==
+#Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+#*"That dirty robgoblin did it again. When I went to count my eggs I found one was missing with a note from him saying he hid it again.<br />I need all of my eggs before the Spring Eggstravaganza, please use your special skills to find my missing egg." -Alyssa Eggelyn
+#Find Alyssa Eggelyn's stolen egg.
+#*The egg is located at the Northernmost point of the lake that borders the [[Blackspore Swamp]].
+#Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+#*"Hooray you found it and not a moment too soon. Thank you for helping me, please take this special egg that I saved for you to open on Spring Eggstravaganza day." -Alyssa Eggelyn
+==References==
+*[[Spring Eggstravaganza]]
+*[[Robgoblin]]
+*[[Alyssa Eggelyn]]
+*[[Sacred Grove]]
+[[Category:Quest]]
+[[Category:Spring Eggstravaganza]]

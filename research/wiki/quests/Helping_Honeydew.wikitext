@@ -1,0 +1,23 @@
+<!-- Quest:Helping Honeydew | https://freerealms.fandom.com/wiki/Quest%3AHelping%20Honeydew | CC-BY-SA -->
+{{Quest2|name=Helping Honeydew|detail summary=The baby horses in Skysong Glade are running around all over the place! Honeydew has asked you to help her bring them back to the nursery as quickly as possible.}}
+
+Helping Honeydew is an errand quest given by the titular character upon being sent from Peppermint. This quest sees you finding some foals (young horses) that are playing in the woods.{{Questprog|quest series=[[Pony_Vale#Quest_Series|Pony Vale]]|previous=[[Quest:Warm Welcome|Warm Welcome]]|next=[[Quest:Meeting the Princess|Meeting the Princess]]}}
+
+== Quest Overview ==
+This quest is given to you upon first talking to Honeydew. She is in charge of watching the baby horses and has lost track of them. She requests that you assist her in locating them so that they can head back to the nursery for the night. 
+
+== Instructions: ==
+The ponies will be located in various spots around the immediate area. Upon finding one of the foals, you will interact with them, which will update the goal. Once you find all the horses, you will return to Honeydew for your reward.
+
+== Quest Dialogue: ==
+
+=== Honeydew upon first contact: ===
+"Those little horses just won't sit still! Oh I wish I could get them back to the nursery... Wait a minute, you seem pretty quick! Want to help me?
+
+The ponies are just playing hide-n-seek, so all you need to do is find them and they'll go right back to the nursery on their own."
+
+=== Honeydew upon finding all the baby horses: ===
+"Oh thank you! I'm sure I would have been looking for those little horses all day if not for your help."
+[[Category:Quest]]
+[[Category:Pony Vale]]
+[[Category:Pony Vale Quests]]

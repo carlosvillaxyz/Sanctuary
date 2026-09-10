@@ -1,0 +1,90 @@
+<!-- Card Duelist | https://freerealms.fandom.com/wiki/Card%20Duelist | CC-BY-SA -->
+{{JobInfobox
+|name= Card Duelist
+|image= CardDuelist.png
+|caption= Male [[Human]] Card Duelist}}
+[[Image:CardDT.png|left]]''<font style="font-size:15px">{{Quote|The [[Free Realms|Free Realms™]] [[Trading Card Game|Trading Card game]] is fun and easy! There are trainers in many places who are happy to challenge you to duels. Some will even award you special cards for winning matches. When you start the Trading Card Game for the first time, you will receive a free starter pack. Visit [[Poe Tatters]] in [[Sanctuary]] to get started.|Job description}}</font>''
+'''Card Duelist''' is a gaming [[Jobs|job]], specializing the Free Realms TCG. A freestyle class job, experience is gained by competing against [[Non-Playable-Character|NPCs]] in the Free Realms TCG and completing the Duelist quests.
+[[File:Pumpkinprince.png|thumb|Example of a card]]
+
+==Unlocking Card Duelist==
+Card Duelist can be unlocked by activating a quest line with any of the following trainers:
+* [[Poe Tatters]] in [[Sanctuary]]
+* [[Sam Potts]] in Sanctuary
+* Garrison Gold in [[Snowhill]]
+
+Alternately, if the player speaks with [[Shifty The Shuffler]] in [[Wugachug]], a quest will be added to the journal directing them to Poe Tatters in Sanctuary.
+
+[[File:Img 20130427-13-54-11.jpg|thumb]]
+
+==Trainers==
+* '''Poe Tatters:''' [[Sanctuary]] (unlocks job)
+* '''Sam Potts:''' Sanctuary (unlocks job)
+* '''Garrison Gold:''' [[Snowhill]] (unlocks job)
+* '''[[Bry]]:''' [[Lakeshore]]
+* '''[[Jammie Swiftsong]]:''' [[Seaside]]
+* '''Shifty the Shuffler:''' [[Wugachug]]
+* '''Sasparilla Brewmaster Wugawump:''' Wugachug
+* '''Ari the Fish:''' [[Merry Vale]]
+* '''Herme Fickleleaf:''' Merry Vale
+* '''Maple Sugarleaf:''' [[Farnum's Farm]]
+
+==[[Quests]]==
+* '''Card Duelist: Pick a Card, any Card''': Shifty the Shuffler in [[Wugachug]] (optional)
+
+<u>'''Poe Tatters'''</u>
+* Card Duelist: Enter the Champion
+* Card Duelist: Sam I Am
+
+<u>'''Sam Potts'''</u>
+* Card Duelist: 52 Card Pick-Up
+* Card Duelist: Practice Makes Perfect
+* Card Duelist: So Over Archery
+* Card Duelist: Cardie 4 Life
+
+<u>'''Poe Tatters'''</u>
+* Card Duelist: History of the Crew
+* Card Duelist: Half a Deck
+* Card Duelist: Poe's Planted Cards
+* Card Duelist: Poe's Best Deck
+* Card Duelist: An Old Friend
+
+<u>'''Bry'''</u>
+* Card Duelist: Battle Bry
+* Card Duelist: Cardie Party
+* Card Duelist: Garrisoning Garrison
+
+<u>'''Garrison Gold'''</u>
+* Card Duelist: Serious Business
+* Card Duelist: Snowhill Showdown
+* Card Duelist: Shifty Dealings
+
+<u>'''Shifty the Shuffler'''</u>
+* Card Duelist: Misplaced Deck
+
+<u>'''Sasparilla Brewmaster Wugawump'''</u>
+* Card Duelist: Squash the Shuffler
+* Card Duelist: Parcel Recovery
+
+<u>'''Jammie Swiftsong'''</u>
+* Card Duelist: Monty Has 'Em All
+* Card Duelist: Just One More!
+* Card Duelist: Finding the Fish
+
+<u>'''Ari the Fish'''</u>
+* Card Duelist: Proof is in the Cards
+* Card Duelist: Herme the Hermit
+
+<u>'''Herme Fickleleaf'''</u>
+* Card Duelist: Playing a Prodigy
+
+<u>'''Maple Sugarleaf'''</u>
+* Card Duelist: Best of the Best!
+
+==Equipment==
+===Clothing===
+''NB!'' Any non-job specific clothing can be worn with this job. However, there are a few special articles of clothing that can be obtained by completing Card Duelist quests.
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Trading Card Game]]
+[[Category:Card Duelist]]

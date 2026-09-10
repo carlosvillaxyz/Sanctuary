@@ -1,0 +1,135 @@
+<!-- Coin Shop | https://freerealms.fandom.com/wiki/Coin%20Shop | CC-BY-SA -->
+The '''Coin Shop''' is very similar to the [[Station Cash Marketplace]], but unlike the SC Marketplace, you buy wares with [[File:Gicon.png|15px]][[Coin]]s as opposed to [[File:Sc.png|16px|top|link=Station Cash]][[Station Cash]].
+
+==Common Coin Shop Tint Pallet==
+{| class="frdialogue" border="1" cellspacing="no" cellpadding="no" style="background:white; width:665px; text-align: center; font-weight:bold; color:black;"
+| style="width:95px; border-bottom: none; background-color: rgb(191, 0, 0)" |
+<br /><br />
+| style="width:95px; border-bottom: none; background-color: rgb(190, 166, 136);" |
+<br /><br />
+| style="width:95px; border-bottom: none; background-color: rgb(96, 48, 24);" | 
+<br /><br />
+| style="width:95px; border-bottom: none; background-color: rgb(110, 206, 110);" |
+<br /><br />
+| style="width:95px; border-bottom: none; background-color: rgb(9, 46, 102);" |
+<br /><br />
+| style="width:95px; border-bottom: none; background-color: rgb(197, 110, 255);" |
+<br /><br />
+|-
+| style="border-bottom: none; border-top: none;" |
+Thunderbird
+| style="border-bottom: none; border-top: none;" |
+Sandrift
+| style="border-bottom: none; border-top: none;" |
+Toasty
+| style="border-bottom: none; border-top: none;" |
+Mantis
+| style="border-bottom: none; border-top: none;" |
+Midnight
+| style="border-bottom: none; border-top: none;" |
+Amethyst
+|-
+| style="width:95px; border-bottom: none; background-color: rgb(128, 74, 0);" |
+<br /><br />
+| style="width:95px; border-bottom: none; background-color: rgb(151, 91, 60);" |
+<br /><br />
+| style="width:95px; border-bottom: none; background-color: rgb(247, 243, 116);" |
+<br /><br />
+| style="width:95px; border-bottom: none; background-color: rgb(0, 128, 128);" |
+<br /><br />
+| style="width:95px; border-bottom: none; background-color: rgb(59, 80, 131);" |
+<br /><br />
+| style="width:95px; border-bottom: none; background-color: rgb(148, 148, 148);" |
+<br /><br />
+|-
+| style="border-bottom: none; border-top: none;" |
+Allspice
+| style="border-bottom: none; border-top: none;" |
+Commoner
+| style="border-bottom: none; border-top: none;" | 
+Honeydew
+| style="border-bottom: none; border-top: none;" |
+Sapphire
+| style="border-bottom: none; border-top: none;" |
+Blizzard
+| style="border-bottom: none; border-top: none;" |
+Shadestone
+|}
+
+==Coin Shop==
+You can a varies amount of different items such as:
+
+*Clothes
+*Weapons
+*[[Pets]]
+*Furniture
+*Jewelry 
+*[[:Category:Potions|Potions]]
+*Recipes
+*[[Items]]
+*Farming Supplies
+*Crafting Supplies
+*Flair Shards
+*Style Cards
+
+===Flair Shards===
+*[[Ninja's Flair Shard of Dancing Shadow]] 
+*[[Ninja's Flair Shard of Ice]] 
+*[[Archer's Flair Shard of Autumn]] 
+*[[Archer's Flair Shard of Ice]]
+*[[Archer's Flair Shard of Smoldering]] 
+*[[Archer's Flair Shard of Spores]] 
+*[[Archer's Flair Shard of the Arctic]]
+*[[Archer's Flair Shard of the Forest]]
+*[[Archer's Flair Shard of Thorns]] 
+*[[Archer's Flair Shard of Valentines]] 
+*[[Brawler's Flair Shard of Fire]] 
+*[[Brawler's Flair Shard of Glamour]] 
+*[[Brawler's Flair Shard of Ice]] 
+*[[Brawler's Flair Shard of Meteors]] 
+*[[Brawler's Flair Shard of Prosperity]]
+*[[Brawler's Flair Shard of Shattering]] 
+*[[Brawler's Flair Shard of Smoldering]] 
+*[[Brawler's Flair Shard of Sparks]] 
+*[[Brawler's Flair Shard of the Forest]] 
+*[[Brawler's Flair Shard of Valentines]] 
+*[[Medic's Flair Shard of Energy]] 
+*[[Medic's Flair Shard of Glamour]] 
+*[[Medic's Flair Shard of Ice]] 
+*[[Medic's Flair Shard of Infection]]
+*[[Medic's Flair Shard of Miracles]] 
+*[[Medic's Flair Shard of Prosperity]]
+*[[Medic's Flair Shard of Smoldering]]
+*[[Medic's Flair Shard of the Forest]]
+*[[Medic's Flair Shard of Valentines]]
+*[[Medic's Flair Shard of Vital Vitae]] 
+*[[Ninja's Flair Shard of Dancing Shadow]] 
+*[[Ninja's Flair Shard of Discipline]] 
+*[[Ninja's Flair Shard of Glamour]] 
+*[[Ninja's Flair Shard of Harmony]] 
+*[[Ninja's Flair Shard of Ice]] 
+*[[Ninja's Flair Shard of Mystery]]
+*[[Ninja's Flair Shard of Prosperity]] 
+*[[Ninja's Flair Shard of Smoldering]] 
+*[[Ninja's Flair Shard of the Forest]] 
+*[[Ninja's Flair Shard of Valentines]] 
+*[[Warrior's Flair Shard of Focus]]
+*[[Warrior's Flair Shard of Glamour]] 
+*[[Warrior's Flair Shard of Ice]] 
+*[[Warrior's Flair Shard of Majesty]]
+*[[Warrior's Flair Shard of Molten Fury]] 
+*[[Warrior's Flair Shard of Prosperity]]
+*[[Warrior's Flair Shard of Smoldering]] 
+*[[Warrior's Flair Shard of the Forest]] 
+*[[Warrior's Flair Shard of Valentines]]
+*[[Warrior's Keen Flair Shard]]
+*[[Wizard's Flair Shard of Ice]] 
+*[[Wizard's Flair Shard of Ice]] 
+*[[Wizard's Flair Shard of Necromancy]] 
+*[[Wizard's Flair Shard of Smoldering]] 
+*[[Wizard's Flair Shard of Subtlety]] 
+*[[Wizard's Flair Shard of the Forest]] 
+*[[Wizard's Flair Shard of the Gifted]] 
+*[[Wizard's Flair Shard of the Spheres]] 
+*[[Wizard's Flair Shard of Valentines]]
+[[Category:Coin Shop]]

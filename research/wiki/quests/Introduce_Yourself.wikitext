@@ -1,0 +1,44 @@
+<!-- Quest:Introduce Yourself | https://freerealms.fandom.com/wiki/Quest%3AIntroduce%20Yourself | CC-BY-SA -->
+There are two Introduce Yourself quests, one located in [[Quest:Introduce Yourself#Cobblestone_Village|Cobblestone Village]] and one located in [[Quest:Introduce Yourself#Stillwater_Crossing|Stillwater Crossing]]. When you complete one, the other quest becomes unavailable for that player.
+=Cobblestone Village=
+{{Quest2
+|detail summary = Ricky Danger has crashed another race car! This time he destroyed the lamppost next to the Brawling Ring in Cobblestone Village. Help him out and you might be able to meet some of his racing buddies!|coin amount = 5}}{{Questprog
+|previous = |next = [[Quest:Call The Crew!|Call The Crew!]]|quest series = [[Cobblestone Village|Cobblestone Village Quest Series]]}}
+==To Start==
+Speak with [[Samantha]] located in [[Cobblestone Village]].
+==Goals==
+Introduce yourself to Ricky Danger in Cobblestone Village.
+*Talk to Ricky Danger
+==Steps==
+#Speak with [[Samantha]] located in [[Cobblestone Village]].
+#*"You meet the coolest people here in Cobblestone Village!<br /><font color= '#D9781A'>Ricky Danger</font> is a famous Kart Driver.<br />Go say hi!" -Samantha
+#Speak with [[Ricky Danger]] located in [[Cobblestone Village]].
+#*"That lamp post? Came out of nowhere, I swear!<br />I need to get my kart fixed for the next big race, and you can help!" -Ricky Danger
+==References==
+*[[Cobblestone Village]]
+*[[Brawling Ring]]
+*[[Ricky Danger]]
+*[[Samantha]]
+*[[Kart Driver|Kart Racer]]
+*[[Kart]]
+=Stillwater Crossing=
+{{Quest2
+|detail summary = Introduce yourself to the famous racer, Francis Panic.|coin amount = 5}}{{Questprog
+|previous = |next = [[Quest:Power problems|Power Problems]]|quest series = [[Stillwater Crossing|Stillwater Crossing Quest Series]]}}
+==To Start==
+Speak with [[Valerie]] located in [[Stillwater Crossing]].
+==Goals==
+Introduce yourself to Francis Panic in Stillwater Crossing.
+*Talk to Francis Panic
+==Steps==
+#Speak with [[Valerie]] located in [[Stillwater Crossing]].
+#*"You meet the coolest people here in Stillwater Crossing!<br /><font color= '#D9781A'>Francis Panic</font> is a famous Kart Driver.<br />Go say hi!" -Valerie
+#Speak with [[Francis Panic]] located in [[Stillwater Crossing]].
+#*"I can't believe my kart ran out of power! I'm gonna be late to the big race!" -Francis Panic
+==References==
+*[[Stillwater Crossing]]
+*[[Francis Panic]]
+*[[Valerie]]
+*[[Kart Driver|Kart Racer]]
+*[[Kart]]
+[[Category:Quest]]

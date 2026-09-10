@@ -1,0 +1,251 @@
+<!-- Sunstone Valley | https://freerealms.fandom.com/wiki/Sunstone%20Valley | CC-BY-SA -->
+{{LocationInfobox
+|name= Sunstone Valley[[File:Logo Sunstone Valley.png|50px]]
+|image= Sunstone.jpg
+|type= Region
+|level= Varied
+|location= NE of [[Shrouded Glade]], N of [[Briarwood]]
+|inhabitants= [[Robgoblins]]<br>[[Dwarves]]<br>[[Feathered Drakes]]<br>[[Manguana|Manguanas]]<br>[[Rocklar|Rocklars]]}}
+'''Sunstone Valley''' is a desert area that can be found on the [[Atlas|Atlas]] on a northern extension created among it's arrival. It has open world combat, where [[:Category:Enemies|enemies]] roam the land and attack approaching players. Once a player has been defeated, they are prompted to revive in a safezone or spend 1,000 [[Coins|coins]] to receive on the spot of defeat. When an enemy is defeated, there is a possibility that the player will receive a loot drop; clothes, crafting ingredients, recipes, or consumables. Different enemies types will drop different loots, but all enemies will have a chance to drop a small amount of coins.
+
+Inhabitants of Sunstone Valley range from large reptilian humanoids known as [[Manguana|manguanas]], frontier [[Robgoblin|robgoblins]], [[Feathered Drakes|feathered drakes]], [[Rocklar|rocklars]] and Biker [[Dwarves]].
+[[File:Welcometossv.jpg|thumb|300px]]
+==Selections==
+There are selections in the [[Atlas]], with two [[Locations|locations]] that are viewable.
+
+South is [[Sacred Grove]], near the [[Rough Rider Raceway]], where players can encounter.
+
+North is [[Glimmerdeep]], near the [[Rocklar Village]]. Players couldn't travel there because its entrance is blocked by the barrier.
+
+==Sub-Regions==
+In Sunstone Valley, it's split into sections.
+
+The first being is [[Pony Vale]], where the [[Mystical Barrier]] is next to another area where [[Sandspear]] is found in, and the water path is on there where you have to swim there.
+
+The last being is the Rocklar Village, where it is near the [[Drakewind Peak]], and the rock bridge is there where you have to walk there.
+
+==Points of Interest==
+*[[Glimmerdeep Hydropower Dam]]
+*[[Mystical Barrier]]
+*[[Red's Haven]]
+*[[Rough Rider Raceway]]
+*[[Rumble Ridge]]
+*[[Wheelie Pete's Roadhouse]]
+*[[Whirly's Scrap Camp]] (Crafting)
+*[[Drakewind Peak]]
+*Skullz Base Camp
+*[[Pony Vale]]
+*[[Rocklar Village]]
+
+==[[Dungeons]]==
+*Precursor Ruins
+*[[Sandscale Oasis]]
+*[[The Rumbledome]]
+
+==Mobs==
+===[[Non-Playable-Character|NPCs]]===
+*[[Broheim Backfire]]
+*[[Dorn Geargrinder]]
+*[[Golmie Greasebeard]]
+*Jarvus
+*[[Noggle Cogloose]]
+*Headmaster Merk
+*[[Peace-guana Joe]]
+*[[Whirly Willis]]
+*[[Red Stonehammer]]
+*[[Rizzle]]
+*[[Sarkin Stonehearth]]
+*Scrap Collector Flashbang
+*[[Scrapsmith Crackle]]
+*[[Wheelie Pete]]
+*[[Harley]]
+*[[Lieutenant Brock]]
+
+===[[Boss|Bosses]]===
+*[[Quetzalcoatl]]
+*[[Sandspear]]
+*[[Scrapmaster Fizzbang]]
+*[[Zandro Rageracer]]
+
+===[[:Category:Enemies|Enemies]]===
+====[[Feathered Drakes]]====
+*Feathered Drake Ambusher
+*Feathered Drake Defender
+*Feathered Drake Spiritcaller
+*Feathered Drake Windwhisperer
+
+====[[Manguana|Manguanas]]====
+*[[Sandscale Hunter]]
+*[[Sandscale Magus]]
+*[[Sandscale Scavenger]]
+*[[Sandscale Water-seeker]]
+
+====[[Robgoblins]]====
+*[[Robgoblin Junk Thief]] (Quest)
+*[[Robgoblin Kaboomer]]
+*[[Robgoblin Mechanic]]
+*[[Robgoblin Shinyseeker]]
+*[[Robgoblin Tinkerer]]
+
+====[[Skullz]] [[Dwarves]]====
+*[[Bronzeknuckles]] (Dungeon)
+*[[Goldcrusher]] (Dungeon)
+*[[Rumbledome Gladiator]] (Dungeon)
+*[[Silverfist]] (Dungeon)
+*[[Skullz Brawler]] (Quest)
+*[[Skullz Commander]]
+*[[Skullz Hooligan]]
+*[[Skullz Roughrider]]
+*[[Skullz Thug]]
+
+==[[Quests|Questline]]==
+===[[Shrouded Glade]]===
+[[Arch Druid Camellia]]:
+*[[Quest: Aiding our Allies]]
+
+===[[Rumble Ridge]]===
+[[Dorn Geargrinder]]:
+*[[Quest: Sobering Homecoming]]
+*[[Quest: Bike Retrieval]]
+
+[[Golmie Greasebeard]]:
+*[[Quest: A Deal with a Dust Devil]]
+*[[Quest: Fixing Up a Sweet Ride]]
+
+[[Dorn Geargrinder]]:
+*Quest: Race for Dominance
+*Quest: Welcome to the Rumbledome
+
+[[Golmie Greasebeard]]
+*Quest: Better Treads
+*Quest: Better Threads
+*Quest: House Cleaning
+
+[[Dorn Geargrinder]]:
+*Quest: Enter the Rumbledome
+*Quest: The Search for Golmie Greasebeard
+*[[Quest:Friend or Foe:The Savage|Quest: Friend or Foe: The Savage]]
+
+Headmaster Merk:
+*Quest: Friend or Foe:The Tradesgoblin
+*Quest: Friend or Foe:The Monster
+[[Dorn Geargrinder]]:
+*Quest: Saving a Friend
+
+===[[Wheelie Pete's Roadhouse]]===
+[[Wheelie Pete]]:
+*[[Quest: Like Scavengers in a Barrel]]
+*[[Quest: Hog Wild Harley]] (repeatable)
+*[[Quest: The Water Must Flow!]]
+*[[Quest: The Secret Ingredient Is...]]
+*[[Quest: For Rizzle]]
+
+===Whirly's Scrap Camp===
+Level 8
+[[Rizzle]]:
+*[[Quest: A Beautiful Friendship]]
+*[[Quest: Ka-Boom or Not To Boom]]
+*[[Quest: Junk or Bust]]
+*[[Quest: Robot Woes]] (repeatable)
+*[[Quest: The Legendary Sunstone]]
+
+===Noggle's Retreat===
+Level 12
+[[Noggle Cogloose]]:
+*Quest: Ambush Recovery
+*Quest: Power Crystals Not Included
+*Quest: Noggle Interrupted
+*Quest: Committed to the Plan
+*[[Quest: Ruined Return]]
+
+===[[The Dig]]===
+Level 16 [[Sarkin Stonehearth]]:
+*Quest: Under Pressure
+*Quest: Raider Repo
+*Quest: Sabotage for Safety (repeatable)
+*Quest: It's Too Quiet...
+*[[Quest:Rescue in the Ruins]]
+
+===[[Blacksmith]]===
+Level 1
+*Quest: Blacksmith:Grunt Work
+*Quest: Blacksmith:Breaking a Sweat
+
+Level 4
+*Quest: Blacksmith:Crackin' Skullz
+*Quest: Blacksmith:Can We Build It?
+Level 8
+
+*Quest: Blacksmith:Scrap Surfin'
+*Quest: Blacksmith:Fom Scraps to Iron
+Level 12
+
+==Collections==
+*Sunstone Valley
+*Sunstone Valley Elite Exploration
+*Sunstone Valley Explorer
+*Sunstone Valley Rare Exploration
+
+==Mining==
+*Sunstone Copper Vein
+*Rare Sunstone Copper Vein
+*Sunstone Tin Vein
+*Rare Sunstone Tin Vein
+*Sunstone Iron Vein
+*Rare Sunstone Iron Vein
+*Sunstone Silver Vein
+*Rare Sunstone Silver Vein
+*Sunstone Gold Vein
+*Rare Sunstone Gold Vein
+
+==Crafting Recipes==
+*Chrome Cactoid Device
+*Chrome Drakeling Device
+*Chrome Mini-Rocklar Device
+*Drake Statue
+*Dust Storm Flair Shard
+*Dwarf Biker Firework
+*Hammer Fist
+*Manguana Statue
+*Motorsmith Boots
+*Motorsmith Gloves
+*Motorsmith Pants
+*Motorsmith Tank Top
+*Motorsmith Tool Belt
+*Motorsmith Welding Mask
+*Mystery Tint Chrome Cactoid Kit
+*Mystery Tint Chrome Drakeling Kit
+*Mystery Tint Mini-Mech Kit
+*Power Crystal Flair Shard
+*Robgoblin Archway
+*Skullz Wall Hanging
+*Striped Mini-Mech
+*Sunny Potion
+
+==Gallery==
+<gallery>
+StormfrontMountains 2007.jpg|Sunstone Valley in the early design of the [[Atlas]].
+Img 3re2a.png|It's entrance was originally blocked by barriers in Shrouded Glade that players couldn't enter until the Sunstone Valley update in late September 2012.
+Stormfront market huts comp 001.jpg|Concept art of the market huts. These huts were planned to be set for Stormfront Mountains (renamed into Sunstone Valley).
+Cda095e107c8d7fa42d5bd0153340a17.jpg|Concept art of Sunstone Valley without color.<ref>http://web.archive.org/web/20130903145420/http://edwinrosell.com/59040/512984/gallery/freerealms-environments</ref>
+Sunstone Valley concept.png|Concept art of Sunstone Valley with color.
+Img 20130103-17-26-50 thumb.png|Full map of Sunstone Valley.
+Screenshot.free-realms.1016x720.2011-09-28.690.jpg
+Screenshot.free-realms.1013x720.2011-09-28.687.jpg
+Free Realms PC 02.jpg
+FR SV image.jpg
+</gallery>
+
+==Trivia==
+*Sunstone Valley was originally called Stormfront Mountains back in 2009.
+*Sunstone Valley was the only major location addition to ''[[Free Realms]]'' in the update released on September 19, 2012.
+*According to ''Free Realms'' Game Designer, Ryan Shannon in the video, Sunstone Valley is about the size of [[Briarwood]].<ref>https://youtu.be/P2K7QZVB7Sw Free Realms Sunstone Valley Part 2 -- New Features!</ref>
+*Sunstone Valley's open world combat is similar in style to [[w:c:cwa:PvE|Clone Wars Adventures]].
+*Sunstone Valley was the only location outside Sacred Grove where players could explore
+
+==References==
+<references responsive="0" />
+{{Location}}
+[[Category:Locations]]
+[[Category:Sunstone Valley]]
+[[Category:Sunstone Valley Locations]]

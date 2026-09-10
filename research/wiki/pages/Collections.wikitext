@@ -1,0 +1,77 @@
+<!-- Collections | https://freerealms.fandom.com/wiki/Collections | CC-BY-SA -->
+[[Image:Collections.png|thumb|300px]]
+'''Collections''' are [[Items|items]] that are found around [[Sacred Grove]] and [[Sunstone Valley]]. They are usually discovered by clicking on sparkling [[Locations|locations]] such as leaves and junkpiles. Some collections do not require you to gather physical items, but simply discover a specific set of locations. If you find a new item, you will be rewarded with [[Adventurer]] experience. Some are easier to find then others. Some require you to thoroughly check out towns and cities while some just want you to collect items in assorted areas. Some collectibles are [[Membership|member]]-only. If you complete a collection, you may earn a reward.
+
+==Collection Types==
+===Exploration Collections===
+'''''Exploration''''' collections require you to simply discover a specific set of locations. Approaching any location in the list will activate the corresponding collection. Approaching subsequent locations will add them to your collection until complete.
+
+====Rare Exploration Collections====
+'''''Rare Exploration''''' collections are more difficult to find locations that can be spotted by turning, sparkling "coins" which must be clicked to collect. Coins associated with the realm they are found in: [[Sanctuary]], [[Seaside]], [[Shrouded Glade]], [[Merry Vale]], [[Wugachug]], [[Blackspore Swamp]], [[Briarwood]], [[Snowhill]] and Sunstone Valley. Collection names give hints as to where the coins are, but to see any of the names you must find at least one coin in the collection. Even though there are only nine places there are twenty-two coin collections, there is an Elite collection and a Rare collection for every realm and the northeast, northwest, southeast and southwest rare collection which can be found in their titles of The Sanctuary.
+
+====Explorer Collections====
+'''''Explorer''''' collections are collections of the ''Exploration'' and ''Rare Exploration'' collections. Completing an ''Exploration'' or ''Rare Exploration'' collection will activate the corresponding collection.
+
+===Item Collections===
+'''''Item''''' collections pieces can be found in sparkling "spawn" objects that appear almost anywhere in the world. Each spawn will yield one item which can be a piece from any number of different collections depending on the area or the [[Spawn Types|type of spawn]]. Types of spawns are also differing depending on the area. Items may give either Adventurer experience or randomly award experience to other jobs.
+
+Items also come in two qualities. '''''Common''''' collection items appear the most frequently. '''''Rare''''' collection items appear less frequently and the spawn object will have the words ''<Rare Collection>'' under the object name. The appearance of a rare spawn will differ slightly from a common one, and the sparkling effect will appear more like fireworks.
+
+====Meta Collections====
+'''''Meta''''' collections are item collections that can only be started and finished by completing other ''Item'' collections.
+
+====Job Collections====
+'''''Job''''' collections are collections of items that tie into a particular [[Jobs|Job]]. Pieces can be found in sparkling "spawn" objects similar to ''Item'' collection spawns. However, these spawns will appear only in areas that correspond with a particular job, and only if you have switched to that job. (ie. "''[[Ninja]] Materials''" will only appear in [[Combat|combat]] areas if dressed as a ninja) Completion of the full collection will award some job experience as well as a job related item.
+
+====Cascading Collections====
+'''''Cascading''''' collections are collections where the reward from completing one ''Item'' collection contributes an item for another collection. Completing these collections can often result in a final reward of a highly valued and rare item.
+
+==Types of Collections==
+===Ghostly Lantern===
+"Obtain a haunted light, eerie flame or even a lantern with a wraith-like glow, all lit by the supernatural powers of the unknown."
+
+===Fireflies===
+"Never has a bug collection been so rewarding. You'll find lots of different bugs along your journey. These firefly sparks are just a glimpse of the excitement ahead."
+
+"Collect enough keys and unlock a grand treasure trove. If you are brave enough, you can even collect special keys that unlock secrets of the past."
+
+===Sabertooth Fossils===
+"Find these rare fossils from overgrown monster cats that must have chased some really big mice!"
+
+===Stamps===
+"Collect stamps from all parts of Free Realms, near and far. Gather a stamp from the Wilds or even one with a [[Robgoblins|Robgoblin]] on it!"
+
+===Medals of Honor===
+"Prestigious medals are handed out for going above and beyond the call of duty. Rise to the occasion to receive your honor."
+
+===Shark Teeth Fossils===
+"Did you get a good look at these fossilized pearly whites? Gather the largest set of chompers you will ever see, from sharks as large as the Great White."
+
+===Awesome Buttons===
+"Be on the lookout for every imaginable button: From designer buttons to teddy bear buttons, this might put your grandma's sewing kit to shame."
+
+===Gold Medals===
+"1st place medals are handed out only to the best of the best. Are you up for the challenge?"
+
+===Spiders===
+"These aren't your average eight-legged creepy crawlers. Collect all sorts of small, large, slimy, and even smelly spiders."
+
+==Collection Categories==
+Collections are broken up to 10 different categories in your Collection menu:
+*[[Exploration (Collections)|Exploration]]
+*[[Job Specific (Collections)|Job Specific]]
+*[[Flora (Collections)|Flora]]
+*[[Toys (Collections)|Toys]]
+*[[Insects (Collections)|Insects]]
+*[[Spawn Types|Robgoblin Junkpile]]
+*[[Archaic (Collections)|Archaic]]
+*[[Aquatic (Collections)|Aquatic]]
+*[[Quests]]
+*[[Mini-Games|Minigames]]
+
+==See Also==
+*[[List of Collections]]
+*[[Spawn Types]]
+
+{{collect}}
+[[Category:Collections]]

@@ -1,0 +1,29 @@
+<!-- Quest:Robot Woes | https://freerealms.fandom.com/wiki/Quest%3ARobot%20Woes | CC-BY-SA -->
+{{Quest2
+|detail summary = Because of Rizzle's skillful handling of the junk situation at the Scrap Camp, Whirly Willis promoted him to Chief of Junk Security! Now Rizzle spends his days napping while his Robot Gaurds protect the camp from would-be thieves. Unfortunatly the robots keep breaking! Help Rizzle keep his new job by fixing up his robots.|first reward = Mystery Reward|first reward image name = Sunstonemysteryicon.jpg}}{{Questprog
+|previous = [[Quest:Junk or Bust|Junk or Bust]]|next = [[Quest:The Legendary Sunstone|The Legendary Sunstone]]|quest series = [[Sunstone_Valley#Whirly's_Scrap_Camp|Sunstone Valley Quest Series]]}}
+==Notes==
+This quest is repeatable
+==Requirements==
+Player must complete [[Quest:Junk or Bust]] in order to do [[Quest:Robot Woes]]
+==To Start==
+Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+==Goals==
+Rizzle wants you to fix his Broken Robot Guards in Sunstone Valley.
+*Fix Broken Robot Guards - /4
+*Return to Rizzle
+==Steps==
+#Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"These robots keep breaking!<br />If I don't get them fixed soon, Willis will kick me out of here faster than you can spin!<br />The only problem is that I'm right in the middle of a nap, so... what do you say, pal! Want to <font color='#D9781A'>fix</font> up those <font color='#D9781A'>Broken Robot Guards</font> for me?" -Rizzle
+#Fix Broken Robot Guards - /4
+#*[[Broken Robot Guard]]s are located all around the outside of [[Whirly's Scrap Camp]] in [[Sunstone Valley]]. Watch out for [[Robgoblin Junk Thief|Robgoblin Junk Thieves]]!
+#Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"Wow, <Player Name>, you fixed up those robots pretty fast!<br />Well, I guess I owe you something for all your hard work. Uh, let’s see what I’ve got here... Uh...<br />I’m sure I’ve got something here that’s worth something..." -Rizzle
+==References==
+*[[Broken Robot Guard]]
+*[[Rizzle]]
+*[[Robgoblin Junk Thief]]
+*[[Robot Guard]]
+*[[Sunstone Valley]]
+*[[Whirly Willis]]
+[[Category:Quest]]

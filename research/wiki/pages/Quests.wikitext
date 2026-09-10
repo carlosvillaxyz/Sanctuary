@@ -1,0 +1,27 @@
+<!-- Quests | https://freerealms.fandom.com/wiki/Quests | CC-BY-SA -->
+[[File:BookPenIcon.png|right]]
+'''Quests''' are small jobs that characters in the ''[[Free Realms]]'' [[World|world]] will give you from time to time. They may ask you to find an item, talk to another character or defeat a certain amount of [[:Category:Enemies|enemies]]. Whenever you complete a quest, you'll receive a reward... experience, coins or a special item like clothing.
+
+To find quests, look for [[Non-Playable-Character|NPCs]] that have a green exclamation point over their heads. They will give you new quests or complete goals for a quest you already have.
+
+[[File:exPointIcon.png|50px|left]]
+To see your quests, press the L button on your keyboard. Here you will see a few different areas: Job, Quest, Started On, and Progress.
+
+==[[Combat]]==
+Help a community in need with your keen battle skills! Confront rogue [[Ninja|Ninjas]] who are training the Chugawug bandits to terrorize the town. Approach the Ninjas in the mountains with caution since they are known to be sneaky masters of the martial arts. They don't appreciate intruders, so bring your friends - you'll need 'em!
+
+==[[Exploration (Collections)|Explorations]]==
+There is an old tale of an enchanted fortress in a haunted forest that holds an evil enemy. This tale has been told for generations and has spread throughout the land. Its mention brings a chill down your spine, but it's only a bedtime story, right? Find out the truth about the enemy that dwells deep within [[Briarwood]].
+
+==[[Mini-Games|Minigames]]==
+You are the only [[Chef]] in this kitchen, so it's up to you to master the culinary arts. If you can stomach the Lucca special, then you are ready to attempt this fast-paced, delicious quest to serve Royal Stew Du Jour to Glerga. Sure, anyone can cook, but can you feed the hunger at the Double Dog Dare level?
+
+==[[Collections]]==
+Don't be shy! Remember to socialize, because in ''Free Realms'', you need to know the right people and collect the right things. Zinnia is a well-known designer who specializes in making flower necklaces. If you can gather the right materials, she can create a floral masterpiece.
+
+==Brain Teasers==
+How many [[Robgoblins]] does it take to change a light bulb? Withstand a series of quick-thinking, fun challenges that test your problem-solving abilities for all types of silly situations. Answer odd questions correctly, and defeat quest givers like The Mighty Mekaletaliki.
+
+==Scavenger Hunt==
+A witty, yet strange [[Pixies|Pixie]] is known to test the skills of spirited travelers who explore the wilderness of [[Sacred Grove|Sacred Groves]]. But be warned: Grobi will follow his tongue-twisting and head-spinning questions with even more ridiculous requests that could send you on your way with only a few clues. This is a true test of wit and will!
+[[Category:Quest]]

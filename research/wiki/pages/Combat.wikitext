@@ -1,0 +1,91 @@
+<!-- Combat | https://freerealms.fandom.com/wiki/Combat | CC-BY-SA -->
+{{Template:ZAM|Combat_(FR)}}
+Occasionally in combat, you will encounter an enemy who can put a detrimental effect on you. So far, the known detrimental effects are Sleep, Silence, Stun, Knockback, Confuse and Poison. Do not despair-- there are some orbs and spheres (see below) that can put a nasty creature in its place!
+
+So what do these effects do? Here's a quick summary...Combat: What's It All About?
+
+
+In Free Realms, there are several combat jobs that allow you to fight in battle dungeons and encounters. The combat jobs are [[Archer]], [[Brawler]], [[Medic]], [[Ninja]], [[Warrior]] and [[Wizard]].
+
+Which combat job best suits a play-style will be up to each person to determine. Enjoy aiding those in need? You should be a Medic! Like to stalk your prey, striking when most opportune? Then check out the secretive life of a Ninja! Chances are, there's a job (or two, or three...) that will suit everyone.
+==Difficulty==
+When you start a battle, the objectives screen that displays while the Battle is loading also displays a difficulty: Tier 1 through Tier 5. As you might expect, the easier the battle, the less experience, coins and stars you will earn from defeating it.
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 500px;"
+! scope="col"|Difficulty
+! scope="col"|Description
+|-
+|1
+|
+Tier 1. Recommended for everyone.
+|-
+|
+2
+|Tier 2. Recommended for levels 3 and higher.
+|-
+|3
+|Tier 3. Requires level 5 and higher.
+|-
+|4
+|Tier 4. Requires level 9 and higher.
+|-
+|5
+|Tier 5. Requires level 13 and higher.
+|}
+==1, 2, 3, 1, 1, 1, 2, 1...==
+Combat is riddled with what some would call "button mashing". While it may not seem strategic offhand, as you[[File:Howtoruleincombat!.png|thumb]] grow in your job and fight more difficult creatures, you will find that a well-timed super attack can be what saves you! Every weapon has abilities that will enhance and mold its form of combat.
+
+
+For every combat job, the "fight" key is mapped to the "1" key on your keyboard, and your "super attack" is mapped to the "2" key.
+
+
+
+
+==Power-ups==
+Power-ups are items that drop off of enemies during combat. A symbol will float in the air above their unconscious[[File:Power-ups.png|thumb|294px]] body. Some quests will make power-ups appear, such as Speed Boost, to help you. To hotkey a power-up, click it or walk into it. To use the power-up, press the "3" key on your keyboard.
+*'''Health'''
+**Big Heart: Heals everyone in your group.
+**Small Heart: Heals a low amount of your own health.
+*'''Energy''' - Replenishes energy.
+*'''Flame Wave''' - Instantly damages all surrounding enemies.
+*'''Earth Shard''' - Damages all enemies around you and briefly stuns them.
+*'''Super Shield''' - Increases your speed and makes you invulnerable for a few moments.
+
+
+
+==Detrimental Effects==
+Occasionally in combat, you will encounter an enemy who can put a detrimental effect on you. So far, the known detrimental effects are Sleep, Silence, Stun, Knockback, Confuse and Poison. Do not despair-- there are some orbs and spheres (see below) that can put a nasty creature in its place!
+
+So what do these effects do? Here's a quick summary...
+*Sleep: Will temporarily put the target to sleep, breaking after a certain amount of time or upon being struck.
+*Silence: Prevents the target from utilizing any special abilities.
+*Stun: Dazes the target for a few seconds, preventing them from attacking, moving, or using special abilities.
+*Root: Temporarily keeps the target from being able to use movement keys (up/down/left/right, wasd, etc).
+*Knockback: Pushes the target backwards, usually knocking them to the ground and temporarily stunning them.
+*Confuse: Makes the target forget what they were doing.
+*Poison: Temporarily deals a small amount of damage over time.
+
+
+Detrimental effects can help you a lot if you're the one assailing an enemy with them, but you can quickly lose a battle if you're unprepared. Remembering which creatures do these detrimental effects can turn the tide of battle (yeah, I'm talking to you, Elder Bats!).
+==Orbs, Spheres and Potions -- Oh My!==
+The potion belt allows players to have extra healing and damage on the fly. With a total of four slots, you can add energy (mana), health, replenishment (mana and health) vials and potions, as well as spheres, orbs, and food to these potion belt slots. Food has various benefits, while the spheres and orbs normally have effects such as confuse, stun, sleep, root, knockback, or simply inflict damage upon an enemy.
+==Knockouts==
+
+
+Unfortunately, you won't always win a fight. Sometimes you might just run a little bit too close to the wrong group of creatures, or just into an encounter that you're not quite strong enough for. In these cases, you'll usually find that you've been "knocked out". This happens whenever an enemy makes you lose enough health that you fall unconscious! After ten seconds of waiting, you will be able to "recover", and will briefly be invulnerable, as well as come back at full health and energy.
+
+Usually the enemy will wander off when you are knocked out, but if not, use that time of invulnerability to back off from them! If you feel you are prepared to jump back into the fray, you can immediately attack instead, but you will lose that invulnerability quicker.
+
+Wandering battle instances are allowed 10 knockouts while dungeons are allowed 15 knockouts.
+==Grouping in Battle==
+
+
+Grouping usually gives players the advantage in battle; you have the advantage of more damage being dealt as you work your way through an encounter. However, when you group on Free Realms, encounters will tend to be somewhat harder, and there is a major player disadvantage: shared knockouts. Any group member who is knocked out will detract from everyone's total allowed inside the battle instance, so you will still want to be careful not to overwhelm yourself!
+==Boss Encounters==
+
+
+Boss encounters are usually special named creatures (example: The Bat King) who are significantly harder than other creatures you will find in an instance. You can tell when a creature is considered to be a boss encounter by a shaft of light illuminating them. These creatures will usually have several specialized attacks, and sometimes will call other creatures to their aid. Some boss encounters, such as the Grave Lord in [[Blackspore Swamp]], will use items to make them difficult or impossible to deal damage to until that item is destroyed (in the Grave Lord instance, that would be skulls on the ground). Ensure you are well stocked on potions and special items for particularly difficult boss encounters!
+==Exit Doors==
+
+
+Whenever you complete the primary objective in a combat instance, an exit door will appear. Clicking on this door will make you invulnerable (just in case any other creatures remained behind to deal damage to you), and bring up a screen that displays your score and prizes! Once you click the check mark on the score screen, you leave the combat instance. '''In December 2009, a "feature" was added in that made it so standing close to an exit door for longer than a few seconds will automatically take you to the score screen! Use caution when defeating encounters if you still have other tasks to complete in a dungeon.'''
+[[Category:Combat]]

@@ -1,0 +1,19 @@
+<!-- Quest:Winter Party | https://freerealms.fandom.com/wiki/Quest%3AWinter%20Party | CC-BY-SA -->
+{{Quest2
+|detail summary = Tiger the Party Animal wants to give you a party favor if you're wearing some winter holiday themed clothes.|first reward = Holiday Party Mystery Gift|first reward image name = Holiday_party_mystery_gift.jpg}}
+==Requirements==
+[[Quest:Winter Party]] is only available during Winter Party [[Community Events]].
+==To Start==
+Speak with [[Tiger the Party Animal]] during a Winter Party event.
+==Goals==
+Put on some wintery gear and speak to Tiger the Party Animal at a Winter Party.
+*Put on a winter holiday outfit
+*Speak to Tiger
+==Steps==
+#Speak with [[Tiger the Party Animal]] during a Winter Party event.
+#*"Look at this chillin' party! Do you like my festive outfit?<BR><BR>How about you show me your fave winter holiday gear, and I'll totally give you this super cool party favor? " -Tiger the Party Animal
+#Put on a winter holiday outfit
+#*Equip holiday themed items such as tacky sweaters or marketplace costumes.
+#Speak with [[Tiger the Party Animal]] during a Winter Party event.
+#*"Brr! That's so cool, it gives me the shivers! Nice outfit, dude." -Tiger the Party Animal
+[[Category:Quest]]

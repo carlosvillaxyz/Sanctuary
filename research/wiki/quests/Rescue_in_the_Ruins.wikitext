@@ -1,0 +1,27 @@
+<!-- Quest:Rescue in the Ruins | https://freerealms.fandom.com/wiki/Quest%3ARescue%20in%20the%20Ruins | CC-BY-SA -->
+{{Quest2
+|detail summary = Sarkin still cant believe the spiders that originally drove them from their dig site attacked the camp as well! On top of that Assistant Bogse disappeared during the battle! Sarkin suspects the spiders may have dragged him into the Precursor Ruins and hopes you will go after him.|first reward = [[Cactoid]]|first reward image name = cactoidicon.png}}{{Questprog
+|previous = [[Quest:It's Too Quiet...|It's Too Quiet...]]|quest series = [[Sunstone_Valley#The_Dig|Sunstone Valley Quest Series]]|next =  }}
+==Requirements==
+Player must complete [[Quest:It's Too Quiet...]] in order to do [[Quest:Rescue in the Ruins]]
+==To Start==
+Speak with [[Sarkin Stonehearth]] found at [[The Dig]] in [[Sunstone Valley]].
+==Goals==
+Sarkin wants you to rescue Assistant Bogse in the Precursor Ruins in Sunstone Valley.
+*Rescue Assistant Bogse
+*Return to Sarkin Stonehearth
+==Steps==
+#Speak with [[Sarkin Stonehearth]] found at [[The Dig]] in [[Sunstone Valley]].
+#*"Wait... where’s Bogse? Oh no. The spiders must have grabbed him!<br /><Player Name>, we have to <font color='#D9781A'>save Assistant Bogse</font>, but I can barely stand with this poison running through me. Please, you’re the only one that has a chance of finding him in the <font color='D9781A'>Precursor Ruins</font>." -Sarkin Stonehearth
+#Rescue Assistant Bogse
+#*[[Assistant Bogse]] is rescued by completing [[Precursor Ruins]] [[Sunstone Valley]] [[Dungeons|Dungeon]].
+#Speak with [[Sarkin Stonehearth]] found at [[The Dig]] in [[Sunstone Valley]].
+#*"You saved Bogse AND discovered the greatest find I’ve ever heard of! Functioning Precursor artifacts? Unbelievable! Studying them may be a problem, but I’m sure we’ll figure out something.<br />And <Player Name>, if you ever need anything from me or my crew, you just come back here and let me know. As far as I’m concerned we’re pals for life!" -Sarkin Stonehearth
+==References==
+*[[The Dig]]
+*[[Sarkin Stonehearth]]
+*[[Sunstone Valley]]
+*[[Spiders]]
+*[[Assistant Bogse]]
+*[[Precursor Ruins]]
+[[Category:Quest]]

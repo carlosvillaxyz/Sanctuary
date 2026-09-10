@@ -1,0 +1,19 @@
+<!-- Quest:Misplaced Meeps | https://freerealms.fandom.com/wiki/Quest%3AMisplaced%20Meeps | CC-BY-SA -->
+{{Quest2
+|name = Misplaced Meeps|detail summary = Locate Momma Meepster's lost baby Meeps.|first reward = [[Meep#Black Meep|Black Meep]]|first reward image name = Blackmeepicon.png}}
+==To Start==
+Speak with [[Momma Meepster]] located in [[Snowhill]] near ''Big J's''.
+==Goals==
+Locate Momma Meepster's lost baby Meeps.
+*Meeps found - /6
+*Return to Momma Meepster
+==Steps==
+#Speak with [[Momma Meepster]] located in [[Snowhill]] near ''Big J's''.
+#*"My baby Meeps are gone! They wandered off to explore the world even though I said not to! Oh, woe is me!<br />Wait, can you help me find them? They're much smaller than me, but we all have the same beautiful edges and shapes!" -Momma Meepster
+#Find Momma Meepster's Lost Meeps which are scattered throughout [[Sacred Grove]].
+#*Possible locations include:
+#**
+#Speak with [[Momma Meepster]] located in [[Snowhill]] near ''Big J's''.
+#*"Oh thank you! Thank you! My babies are safe and ready to be adopted!<br />Could you find it in your heart to give a few poor baby Meeps a good home?" -Momma Meepster
+[[Category:Quest]]
+[[Category:8-Bit month]]

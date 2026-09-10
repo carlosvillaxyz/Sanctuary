@@ -1,0 +1,24 @@
+<!-- Quest:Noisy Neighbors | https://freerealms.fandom.com/wiki/Quest%3ANoisy%20Neighbors | CC-BY-SA -->
+{{Quest2
+|name = Noisy Neighbors
+|detail summary = All that noise Bruce is making is disturbing the peaceful town of Snowhill. Talk to Flynn about Bruce's noise level.
+|coin amount = 30}}{{Questprog
+|next = [[Quest:Noise Permit|Noise Permit]]|previous =  }}
+==To Start==
+Speak with [[Clara Chatterhag]] located in [[Snowhill]].
+==Goals==
+Talk to Flynn about Bruce's noise level.
+*Speak to Flynn
+
+==Steps==
+#Speak with [[Clara Chatterhag]] located in [[Snowhill]].
+#*"I don't know what's worse, that terrible music or the screaming kids!<br/><font color='#D9781A'>Tell Flynn</font> to <font color='#D9781A'>turn down</font> the <font color='#D9781A'>volume</font>, or I'll complain to the Mayor!" -Clara Chatterhag
+#Speak with [[Flynn]] located on the right side of the [[Snowhill]] stage.
+#*"What's that? Clara thinks we're too loud?<br />We filed for a permit to perform here!" -Flynn
+==References==
+*[[Bruce]]
+*[[Clara Chatterhag]]
+*[[Flynn]]
+*[[Mayor Crystalline]]
+*[[Snowhill]]
+[[Category:Quest]]

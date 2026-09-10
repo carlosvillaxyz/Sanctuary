@@ -1,0 +1,25 @@
+<!-- Quest:Scaredy Pants | https://freerealms.fandom.com/wiki/Quest%3AScaredy%20Pants | CC-BY-SA -->
+{{Quest2
+|detail summary = Cutes Dozen wants your help in getting back at Slinky for all of the pranks he's pulled on her. She also happened to have found an illusion potion that should be perfect for the job.|first reward = [[Board Shorts]]|name = [[File:Members_only.png|link=Membership|right]]Scaredy Pants|coin amount = 10|first reward image name = Boardshortquestreward.png}}{{Questprog
+|next = |previous = [[Quest:Horrible Hiccups|Horrible Hiccups]]}}
+==Requirements==
+Player must complete [[Quest:Horrible Hiccups]] and have an active [[Membership]] in order to do [[Quest:Scaredy Pants]].
+==To Start==
+Speak with [[Cutes Dozen]] located at the [[Seaside]] [[Luxurious Oceanfront Homes]].
+==Goals==
+Cutes in Seaside has turned you into a monster to get back at Slinky. Talk to her again if it wears off.
+*Scare the pants off of Slinky
+==Steps==
+#Speak with [[Cutes Dozen]] located at the [[Seaside]] [[Luxurious Oceanfront Homes]].
+#*"I'm not usually a mean person, but I've had it with Slinky! Will you help me get back at him?<br />I found a potion that'll definitely scare the pants right off him! I can pour it on you if you'd be willing to <font color='#d9781a'>scare Slinky</font> with it." -Cutes Dozen
+#Scare the pants off of Slinky
+#*Speak with [[Slinky]] located at the [[Seaside]] [[Luxurious Oceanfront Homes]] while under [[Cutes' Illusion]] that lasts 30 seconds.
+#**If the illusion expires players may speak with [[Cutes Dozen]] to try again.
+#**Tip: Use a [[pet]] with a speed boost.
+#*"AHHH! You scared the pants off me! I thought you were a cray for a second...err, uhh...I mean, you're lucky I recognized you, or you would have been in a world of hurt!<br />You found my posters! Sweet! I'm the best law man ever!" -Slinky
+==References==
+*[[Seaside]]
+*[[Cutes Dozen]]
+*[[Slinky]]
+*[[Luxurious Oceanfront Homes]]
+[[Category:Quest]]

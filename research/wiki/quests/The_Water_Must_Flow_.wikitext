@@ -1,0 +1,29 @@
+<!-- Quest:The Water Must Flow! | https://freerealms.fandom.com/wiki/Quest%3AThe%20Water%20Must%20Flow%21 | CC-BY-SA -->
+{{Quest2
+|detail summary = The recent manguana uprising has really messed with Pete's business, and theft isn't even the worst part! Pete hasn't been able to get a single drop of oasis water, which is a critical ingredient in his famous Sunstone Sasparilla, since the manguana locked down the oasis. Venture into Sandscale Oasis and collect some oasis water for Pete.|first reward = |first reward image name = |coin amount = 20}}{{Questprog
+|previous = [[Quest:Hog Wild Harley|Hog Wild Harley]]|quest series = [[Sunstone_Valley#Wheelie_Pete's_Roadhouse|Sunstone Valley Quest Series]]|next = [[Quest:The Secret Ingredient Is...|The Secret Ingredient Is...]]}}
+==Requirements==
+Player must complete [[Quest:Hog Wild Harley]] in order to do [[Quest:The Water Must Flow!]]
+==To Start==
+Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+==Goals==
+Wheelie Pete would like some Oasis Water from Sandscale Oasis in Sunstone Valley.
+*Collect Oasis Water from Sandscale Oasis - /4
+*Return to Wheelie Pete
+==Steps==
+#Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+#*"I'd like to brew more of my famous Sunstone Sasparilla, but I’m out of oasis water! It’s a critical ingredient and those Sandscale manguana have been hoarding it.<br />Think you can <font color='#D9781A'>get me some Oasis Water from Sandscale Oasis</font>?" -Wheelie Pete
+#Enter the [[Sandscale Oasis]] [[:Category:Battle|Battle]] found North-West of [[Wheelie Pete's Roadhouse]]
+#Collect Oasis Water from Sandscale Oasis - /4
+#*Collect [[Oasis Water]] found in the Oasis along the path, Watch out for [[Jumping Cactus|Jumping Cacti]]!
+#Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+#*"Thanks for bringing me this Oasis Water, <Player Name>! I’ll make sure you get the first barrel of Sunstone Sasparilla I brew with it.<br />But first I need one more ingredient." -Wheelie Pete
+
+==References==
+*[[Jumping Cactus]]
+*[[Manguana]]
+*[[Oasis Water]]
+*[[Sandscale Oasis]]
+*[[Sunstone Valley]]
+*[[Wheelie Pete]]
+[[Category:Quest]]

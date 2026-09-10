@@ -1,0 +1,33 @@
+<!-- Warpstones | https://freerealms.fandom.com/wiki/Warpstones | CC-BY-SA -->
+[[File:Icon item warpstone 128-1-.png|thumb|600px]]
+'''Warpstones''' are large, floating stones that allow the player to teleport to a [[Locations|location]] at anytime from anywhere in [[World|Free Realms]]. There is a Warpstone in each major city and also in the smaller towns and areas.
+
+Warpstones must be activated before it can be used at will. To activate a Warpstone, the player must either be near enough to activate it, or double-click on it. Once activated, the player can use the [[Atlas]] to teleport to that Warpstone at any time from anywhere.
+
+==List of Warpstones in Locations==
+[[File:Map warpstones.png|right|400px]]
+===Major Warpstones===
+*[[Blackspore]]
+*[[Briarwood]]
+*[[Merry Vale]]
+*[[Sanctuary]]
+*[[Seaside]]
+*[[Shrouded Glade]]
+*[[Snowhill]]
+*[[Wugachug]]
+*[[Sunstone Valley]]
+
+===Minor Warpstones===
+*[[Briarheart]]
+*[[Bristlewood]]
+*[[Cobblestone Village]]
+*[[Lakeshore]]
+*[[Lavender Coast Pass]]
+*[[Stillwater Crossing]]
+*[[Greenwood Forest]]
+
+==[[Collections]]==
+*Major Warpstone
+*Warpstones
+{{Location}}
+[[Category:Locations]]

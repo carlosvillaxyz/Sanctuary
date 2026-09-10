@@ -1,0 +1,4 @@
+<!-- Housing Directory | https://freerealms.fandom.com/wiki/Housing%20Directory | CC-BY-SA -->
+[[File:HD04.jpg|thumb|400px]]
+The '''Housing Directory''' is a directory that members of ''[[Free Realms]]'' can submit their [[:Category:Housing|houses]] in, other members can rate their houses with stars 1-5, the creator of the house can remove it from the Housing Directory however if done the rating and views for the house will reset to 0 once re-submitted. The houses can be sorted from highest rated, most viewed and newest. Once in the Housing Directory one can not modify their house (including setting to grid or locking) until the house is removed from the directory. You can name your house before putting it into the directory. Although sometimes the house filter will not allow some names.
+[[Category:Housing]]

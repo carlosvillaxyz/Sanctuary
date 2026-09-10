@@ -1,0 +1,23 @@
+<!-- Quest:Like Scavengers in a Barrel | https://freerealms.fandom.com/wiki/Quest%3ALike%20Scavengers%20in%20a%20Barrel | CC-BY-SA -->
+{{Quest2
+|detail summary = Wheelie Pete has had his share of trouble since the Skullz started throwing their weight around, but recently things have gone from bad to worse. Now he also has to deal with the Sandscale Manguanas who recently stole several barrels of his famous Sunstone Sasparilla! Will you brave the wilds of Sunstone Valley to recover his stolen barrels from the Sandscale?|coin amount = 10}}{{Questprog|next = [[Quest:Hog Wild Harley|Hog Wild Harley]]|quest series = [[Sunstone_Valley#Wheelie_Pete's_Roadhouse|Sunstone Valley Quest Series]]}}
+==To Start==
+Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+==Goals==
+Find Wheelie Pete's stolen Sasparilla Barrels in Sunstone Valley.
+*Find Barrels of Sasparilla - /5
+*Return to Wheelie Pete
+==Steps==
+#Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+#*"Can you believe it! A pack of Sandscale manguana made off with all my sasparilla. Why, if I still had a good knee I’d march right down there and...<br />Hey, I bet a young'n like you could <font color='#D9781A'>bring my Barrels of Sasparilla back</font>, eh?" -Wheelie Pete
+#Find Barrels of Sasparilla - /5
+#*[[Barrel of Sasparilla|Barrels of Sasparilla]] are located all around the [[Sandscale Territory]] in [[Sunstone Valley]]. Watch out for [[Manguana|Sandscales]]!
+#Speak with [[Wheelie Pete]] located in front of [[Wheelie Pete's Roadhouse]] in [[Sunstone Valley]].
+#*"Hey, look at that, you found my sasparilla!<br />Good on you, <Player Name>. Now how about doing me another favor?" -Wheelie Pete
+==References==
+*[[Barrel of Sasparilla]]
+*[[Manguana]]
+*[[Sunstone Sasparilla]]
+*[[Sunstone Valley]]
+*[[Wheelie Pete]]
+[[Category:Quest]]

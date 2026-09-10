@@ -1,0 +1,42 @@
+<!-- Quest:Sobering Homecoming | https://freerealms.fandom.com/wiki/Quest%3ASobering%20Homecoming | CC-BY-SA -->
+{{Quest2
+|detail summary = After defeating the Gloam in Shrouded Glade, Dorn Geargrinder has returned to Sunstone Valley to find it overrun by a rival biker gang, the Skullz. Many Freewheelers have gone into hiding and Dorn doubts his ability to reunite the gang.|first reward = |first reward image name = |coin amount = 20}}{{Questprog
+|next = [[Quest:Bike Retrieval|Bike Retrieval]]|quest series = [[Sunstone_Valley#Rumble_Ridge|Sunstone Valley Quest Series]]|previous = [[Quest:Aiding our Allies|Aiding our Allies]]}}
+==To Start==
+Speak with [[Dorn Geargrinder]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+==Goals==
+Help Dorn Geargrinder by regrouping the Freewheelers.
+*Talk to Golmie Greasebeard
+*Talk to Headmaster Merk
+*Talk to Freewheelers - /3
+*Return to Dorn Geargrinder
+==Steps==
+#Speak with [[Dorn Geargrinder]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"It seems that while we was in Shrouded Glade, this gang called the <font color='#D9781A'>Skullz</font> took over <font color='#D9781A'>Rumble Ridge</font>. And now most of the <font color='#D9781A'>Freewheelers</font> have deserted! If only Gus was here..." -Dorn Geargrinder
+#Speak with [[Golmie Greasebeard]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"Dorn's havin' a hard time acceptin' the loss of his brother Gus. He's a blasted hero and the only one that can pull the gang back together." -Golmie Greasebeard
+#Speak with [[Headmaster Merk]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"Dorn needs to be reminded of the trust his brother Gus had in him. Gus knew Dorn was a natural leader. If you can find the other Freewheelers and tell them of Dorn’s accomplishments in Shrouded Glade, I am certain they would follow him." -Headmaster Merk
+#Speak with [[Freewheelers]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+##One [[Freewheeler]] is located between [[Wheelie Pete's Roadhouse]] and [[The Rumbledome]] in [[Rumble Ridge]], [[Sunstone Valley]].
+##*"A lot's gone wrong for the Freewheelers recently. Why should we follow Dorn?" -Freewheeler
+##*"Dorn's a good leader!" -Player response
+##One [[Freewheeler]] is located near the [[Sandscale Oasis]] entrance in [[Sunstone Valley]].
+##*"Dorn proved to be a good leader when we took the bridge site, we should probably follow him now." -Freewheeler
+##*"Hurry Up!" -Player response
+##One [[Freewheeler]] is located near the [[Rough Rider Raceway]] in [[Sunstone Valley]].
+##*"Can Dorn really expect to fill his brother’s shoes?" -Freewheeler
+##*"Dorn was born to lead." -Player response
+#Speak with [[Dorn Geargrinder]] located in [[Rumble Ridge]], [[Sunstone Valley]].
+#*"Thanks <Player Name>. Gus never doubted me and I guess I shouldn’t either. Leading the Freewheelers to glory is the best way I can honor his memory." -Dorn Geargrinder
+==References==
+*[[Dorn Geargrinder]]
+*[[Freewheeler]]
+*[[Gloam]]
+*[[Golmie Greasebeard]]
+*[[Gus Geargrinder]]
+*[[Headmaster Merk]]
+*[[Shrouded Glade]]
+*[[Skullz]]
+*[[Sunstone Valley]]
+[[Category:Quest]]

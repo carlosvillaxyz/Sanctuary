@@ -1,0 +1,27 @@
+<!-- Quest:Glide Training: Getting Started | https://freerealms.fandom.com/wiki/Quest%3AGlide%20Training%3A%20Getting%20Started | CC-BY-SA -->
+{{Quest2
+|detail summary = Troy Ridewrangler in Seaside has asked me to use a launch pad to launch myself and my untrained glide-trainable ride through a fiery hoop in Sanctuary.|first reward = [[Proof of Training - Part 1 of 5|Proof of Training<br>- Part 1 of 5]]|first reward image name = Ticketquestreward.png}}{{Questprog
+|previous = |next = [[Quest:Glide Training: Basic Training|Glide Training: Basic Training]]|quest series = [[Glide Training#Quests|Glide Training Quest Series]]}}
+==Requirements==
+Player must own a usable glide-trainable [[ride]] to complete this quest.
+==To Start==
+Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+==Goals==
+Bounce through the fiery hoop above the launch pad outside of Sanctuary while on your untrained glide-trainable ride.
+*Bounce through the Sanctuary hoop
+*Return to Troy Ridewrangler
+==Steps==
+#Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+#*"The first step in training a ride is to ensure that the ride understands what it is that you want to teach.<br />Go to the launch pads outside of Sanctuary and jump through the fiery hoop above while riding your untrained glide-trainable ride." -Troy Ridewrangler
+#Bounce through the Sanctuary hoop
+#*While on your ride bounce on the specific launch pad near the [[Sanctuary]] [[Warpstones|Warpstone]], aim for the middle of the pad.
+#Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+#*"Good job! Your ride's understanding of your commands has been transferred to the Training Saddle!<br />Training is hard work. Come back tomorrow and we can continue the training!" -Troy Ridewrangler
+==References==
+*[[Glide Training]]
+*[[Troy Ridewrangler]]
+*[[Launch Pad]]
+*[[Sanctuary]]
+*[[Seaside]]
+*[[Rides]]
+[[Category:Quest]]

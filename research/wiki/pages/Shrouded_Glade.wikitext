@@ -1,0 +1,53 @@
+<!-- Shrouded Glade | https://freerealms.fandom.com/wiki/Shrouded%20Glade | CC-BY-SA -->
+{{LocationInfobox
+|name= Shrouded Glade[[File:Logo shroud.png|50px]]
+|image= map shrouded.png
+|type= City
+|level= All
+|location= NE of [[Sacred Grove]]
+|inhabitants= [[Druids]] ([[Pixies]])}}
+'''Shrouded Glade''' is a town in northeastern [[Sacred Grove]]. It is nestled at the base of [[Misty Mountain]] and wrapped in the thick and mysterious mist that gives the glade its name. Shrouded Glade is the home of the Druid Academy, and the [[Druids|druids]] keep the entire town neat and orderly.
+[[File:Shrouded Glade..png|thumb|350px]]
+
+==History==
+Shrouded Glade has always been a home for the druids, though the Elder Council wasn't officially formed until after the [[Unbinding]]. Unwilling to let their ancient knowledge fade away, the remaining druids banded together and formed the Academy to not only expand on their existing knowledge but to instruct those who were worthy enough to become druids themselves. Within the Academy's walls they built a library filled with all the books there could salvage from the ruined Athenaeum.
+
+On June 15th, 2012, Shrouded Glade was invaded by the [[Gloam]]. The landscape became corrupted and evil entities siege the city, called [[Shrouded Gloam]]. The [[Events|event]] included a new [[Quests|questline]], along with open world combat. 
+
+==Travel==
+Shrouded Glade is only accessible through a tunnel or by a [[Warpstones|warpstone]]. The main road from the tunnel leads directly to the Druid Academy, which sits above the Glade between a pair of mighty waterfalls and the river that flows from them. All roads and rivers radiate outward from the Academy in wide rings, as if they were ripples in a still pool.
+
+Shrouded Glade also have a different bridge near the Druid Academy that lead to [[Sunstone Valley]].
+
+==Points of Interest==
+*Shrouded Glade [[Warpstone]]
+*Pet Park
+*Druid Academy
+*Gardener's Hutch
+*The Courtyard
+*The Wishing Well
+
+==[[Dungeons]]==
+*[[Misty Mountain]]
+*[[Mugwort's Hollow]] - Outside and west of Shrouded Glade
+
+==Collections==
+*Shrouded Glade
+*Shrouded Glade Rare Exploration
+*Shrouded Glade Elite Exploration
+
+==Gallery==
+<gallery>
+Shrouded Glades Sketch.jpg|Concept art of Shrouded Glade by Edwin Rosell.
+Shrouded glade.jpg
+Shrouded glade panoramic small.jpg
+FRIssue12 ShroudedGlade.jpg|Shrouded Glade in the [[Free Realms (comic)|Free Realms Issue 12]].
+SGBridge.jpg|The bridge that lead to [[Sunstone Valley]].
+SGBridge2.jpg
+SGBridge3.jpg
+SGBridge4.jpg
+</gallery>
+{{Location}}
+[[Category:Locations]]
+[[Category:Shrouded Glade]]
+[[Category:Sacred Grove]]

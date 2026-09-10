@@ -1,0 +1,205 @@
+<!-- Ninja | https://freerealms.fandom.com/wiki/Ninja | CC-BY-SA -->
+{{JobInfobox
+|name = Ninja
+|image = ninja.png
+|caption = Male [[Human]] Ninja}}
+[[File:NinjaT.png|left]]''<font style="font-size:15px">{{Quote|Ninjas are masters of the ancient art of combat and deception. Wielding swords, shurikens and other exotic weapons, they can vanish from plain sight to perform damaging sneak attacks. [[Ty|Master Ty]] once taught at the defunct [[Flying Dragon Dojo|Dragon Clan Dojo]] but now lives in [[Lakeshore]] and trains only those who are worthy.|Job description}}</font>''
+'''Ninja''' is a close combat [[Jobs|job]], specializing in sneak attacks and confusion. A combat class job, experience is gained by completing Ninja [[Quests|quests]] and by battling in combat instances in the [[Wilds]] and in [[Dungeons|dungeons]].
+
+==Restrictions - This job is locked for MEMBERS ONLY==
+[[File:Members only.png|left]]
+: As of December 5th 2009, this job is free to sample through level 4. You will be able to change into this job, but you will not be able to use it in combat until you purchase a ''[[Free Realms]] [[Membership|Membership]]. 
+
+==Unlocking Ninja==
+Ninja can be unlocked by speaking to [[Ty|Master Ty]] in southern [[Lakeshore]].
+
+==Trainers==
+*Ty in Lakeshore (starts quest job)
+*Chloe in [[Blackspore Swamp]] (will block partway until lvl 5)
+*[[Frostpetal]] in [[Snowhill]]
+*Sakka in southwest of [[Wugachug]]
+*Michi in Snowhill
+
+==Traits==
+[[File:Screen Shot 2016-06-29 at 3.31.42 PM.png|none|thumb|676x676px]]
+{|
+!Level
+!Trait Name
+!Description
+|-
+|5
+|Ultimate Power
+|You gain energy for each critical hit you inflict.
+|-
+|10
+|Shrouded Armor
+|Your special armor reduces damage taken when struck.
+|-
+|15
+|Ninja's Grace
+|The way of the ninja grants improved run speed, faster health regeneration, and attack.
+|-
+|20
+|Dragon's Boon
+|The blessing of the dragon grants a chance to counterattack with a lightning strike that will damage a opponent and then chain to another opponent up to 3 times.
+|}
+
+==[[Quests]]==
+'''Ty'''
+* The Ninja Path
+
+'''Grosh'''
+* Stolen Away
+
+'''Ty'''
+* Ninja: Super Star
+* Ninja: Silence is Golden... and Deadly
+
+'''Chloe'''
+* Ninja: Strike from the Shadows
+* Ninja: Handle With Care
+* Ninja: Achieve Level 5
+
+:* Contract: Trouble in Snowhill - [[Ree Peatpants]] in Snowhill 
+* Ninja: Nothing to Sneeze At
+* Ninja: That's the Spirit
+* Ninja: Troubled Waters
+
+'''Frostpetal'''
+* Ninja: Return to the Mentor
+
+'''Ty'''
+* Ninja: Achieve Level 10
+
+:* Contract: Sharp Claws and Sharper Swords - Ree Peatpants in Snowhill 
+* Ninja: Shadows in the Snow
+* Ninja: Burst of Speed
+
+'''Sakka'''
+* Ninja: Idol Conversation
+* Ninja: Achieve Level 15
+
+:* Contract: Fending off the Floren - Ree Peatpants in Snowhill 
+* Ninja: Missive for Michi
+
+'''Michi'''
+* Ninja: Real Ultimate Power
+* Ninja: The Masterless Ninja
+* Ninja: Ice Troll Rampage
+* Ninja: Achieve Level 20
+
+:* Contract: Spirits and Spider Trainers - Ree Peatpants in Snowhill 
+
+==Collections==
+: ''Main article: [[Job Specific (Collections)#ninjacollections|Job Specific (Collections)]]''
+*Ninja Magical Sword Essences
+*Ninja Stories
+*Ninja Sword Materials
+
+==Equipment==
+'''Level 1'''
+* Shadowblade
+* Ninja's Training Sword of Dragonstrike
+* Ninja's Training Sword of 1000 Storms
+* Candy Stick Sword [Snow Days Battle Reward]
+* Dancing Monkey Bokken [Blacksmith Crafted Weapon]
+* Diving Hawk Scythe [Blacksmith Crafted Weapon]
+* Elitist's Sword [Daily Wheel Reward]
+* Jagged Scythe [Code item]
+* New School Storm Breaker (SC)
+* New School Rainbow Coil Cutter (SC)
+* New School Radioactive Beam Blade (SC)
+* New School Flowing Emerald Blade (SC)
+* New School Ignis (SC)
+* New School Prismatic Beam Saber (SC)
+* Ninja's Nature Claw (SC)
+
+'''Level 4'''
+* Ninja's Blade of Dragonstrike
+* Ninja's Blade of 1000 Storms
+* Ninja's Blade of Shuriken Storm
+* Ninja's Blade of Flame Wave
+* Biting Mongoose Blade
+* Twisting Cobra Blade
+* Twisted Blade
+
+'''Level 8'''
+* Ninja's Scythe of Dragonstrike
+* Ninja's Scythe of 1000 Storms
+* Ninja's Scythe of Shuriken Storm
+* Ninja's Scythe of Flame Wave
+* Ninja's Scythe of Shadow Armies
+* Ninja's Scythe of Shadow Flare
+* Tidal Scythe
+
+'''Level 12'''
+* Ninja's Jagged Scythe of Dragonstrike
+* Ninja's Jagged Scythe of 1000 Storms
+* Ninja's Jagged Scythe of Shuriken Storm
+* Ninja's Jagged Scythe of Flame Wave
+* Ninja's Jagged Scythe of Shadow Armies
+* Ninja's Jagged Scythe of Solar Flare
+* Ninja's Jagged Scythe of Dragon Breath
+* Ninja's Jagged Scythe of Mysticism
+* Stalking Panther Scythe [Blacksmith Crafted Weapon]
+
+'''Level 16'''
+* Ninja's Shadow Blade of Dragonstrike
+* Ninja's Shadow Blade of 1000 Storms
+* Ninja's Shadow Blade of Shuriken Storm
+* Ninja's Shadow Blade of Flame Wave
+* Ninja's Shadow Blade of Shadow Armies
+* Ninja's Shadow Blade of Solar Flare
+* Ninja's Shadow Blade of Dragon Breath
+* Ninja's Shadow Blade of Mysticism
+* Ninja's Shadow Blade of Soul Power
+* Ninja's Shadow Blade of Deception
+* Balloon Sword [Birthday Bash Event Reward]
+* Beloved's Shadowblade [Festival of Hearts Seasonal]
+* Shadowblade [Code item]
+* Striking Serpent Sword [Blacksmith Crafted Weapon]
+* Sturdy Summersaber [Blacksmith Crafted Weapon]
+* Ninja's Forged Sword of Purge [Blacksmith Crafted Weapon]
+* Fiery Scythe
+
+'''Level 20'''
+* Molten Dragon Blade
+* Magical Essence Shadowblade [Collection Reward]
+
+==Clothing==
+This list includes all the clothing available in-game now. It does not include retired Ninja Clothing.
+
+'''Level 1'''
+* Student Ninja
+* Kusa Ninja
+
+'''Level 4'''
+* Nokizaru Ninja
+
+'''Level 6'''
+* Sekkou Ninja
+
+'''Level 8'''
+* Nusumi Ninja
+
+'''Level 10'''
+* Shinobi Ninja
+
+'''Level 12'''
+* Kanja Ninja
+
+'''Level 14'''
+* Sensei Ninja
+
+'''Level 16'''
+* Chunin Ninja
+
+'''Level 18'''
+* Soke Ninja
+
+'''Level 20'''
+* Jonin Ninja
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Combat]]
+[[Category:Ninja]]

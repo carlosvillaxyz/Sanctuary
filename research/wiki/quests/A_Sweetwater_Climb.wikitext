@@ -1,0 +1,39 @@
+<!-- Quest:A Sweetwater Climb | https://freerealms.fandom.com/wiki/Quest%3AA%20Sweetwater%20Climb | CC-BY-SA -->
+{{Quest2
+|detail summary = Prove your worth in order to participate in the Chug-a-Mug Challenge in [[Wugachug]].
+|coin amount = 88
+|first reward = [[Brawler's Power Shard of Durability II]]
+|first reward image name = Brawlerdurability2icon.png}}
+{{Questprog
+|next = [[Quest:Chug-a-Mug Challenge|Chug-a-Mug Challenge]]
+|previous = [[Quest:A Brewing Darkness|A Brewing Darkness]]}}
+==Requirements==
+Player must complete [[Quest:A Brewing Darkness]] in order to do [[Quest:A Sweetwater Climb]].
+
+==To Start==
+Speak with [[Chugzy]] located in near the [[Wugachug]] [[Warpstone]].
+
+==Goals==
+Do what needs to be done in order to participate in the Chug-a-Mug Challenge.
+*Talk to [[Guard Thoomlug]]
+*Complete [[Sweetwater Climb]]
+*Return to Guard Thoomlug
+
+==Steps==
+#Speak with [[Chugzy]] located in near the Wugachug Warpstone.
+
+{{Quote|The Chug-a-Mug Challenge is the most prestigious event for Wugachug and their Sasparilla Festival!<br />Hey, you should join the contest! Nothing quenches your thirst like a mug of Sweetwater Sasparilla! And I know that we, err, you adventuring types work up quite a thirst during your adventures.|Chugzy}}
+
+#Speak with Guard Thoomlug found in front of the Party Tent in Wugachug.
+
+{{Quote|Ruined! The festival is ruined! We always start the challenge with a fresh mug brewed right here in the Party Tent, but we can't continue because our Sweetwater isn't sweet!<br />Grah! I bet those bixies are at it again!"|Guard Thoomlug}}
+
+{{Quote|Oh no!|Player response}}
+
+{{Quote|All of my guards are keeping the peace around town with the festival in full swing, but you look like you can hold your own in a fight!<br />Make your way to the top of Sweetwater Climb and put a stop to their tampering!|Guard Thoomlug}}
+
+#Complete the Sweetwater Climb [[Dungeons|dungeon]] that can be found behind the Wugachug Brewery.
+#Speak with Guard Thoomlug found in front of the Party Tent in Wugachug.
+
+{{Quote|From what I hear, the Brewmasters of Wugachug are again able to create their award-winning Sweetwater Sasparilla.<br />With your help, they should be able to start the Chug-a-Mug Challenge in no time!|Guard Thoomlug}}
+[[Category:Quest]]

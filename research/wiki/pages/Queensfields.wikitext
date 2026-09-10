@@ -1,0 +1,14 @@
+<!-- Queensfields | https://freerealms.fandom.com/wiki/Queensfields | CC-BY-SA -->
+{{Infobox
+|Row 1 title = Type
+|Row 1 info = Farm
+|Row 2 title = Location
+|Row 2 info = [[Sanctuary]]}}
+'''Queensfields''' is an [[Locations|area]] located in [[Sanctuary]] where [[Bixies|bixies]] work at, it is full of [[Bixie Soldier|bixie soldiers]], [[Bixie Battlemage|bixie mages]], and worker bixies. The [[Bixie Hive]] is located in Queensfield, it also where the [[Harvesting]] [[Mini-Games|minigame]] is located. The area is seen as several giant bee nests. NPC Bixies fly above the player.
+
+==Gallery==
+<gallery>
+Bixie Hive Concept JohnsonJ.jpg|Concept art of the bixie hive by Jason Johnson.
+</gallery>
+[[Category:Locations]]
+[[Category:Sanctuary]]

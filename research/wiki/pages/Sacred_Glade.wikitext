@@ -1,0 +1,78 @@
+<!-- Sacred Glade | https://freerealms.fandom.com/wiki/Sacred%20Glade | CC-BY-SA -->
+{{ZAM|fr_place:Sacred_Glade}}
+{{LocationInfobox2
+|name= Sacred Glade
+|image= Sacred Glade.png
+|type= N/A
+|location= N/A}}
+'''Sacred Glade''' was the tutorial [[Locations|area]] where new adventurers were first introduced into the world of [[World|Free Realms]]. After you have run through Sacred Glade at least once, you can then skip the tutorial for each subsequent character created.
+
+==Tutorial Beginning==
+===Entering the game===
+Upon entering the game you will experience a brief 360 degree view around your character.
+
+[[Michael Tallstrider]] frantically runs up to you. He was glad you made it through the [[Warpstones|warpstone]] before it was destroyed by the [[Robgoblins|robgoblins]]. He needs your help chasing the creatures off. Click the gray ''Goodbye'' button to continue.
+
+===Camera and Movement===
+To move the camera in game, hold down the right mouse button and drag your mouse in the direction you want to look.
+
+Move your character by either:
+
+1. Left click on the ground.
+
+2. Hold down both mouse buttons
+
+3. Use the W,A,S, & D keys
+
+4. Use the arrow keys
+
+===NPCs and Quests===
+Moving down the path, you will see Michael stop and you will learn about [[Non-Playable-Character|NPCs]] and receiving [[Quests|quests]].
+* NPCs who have quests for you are designated with a green ('''!''') above their heads.
+* If an NPC is part of a quest (as an objective) you will see a green ('''?''') above their head.
+* If an NPC has a quest that you are too low to receive, a gray ('''!''') will be above their head.
+
+The quest helper (journal or log) gives you the steps to complete your quests, and updates with each objective completion.
+* Non-members can only hold 10 quests before it is full.
+* Pressing the gray button of an arrow pointing to a dot will minimize the helper.
+* Moving your cursor towards the quest name in the helper will make arrows appear, allowing you to scroll through the quests you have.
+
+Click on Michael and learn that the robgoblins chased a pig from Farmer Chug's pen. Click on the green "''Yes, I accept!''" button to receive the Tutorial: Wilbur's Trouble quest. Continue down the path towards the pig Wilbur who has a light shining on him. He is surrounded by the robgoblins and you need to chase off them. After you rescue Wilbur he will show you love and act like a pet. Michael Tallstrider will have a green circled question mark above his head.
+
+Michael asks you to take Wilbur the pig back to Farmer Chug further down the path.
+
+===Minigames===
+Speak to Farmer Chug and complete the quest that he gives you. One will take you to Ashley Lightwings and she needs your help to get rid of robgoblins that are ruining her birthday party. She gives you the choice to cook her strength enhancing food, or to learn to fight so you can you can run them off yourself. You do not have to do both but you must complete at least one to unlock the quest to leave.
+
+If you decide to cook a stew to give to Ashley so that she can grow to be big and strong, you will need to become a chef. Being a chef does not just include cooking, but Harvesting as well.
+
+===Combat===
+You can learn to fight by becoming a brawler and kick those robgoblins out of Ashley's party. While in a combat encounter or instance, you can move exactly as if in the open world. But there are a few more commands to know.
+
+*Left clicking on a target selects it as well as makes your character run up and attack it.
+*Pressing TAB targets the nearest enemy.
+*The numbers, 1 for attack and 2-5 for Abilities, can also be clicked or pressed on the keyboard. At this time the numpad does not work for these.
+*The numbers 6-9 are used for items in your Item Belt. So far you need to click on them to use and pressing the number does not work.
+
+You can both walk over or click on gold and items left on the ground.
+
+===Radial Menu===
+Talk to Ashley one more time to learn about radial menus. Here you can choose the another job quest, the quest to be teleported to the mainland, buy and sell goods, or play a game like '''Checkers''' or '''Chess'''. Rumor has it, more board games will be added in the future!
+
+Make sure you are finished here as you cannot come back.
+
+==Tutorial End==
+When the tutorial were finished, then Ashley would sends you to the main Free Realms world now in one of three areas: [[Cobblestone Village|Crossroads]], [[Highroad Junction]], or [[Stillwater Crossing]] to meet one of her friends. Once you arrive at your destination, a new "''Welcome to Free Realms!''" window will greet you. Look it over and press the X at the bottom to close it.
+
+==Mobs==
+===[[Non-Playable-Character|NPCs]]===
+*[[Michael Tallstrider]]
+*Farmer Chug
+*Wilbur
+*Ashley Lightwings
+*[[Robbie]]
+*[[Robgoblins]]
+[[Category:Locations]]
+[[Category:Sacred Glade]]
+[[Category:Sacred Grove]]
+[[Category:No longer in-game]]

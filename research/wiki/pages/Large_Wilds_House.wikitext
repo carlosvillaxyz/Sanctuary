@@ -1,0 +1,32 @@
+<!-- Large Wilds House | https://freerealms.fandom.com/wiki/Large%20Wilds%20House | CC-BY-SA -->
+[[File:Large wilds house.png|thumb|350px]]
+{{IGD|A large house in the country.}}
+The '''Large Wilds House''' is a [[:Category:Housing|housing]] [[Lots|lot]] that is available to everyone through the [[Station Cash Marketplace|SC Marketplace]] at the regular price of {{SC|750}}, and to [[Membership|Members]] at the 10% discount price of {{SC|675}}. It is the larger version of the [[Small Wilds House]].
+
+==Description==
+The house itself has 3 rooms, a front room with orange-brown walls, a back room with yellow walls and a side room with green walls. The outside walls are yellow. The fence is a combination of wood fencing and stone pillars. The yard around the house contains a tree, a path, a lantern and a few flowers.
+
+==Dimensions==
+The dimensions of the Large Wilds House are: 
+*Height 40 Blocks
+*Width 62 Blocks
+* Length 75 Blocks
+*Volume 186,000 Blocks
+
+==Gallery==
+<gallery>
+File:Large Wild House Outside 2.png|Exterior view from the back of the house.
+File:Large Wild House Inside Back room.png|Interior view of the house's back room.
+File:Large Wild House Inside Front room.png|Interior view of the house's front room.
+File:Large Wild House Inside Side room.png|Interior view of the house's side room.
+</gallery>
+
+==Sources==
+*[https://www.youtube.com/watch?v=W0Qj_lDBIW4 Free Realms Large Wilds House Tour] on [https://www.youtube.com YouTube]
+*[https://fr.fanbyte.com/wiki/FR_Place:Large_Wilds_House Large Wilds House] on [https://fr.fanbyte.com/wiki ZAM]
+*[https://guidescroll.com/2011/10/free-realms-detailed-housing-guide/ Free Realms Detailed Housing Guide] on [https://guidescroll.com/ GuideScroll]
+
+[[Category:Housing]]
+[[Category:Lots]]
+[[Category:SC Marketplace]]
+[[Category:Marketplace Items]]

@@ -1,0 +1,58 @@
+<!-- Fisherman | https://freerealms.fandom.com/wiki/Fisherman | CC-BY-SA -->
+[[File:FR Fishing 1.png|left]]''<font style="font-size:15px">{{Quote|Ever wonder what lurks within the waters of [[Sacred Grove]]? Fishermen know all the secret spots to cast their lines, and reel in everything from exotic fish to treasure and coin!|Job description}}<font>
+
+==Unlocking Fisherman==
+The quest to unlock the fisherman job can be activated by the following:
+*<Sports Club> Message Board in [[Sanctuary]]
+
+==Trainers==
+*Reed Stillwater in [[Stillwater Crossing]]
+
+==Quests==
+*'''Becoming a Better/Fisherman''': <Sports Club> Message Board in Sanctuary
+*'''Testing the waters''': Reed Stillwater in Stillwater Crossing
+*'''Itty Bitty Bait''': Jonah Relicreel in [[Rainbow Lake]]
+
+==Collections/Junk==
+*Briarwood Pond and Briarwood Stream Fish
+*Snowhill Pond and Snowhill Stream Fish
+*Wilds Pond and Wilds Stream Fish
+*Extra Large Catch of the Day
+*Extra Large and in Charge
+
+==Tools==
+Tools can be bought from the [[Coin Shop]], earned from quests, or even reeled in with a treasure chest!
+
+*Simple Bamboo Fishing Rod - "This fishing rod allows you to cast a short distance." 
+*Golden Reel Fishing Rod - "This fishing rod allows you to cast a short distance."
+*Metal Fishing Rod - "This fishing rod allows you to cast a greater distance." 
+*Red Scoped Fishing Rod - "This fishing rod allows you to cast a greater distance."
+*Golden Scoped Fishing Rod - "This fishing rod allows you to fish in the deepest of waters!"
+
+==Fishing Holes==
+*[[Darklit Lagoon]]
+*[[Brambleback's Bayou]]
+*[[Rainbow Lake]]
+*[[Wintery Basin]]
+*[[Frostbitten Banks]]
+*[[Sacred Grove Shallows]]
+
+==Lures==
+Fishing lures are bought from the Coin Shop under the supplies item category:
+
+* 16oz Steak - "This lure gives a 10% better chance of catching Winter Piranha, Toothy Tetra and Blind Swurglefish."
+* Flyfisher 3000 - "This lure gives a 10% better chanceof catching Chilly Grouper, Butter, Flyfish and Briar Nibbler."
+* French Fry- "This lure gives a 10% better chance of catching Blubbercuda, Baconfish and Changed Salmon."
+* Frostflies - "This lure gives a 10% better chance of catching Frostgill Smelt, Flutterfish and Ink Cod."
+* Mega Slider - "This lure gives a 10% better chance of catching Goofy Grouper, Finless Fish and Fanged Grouper."
+* Nightcrawlers - "This lure gives a 10% better chance of catching Plattypus, Lady Tetra and Roach Loach."
+* Perch Pinpointer - "this lure gives a 10% better chance of catching Pacu Pacu, Peachy Perch and Globfish."
+* Shiny Crankbait - "This lure gives a 10% better chance of catching Coach Loach, Feral Catfish and Creeping Cod."
+* Skipper Seeker - This lure gives a 10% better chance of catching Frozen Char, Slugmud Skipper and Old sole."
+* Sleek Clicker - "This lure gives a 10% better chance of catching Talking Bass, Cheery Salmon and Bitter Betta."
+* Thorn Jig - "This lure gives a 10% better chance of catching Blue Thornfin, Chipsen Fish and Thorny Trout."
+* Tiny Rib - "This lure gives a 10% chanceof catching Spineless Stickleback,Calico Catfish and PurplenosedShark."
+* Treasure Magnet - "This magnet gives a 10% better chance of catching Treasure."
+{{Template:Jobs}}
+[[Category:Jobs]]
+[[Category:Fisherman]]

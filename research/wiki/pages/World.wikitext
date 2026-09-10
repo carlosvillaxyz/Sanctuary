@@ -1,0 +1,55 @@
+<!-- World | https://freerealms.fandom.com/wiki/World | CC-BY-SA -->
+[[File:Img 20131012-11-41-32.jpg|thumb|300px|View of [[Cobblestone Village]]. The World is all around us!]] 
+The '''World''' of [[Free Realms]] consist of public [[Locations|locations]] that all players can venture to. It consist of events and scenarios that all players can participate in together, without a limit to how many players are able to be there. [[Sacred Grove]] and [[Sunstone Valley]] are the only regions in the World.
+
+==What is in the World?==
+Certain areas that are publicly available. Most areas we can see in the [[Atlas]] that players explore the area. Some examples are:
+*Regions
+**[[Sacred Grove]]
+**[[Sunstone Valley]]
+
+*Cities
+**[[Blackspore Swamp]]
+**[[Briarwood]]
+**[[Merry Vale]]
+**[[Sanctuary]]
+**[[Seaside]]
+**[[Shrouded Glade]]
+**[[Snowhill]]
+**[[Wugachug]]
+
+*Towns and villages
+**[[Cobblestone Village]]
+**[[Durango Zoo]]
+**[[Forest Troll Village]]
+**[[Greenwood Camp]]
+**[[Highroad Junction]]
+**[[Lakeshore]]
+**[[Pixie Nursery]]
+**[[Pixiewood Hills]]
+**[[Queensfields]]
+**[[Robgoblin Camp]]
+**[[Rumble Ridge]]
+**[[Stillwater Crossing]]
+**Summer Camp
+
+*Sub-regions
+**[[Briarheart]] (subdivision of Briarwood)
+**[[Bristlewood]] (subdivision of Briarwood)
+**[[Nettleseed]] (subdivision of Briarwood)
+**[[Pony Vale]] (subdivision of Sunstone Valley)
+**[[Rocklar Village]] (subdivision of Sunstone Valley)
+**[[Thistlerow]] (subdivision of Briarwood)
+
+*Others
+**[[Highroad Vale]]
+**[[Lavender Coast Pass]]
+**[[Memorial Caverns]]
+**[[The Roadhouse]]
+
+==What is NOT in the World?==
+Certain areas that aren't publicly available or stationed are considered '''instances'''. Instances are special areas, typically a dungeon, that generates a new copy of the location for each group, or for a certain number of players that enter the area. Some examples are:
+*[[Dungeons]]
+*[[Lots]] (if not added to the [[Housing Directory]])
+*[[Mini-Games|Minigames]]
+[[Category:Locations]]

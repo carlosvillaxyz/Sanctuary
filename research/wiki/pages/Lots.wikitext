@@ -1,0 +1,49 @@
+<!-- Lots | https://freerealms.fandom.com/wiki/Lots | CC-BY-SA -->
+[[File:Small Wilds House.jpg|thumb|350px]]
+'''Lots''' are housing areas of property that the player can own and build on. They can be accessed through the house icon on the bottom panel in the user interface. If you own multiple lots, it will pop up a small menu for you to choose which house type you want to go to.
+
+You are able to place a multitude of [[Items|items]] inside and outside of your home. Some of these items, such as the [[Mega Dance Floor]] or [[Rocket Ship]], are interactive. Many of the items are just plain furniture, such as beds, dressers or bath tubs.
+
+Both [[Membership|members]] and non-members start with one free apartment. Members additionally get one free [[Small Wilds House]], which is available by claiming the Members Only New House Package. There is one more upgrade, available in the [[Station Cash Marketplace|SC Marketplace]], called the [[Large Wilds House]].
+
+==List of Lots==
+*[[Apartment]]
+*[[Bat Cavern Lot]]
+*[[Blackspore Swamp House]]
+*[[Blackspore Swamp Lot]]
+*[[Bog Shore Lot]]
+*[[Briar Falls Lot]]
+*[[Briarwall Towers Lot]]
+*[[Briarwood Lot]]
+*[[Club House]]
+*[[Crystal Mines Lot]]
+*[[Farms]]
+*[[Lake Tree Lot]]
+*[[Large Wilds House]]
+*[[Lonely Island Lot]]
+*[[Merry Vale Lot]]
+*[[Rumbledome Lot]]
+*[[Sandy Beach Lot]]
+*[[Seaside Lot]]
+*[[Shrouded Glade Lot]]
+*[[Shrouded Gloam Lot]]
+*[[Shrouded Stairs Lot]]
+*[[Small Wilds House]]
+*[[Snow Days Lot]]
+*[[Snowhill Lodge]]
+*[[Sunset Party Boat]]
+*[[Sunstone Dam]]
+*[[Sunstone Valley Lot]]
+*[[Vale Stream Lot]]
+*[[Wilds Condo]]
+*[[Wugachug Lot]]
+
+==List of Unreleased/Unused Lots==
+There are two lots that never released in the game, and there is the only lot that is unused and never planned to be added.
+
+*[[Bixie Field Lot]]
+*[[Girl House]]
+*[[Unidentified Golden Yacht Lot]]
+[[Category:Lots]]
+[[Category:Housing]]
+[[Category:Marketplace Items]]

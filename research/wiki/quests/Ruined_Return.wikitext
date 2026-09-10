@@ -1,0 +1,25 @@
+<!-- Quest:Ruined Return | https://freerealms.fandom.com/wiki/Quest%3ARuined%20Return | CC-BY-SA -->
+{{Quest2
+|detail summary = The Legendary Sunstone is a slippery little treasure, but Noggle is sure he will find it eventually. In the meantime he was hopping you could take a care package to a group of dwarves he met a few days ago. And if they ask about the equipment he was supposed to be repairing for them, he recommends that you definitely not mention anything about converting it into jump pads.|coin amount = 5}}{{Questprog
+|previous = [[Quest:Committed to the Plan|Committed to the Plan]]|next = [[Quest:Under Pressure|Under Pressure]]|quest series = [[Sunstone_Valley#Noggle's_Retreat|Sunstone Valley Quest Series]]}}
+==Requirements==
+Player must complete [[Quest:Committed to the Plan]] in order to do [[Quest:Ruined Return]]
+==To Start==
+Speak with [[Noggle Cogloose]] located in [[Noggle's Retreat]], [[Sunstone Valley]].
+==Goals==
+Noggle has sent you to a dwarven dig site in Sunstone Valley to deliver a package.
+*Deliver the package to Sarkin Stonehearth
+==Steps==
+#Speak with [[Noggle Cogloose]] located in [[Noggle's Retreat]], [[Sunstone Valley]].
+#*"The Legendary Sunstone may have eluded me today, but it won’t elude me for long!<br />In the meantime, could you <font color='#D9781A'>take this care package</font> to the nice <font color='D9781A'>dwarves</font> down the road? Also, try not to mention anything about how I converted their equipment into jump pads." -Noggle Cogloose
+#Speak with [[Sarkin Stonehearth]] located in [[The Dig]], [[Sunstone Valley]].
+#*"Listen stranger, if you’re here to cause trouble you can turn yourself around right now...<br />Oh, you brought a package?<br />Uh, this is just a bunch of junk. Where did you even get this? Actually, never mind, I don’t think I want to know." -Sarkin Stonehearth
+#*"Thanks!" -Player response
+==References==
+*[[Dwarves]]
+*[[Legendary Sunstone]]
+*[[Noggle Cogloose]]
+*[[Sarkin Stonehearth]]
+*[[Sunstone Valley]]
+*[[The Dig]]
+[[Category:Quest]]

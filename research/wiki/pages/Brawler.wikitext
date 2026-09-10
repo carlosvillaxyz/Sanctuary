@@ -1,0 +1,233 @@
+<!-- Brawler | https://freerealms.fandom.com/wiki/Brawler | CC-BY-SA -->
+{{JobInfobox
+|name=Brawler
+|image=Brawler.png
+|caption=Male [[Human]] Brawler
+|}}
+[[Image:BrawlerT.png|left]]''<font style="font-size:12px">{{Quote|Up close and personal: that's how Brawlers like it! Rough and rugged, they always mean business and are up for fight anytime with anyone. Brawlers are tough stuff! They use hammers, clubs, and powerful kicks to defeat enemies no matter how large or scary. You can learn to be a Brawler during the tutorial, and there is a Brawler trainer in every starting area.|Job description}}</font>''
+<br />
+'''Brawler''' is a combat [[Jobs|job]], specializing in close combat utilizing blunt weapons like hammers. A combat class job, experience is gained by completing Brawler [[Quests|quests]] and by battling in combat instances in the [[Wilds]] and in [[Dungeons|dungeons]].
+
+==Restrictions - Job Change==
+Recently, since the opening of [[Sunstone Valley]], as of March 16, 2012, non-[[Membership|members]] can also max out the Brawler job.
+
+==Starting the Brawler Questline==
+The Brawler questline can be started with any of the following trainers:
+* Flanders in the [[Sacred Glade]] tutorial (no longer in-game)
+* Harold in [[Highroad Junction]]
+* Carlos Brazenfist in [[Cobblestone Village]]
+* Caitlyn Gravefog in [[Stillwater Crossing]]
+
+==Trainers==
+* Flanders in the Sacred Glade tutorial (starts questline; No longer in-game)
+* Harold in Highroad Junction (starts questline)
+* Carlos Brazenfist in Cobblestone Village (starts questline)
+* Caitlyn Gravefog in Stillwater Crossing (starts questline)
+* [[Tevin]] in [[Snowhill]]
+* Petra in [[Blackspore Swamp]] (will block partway until lvl 5)
+* Andrew in path outside of [[Briarwood]]
+* [[Mayor Crystalline]] in [[Snowhill]] (will block partway until lvl 10)
+* Jeni Shortfuse in Snowhill (will block partway until lvl 15)
+* Rourke Ironfist in [[Lakeshore]] (will block partway until lvl 20)
+
+==Traits==
+{|text-align="center" cellpadding=6 width=95%
+! scope="row" width=5%|Level
+! scope="col"  width=12%|Skill
+! scope="col"|Effect
+|-
+!style="text-align:center;"|5
+|Bruising Strikes
+|All opponents you hit are weakened are are more likely to be struck by a critical attack.
+|-
+! scope="row"  style="text-align:center;"|10
+|Savvy
+|Your critical strikes cause additional damage.
+|-
+!style="text-align:center;"|15
+|Toughness
+|You are able to withstand more damage before being knocked out.
+|-
+! scope="row" style="text-align:center;"|20
+|Resilience
+|<span style="color:rgb(255,255,255);font-family:Tahoma,Arial,Verdana,Helvetica,sans-serif;font-size:12px;line-height:normal;">You show great resilience and gain health and energy after being hit.</span>
+|}
+[[File:Trsaits2'.png|650px]]
+
+==[[Quests]]==
+* '''Art of Brawling''': added by clicking on any dungeon while having no combat jobs (optional)
+
+===Trainer Series===
+'''''NB!''''' It is only necessary to go through one of the trainer series lines before continuing from Blackspore, however completing all three will result in extra experience
+
+====Tutorial Series (no longer in-game)====
+* '''Tutorial: Brawling 101''': Ashley Lightwings in Sacred Glade tutorial (optional, unlocks job)
+* '''Tutorial: The "Hands On" Method''':Flanders in Sacred Glade tutorial (optional)
+
+====Trainer Series: Cobblestone Village====
+* '''Brawler: Bringing Back Brazenfist''': Carlos Brazenfist in Cobblestone Village (unlocks job)
+* '''Brawler: Honor Lost''': Carlos Brazenfist in Cobblestone Village
+* '''Brawler: Building Your Rep''': Carlos Brazenfist in Cobblestone Village
+* '''Brawler: Delinquent Dilemma''': Jones east of Cobblestone Village
+* '''Brawler: Bad Business''': Jones east of Cobblestone Village
+* '''Brawler: Given to Guard''': Sabastian Cabet in Blackspore
+
+====Trainer Series: Highroad Junction====
+* '''Brawler: Hewey's Escape!''': Harold in Highroad Junction (unlocks job)
+* '''Brawler: Restless Rumors''': Harold in Highroad Junction
+* '''Brawler: Growler Encroachment''': Gerold south of Snowhill
+* '''Brawler: The Growler Report''': Gerold south of Snowhill
+* '''Brawler: Way of the Brawler''': Tevin in Snowhill
+
+====Trainer Series: Stillwater Crossing====
+* '''Brawler: Graveyard Grumble''': Caitlyn Gravefog in Stillwater Crossing (unlocks job)
+* '''Brawler: Get McGrobie!''': Caitlyn Gravefog in Stillwater Crossing
+* '''Brawler: Stolen Merchandise''': Seth McGrobie in Stillwater Crossing
+* '''Brawler: Rightful Owner''': Seth McGrobie in Stillwater Crossing
+* '''Brawler: Cemetery Security''': [[Virgil Veilmont]] in Blackspore
+
+===Main Series===
+* '''Brawler: Prey on the Cray''': Petra in Blackspore
+* '''Brawler: Achieve Level 5''': Petra in Blackspore
+:* '''Contract: Hello Fernando''': Fernando Flexsteel in Stillwater Crossing [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* '''Brawler: Splendid Silver!''': Petra in Blackspore
+* '''Brawler: Finding a Buyer''': Petra in Blackspore
+* '''Brawler: Missing Wallet''': Andrew on path from [[Briarwood]]
+* '''Brawler: Missing Money''': Andrew on path from Briarwood
+* '''Brawler: IOU''': Andrew on path from Briarwood
+* '''Brawler: One Man's Junk...''': Nurble in the [[Robgoblin Camp]]
+* '''Brawler: Curious Key''': Nurble in the Robgoblin Camp
+* '''Brawler: Achieve Level 10''': Mayor Crystalline in [[Snowhill]]
+:* '''Contract: Colder Weather''': Fernando Flexsteel in Stillwater Crossing [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* '''Brawler: An Honest Mistake''': Mayor Crystalline in Snowhill
+* '''Brawler: Fradulent Buyer''': Jeni Shortfuse in Snowhill
+* '''Brawler: I Want My Money''': Sampson southeast of Snowhill
+* '''Brawler: Achieve Level 15''': Jeni Shortfuse in Snowhill
+:* '''Contract: Local Bounty''': Fernando Flexsteel in Stillwater Crossing [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* '''Brawler: Providing Proof''': Jeni Shortfuse in Snowhill
+* '''Brawler: Confronting the Crook''': Mayor Crystalline in Snowhill
+* '''Brawler: Reputation Regained''': Mayor Crystalline in Snowhill
+* '''Brawler: Fight for Your Right''': Rourke Ironfist in [[Lakeshore]] [[Image:Micon.png|20px|Members only]]
+* '''Brawler: Achieve Level 20''': Rourke Ironfist in Lakeshore [[Image:Micon.png|20px|Members only]]
+:* '''Contract: Troll Brawling''': Fernando Flexsteel in Stillwater Crossing [[Image:Icon repeat.png|15px|Repeatable Quest]] [[Image:Micon.png|20px|Members only]]
+: '''Brawler: Paying Your Dues: Rourke Ironfist in Lakeshore [[Image:Micon.png|20px|Members only]]'''
+
+==[[Collections]]==
+{{main|Job Specific (Collections)#Brawler Collections}}
+* Brawler Hammer Materials
+* Brawler Magical Hammer Essences
+* Brawler Stories
+
+==Equipment==
+===Weapons===
+'''Level 1'''
+* Crystal Hammer
+* Student Brawler Hammer
+* Spunky Scrapper Hammer
+* Amateur Brawler Hammer
+* Brawler's Power Fist
+* Monarch Log Hammer
+* Nature's Stem
+
+<u>'''Level 3'''</u>
+* Log Hammer
+<u>'''Level 4'''</u>
+* Street Scrapper Hammer
+* Bubbleburst Kendama Hammer
+* Venom's Crush
+
+<u>'''Level 5'''</u>
+* Pro Brawler Hammer
+* Rowdy Rumbler Hammer
+* Kendama Hammer
+* Confetti Kendama Hammer
+* Carbon Kendama
+* Brawler's Hammer of Pummeling
+* Brawler's Hammer of Roundhouse
+* Brawler's Hammer of Rumbling
+* Brawler's Hammer of Sweeps
+* Gemstone Kendama Hammer
+* Jeweled Kendama Hammer
+
+'''Level 8'''
+* Street Scrapper Hammer
+* Brawler's Anvil Hammer of Cheapshot
+* Brawler's Anvil Hammer of Dirt Kick
+
+'''Level 11'''
+* Anvil Hammer
+
+'''Level 12'''
+* All-Star Brawler Hammer
+* Blazing Drill
+* Brawler's Drill Hammer of Sweeps
+* Brawler's Drill Hammer of Roundhouse
+
+'''Level 13'''
+* Anvil Hammer
+
+'''Level 15'''
+* Driller
+* Strong Scrapper Hammer
+* All-Star Brawler Hammer
+
+'''Level 16'''
+* Balloon Hammer
+* Berserk Bruiser Hammer
+* Brawler's Atlas Hammer of Dirt Kick
+
+'''Level 17'''
+* Buff Bruiser Hammer
+* Drill Hammer
+
+'''Level 19'''
+* Frenzy Fighter Hammer
+* Crystal Hammer
+
+'''Level 20'''
+* Crystal Hammer
+* Berserk Bruiser Hammer
+* Magical Essence Crystal Hammer
+
+===Clothing===
+'''Level 1'''
+* Student Brawler
+* Spunky Scrapper
+* Amateur Brawler
+
+'''Level 3'''
+* Feisty Fighter
+
+'''Level 5'''
+* Rowdy Rumbler
+* Pro Brawler
+
+'''Level 8'''
+* Street Scrapper
+
+'''Level 11'''
+* Alley Fighter
+
+'''Level 13'''
+* Ring Rumbler
+
+'''Level 15'''
+* Strong Scrapper
+* All-Star Brawler
+
+'''Level 17'''
+* Buff Bruiser
+
+'''Level 19'''
+* Frenzy Fighter
+
+'''Level 20'''
+* Berserk Bruiser
+
+==Vendors==
+* Blackspore - Trent Gingertuft, north end, edge of water - Level 1 weapons; Lvl 20 clothing
+* Lakeshore - Lacy Trembletoes, east, edge of lake - Level 19 weapons; Level 20 clothing
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Combat]]
+[[Category:Brawler]]

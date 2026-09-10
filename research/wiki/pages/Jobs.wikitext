@@ -1,0 +1,79 @@
+<!-- Jobs | https://freerealms.fandom.com/wiki/Jobs | CC-BY-SA -->
+[[Image:Jobs.png|right]]
+Master the stealth moves of a Ninja while you take on Yetis, cook up useful potions and foods as a Chef, compete against your friends as a Kart Driver and more...all in one day! Try out tons of jobs, and switch back and forth at the drop of a hat! By completing quests, jumping into combat or playing fun mini-games, you will level up your job. As you gain levels, you will begin to unlock exciting new abilities, quests, weapons and even cooler job outfits.The maximum of a job's level is 20 (level 4 if you are not a member for most jobs). <ref>[http://www.freerealms.com/jobs.vm]</ref>
+
+== List of Jobs ==
+'''Jobs''' generally fall under three classifications.
+
+'''''Freestyle''''' jobs are, for the most part, quest driven jobs. Experience is gained by completing quests, playing mini-games, or exploring.
+
+'''''Crafting''''' jobs allow you to create items using ingredients bought from vendors or harvested in the world. Experience is gained by completing job specific quests and playing [[Mini-Games]] . 
+
+'''''Combat''''' jobs will allow you to battle with some of the less friendly inhabitants of the world. Experience is gained by completing job specific quests and by battling in [[combat]] instances in the wilds and in dungeons. Combat jobs also spend [[Stars]] to improve their abilities.
+
+=== Combat  ===
+* [[Archer]]
+* [[Brawler]]
+* [[Medic]]
+* [[Ninja]] 
+* [[Warrior]] [[Image:Micon.png|20px|Members only]]
+* [[Wizard]] [[Image:Micon.png|20px|Members only]]
+
+=== Crafting  ===
+* [[Blacksmith]]
+* [[Chef]] [[Image:Micon.png|20px|Members only]]
+* [[Miner]]
+
+=== Freestyle ===
+* [[Adventurer]]
+* [[Card Duelist]]
+* [[Demolition Derby Driver]]
+*[[Fisherman]]
+* [[Kart Driver]] [[Image:Micon.png|20px|Members only]]
+* [[Pet Trainer]] [[Image:Micon.png|20px|Members only]]
+* [[Postman]] [[Image:Micon.png|20px|Members only]]
+* [[Soccer Star]]
+
+== Unlocking Jobs ==
+To gain access to a profession, you must first '''''unlock '''''the job.           
+Most jobs unlock by simply talking to a basic trainer for that profession. Most jobs have multiple basic trainers in [[locations]] all over the world.
+
+Some jobs, such as '''Postman''', have an introduction quest that is given to you by interacting with an object (ie. postboxes), which will then lead you to the trainer.
+
+Most jobs cannot be unlocked until meeting a requirement (experiencing another job type first or having a [[membership]] after level 4). Since the Sunstone Valley expansion was released, the Blacksmith, Brawler, and Miner job levels have been increased to 20.
+
+A few objects (mostly [[Mini-Games]] ) within the world will activate a [[quest]] if you have not already unlocked the job associated with it. The quest will direct you to the nearest trainer that unlocks that job.
+
+== Job Statistics ==
+'''''Job Statistics''''' effect how a character performs in some of the job related mini-games. Stats can be increased as a job's level increases or through related clothing, weapons, tools, accessories, and shards that have stat bonuses. Any job related items that have a bonus will be shown at the bottom of the item's tool tip.
+
+Job Statistics can be found in the "About Me" section of the Job window.
+
+=== Combat Stats ===
+:''Related jobs: [[Archer]], [[Brawler]], [[Medic]], [[Ninja]], [[Warrior]], [[Wizard]]''
+[[Image:HealthIcon.png|13px]] '''Health''': Increases the maximum amount health points<br />
+[[Image:EnergyIcon.png|13px]] '''Energy''': Increases the maximum amount of energy available for abilities<br />
+[[Image:AttackIcon.png|13px]] '''Attack''': Increases the amount of damage inflicted when attacking<br />
+[[Image:DefenseIcon.png|13px]] '''Defense''': Decreases the amount of damage received when attacked<br />
+
+=== Matching (Harvesting) Stats ===
+:''Related jobs: [[Blacksmith]], [[Miner]], [[Postman]]''
+[[Image:TimingIcon.png|13px]] '''Matcher's Timing''': Slows game timer during "match 3" mini-games<br />
+[[Image:SkillIcon.png|13px]] '''Matcher's Skill''': Increases chances of matching tiles spawning alongside each other during "match 3" mini-games<br />
+[[Image:AdvantageIcon.png|13px]] '''Matcher's Advantage''': Increases chances of special tiles will spawning during "match 3" mini-games<br />
+
+=== Making (Crafting) Stats ===
+:''Related jobs: [[Chef]]''
+[[Image:ReachIcon.png|13px]] '''Maker's Reach''': Increases smashing radius during cooking mini-game<br />
+[[Image:SpeedIcon.png|13px]] '''Maker's Speed''': Increases chopping speed during cooking mini-game<br />
+[[Image:SenseIcon.png|13px]] '''Maker's Sense''': Decreases the speed of moving meat during cooking mini-game<br />
+
+== See Also ==
+* [[Mini-Games]]
+
+== References ==
+ <references/>
+
+
+[[de:Berufe]]
+[[Category:Jobs| ]]

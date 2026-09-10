@@ -1,0 +1,30 @@
+<!-- Small Wilds House | https://freerealms.fandom.com/wiki/Small%20Wilds%20House | CC-BY-SA -->
+[[File:Small Wilds House.jpg|thumb|360px]]
+{{IGD|A small house in the country.}}
+The Small Wilds House is a [[:Category:Housing|housing]] [[Lots|lot]] that is available to everyone through the [[Station Cash Marketplace|SC Marketplace]] at the regular price of {{SC|549}}, and to [[Membership|Members]] at the 10% discount price of {{SC|494}}. It can also be acquired through the [[Members Only New House Package]], which is awarded to players upon first obtaining Membership.
+
+==Description==
+The house has a large yard, with an out-in-the-country feel to it. There are large trees and rocks adorning the lot, as well as many flowers and other plants. Around the edge of the property is a dark brown picket fence, as well as a curved gate at the entrance to match.
+
+[[File:Small Wilds House inside.png|thumb|360px|Interior view of the Small Wilds House.<ref>[https://fr.fanbyte.com/wiki/FR_Place:Small_Wilds_House Small Wilds House] on [https://fr.fanbyte.com/wiki/ ZAM]</ref>|left]]
+
+The house itself is quite tall, with a staircase leading up to the porch that is as long as the house's width. The outside is a light aqua with light brown accents. There are around 9 windows, 3 of them being portholes. The inside is very open, leaving enough space to work with for the player's imagination. The wallpaper is green, but is red on the other side divider, and the floors are plain wood with an orange tint to them. However, both the wall paper and flooring, including the exterior, can be changed with purchases from the [[Coin Shop]] or SC Marketplace.
+
+==Dimensions==
+The dimensions<ref>[https://guidescroll.com/2011/10/free-realms-detailed-housing-guide/ Free Realms Detailed Housing Guide] on [https://guidescroll.com/ GuideScroll]</ref> of the Small Wilds House are:
+* Height 39 Blocks
+* Width 47 Blocks
+* Length 36 Blocks
+* Volume 65,988 Blocks
+
+==Gallery==
+<gallery>
+Small Wilds House Concept.jpg|Concept art of the Small Wilds House.
+</gallery>
+
+==References==
+<references/>
+[[Category:Housing]]
+[[Category:Lots]]
+[[Category:Marketplace Items]]
+[[Category:SC Marketplace]]

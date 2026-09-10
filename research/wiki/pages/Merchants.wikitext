@@ -1,0 +1,150 @@
+<!-- Merchants | https://freerealms.fandom.com/wiki/Merchants | CC-BY-SA -->
+'''Merchants''' are [[Non-Playable-Character|NPCs]] that can be found all throughout [[Sacred Grove]] and [[Sunstone Valley]]. Previously, they were the only way to access certain [[Station Cash Marketplace|SC Marketplace]] and the [[Coin Shop]] [[Items|items]]. Currently most of those merchants bring players to the default [[Coin Shop]] or to the coin shop in the category of their appropriate items.
+
+As of August 6 of 2013, merchants that sell [[Jobs]] specific Coin Shop items have been introduced to the game.
+
+==List of Non-Jobs Merchants==
+*[[Baily Leafcutter]]
+*[[Boomi Mcbam]]
+*[[Boomi McBam]]
+*[[Bowawow]]
+*[[Braldan Stoneaxe]]
+*[[Cragara]]
+*[[Edwin]]
+*[[Figwit Figgletons]]
+*[[Freddy MacIsaac]]
+*[[Fritti Bluebelle]]
+*[[Hackum]]
+*[[Hank Fisticuffs]]
+*[[Holly Singsong]]
+*[[Jormajorm]]
+*[[Kuppy Wobbletops]]
+*[[Lacy Trembletoes]]
+*[[Larkspur]]
+*[[Lavarius Sparksizzle]]
+*[[Linne]]
+*[[Munchi Elwood]]
+*[[Ned]]
+*[[Pharmacist Ryan]]
+*[[Prundee Moneytree]]
+*[[Quartermaster Fizzi]]
+*[[Scrap Collecter Flashbang]]
+*[[Shiny Straightshot]]
+*[[Trent Gingertuft]]
+*[[Wumperwug]]
+*[[Yia]]
+*[[Yoko]]
+
+==Job Specific==
+===[[Archer]]===
+*[[Catnis]] found at the North Western edge of [[Blackspore Swamp]]
+*[[Cissie]] found near the [[Briarwood]] [[Warpstone]]
+*[[Elinor]] found near the [[Shrouded Glade]] Pet Center
+*[[Gilbert]] found near the [[Greenwood Forest]] Warpstone
+*[[Kimi]] found near the [[Lakeshore]] Cooking Table
+*[[Locksley]] found near the [[Bristlewood]] Warpstone
+*[[Marian]] near the Information Center in [[Seaside]]
+*[[Meridia]] in [[Merry Vale]]
+*[[Oliver]] found North East of the [[Blackspore]] Warpstone
+*[[Roberge]] found at the Cooking Table in Greenwood Forest
+*[[Tommy]] near the large tree in [[Snowhill]]
+*[[Tuck]] in Seaside
+*[[Vere]] near the [[Wugachug]] Cooking Table
+*[[Will the Red]] near the [[Briarheart]] Warpstone
+
+===[[Blacksmith]]===
+*[[Fry]] found at Red's Haven in [[Sunstone Valley]]
+*[[Hess]] found at the [[Blackspore]] Crafting Station near the [[Haunted Mines]] [[Dungeons|dungeon]]
+*[[Estus]] found at the Farnum's Farm Crafting Station in southern [[Wilds]]
+*[[Ishi]] found at Whirly's Scrap Camp in Sunstone Valley
+*[[Keller]] at the Briarwood Crafting Station near the [[Vale of the Ancients]] dungeon
+*[[Masa]] found at the Lakeshore Crafting Station near the Lakeshore Cooking Table
+*[[Samune]] found at the Crafting Station North West of the [[Southvale Quarry]]
+*[[Seppa]] found at the Dartmoor Quarry
+*[[Wayland]] found in the Crafting Station near the [[Singing Crystal Mines]] in [[Snowhill]]
+
+===[[Brawler]]===
+*[[Dempsy]] found near the Snowhill Post Office in Snowhill
+*[[Evander]] found around the campfire near [[Donovan Shadeweaver]]'s home in Blackspore
+*[[Fraz]] found in Wugachug
+*[[Keren]] found South of the Thunder Falls Raceway
+*[[Kristane]] found near the Lakeshore Cooking Table
+*[[Lingan]] found near the Seaside Warpstone
+*[[McMann]] found near the [[Shrouded Glade]] Warpstone
+*[[Miesha]] found in Merry Vale
+*[[Rocky]] found near the Farnum Farm's Cooking Table
+*[[Roosey]] found near the [[Cobblestone Village]] Cooking Table
+*[[Tayson]] near the Briarheart Warpstone
+
+===[[Chef]]===
+*[[Gaston]] found near the [[Highroad Junction]] Warpstone
+*[[Ingrid]] found near the [[Stillwater Crossing]] Cooking Table
+*[[Lorraine]] found near the Lakeshore Cooking Table
+*[[Mikael]] found near the Bristlewood Cooking Table
+*[[Nadia]] found near the Merry Vale Cooking Table
+*[[Rachael]] found near the Blackspore Cooking Table
+*[[Skye]] found near the Snowhill Cooking Table
+*[[Zamzani]] found near the Wugachug Cooking Table
+
+===[[Medic]]===
+*[[Bev]] found near the Wugachug Cooking Table
+*[[Bishop]] found near the Briarheart Warpstone
+*[[Farnsworth]] found North East of the Blackspore Warpstone
+*[[Gaius]] found near the Seaside Information Center
+*[[Kimble]] found near the Stillwater Crossing Warpstone
+*[[River]] found South of the Thunder Falls Raceway
+*[[Shephard]] found near the Medic Job Center in [[Sanctuary]]
+*[[Spratt]] found near the large tree in Snowhill
+*[[Zaan]] found near the Shrouded Glade Cooking Table
+
+===[[Miner]]===
+*[[Boddington]] found at the Crafting Station near the Haunted Mines dungeon in Blackspore Swamp
+*[[Cortez]] found at the Crafting Station near the Vale of the Ancients dungeon
+*[[Grasberg]] found at the Crafting Station near the Lakeshore Cooking Table
+*[[Kallie]] found at the Crafting Station in Red's Haven, Sunstone Valley
+*[[Vaal]] found at the Crafting Station near the Singing Crystal Mines
+*[[Witts]] found at the Crafting Station near the Dartmoor Quarry
+*[[Yanaco]] found at the Crafting Station near the [[Southvale Quarry]]
+
+===[[Ninja]]===
+*[[Coiled Viper]] found west of the [[Robgoblin Treasure Trove]] [[Dungeons|dungeon]]
+*[[Crouching Tiger]] found near the Bristlewood Warpstone
+*[[Dizzy Toad]] found at Perry's Pastures, south of Snowhill
+*[[Hidden Dragon]] found on top of the mountain near the Shrouded Glade cooking table
+*[[Shivering Shark]] found behind the Blackspore Pet Adoption Center
+*[[Sleeping Panther]] found near the [[Tavern Cellar]] [[Dungeons|dungeon]]
+*[[Striking Cheetah]] found northernmost of Blackspore Swamp
+*[[Twisting Hornet]] found near [[Kai]]'s Hut in Seaside
+
+===[[Postman]]===
+*[[Arel]] found near the Merry Vale Warpstone
+*[[Clavin]] found near the Shrouded Glade Postboxes
+*[[Cliff]] found near the Wugachug Postbox
+*[[Ferd]] found near the Greenwood Forest Warpstone
+*[[Kwan]] found near the Briarwood Warpstone
+*[[Newman]] found near the Stillwater Crossing Cooking Table
+*[[Reba]] found near the Snowhill Post Office
+*[[Tipper]] found near the Blackspore Warpstone
+*[[Wake]] found near the Sanctuary Bixie Defense Tables
+*[[Walt]] found near the Seaside Warpstone
+
+===[[Warrior]]===
+*[[Alexander]] found near the Lakeshore Cooking Table
+*[[Claudia]] found in Merry Vale
+*[[Hannibal]] found in [[Mire's Edge]]
+*[[Jet]] found in Seaside
+*[[Marius]] found near the Briarwood Warpstone
+*[[Sonja]] found in Snowhill
+*[[Tzu]] found near the Shrouded Glade Warpstone
+
+===[[Wizard]]===
+*[[Alusru]] found behind the Druid Academy in Shrouded Glade
+*[[Fladnag]] found near the Snowhill Post Office in Snowhill
+*[[Falemicent]] found near the Bristlewood Warpstone
+*[[Glenda]] found near the Stillwater Crossing Warpstone
+*[[Linraist]] found near the Town Hall in Sanctuary
+*[[Melninster]] found South of the Blackspore Swamp Warpstone
+*[[Merhione]] found in Northern Seaside
+*[[Redsden]] found near the Tavern Cellar dungeon
+[[Category:NPC]]
+[[Category:Merchant]]

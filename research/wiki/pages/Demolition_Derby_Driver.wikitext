@@ -1,0 +1,27 @@
+<!-- Demolition Derby Driver | https://freerealms.fandom.com/wiki/Demolition%20Derby%20Driver | CC-BY-SA -->
+{{JobInfobox
+|name= Demolition Derby Driver
+|image= Demo.png
+|caption= Male [[Human]] Derby Driver}}
+[[File:DemoT.png|left|361x361px]]''<font style="font-size:15px">{{Quote|Bash and crash in fast-paced racing action as a Demolition Derby Driver! Put the pedal to the metal in destructive rumble races at every speedway in [[Free Realms|Free Realms™]]. Survive the metal mayhem with armor and repair power-ups. Pick up action boosts and extra damage points to smash the competition. Dominate the course and friends by winning derbies and get ranked on [[:Category:Members Only|Members Only]] leaderboards.|Job description}}</font>''
+'''Demolition Derby Driver''' is a driving [[Jobs|job]], specializing crashing cars together. A freestyle class job, it has many upgrades and extras.
+
+==Unlocking Demolition Derby Driver==
+Demolition Derby Driver can be unlocked by speaking with any of the Derby trainers at the various speedways.
+
+==Trainers==
+* Burt 'Wrecking' Crewe in [[Frost Ridge Speedway]]
+* Crash Davis in [[Thunder Falls Speedway]]
+* Rip Ringa in [[Tangletrack Speedway]]
+* Mad Jack in [[Wildwood Speedway]]
+
+==Tracks==
+* Frost Ridge Speedway in [[Snowhill]]
+* Thunder Falls Speedway in [[Lakeshore]]
+* Tangletrack Speedway in [[Briarwood]]
+* Wildwood Speedway in [[Sanctuary]]
+
+==Notes==
+Wildwood Speedway and Thunder Falls Speedway are both the same demolition area.
+{{Jobs}}
+[[Category:Jobs]]

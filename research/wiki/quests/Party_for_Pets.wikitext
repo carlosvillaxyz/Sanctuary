@@ -1,0 +1,19 @@
+<!-- Quest:Party for Pets | https://freerealms.fandom.com/wiki/Quest%3AParty%20for%20Pets | CC-BY-SA -->
+{{Quest2
+|detail summary = Tiger the Party Animal has started a Pet Party. He'll give you a party favor, if you bring a pet.|coin amount = |first reward = Pet Party Favor|first reward image name = petpartyfavoricon.png}}
+==Requirements==
+[[Quest:Party for Pets]] is only available during [[Community Events#Pet Party|Pet Party]] [[Community Events]].
+==To Start==
+Speak with [[Tiger the Party Animal]] who spawns only during [[Community Events#Pet Party|Pet Party]] [[Community Events]].
+==Goals==
+Obtain a pet and speak to Tiger the Party Animal during a Pet Party.
+*Obtain a Pet
+*Speak to Tiger
+==Steps==
+#Speak with [[Tiger the Party Animal]] who spawns only during [[Community Events#Pet Party|Pet Party]] [[Community Events]].
+#*"Dude, my pet rocks! We even wore matching outfits.<br />Bring your own pet and join in the party, bro. I'll give you a party favor too!" -Tiger the Party Animal
+#Obtain a Pet
+#*Summon a [[Pet]].
+#Speak with [[Tiger the Party Animal]] who spawns only during [[Community Events#Pet Party|Pet Party]] [[Community Events]].
+#*"Sweet pet, dude.<br />You definitely deserve a party favor!" -Tiger the Party Animal
+[[Category:Quest]]

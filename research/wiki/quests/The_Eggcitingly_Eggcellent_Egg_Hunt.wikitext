@@ -1,0 +1,28 @@
+<!-- Quest:The Eggcitingly Eggcellent Egg Hunt | https://freerealms.fandom.com/wiki/Quest%3AThe%20Eggcitingly%20Eggcellent%20Egg%20Hunt | CC-BY-SA -->
+{{Quest2
+|detail summary = A robgoblin stole one of Alyssa Eggelyn's special eggs and hid it somewhere in Sacred Grove. She wants you to find it and return it to her.|first reward = Egg Coloring Kit|first reward image name = Eggcolouringkit.png|name = The Eggcellent Egg Hunt|second reward = Alyssa's Striped Egg}}{{Questprog
+|previous = [[Quest:The Eggcellent Egg Hunt|The Eggcellent Egg Hunt]]|next = [[Quest:The Eggxtremely Eggcitingly Eggcellent Egg Hunt|The Eggxtremely Eggcitingly Eggcellent Egg Hunt]]|quest series = [[Spring_Eggstravaganza#Daily_Quests|Spring Eggstravaganza Quest Series]]}}
+==Notes==
+This quest is only available during the time of [[Spring Eggstravaganza]].
+==Requirements==
+Player must complete [[Quest:The Eggcellent Egg Hunt]] in order to do [[Quest:The Eggcitingly Eggcellent Egg Hunt]]
+==To Start==
+Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+==Goals==
+One of Alyssa's eggs has been hidden somewhere in Sacred Grove and she needs you to find it.
+*Find Alyssa Eggelyn's stolen egg.
+*Return to Alyssa Eggelyn.
+==Steps==
+#Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+#*"A third egg has gone missing and it could only be that stinkin' robgoblin. I don't know what to do. Could you please help me find it?" -Alyssa Eggelyn
+#Find Alyssa Eggelyn's stolen egg.
+#*The egg is located on a hill near a house by [[Floren Forest]]. 
+#Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+#*"I can't believe it! You are eggstremely good at finding eggs. Thank you again, <Player Name>. Please take this special egg as a reward, but don't open it until the Spring Eggstravaganza." -Alyssa Eggelyn
+==References==
+*[[Spring Eggstravaganza]]
+*[[Robgoblin]]
+*[[Alyssa Eggelyn]]
+*[[Sacred Grove]]
+[[Category:Quest]]
+[[Category:Spring Eggstravaganza]]

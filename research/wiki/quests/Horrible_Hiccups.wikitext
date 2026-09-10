@@ -1,0 +1,25 @@
+<!-- Quest:Horrible Hiccups | https://freerealms.fandom.com/wiki/Quest%3AHorrible%20Hiccups | CC-BY-SA -->
+{{Quest2
+|detail summary = Slinky has asked you to cure Cutes Dozens' hiccups by giving her a good scare! He has a magic potion that should turn you into something perfect for the job.|first reward = [[Orange-Strapped Flip-Flops]]|name = [[File:Members_only.png|link=Membership|right]]Horrible Hiccups|coin amount = 10|first reward image name = Orangestrappedflipflopsquests.png}}{{Questprog
+|previous = |next= [[Quest:Scaredy Pants|Scaredy Pants]]}}
+==Requirements==
+Player must have an active [[Membership]] in order to do [[Quest:Horrible Hiccups]]
+==To Start==
+Speak with [[Slinky]] located at the [[Seaside]] [[Luxurious Oceanfront Homes]].
+==Goals==
+Slinky in Seaside has turned you into a monster to better scare the hiccups out of Cutes. Talk to him again if it wears off.
+*Scare Cutes Dozen to cure her of the hiccups
+==Steps==
+#Speak with [[Slinky]] located at the [[Seaside]] [[Luxurious Oceanfront Homes]].
+#*"Have you seen Cutes today? She's got a really bad case of the hiccups! Poor girl... we have to help her!<br />Now, I'm no expert, but I believe that the only way to <font color='#d9781a'>cure hiccups</font> is to give the hiccup-er a real scare! I have just the thing too!<br /><font color='#d9781a'>Find Cutes Dozen</font>, and scare those hiccups right out of her!" -Slinky
+#Scare Cutes Dozen to cure her of the hiccups
+#*Speak with [[Cutes Dozen]] located at the [[Seaside]] [[Luxurious Oceanfront Homes]] while under [[Slinky's Illusion]] that lasts 30 seconds.
+#**If the illusion expires players may speak with [[Slinky]] to try again.
+#**Tip: Use a [[pet]] with a speed boost.
+#*"Ahhhhhhh!<br />Wait...you're not a monster!<br />Hiccups? I don't even have the hiccups!<br />Slinky sent you? That meanie! Why is he always trying to scare me?" -Cutes Dozen
+==References==
+*[[Seaside]]
+*[[Cutes Dozen]]
+*[[Slinky]]
+*[[Luxurious Oceanfront Homes]]
+[[Category:Quest]]

@@ -1,0 +1,108 @@
+<!-- Briarwood | https://freerealms.fandom.com/wiki/Briarwood | CC-BY-SA -->
+{{LocationInfobox
+|name = Briarwood[[File:Logo briarwood.png|50px]]
+|image= Map briarwood.png
+|type= Region
+|level= All
+|location= South-east of [[Sanctuary]]
+|inhabitants= [[Chugawugs]]<br>[[Pixies]]<br>[[Humans]]}}
+'''Briarwood''' is a dark, brooding wilderness composed of the sub-regions [[Briarheart]], [[Bristlewood]], [[Nettleseed]], and [[Thistlerow]]. At the beginning of Briarwood, you will find a hedge maze that has a path leading to the other side. [[Chugawugs|Chugawug]] guards are found patrolling in many places, and are rumored to be sent by the queen of Briarwood, [[Darkthorne]]. Travelers between the two countries would go far out of their way to avoid having to venture close to Briarwood. Tales of [[Necrowart Zombie|mushroom zombies]] and [[Man-Eating Plant|man-eating plants]] was enough to leave Briarwood mostly undisturbed. Inhabitants can include wild man-eating plants, animals (including [[Black Widow|large spiders]] and ravens), and bandits.
+[[File:Briarwood.webp|thumb|300px]]
+==History==
+Briarwood is home to strange plants and big tree like creatures. Ever since Darkthorne moved there, taking half the heart seed with her to make another tree similar to the [[World Tree]], instead it's dark and purple like. Chugawugs, mostly soldiers are station there as well, to defeat the man-eating plants and protect the farmers and Darkthorne.
+
+==Briarwood World Tree==
+This is the second [[World Tree]] in [[Sacred Grove]], the first that is in [[Sanctuary]] and [[Queen Valerian]] lives and rules. Her sister Darkthorne, took half the [[Heartseed]] to Briarwood, which she rules, and there for isn't an actual area in Sacred Grove, but actually a ruling area by it's self. It is as big as the World Tree in Sanctuary, but is more darker and brooding looking, and matches the flora and fauna of Briarwood. And unlike the original world tree, the one in Briarwood is surrounded by a mountain range, and is like on a island surrounded by water, but a cobblestone road through the mountain leads to the Briarheart Palace front door, which is guarded by a general in Darkthorne's army.
+
+==Sub-Regions==
+In Brairwood, it's split into sections.
+
+The first being Thistlebrow, where the maze is and you follow the cobblestone path through it so you don't get lost.
+
+The second being is Bristlewood, where it is the woods of Briarwood.
+
+The third being is Nettleseed, where most of the mushrooms grow, and where there are waterfalls. There is also the [[Tanglewood Fort]], it is the gateway that is protected by the chugawug guards.
+
+The last being is Brairheart, where there is the Brairheart Palace, home to Darkthorne, who is kind and pure, not evil.
+
+==Points of Interest==
+*[[Briarheart]]
+*[[Bristlewood]]
+*[[Nettleseed]]
+*[[Thistlerow]]
+
+==Shops==
+*[[Archer]] & [[Brawler]] Weapons (lvl 15 archer, lvl 5 brawler)
+*Crafting supplies
+*Medic Weapons - (lvl 15 weapons)
+*[[Miner]] Clothing & Tools (lvl 17 tools, lvl 20 clothes)
+*Potions (health, energy, replenishing)
+
+==Local [[Dungeons]]==
+*[[Arachnia's Lair]]
+*[[Briar Patch]]
+*[[Briarheart Caverns]]{{Member}}
+*[[Bristlewood Glade]]
+*[[Dark Spore Depths]]
+*[[Mushroom Cavern]]
+*[[Tanglewood Fort]]
+*[[The Snarling Hedges]]{{Member}}
+*[[Trail of Betrayal]]
+*[[Treeleaf's Retreat]]
+*[[Vale of the Ancients]]
+
+== Minigames ==
+
+==== Bristlewood ====
+
+* Brambleback Farm 
+* Brambleback's Bayou (Fishing)
+* Briarwood Tower Defense
+* Checkers & Chess 
+* Cooking Table
+* Darklit Lagoon (Fishing)
+* Tangletrack Speedway
+
+==== Briarheart ====
+
+* Checkers & Chess 
+
+==== Not Open World ====
+
+* Soccer
+*
+
+==Resources==
+*Rich Gold Mining{{Member}}
+*Briarapple Plant
+*Briarmelon Plant 
+*Sparkling Water
+
+==[[Collections]]==
+*Briarwood - Briarheart
+*Briarwood - Bristlewood
+*Briarwood - Nettleseed
+*Briarwood - Thistlerow
+*Briarwood Rare Exploration
+*Briarwood Mushrooms
+*Button Mushrooms
+*Poisonous Mushrooms
+*Portobello Mushrooms
+*Shiitake Mushrooms
+*Spotted Mushrooms
+*Unique Mushrooms
+
+==Gallery==
+<gallery>
+The-free-realms-filter-5.webp
+The-free-realms-filter-17.jpg
+Banner-24-fr.png
+Banner-20-fr.png
+Banner-04-fr.png
+Banner-12-fr.png
+D8wsaqj-4639d016-e896-40ca-9e9c-e1305ed5609a.jpg
+</gallery>
+{{location}}
+[[Category:Locations]]
+[[Category:Briarwood]]
+[[Category:Sacred Grove]]

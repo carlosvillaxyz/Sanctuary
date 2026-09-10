@@ -1,0 +1,25 @@
+<!-- Quest:A Piece of Cake | https://freerealms.fandom.com/wiki/Quest%3AA%20Piece%20of%20Cake | CC-BY-SA -->
+{{Quest2
+|detail summary = Camellia, the royal party planner, wants you to grab a slice of today's daily baked good.|first reward = Mystery Gift}}{{Questprog
+|previous = |next = [[Quest:Undelivered Confections |Undelivered Confections ]]|quest series = [[Birthday Bash#Quests|Birthday Bash Quest Series]]}}
+==Notes==
+This quest is repeatable daily.
+==Requirements==
+This quest is only available during the annual [[Birthday Bash]] event.
+==To Start==
+Speak with [[Camellia]] located in [[Sanctuary]].
+==Goals==
+Camellia, the royal party planner, wants you to grab a cupcake.
+*Grab a cupcake
+*Return to Camellia
+==Steps==
+#Speak with [[Camellia]] located in [[Sanctuary]].
+#*"Hey, <Player Name>! Did you <font color='#D9781A'>grab</font> a <font color='#D9781A'>cupcake</font> today?<br />No? Well, you should!" -Camellia
+#Grab a cupcake
+#*Select the floating tray of cupcakes near [[Camellia]].
+#Speak with [[Camellia]] located in [[Sanctuary]].
+#*"Oh, you ate the last cupcake? I hope it tasted delicious!<br />It looks like we'll need to pick up another order of cakes." -Camellia
+==References==
+*[[Camellia]]
+*[[Cupcake]]
+[[Category:Quest]]

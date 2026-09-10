@@ -1,0 +1,32 @@
+<!-- Kart Driver | https://freerealms.fandom.com/wiki/Kart%20Driver | CC-BY-SA -->
+{{JobInfobox
+|name= Kart Driver
+|image= Kart.png
+|caption= Male [[Human]] Kart Driver}}
+[[File:KartT.png|left]]''<font style="font-size:15px">{{Quote|Kart Drivers pull off crazy power slides and massive jumps while racing friends, competitors and other inhabitants of [[World|the realm]]. Drivers can customize the appearance and performance of their hot rods to include all sorts of extras. It's all about driving fast and looking good. Trainers are on hand at all tracks to teach those with the need for speed.|Job description}}</font>''
+'''Kart Driver''' is a driving [[Jobs|job]], specializing in racing. A sports class job, it has many combos and upgrades.
+
+==Unlocking Kart Driver==
+Kart Driver can be unlocked by speaking with any of the Kart Driver trainers at the various speedways.
+
+==Trainers==
+* [[Mustang Alli]] in the [[Frost Ridge Speedway]]
+* [[Dane Blueshift]] in the [[Thunderfalls Speedway]]
+* [[Johnny Thunder]] in the [[Wildwood Speedway]]
+* [[Cale Yardbird]] in [[Briarwood]]
+
+==Tracks==
+* Frost Ridge Speedway in [[Snowhill]]
+* Thunder Falls Speedway in [[Lakeshore]]
+* [[Tangletrack Speedway]] in Briarwood
+* Wildwood Speedway - near [[Sanctuary]]
+* [[Sandstorm Speedway]] - in [[Seaside]]
+
+==Karts==
+*[[Sea Serpent Wrecker]]
+*[[Crazy Crusher]]
+*[[Spooky Speedster]]
+*[[Barbed Crusher]]
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Kart Driver]]

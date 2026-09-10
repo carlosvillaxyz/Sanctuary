@@ -1,0 +1,705 @@
+<!-- Items | https://freerealms.fandom.com/wiki/Items | CC-BY-SA -->
+==Station Cash ==
+===Farming===
+====Supplies====
+Crop Duster - {{SC|810}}<br />
+Scarecrow - {{SC|180}}<br />
+Sprinkler - {{SC|180}}<br />
+Fertilizer - {{SC|90}}<br />
+Miracle Grown - {{SC|90}}<br />
+
+'''<u>Farms</u>'''
+
+Wilds Farm - {{SC|270}}<br />
+Brairwood Farm - {{SC|495}}<br />
+
+====<u>Seeds:</u>====
+
+Bumbleberry Seed Pack - {{SC|90}}<br />
+Sprialmint Seed Pack - {{SC|90}}<br />
+Wildroot Seed Pack - {{SC|90}}<br />
+Snowberry Seed Pack - {{SC|90}}<br />
+Rainleaf Seed Pack - {{SC|90}}<br />
+Gummyfruit Seed Pack - {{SC|90}}<br />
+Starnut Seed Pack - {{SC|90}}<br />
+Stickfruit Seed Pack - {{SC|90}}<br />
+Chugaroot Seed Pack - {{SC|90}}<br />
+Moonbean Seed Pack - {{SC|90}}<br />
+Briarmelon Seed Pack - {{SC|90}}<br />
+Sunleaf Seed Pack - {{SC|90}}<br />
+Vaultberry Seed Packet - {{SC|90}}<br />
+Briarapple Seed - {{SC|90}}<br />
+==Mystery Keys==
+
+Mystery Key - {{SC|180}}
+
+
+
+== Crafts ==
+
+Forged Weapon Recipe Bundle - {{SC|3375}}<br />
+Robgoblin Flux Kajigger - {{SC|450}}<br />
+Archer's Forged Bow of Advantage Recipe - {{SC|675}}<br />
+Brawler's Forged Hammer of Challenge - {{SC|675}}<br />
+Medic's Forged Saw of Promise - {{SC|675}}<br />
+Ninja's Forged Sword of Purge - {{SC|675}}<br />
+Warrior's Forged Axe of Boon - {{SC|675}}<br />
+Wizard's Forged Wand of Cunning - {{SC|675}}<br />
+
+
+
+== Treasure War==
+
+Treasure War Booster Pack - {{SC|270}}<br />
+Gold Bundle - {{SC|270}}<br />
+Silver Bundle - {{SC|135}}<br />
+Gold Trinket - {{SC|180}}<br />
+Silver Trinket - {{SC|90}}<br />
+Gold Jewel - {{SC|360}}<br />
+Silver Jewel - {{SC|180}}<br />
+Campaign 3: Change of Heart - {{SC|450}}<br />
+Campaign 4: Lakeshore Shenanigans - {{SC|450}}<br />
+Campaign 5: Hot Springs Haven - {{SC|450}}<br />
+Campaign 6: Tanglewood Fort - {{SC|450}}<br />
+Campaign 7: Queen's Last Hope - {{SC|450}}<br />
+
+
+
+== V.I.P ==
+
+High Fantasy Outfit - {{SC|270}}<br />
+Phoenix - {{SC|405}}<br />
+Robot Outfit - {{SC|450}}<br />
+Sun - {{SC|315}}<br />
+VIP Juice Bar - {{SC|450}}<br />
+Briar Falls Lot - {{SC|450}}<br />
+Sci-Fi Outfit (M&F) - {{SC|360}}<br />
+VIP Party Pool - {{SC|900}}<br />
+Hydra Pet - {{SC|495}}<br />
+Rogue Outfit - {{SC|270}}<br />
+VIP Chicken Boombox - {{SC|270}}<br />
+Hydra Ride - {{SC|630}}<br />
+King's Outfit - {{SC|360}}<br />
+Queen's Outfit - {{SC|360}}<br />
+VIP Club House - {{SC|1350}}<br />
+
+
+
+== Coins ==
+
+5,000 Coins - {{SC|247}}<br />
+7,500 Coins - {{SC|292}}<br />
+10,000 Coins - {{SC|337}}<br />
+20,000 Coins - {{SC|652}}<br />
+
+
+
+== Rides ==
+[[Hearts Pegasus]] - {{SC|495}}<br />
+[[Haunted Hoverboard]] - {{SC|350}}<br />
+[[Futuristic Bicycle]] - SOE Employees<br />
+[[Beach Ball]] - {{SC|450}}<br />
+[[Basalt Surfboard]] - {{SC|450}}<br />
+Pogo Stick - {{SC|675}}<br />
+Robgoblin Mech - {{SC|855}}<br />
+Strped Robgoblin Mech - {{SC|855}}<br />
+Feathered Drake - {{SC|495}}<br />
+[[Bat]] - {{SC|495}}<br />
+[[Wolf]] - {{SC|495}}<br />
+[[Wilds Tractor]] - {{SC|495}}<br />
+[[Bicycle]] - {{SC|495}}<br />
+Dwarftech Chopper - {{SC|675}}<br />
+[[Bowling Ball]] - {{SC|315}}<br />
+[[Eight Ball]] - {{SC|315}}<br />
+[[Lava Tiger]] - {{SC|495}}<br />
+Saber-Tooth Tiger - {{SC|495}}<br />
+[[Stone Saber-Tooth Tiger]] - {{SC|495}}<br />
+[[Tiger]] - {{SC|495}}<br />
+[[Precursor Hoverboard]] - {{SC|495}}<br />
+[[Molten Hoverboard]] - {{SC|495}}<br />
+[[Stormy Hoverboard]] - {{SC|495}}<br />
+[[Fiery Hoverboard]] - {{SC|495}}<br />
+[[Clockwork Hoverboard]] - {{SC|495}}<br />
+[[Dwarftech Hoverboard]] - {{SC|495}}<br />
+[[Fairweather Hoverboard]] - {{SC|495}}<br />
+[[Black-Nosed Stallion]] - {{SC|405}}<br />
+[[Hearts Pegasus]] - {{SC|495}}<br />
+[[Nightmare]] - {{SC|495}}<br />
+[[Pegasus Unicorn]] - {{SC|495}}<br />
+Stallion - {{SC|405}}<br />
+Unicorn - {{SC|495}}<br />
+White-Nosed Mare - {{SC|405}}<br />
+White-Nosed Stallion - {{SC|405}}<br />
+[[Pegasus]] - {{SC|495}}<br />
+[[Fire Pegasus]] - {{SC|495}}<br />
+[[Gold-Tipped Dragon|Gold Tipped Dragon]] - {{SC|495}}<br />
+[[Scaled Dragon]] - {{SC|495}}<br />
+[[Skeletal Dragon]] - {{SC|585}}<br />
+[[Poison Dragon]] - {{SC|495}}<br />
+[[Armored T-Rex]] - {{SC|495}}<br />
+[[Spotted T-Rex]] - {{SC|405}}<br />
+Striped T-Rex - {{SC|405}}<br />
+[[Air T-Rex]] - {{SC|495}}<br />
+
+== Party Supplies ==
+====Boomboxes====
+
+*[[Big Band Boombox]] - {{SC|180}}
+*[[Boombox XVD-S]] - {{SC|180}}
+*[[Chiller Boombox]] - Card Duelist Reward
+*[[Clockwork Boombox]] - Mystery Chest Reward
+*[[Hootenanny Boombox]] - {{SC|179}}
+*[[Jingle Bell Boombox]]
+*[[Lovelectric Boombox]]
+*[[Plants Dance Boombox]] - {{SC|315}}
+*[[Pop-Dance Boombox]] - {{SC|675}}
+*[[New School Boombox Backpack]]
+*[[Rainbow Randomizer Boombox]] - {{SC|900}}
+*[[Realms Roll Boombox]] - {{SC|900}}
+*[[Robot Boombox]] - Mystery Chest Reward
+*[[Tiki Boombox]] - {{SC|450}}
+*[[Totem Boombox]]
+*[[VIP Chicken Boombox]] - VIP Program
+*[[Xylophone Boombox]] - {{SC|360}}
+
+
+Party Crate - {{SC|630}}
+
+== Housing ==
+
+
+'''Building Materials'''
+
+Piano Music Block C-Scale Bundle - {{SC|180}}<br />
+Fart Music C-Scale Bundle - {{SC|180}}<br />
+Piano C1 C-Scale Music Block - {{SC|45}}<br />
+Piano D1 C-Scale Music Block - {{SC|45}}<br />
+Piano E1 C-Scale Music Block - {{SC|45}}<br />
+Piano F1 C-Scale Music Block - {{SC|45}}<br />
+Piano G1 C-Scale Music Block - {{SC|45}}<br />
+Piano A1 C-Scale Music Block - {{SC|45}}<br />
+Piano B1 C-Scale Music Block - {{SC|45}}<br />
+Piano C2 C-Scale Music Block - {{SC|45}}<br />
+Fart B1 C-Scale Music Block - {{SC|45}}<br />
+Fart D1 C-Scale Music Block - {{SC|45}}<br />
+Fart E1 C-Scale Music Block - {{SC|45}}<br />
+Fart F1 C-Scale Music Block - {{SC|45}}<br />
+Fart G1 C-Scale Music Block - {{SC|45}}<br />
+Fart A1 C-Scale Music Block - {{SC|45}}<br />
+Fart B1 C-Scale Music Block - {{SC|45}}<br />
+Fart C2 C-Scale Music Block - {{SC|45}}<br />
+Giant Brick Builders Pack - {{SC|900}}<br />
+Giant Cobblestone Builders Pack - {{SC|900}}<br />
+Giant Marble Builders Pack - {{SC|900}}<br />
+Giant Toy Builders Pack - {{SC|900}}<br />
+Giant Wood Builders Pack - {{SC|900}}<br />
+Large Brick Builders Pack - {{SC|540}}<br />
+Large Cobblestone Builders Pack - {{SC|540}}<br />
+Large Marble Builders Pack - {{SC|540}}<br />
+Large Toy Builders Pack - {{SC|540}}<br />
+Large Wood Builders Pack - {{SC|540}}<br />
+Big Brick Builders Pack - {{SC|360}}<br />
+Big Cobblestone Builders Pack - {{SC|360}}<br />
+Big Marble Builders Pack - {{SC|360}}<br />
+Big Toy Builders Pack - {{SC|360}}<br />
+Big Wood Builders Pack - {{SC|360}}<br />
+Brick Builders Pack - {{SC|180}}<br />
+Cobblestone Builders Pack - {{SC|180}}<br />
+Marble Builders Pack - {{SC|180}}<br />
+Toy Builders Pack - {{SC|180}}<br />
+Wood Builders Pack - {{SC|180}}<br />
+
+'''Platforming'''
+
+Checkpoint - {{SC|135}}<br />
+Checkpoint (20) - {{SC|810}}<br />
+Checkpoint (5) - {{SC|270}}<br />
+Checkpoint (2) - {{SC|135}}<br />
+Circular Checkpoint (20) - {{SC|810}}<br />
+Circular Checkpoint (5) - {{SC|270}}<br />
+Curved Wooden Walkway - {{SC|67}}<br />
+Fall-Away Block - {{SC|135}}<br />
+Fluffy Clouds - {{SC|45}} - {{SC|135}}<br />
+Fluffy Cloud Bridge - {{SC|247}}<br />
+Large Launch Pad - {{SC|180}}<br />
+Long Range Elevator Platform - {{SC|135}}<br />
+Long Range Sideways Platform - {{SC|135}}<br />
+Medium Launch Pad - {{SC|135}}<br />
+Multi-way Teleporter - {{SC|180}}<br />
+One-Way Teleporter - {{SC|180}}<br />
+Stone Bridge - {{SC|157}}<br />
+Storm Cloud - {{SC|45}} - {{SC|135}}<br />
+Storm Cloud Bridge - {{SC|247}}<br />
+Suspension Bridge - {{SC|157}}<br />
+Two-way Teleporter - {{SC|180}}<br />
+Wooden Bridge - {{SC|157}}<br />
+Wooden Walkway - {{SC|45}}<br />
+Wooden Walkway Ramp - {{SC|67}}<br />
+
+'''Lots'''
+
+Lake Tree Lot - {{SC|450}}<br />
+Blackspore Swamp Lot - {{SC|270}}<br />
+Bog Shore Lot - {{SC|200}}<br />
+Briarwall Towers Lot - {{SC|450}}<br />
+Briarwood Lot - {{SC|270}}<br />
+Crystal Mines Lot - {{SC|360}}<br />
+Lonely Island Lot - {{SC|450}}<br />
+Merry Vale Lot - {{SC|270}}<br />
+Sandy Beach lot - {{SC|360}}<br />
+Seaside Lot - {{SC|270}}<br />
+Shrouded Glad Lot - {{SC|270}}<br />
+Shrouded Stairs Lot - {{SC|360}}<br />
+Snowhill Lot - {{SC|270}}<br />
+Vale Stream Lot - {{SC|360}}<br />
+Wugachug Lot - {{SC|270}}<br />
+
+'''Roofs'''
+
+Dragonscale Roofing Shingles - {{SC|135}}<br />
+Natural Wooden Roofing - {{SC|45}}<br />
+
+'''Walls'''
+
+Rainbow Wallpaper - {{SC|135}}<br />
+Aquarium Wallpaper - {{SC|135}}<br />
+Fast Food Wallpaper - {{SC|90}}<br />
+Cloudy Sky Wallpaper - {{SC|135}}<br />
+Fruity Wallpaper - {{SC|45}}<br />
+Seaside Sky Wallpaper - {{SC|135}}<br />
+Light Pirate Skull Wallpaper - {{SC|45}}<br />
+Dark Pirate Skull Wallpaper - {{SC|45}}<br />
+Snowhill Sky Wallpaper - {{SC|135}}<br />
+Rainbow Sky Wallpaper - {{SC|135}}<br />
+Rainbow Star Wallpaper - {{SC|45}}<br />
+Sweet Tooth Wallpaper - {{SC|90}}<br />
+Wilds Sky Wallpaper - {{SC|135}}<br />
+Skulls and Bows Wallpaper - {{SC|90}}<br />
+Spooky Wallpaper - {{SC|135}}<br />
+Butterfly Print Wallpaper - {{SC|90}}<br />
+Colorful Vertical Stripe Wallpaper - {{SC|180}}<br />
+Dragonscale Wallpaper - {{SC|135}}<br />
+Flower Power Wallpaper - {{SC|135}}<br />
+Outer space Wallpaper - {{SC|90}}<br />
+Paint Splatter Wallpaper - {{SC|135}}<br />
+Refined Vertical stripe Wallpaper - {{SC|180}}<br />
+Shanty Town Wallpaper - {{SC|135}}<br />
+Standard Wall Paint - {{SC|135}}<br />
+Starry Night Wallpaper - {{SC|45}}<br />
+Stucco Wall Texture - {{SC|90}}<br />
+
+
+'''Floors'''
+
+Fast Food Flooring - {{SC|90}}<br />
+Rainbow Flooring - {{SC|135}}<br />
+Seaside Sand Flooring - {{SC|90}}<br />
+Pirate Flooring - {{SC|45}}<br />
+Fruity Flooring - {{SC|45}}<br />
+Wilds Cobblestone Flooring - {{SC|90}}<br />
+Briarwood Cobblestone Flooring - {{SC|90}}<br />
+Spooky Flooring - {{SC|135}}<br />
+Natural Wood Flooring - {{SC|90}}<br />
+Pleasant Tile Flooring - {{SC|90}}<br />
+Regal Wood Flooring - {{SC|135}}<br />
+
+'''Houses'''
+
+Snowhill Lodge - {{SC|855}}<br />
+Blackspore Swamp House - {{SC|855}}<br />
+Large Wilds House - {{SC|675}}<br />
+[[Small Wilds House]] - {{SC|495}}<br />
+[[Blackspore Swamp House]] - {{SC|950}}<br />
+[[Sunstone Dam]] - {{SC|1350}}<br />
+
+
+'''Outdoors'''
+
+Swirly Railed Gazebo - {{SC|450}}<br />
+Dead Savanna Tree - {{SC|90}}<br />
+Savanna Tree - {{SC|90}}<br />
+Sunstone Boulders - {{SC|45}}<br />
+Sunstone Rock Bridge - {{SC|180}}<br />
+Briarwood Bounce Castle - {{SC|585}}<br />
+Tki Torch - {{SC|45}}<br />
+Bleachers - {{SC|180}}<br />
+Square Mausoleum - {{SC|720}}<br />
+Giant Gravestone - {{SC|270}}<br />
+Round Mausoleum - {{SC|540}}<br />
+Wilds Cafe - {{SC|630}}<br />
+Festival Pavilion - {{SC|630}}<br />
+Festival Stand - {{SC|495}}<br />
+Wilds Shop - {{SC|630}}<br />
+Robgoblin Stage - {{SC|720}}<br />
+Giant Toilet Bowl - {{SC|720}}<br />
+Robgoblin Modile Apartment - {{SC|225}}<br />
+Seaside Cafe - {{SC|900}}<br />
+Lifeguard Station - {{SC|360}}<br />
+Juice Bar - {{SC|540}}<br />
+Basic Swimming Pool - {{SC|720}}<br />
+Skeleton A-Go-Go - {{SC|450}}<br />
+Pirate Ship - {{SC|540}}<br />
+Oasis - {{SC|720}}<br />
+Shrinking Head Cauldron - {{SC|90}}<br />
+Mega Dance Floor - {{SC|540}}<br />
+Stone Head - {{SC|360}}<br />
+Rocket Ship - {{SC|900}}<br />
+
+'''Exterior Decorations'''
+
+Sunstone Environment Bundle - {{SC|1035}}<br />
+Barel Cactus - {{SC|22}}<br />
+Beavertail Cactus - {{SC|22}}<br />
+Saguaro Cactus - {{SC|22}}<br />
+Pik Agave - {{SC|22}}<br />
+Blue Agave - {{SC|22}}<br />
+Standard Candy Cart - {{SC|180}}<br />
+
+'''Decorations'''
+
+Freewheelers Lamp - {{SC|45}}<br />
+Snowhill Lodge Rug - {{SC|45}}<br />
+Aquarium - {{SC|90}}<br />
+Barbecue Grill - {{SC|90}}<br />
+Basic Dance Floor - {{SC|180}}<br />
+Flower Round Rug - {{SC|22}}<br />
+Spotlight - {{SC|270}}<br />
+Standard Balloons - {{SC|45}}<br />
+Starry Night Rug - {{SC|22}}<br />
+Train Set - {{SC|90}}<br />
+
+'''Furniture'''
+
+Freewheelers Furniture Bundle - {{SC|630}}<br />
+Freewheelers Bed - {{SC|135}}<br />
+Freewheelers Chair - {{SC|67}}<br />
+Freewheelers Couch - {{SC|90}}<br />
+Snowhill Lodge Furniture Bundle - {{SC|540}}<br />
+Snowhill Lodge Bed - {{SC|90}}<br />
+Snowhill Lodge Couch - {{SC|45}}<br />
+Snowhill Lodge Dinning Table - {{SC|90}}<br />
+Snowhill Lodge Chair - {{SC|22}}<br />
+Flower Highback Sofa - {{SC|45}}<br />
+Flower Side Table - {{SC|22}}<br />
+Jukebox - {{SC|360}}<br />
+Pirate Ship Bed - {{SC|135}}<br />
+Rounded Flower Highback Sofa - {{SC|45}}<br />
+Spooky Chair - {{SC|22}}<br />
+Spooky Coffee Table - {{SC|45}}<br />
+Spooky Coffin Clock - {{SC|180}}<br />
+Spooky Coffin Couch - {{SC|67}}<br />
+Starry Night Bed - {{SC|67}}<br />
+Stereo - {{SC|90}}<br />
+Stone Bookcase - {{SC|22}}<br />
+Stone Roundtop Coffee Table - {{SC|22}}<br />
+
+'''Wall Hangings'''
+
+Freewheelers Wall Trophy - {{SC|135}}<br />
+Snowhill Lodge Moose Head - {{SC|225}}<br />
+Automatic Head Size Augmenter - {{SC|90}}<br />
+Spooky Chatty Painint - {{SC|90}}<br />
+
+== Weapons and Tools ==
+
+'''Extras'''
+
+Rainbow Umbrella - {{SC|180}}<br />
+Icecream Cone - {{SC|90}}<br />
+Lantern - {{SC|202}}<br />
+Lolipop - {{SC|202}}<br />
+Bone - {{SC|45}}<br />
+Yo-Yo - {{SC|855}}<br />
+Cactus Club - {{SC|585}}<br />
+
+'''Tools'''
+
+New School Blow Torch - {{SC|247}}<br />
+New School Branding Iron - {{SC|247}}<br />
+New School Electric Knife - {{SC|247}}<br />
+New School Turkey Lef - {{SC|247}}<br />
+New School Jacklehammer - {{SC|247}}<br />
+New School Coal Mine Canary - {{SC|247}}<br />
+
+'''Weapons'''<br />
+[[Blazing Scythe]]<br />
+[[Fighting Tiger Scythe]]<br />
+[[New School Forked Wand]] - {{SC|270}}<br />
+[[New School Orbital Wand]] - {{SC|180}}<br />
+[[New School Shard Wand]] - {{SC|200}}(180 with members discount)<br />
+[[New School EKG Crutch]] - {{SC|300}} (270 with members discount)<br />
+[[New School Elemental Procedure]] - {{SC|200}}(180 with members discount)<br />
+[[New School Split Saw]] - {{SC|180}}<br />
+[[New School Molten Bow]] - {{SC|180}}<br />
+[[New School Scoped Stalker Bow]] - {{SC|270}}<br />
+[[New School Exploding Hammer]] - {{SC|180}}<br />
+[[New School Golden Hammer]] - {{SC|180}}<br />
+[[New School Torque Trasher]] - {{SC|270}}<br />
+[[New School Radioactive Beam Blade]] - {{SC|315}}<br />
+[[New School Rainbow Coil Cutter]] - {{SC|315}}<br />
+[[New School Storm Breaker]] - {{SC|180}}<br />
+[[New School Dragon Blade]] - {{SC|270}}<br />
+[[Archer's Power Bow]] - {{SC|315}}<br />
+[[New School Flowing Emerald Blade]] - {{SC|315}}<br />
+[[Brawler's Power Fist]] - {{SC|315}}<br />
+[[New School Angro's Vanquisher]] - {{SC|180}}<br />
+[[New School Ignis]] - {{SC|180}}<br />
+[[Medic's Power Fist]] - {{SC|315}}<br />
+[[New School Exploding Axe]] - {{SC|180}}<br />
+[[New School Prismatic Beam Saber]] - {{SC|315}}<br />
+[[Ninja's Nature Claw]] - {{SC|315}}<br />
+[[New School Twin Crescent Axe]] - {{SC|270}}<br />
+[[Warrior's Nature Claw]] - {{SC|315}}<br />
+[[Wizard's Nature Wand]] - {{SC|315}}<br />
+
+== Karts ==
+
+'''Derby Karts:'''
+
+Cutlass Wrecker - {{SC|630}}<br />
+Crazy Crusher - {{SC|630}}<br />
+Barbed Crusher - {{SC|630}}<br />
+Sea Serpent Wrecker - {{SC|360}}<br />
+Bear Wrecker - {{SC|495}}<br />
+Dueler Wrecker - {{SC|495}}<br />
+
+'''Race Karts'''
+
+Wicked Racer - {{SC|630}}<br />
+Splash Zipper - {{SC|630}}<br />
+Slicing Racer - {{SC|630}}<br />
+Arrow Runner - {{SC|630}}<br />
+Speedy Runner - {{SC|495}}<br />
+Slime Runner - {{SC|495}}<br />
+
+'''Derby Kart Parts'''
+
+Derby Elite Engine - {{SC|270}}<br />
+Elite Turbo Tank - {{SC|270}}<br />
+Pro Jumping Springs - {{SC|180}}<br />
+Advanced Bounce Boosters - {{SC|90}}<br />
+Advanced Boost Fuel - {{SC|90}}<br />
+Club Card Derby Decal - {{SC|45}}<br />
+Fire Totem Derby Decal - {{SC|45}}<br />
+Fossil-Tooth Derby Decal - {{SC|45}}<br />
+Green Crystal Derby Decal - {{SC|45}}<br />
+Guitar Derby Decal - {{SC|45}}<br />
+Bug-Eating Plant Derby Decal - {{SC|45}}<br />
+Orb Derby Decal - {{SC|45}}<br />
+Pizza Slice Derby Decal - {{SC|45}}<br />
+Trophy Derby Decal - {{SC|45}}<br />
+Web Spinner Derby Decal - {{SC|45}}<br />
+
+'''Race Kart Parts'''
+
+Racing Elite Engine - {{SC|270}}<br />
+Elite Turbo Booster - {{SC|270}}<br />
+Advanced Full-Body Armor - {{SC|180}}<br />
+Pro Nitro Upgrade - {{SC|180}}<br />
+Advanced Anit-Missile Armor - {{SC|90}}<br />
+Advanced Anti-Mine Armor - {{SC|90}}<br />
+Bat Wing Racing Decal - {{SC|45}}<br />
+Firecracke Racing Decal - {{SC|45}}<br />
+Fish Bone Racing Decal - {{SC|45}}<br />
+Forest Totem Racing Decal - {{SC|45}}<br />
+Granite Figurine Decal - {{SC|45}}<br />
+Hawk Racing Decal - {{SC|45}}<br />
+Red Crystal Racing Decal - {{SC|45}}<br />
+Saxophone Racing Decal - {{SC|45}}<br />
+Taka Racing Decal - {{SC|45}}<br />
+Torch Racing Decal - {{SC|45}}<br />
+
+== Trading Card Game ==
+
+Heros Booster Pack - {{SC|224}}<br />
+Free Realms Digital Booster Bundle (25 pack) - {{SC|5399}}<br />
+Shattered Past Booster Bundle (25 pack) - {{SC|5399}}<br />
+Baron Von Darkcheat Booster Bundle (25 pack) - {{SC|5399}}<br />
+Heros Booster Bundle (25 pack) - {{SC|5399}}<br />
+Baron Von Darkcheat Booster Pack - {{SC|224}}<br />
+Shattered Past Booster Pack - {{SC|224}}<br />
+Free Realms Digital Booster Pack - {{SC|224}}<br />
+Baron Von Darkcheat Chaos Starter Deck - {{SC|539}}<br />
+Baron Von Darkcheat Machine Starter Deck - {{SC|539}}<br />
+Baron Cone Nature Starter Deck - {{SC|539}}<br />
+Baron Von Order Starter Deck - {{SC|539}}<br />
+Shattered Past Chaos Starter Deck - {{SC|539<br />
+Shattered Past Machine Deck - {{SC|539}}<br />
+Shattered Past Nature Starter Deck - {{SC|539}}<br />
+Shattered Past Starter Deck - {{SC|539}}<br />
+
+== Jewelery and Shards ==
+
+'''Flair Shards'''
+
+[[Bleached Sparkling Flair Shard]] - {{SC|90}}<br />
+[[Bittersweet Sparkling Flair Shard]] - {{SC|90}}<br />
+[[Beryl Sparkling Flair Shard]] - {{SC|90}}<br />
+[[Amethyst Glowing Flair Shard]] - {{SC|90}}<br />
+[[Kaleidoscopic Glowing Flair Shard]] - {{SC|90}}<br />
+[[Ivory Glowing Flair Shard]] - {{SC|90}}<br />
+[[Illuminating Flair Shard]] - {{SC|90}}<br />
+[[Lilac Sparkling Flair Shard]] - {{SC|90}}<br />
+[[Ruby Glowing Flair Shard]] - {{SC|90}}<br />
+[[Burning Black Flair Shard]] - {{SC|190}}<br />
+[[Burning Blue Flair Shard]] - {{SC|90}}<br />
+[[Burning Green Flair Shard]] - {{SC|90}}<br />
+[[Burning Orange Flair Shard]] - {{SC|90}}<br />
+[[Burning Pink Flair Shard]] - {{SC|90}}<br />
+[[Burning Purple Flair Shard]] - {{SC|90}}<br />
+[[Burning Yellow Flair Shard]] - {{SC|90}}<br />
+[[Molten Flair Shard|Moleten Flair Shard]] - {{SC|90}}<br />
+Karate Screamer Flair Shard - {{SC|315}}<br />
+Singshot's Revenge Flair Shard - {{SC|315}}<br />
+Juggling Hurricane Flair Shard - {{SC|315}}<br />
+[[Campfire Flair Shard]] - {{SC|90}}<br />
+[[Maple Leaf Flair Shard]] - {{SC|90}}<br />
+[[Firefly Flair Shard]] - {{SC|90}}<br />
+[[S'mores Flair Shard]] - {{SC|90}}<br />
+
+== Supplies ==
+
+'''Scrolls and Trinkets'''
+
+[[Super Star Booster]] - {{SC|180}}<br />
+[[Prospector's Scroll]] - {{SC|45}}<br />
+Training Saddle Of Gliding - {{SC|180}}<br />
+[[Flute of Slumber]] - Comic Book #10<br />
+[[Mushroom Pizza]] - Comic Book #2<br />
+[[Prospector's Scroll]] - {{SC|50}}<br />
+[[Stink Bombs]] - Comic Book #8<br />
+[[Wheeler Star Booster Scroll]] - [[Daily Wheel]]<br />
+[[Wheeler Coin Booster Scroll]] - [[Daily Wheel]]<br />
+
+
+'''Potions'''
+
+[[Shared Health Potion]] (5) - {{SC|180}}<br />
+[[Shared Energy Potion]] (5) - {{SC|180}}<br />
+[[Shared Replenishment Potion]] (5) - {{SC|180}}<br />
+Befuddler Ball (5) - {{SC|45}}<br />
+Bedtime Ball (5) - {{SC|45}}<br />
+[[Large Energy Potion]] (5) - {{SC|45}}<br />
+[[Large Health Potion]] (5) - {{SC|45}}<br />
+[[Large Health Potion]] (5) - {{SC|45}}<br />
+
+'''Food and Drink'''
+
+Steaming Pretzels - {{SC|90}}<br />
+Small Bread - {{SC|90}}<br />
+Scrumptious Soup - {{SC|90}}<br />
+Frosty Flakes - {{SC|90}}<br />
+Pixiedust Pie - {{SC|90}}<br />
+Arbor Buttercake - {{SC|90}}<br />
+Hot Sauce Buns - {{SC|90}}<br />
+Firefrog Legs - {{SC|90}}<br />
+Noxious Pork Chops - {{SC|90}}<br />
+Graveyard Flambe - {{SC|90}}<br />
+Roaring Rapids Roast - {{SC|90}}<br />
+Deep Mines Delight - {{SC|90}}<br />
+Silver Surf n' Turf - {{SC|90}}<br />
+Mr.Gleam's Granola Bar - {{SC|90}}<br />
+Fiery Fury Candy - {{SC|90}}<br />
+Rocking Road Mix - {{SC|90}}<br />
+Electric Veal Meat - {{SC|90}}<br />
+Mutton Mash - {{SC|180}}<br />
+Pured Pear Pie - {{SC|135}}<br />
+Bark Berries - {{SC|135}}<br />
+Bitter Cherry Split - {{SC|135}}<br />
+Wood Fondue - {{SC|135}}<br />
+Growling Mud Pie - {{SC|135}}<br />
+Fetching Some Ice Cream - {{SC|135}}<br />
+Sharking Shaved Ice - {{SC|135}}<br />
+Cotton Woof Candy - {{SC|135}}<br />
+Vine Noodles - {{SC|180}}<br />
+Cheese Stuffed Ham - {{SC|45}}<br />
+Hot Cheese Fondue - {{SC|45}}<br />
+Cheezy Rizty Bitz - {{SC|45}}<br />
+Eight Layered Bittercake - {{SC|45}}<br />
+Thumped Bear Meat - {{SC|45}}<br />
+
+== Members Only ==
+
+Yo-yo - {{SC|855}}<br />
+Pinstripe Pants - {{SC|90}}<br />
+Pinstripe Jacket - {{SC|202}}<br />
+[[Astronaut Suit]] - {{SC|585}}<br />
+Toxit T-Shirt - {{SC|450}}<br />
+Tie-Dye T-Shirt - {{SC|450}}<br />
+Wireless T-shirt - {{SC|450}}<br />
+Holiday T-shirt - {{SC|450}}<br />
+Tuxedo T-shirt - {{SC|450}}<br />
+<br />
+                                                                                                                                                                  
+
+==Coins==
+===Flair Shards===
+[[Ninja's Flair Shard of Dancing Shadow]]<br />
+[[Ninja's Flair Shard of Ice]]<br />
+[[Archer's Flair Shard of Autumn]]<br />
+[[Archer's Flair Shard of Ice]]<br />
+[[Archer's Flair Shard of Smoldering]]<br />
+[[Archer's Flair Shard of Spores]]<br />
+[[Archer's Flair Shard of the Arctic]]<br />
+[[Archer's Flair Shard of the Forest]]<br />
+[[Archer's Flair Shard of Thorns]]<br />
+[[Archer's Flair Shard of Valentines]]<br />
+[[Brawler's Flair Shard of Fire]]<br />
+[[Brawler's Flair Shard of Glamour]]<br />
+[[Brawler's Flair Shard of Ice]]<br />
+[[Brawler's Flair Shard of Meteors]]<br />
+[[Brawler's Flair Shard of Prosperity]]<br />
+[[Brawler's Flair Shard of Shattering]]<br />
+[[Brawler's Flair Shard of Smoldering]]<br />
+[[Brawler's Flair Shard of Sparks]]<br />
+[[Brawler's Flair Shard of the Forest]]<br />
+[[Brawler's Flair Shard of Valentines]]<br />
+[[Medic's Flair Shard of Energy]]<br />
+[[Medic's Flair Shard of Glamour]]<br />
+[[Medic's Flair Shard of Ice]]<br />
+[[Medic's Flair Shard of Infection]]<br />
+[[Medic's Flair Shard of Miracles]]<br />
+[[Medic's Flair Shard of Prosperity]]<br />
+[[Medic's Flair Shard of Smoldering]]<br />
+[[Medic's Flair Shard of the Forest]]<br />
+[[Medic's Flair Shard of Valentines]]<br />
+[[Medic's Flair Shard of Vital Vitae]]<br />
+[[Ninja's Flair Shard of Dancing Shadow]]<br />
+[[Ninja's Flair Shard of Discipline]]<br />
+[[Ninja's Flair Shard of Glamour]]<br />
+[[Ninja's Flair Shard of Harmony]]<br />
+[[Ninja's Flair Shard of Ice]]<br />
+[[Ninja's Flair Shard of Mystery]]<br />
+[[Ninja's Flair Shard of Prosperity]]<br />
+[[Ninja's Flair Shard of Smoldering]]<br />
+[[Ninja's Flair Shard of the Forest]]<br />
+[[Ninja's Flair Shard of Valentines]]<br />
+[[Warrior's Flair Shard of Focus]]<br />
+[[Warrior's Flair Shard of Glamour]]<br />
+[[Warrior's Flair Shard of Ice]]<br />
+[[Warrior's Flair Shard of Majesty]]<br />
+[[Warrior's Flair Shard of Molten Fury]]<br />
+[[Warrior's Flair Shard of Prosperity]]<br />
+[[Warrior's Flair Shard of Smoldering]]<br />
+[[Warrior's Flair Shard of the Forest]]<br />
+[[Warrior's Flair Shard of Valentines]]<br />
+[[Warrior's Keen Flair Shard]]<br />
+[[Wizard's Flair Shard of Ice]]<br />
+[[Wizard's Flair Shard of Necromancy]]<br />
+[[Wizard's Flair Shard of Smoldering]]<br />
+[[Wizard's Flair Shard of Subtlety]]<br />
+[[Wizard's Flair Shard of the Forest]]<br />
+[[Wizard's Flair Shard of the Gifted]]<br />
+[[Wizard's Flair Shard of the Spheres]]<br />
+[[Wizard's Flair Shard of Valentines]]<br
+<!-- From http://freerealms.wikia.com/wiki/Category:Coin_Flair ->
+
+
+[[de:Gegenstände]]
+[[Category:Items]]
+[[Category:Freestyle Item]]
+[[Category:Marketplace Items]]
+[[Category:SC Marketplace]]
+[[Category:Coin Marketplace]]
+[[Category:Coin Shop]]
+[[Category:Items]]-->

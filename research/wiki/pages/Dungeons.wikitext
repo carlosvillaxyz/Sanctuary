@@ -1,0 +1,67 @@
+<!-- Dungeons | https://freerealms.fandom.com/wiki/Dungeons | CC-BY-SA -->
+{{ZAM|Category:Dungeons_(FR)}}
+'''Dungeons''' are [[Combat|combat]] [[Mini-Games|minigames]]. They are ranked according to their difficulty on a scale from one to five, with one being easiest and five being hardest. Dungeons appear on the [[Atlas]], and have static locations with entrances. Their entrances typically appear as a barrier, such as boards across a cave entrance or a warning sign chained across a path. [[Collections]] for the combat [[Jobs|jobs]] are found within dungeons.
+
+==Difficulty Ratings==
+* Difficulty 1 - Can be entered by anyone.
+* Difficulty 2 - Recommended levels 3 and higher, but can be entered by anyone.
+* Difficulty 3 - Requires entry with a combat job at least level 5 or higher.
+* Difficulty 4 - Requires entry with a combat job at least level 9 or higher.
+* Difficulty 5 - Requires entry with a combat job at least level 13 or higher.
+
+==Dungeons by Difficulty==
+===Difficulty 1:===
+*[[Bixie Hive]]
+*[[Cracked Claw Caverns]]
+*[[Cursed Graveyard!]]
+*[[Hewey's Escape]] (removed)
+*[[Hot Springs Haven]]
+*[[King of the Ring!]] (removed)
+*[[Sheep Watch]]
+*[[Tavern Cellar]]
+
+===Difficulty 2:===
+*[[Arachnia's Lair]]
+*[[Danger Peaks]]
+*[[Den of Secrets]]
+*[[Highroad Hijinx]]
+*[[Robgoblin Treasure Trove]]
+*[[Sweetwater Climb]]
+*[[The Bat Cave!]]
+*[[Sandscale Oasis]]
+
+===Difficulty 3:===
+*[[Bone Bog Cemetery]]
+*[[Bristlewood Glade]]
+*[[Deep Mines]]
+*[[Floren Forest]]
+*[[Forgotten Caves]]
+*[[Howling Hills]]
+*[[Misty Mountain]]
+*[[Mushroom Cavern]]
+*[[The Snarling Hedges]]
+
+===Difficulty 4:===
+*[[Bandit Hideout!]]
+*[[Briar Patch]]
+*[[Croaking Vale]]
+*[[Darvon's Descent]]
+*[[Frostfang Caverns]]
+*[[Grexan's Camp]]
+*[[Mugwort's Hollow]]
+*[[Treeleaf's Retreat]]
+*[[Vale of the Ancients]]
+
+===Difficulty 5:===
+*[[Briarheart Caverns]]
+*[[Cray Caves]]
+*[[Dark Spore Depths]]
+*[[Forest Troll Fort]]
+*[[Haunted Mines]]
+*[[Precursor Ruins]]
+*[[Snowy Canyon]]
+*[[Tanglewood Fort]]
+*[[Trail of Betrayal]]
+{{Location}}
+[[Category:Locations]]
+[[Category:Dungeon]]

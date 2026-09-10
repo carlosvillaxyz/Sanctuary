@@ -1,0 +1,28 @@
+<!-- Quest:The Eggxtremely Eggcitingly Eggcellent Egg Hunt | https://freerealms.fandom.com/wiki/Quest%3AThe%20Eggxtremely%20Eggcitingly%20Eggcellent%20Egg%20Hunt | CC-BY-SA -->
+{{Quest2
+|detail summary = A robgoblin stole one of Alyssa Eggelyn's special eggs and hid it somewhere in Sacred Grove. She wants you to find it and return it to her.|first reward = <small>Alyssa's Spotted Egg</small>|first reward image name = Allysasspottedegg.png|second reward = Egg Coloring Kit|second reward image name = Eggcolouringkit.png|name = </big>'''<small>The Eggxtremely Eggcitingly Eggcellent Egg Hunt</small><big>}}{{Questprog
+|previous = [[Quest:The Eggcitingly Eggcellent Egg Hunt|The Eggcitingly Eggcellent Egg Hunt]]|next = |quest series = [[Spring_Eggstravaganza#Daily_Quests|Spring Eggstravaganza Quest Series]]}}
+==Notes==
+This quest is only available during the time of [[Spring Eggstravaganza]].
+==Requirements==
+Player must complete [[Quest:The Eggcitingly Eggcellent Egg Hunt]] in order to do [[Quest:The Eggxtremely Eggcitingly Eggcellent Egg Hunt]]
+==To Start==
+Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+==Goals==
+One of Alyssa's eggs has been hidden somewhere in Sacred Grove and she needs you to find it.
+*Find Alyssa Eggelyn's stolen egg.
+*Return to Alyssa Eggelyn.
+==Steps==
+#Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+#*"The Spring Eggstravaganza is here, but that darn robgoblin stole another one of my eggs. I can't possibly open my other eggs without that one. Do you think you could try to find it?" -Alyssa Eggelyn
+#Find Alyssa Eggelyn's stolen egg.
+#*The egg could be found behind a large pile of colorful gems in the [[Singing Crystal Mines]] of [[Snowhill]].
+#Speak with [[Alyssa Eggelyn]] located in [[Pixiewood Hills]] in [[Sanctuary]].
+#*"Eggcellent work, <Player Name>, and thank you for your help again. Now I can enjoy the Spring Eggstravaganza with a smile on my face, and you can take this special egg that I saved just for you." -Alyssa Eggelyn
+==References==
+*[[Spring Eggstravaganza]]
+*[[Robgoblin]]
+*[[Alyssa Eggelyn]]
+*[[Sacred Grove]]
+[[Category:Quest]]
+[[Category:Spring Eggstravaganza]]

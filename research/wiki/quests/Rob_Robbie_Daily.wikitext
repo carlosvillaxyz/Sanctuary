@@ -1,0 +1,55 @@
+<!-- Quest:Rob Robbie Daily | https://freerealms.fandom.com/wiki/Quest%3ARob%20Robbie%20Daily | CC-BY-SA -->
+[[File:Img 20130316-18-05-27 thumb.png|thumb|300px|right|Robbie's Tent]] 
+Quest: Rob Robbie Daily
+
+"Take something from Robbie's abandoned junkpile?"
+
+This is an Errand quest. This quest is repeatable, once per day.
+
+==Location==
+
+Robbie's Tent at Camp Robbie
+
+==Overview==
+*Enter Robbie's Tent and click on the Robgoblin Junkpile inside the tent. Will automatically start and finish quest and get reward.
+*If repeated 7 days in a row without missing a day you can open up a chest buried inside.
+
+==Reward==
+*Day 1 to Day 4, anything found in a '''common Robgoblin Junkpile'''.
+*Day 5 to Day 6, anything found in a '''Rare Robgoblin Junkpile'''.
+*Day 7, a random '''Station Cash Item''', housing items.
+
+==7th Day Chest Items==
+Know Rewards:
+*1 Aquarium
+*1 Automatic Head Size Augmenter
+*1 Basic Dance Floor
+*1 Basic Swimming Pool
+*1 Curved Wooden Walkway
+*2 Fall-away Blocks
+*2 Fluffy Cloud
+*1 Fluffy Cloud Bridge
+*1 Gumball Machine
+*1 Jack-In-The-Box
+*1 Juice Blender
+*1 Jukebox   
+*1 Large Launch Pad
+*1 Medium Launch Pad
+*1 Mega Dance Floor
+*1 Shrinking Head Cauldron
+*1 Spotlight   
+*1 Standard Candy Cart   
+*1 Stereo
+*1 Stone Bridge
+*1 Stone Head
+*2 Storm Clouds
+*1 Storm Cloud Bridge   
+*1 Suspension Bridge
+*2 Tiki Torch
+*1 Train Set
+*1 Wacky Waving Arm Flailing Chatty
+*1 Wacky Waving Arm Flailing Robbie
+*1 Wooden Bridge
+*1 Wooden Walkway
+*1 Wooden Walkway Ramp   
+[[Category:Quest]]

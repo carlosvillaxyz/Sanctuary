@@ -1,0 +1,139 @@
+<!-- Archer | https://freerealms.fandom.com/wiki/Archer | CC-BY-SA -->
+[[File:ArcherT-0.png|left|thumb|201x201px]]
+{{JobInfobox|name = Archer|image = Archer.png|caption = Male Pixie Archer}}
+''<font style="font-size:15px">{{Quote|Archers specialize in long-distance attacks using a bow and arrow, so you can strike before your target even knows it's in your sight! You can attack a single creature or use explosive arrows to attack multiple enemies at the same time. Archers are trained by [[Lugabow]], the defender of the [[Greenwood Forest]].|Job description}}</font>''
+'''Archer''' is a combat class [[Jobs|job]]. It specializes in long-distance combat using bows. This experience is gained by completing Archer [[Quests|quests]] and by battling in combat instances in the [[Wilds]] and in [[Dungeons|dungeons]].
+
+==Unlocking Archer==
+As of March 16th, 2013, the Archer job is no longer a [[:Category:Members Only|Members Only]] job, however you will first need to unlock the job before using it. To unlock the Archer job, you must speak to [[Lugabow]] in the [[Greenwood Camp]], located north of the [[Bandit Hideout!|Bandit Hideout]], west of [[Lavender Coast Pass]] [[Warpstones|warpstone]].
+
+==Trainers==
+*Lugabow in Greenwood Camp (starts questline)
+*Hilforn in the northern part of Greenwood Forest
+
+==Traits==
+{|
+!Level
+!Skill
+!Effect
+|-
+!5
+|Precision
+|Increases the precision of your shots, adding additional damage and increasing the chance of critical hits.
+|-
+!10
+|Marksmanship
+|Inflicts additional damage when you score a critical hit.
+|-
+!15
+|Reflexes
+|Increase your run speed and improve your chance of dodging attacks.
+|-
+!20
+|Lucky Shot
+|A lucky shot can sometimes restore a little bit of your energy.
+|}
+
+==Quests==
+'''Lugabow''' - Greenwood Camp
+* Path of the Archer
+* Archer: Test of Agility
+* Archer: Taking Aim
+* Archer: Oath of Honor
+
+'''Hilforn''' - northern Greenwood Forest
+* Archer: Pondblaster Target Practice
+* Archer: Explosive Expedition
+* Archer: Achieve Level 5
+:* Contract: All Around Win - Eddie Eagle Eyes, just south of Cobblestone Village 
+* Archer: Pondblaster Payback
+* Archer: Archer Departure
+
+'''Vicki''' - Farnum Farmstead
+* Archer: No Arrows, No Work
+* Archer: No Bow, No Work
+* Archer: I Quit!
+
+'''Bullseye''' - western entrance of [[Blackspore Swamp|Blackspore]]
+* Archer: Archer Test
+* Archer: Achieve Level 10
+:* Contract: Bowman for Hire - Eddie Eagle Eyes, just south of Cobblestone Village 
+* Archer: Paralyzing Poison
+* Archer: A Stunning Effect
+
+'''Bowman Bilter''' - northern entrance to Blackspore
+* Archer: Suspicious Smuggler
+* Archer: Animal Investigation
+* Archer: Prevention First - from Mr. Miles
+* Archer: Achieve Level 15
+:* Contract: No Boundaries on Bounties - Eddie Eagle Eyes, just south of Cobblestone Village 
+* Archer: Cutting Out the Buyers
+
+'''Orson''' - [[Briarwood]]
+* Archer: Finding Vicki
+* Archer: Remain Vigilant
+* Archer: New Challenges
+
+'''Bullseye''' - western entrance of Blackspore
+* Archer: Achieve Level 20
+:* Contract: That'll Teach 'Em - Eddie Eagle Eyes, just south of Cobblestone Village 
+* Archer: Building a Better Bow
+* Archer: Can You Hit a Bullseye
+
+:* Introducing Bullseye!
+'''Bowman Bilter''' - northern entrance to Blackspore
+* Archer: Attack from Above
+
+==Collections==
+* Archer Bow Materials
+* Archer Magical Bow Essences
+* Archer Stories
+
+==Equipment==
+'''''NB!''''' Minimum required level is in parentheses.
+
+===Weapons===
+* Student Archer Bow (1)
+* Amateur Archer Bow (1)
+* Quick Shot Bow (1)
+* Swift Stong Bow (3)
+* Fast Blast Bow (5)
+* Recurve Bow (8)
+* Pro Archer Bow (10)
+* Laminated Bow (11)
+* Laminated Bow (13)
+* Bullseye's Blaster Bow
+* Savage Sting Bow (15) 
+* Coin Flow Mantis Bow (1) 
+* Gemstone Bow (5) 
+* Molten Bow (1) 
+* Star Flow Bow (1) 
+* Scoped Stalker Bow (1) 
+* Bull's-Eye Archer Wristguards (20)
+* Archer's Raptor Bow of Firebomb (16)
+* Archer's Raptor Bow of Ricochet (16)
+
+===Clothing===
+* Student Archer (1)
+* Amateur Archer (1)
+* Quick Shot (1)
+* Swift Sting (3)
+* Pro Archer (5, except Quiver)
+* Fast Blast (5)
+* Rapid Shot (8)
+* Pro Archer Quiver (10)
+* Focus Fire (11)
+* Storm Shot (13)
+* All-Star Archer (15)
+* Feral Fire (17)
+* Trick Shot (20)
+
+==Vendors==
+* [[Sanctuary]] - lvl 20 clothing
+* Greenwood Camp - lvl 20 clothing
+* Briarwood - lvl 15 weapons
+* Sanctuary - lvl 19 weapons
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Archer]]
+[[Category:Members Only]]

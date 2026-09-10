@@ -1,0 +1,203 @@
+<!-- Medic | https://freerealms.fandom.com/wiki/Medic | CC-BY-SA -->
+{{ZAM|Category:Medic_(FR_Job)}}
+{{JobInfobox
+|name = Medic
+|image = Medic.png
+|caption = Female [[Pixies|Pixie]] Medic}}
+[[Image:MedicT.png|left]]''<font style="font-size:15px">{{Quote|If you love to help friends in need and save people from harm, become a Medic, and use medicine to heal allies, as well as attack angry enemies. Trained by [[Doctor Gordon]], Medics can combine technology and natural ingredients to ward off poisons, heal team members and even use shock paddles to stun enemies.|Job description}}</font>''
+'''Medic''' is a combat [[Jobs|job]], specializing in long-distance combat using medicine to heal allies. A combat class job, experience is gained by completing Medic [[Quests|quests]] and by battling in combat instances in the [[Wilds]] and in [[Dungeons|dungeons]].
+
+==Unlocking Medic==
+Medic can be unlocked by visiting Nurse Naia at the hospital in [[Sanctuary]].
+
+==Trainers==
+* Nurse Naia in Sanctuary (unlocks)
+* [[Doctor Gordon]] in Sanctuary (will block partway until lvl 5)
+* Terrence in the [[The Roadhouse|Roadhouse]]
+* Clover in Sanctuary (will block partway until lvl 10)
+* [[Mayor Crystalline]] in [[Snowhill]]
+* Docaloc in [[Briarwood]] (will block partway until lvl 15)
+* [[Doctor Callahan]] in [[Seaside]] (will block partway until lvl 20)
+
+==Skills==
+{|text-align="center" cellpadding=6 width=95%
+!bgcolor="transparent" width=5%|Lvl
+!bgcolor="transparent" width=12%|Skill
+!bgcolor="transparent"|Effect
+|-
+|style="text-align:center;"|1
+|First Aid
+|Heals yourself and any ally near you for 250 health. Further ranks increase healing.
+|-
+|bgcolor="transparent" style="text-align:center;"|5
+|bgcolor="transparent"|Target Vitals
+|bgcolor="transparent"|Knowledge of physiology allows you to strike at the vital points of your enemy inflicting 133 damage. Further ranks increase the damage dealt.
+|-
+|style="text-align:center;"|10
+|Vitamins
+|Makes the medic grow in size, increasing critical hit chance by 1% and increasing critical hit damage by 10% for 5 seconds. Further ranks increase the critical hit and damage %.
+|-
+|bgcolor="transparent" style="text-align:center;"|15
+|bgcolor="transparent"|Shock Paddles
+|bgcolor="transparent"|Causes 50 damage to an enemy and two other enemies near that enemy. Further ranks increase the damage dealt.
+|}
+[[File:Medictraits.png|thumb|center|620px]]
+
+==[[Quests]]==
+* '''Medic: So You Want to be a Medic?''' - Nurse Naia
+* '''Medic: Operation: Revival''' - Nurse Naia
+* '''Medic: House Call''' - Nurse Naia
+* '''Medic: Palatable Pills''' - Doctor Gordon
+* '''Medic: Take Your Vitamins''' - Doctor Gordon
+* '''Medic: Achieve Level 5''' - Doctor Gordon
+:* '''Contract: Local Problems''' - Beth Callahan in [[Queensfields]] [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* '''Medic: Surgical Precision''' - Doctor Gordon
+* '''Medic: Supply Recovery''' - Nurse Naia
+* '''Medic: Medic on a Mission''' - Terrence
+* '''Medic: Tummies in Turmoil''' - Nurse Naia
+* '''Medic: Clover's Crisis''' - Clover
+* '''Medic: Achieve Level 10''' - Clover
+:* '''Contract: Beth's Tasks''' - Beth Callahan in Queensfields [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* '''Medic: A Strong Supplement''' - Clover
+* '''Medic: Flu Season''' - Doctor Gordon
+* '''Medic: A Blustery Blunder''' - Mayor Crystalline
+* '''Medic: Into the Bristlewood''' - Mayor Crystalline
+* '''Medic: Virtuous Venom''' - Docaloc
+* '''Medic: Dewpetal Tea''' - Docaloc
+* '''Medic: Achieve Level 15''' - Docaloc
+:* '''Contract: Forgotten Favor''' - Beth Callahan in Queensfields [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* '''Medic: Shock Paddles and You''' - Docaloc
+* '''Medic: The Missing Patrol''' - Docaloc
+* '''Medic: Shocking Developments''' - Clover
+* '''Medic: Omitted Admission''' - Clover
+* '''Medic: Achieve Level 20''' - Doctor Callahan
+:* '''Contract: Cheap Clients''' - Beth Callahan in Queensfields [[Image:Icon repeat.png|15px|Repeatable Quest]]
+
+==[[Collections]]==
+*Magical Shock Rod Essences
+*Shock Rod Materials
+*Stories of a Medic
+
+==Equipment==
+===Weapons===
+'''Level 1'''
+* [[Student Medic Hammer]]
+* [[Amateur Medic Scalpel]]
+* Coin Flow Saw
+* [[Star Flow Saw]]
+* [[EKG Crutch]]
+* [[Medic's Reflex Hammer of Triage]]
+* [[Elemental Procedure]]
+* [[Split Saw]]
+* [[Star Flow Saw]]
+* [[First Aid Hammer]]
+* [[Reflex Hammer]]
+* [[Monarch Scalpel]]
+
+'''Level 5'''
+* [[Carbon Scalpel]]
+* [[Gravel Scalpel]]
+* [[Confetti Scalpel]]
+* [[Sunlit Scalpel]]
+* [[Carbon Scalpel]]
+* [[Jeweled Scalpel]]
+
+'''Level 8'''
+* [[Anguish Aid Bonesaw]]
+* [[Medic's Bonesaw of Vitals]]
+* [[Medic's Bonesaw of Triage]]
+* [[Medic's Bonesaw of Alarm]]
+* [[Medic's Bonesaw of Shock]]
+*
+'''Level 10'''
+* [[Pro Medic Saw]]
+* [[Mega Saw]]
+
+'''Level 12'''
+* [[All-Star Medic Shockrod]]
+* [[Aqua Saw]]
+* [[Medic's Megasaw of Alarm]]
+* [[Medic's Megasaw of Immunization]]
+* [[Medic's Megasaw of Reflexes]]
+* [[Medic's Megasaw of Shock]]
+* [[Medic's Megasaw of Triage]]
+* [[Medic's Megasaw of Vitae]]
+* [[Medic's Megasaw of Vitals]]
+* [[Medic's Megasaw of Vitamins]]
+* [[Mega Saw]]
+
+'''Level 13'''
+* [[Batty Bonesaw]]
+* [[Rainbow Bonesaw]]
+* [[Spectrum Bonesaw]]
+* [[Winged Bonesaw]]
+* [[Heal Support Bonesaw]]
+
+'''Level 16'''
+* [[Medic's Shockrod of Vitae]]
+* [[Medic's Shockrod of Alarm]]
+* [[Medic's Shockrod of Lasers]]
+* [[Medic's Forged Saw of Promise]]
+* [[Medic's Shockrod of Antibodies]]
+* [[Medic's Shockrod of Immunization]]
+* [[Medic's Shockrod of Reflexes]]
+* [[Medic's Shockrod of Shock]]
+* [[Medic's Shockrod of Triage]]
+* [[Medic's Shockrod of Vitals]]
+* [[Balloon Saw]]
+* [[Medic's Shockrod of Vitamins]]
+
+'''Level 19'''
+* [[Shockrod]]
+
+'''Level 20'''
+* [[Magical Essence Shockrod]]
+* [[Callahan's Cutter]]
+
+===Clothing===
+'''Level 1'''
+* Student Medic
+* First Aid
+* Amateur Medic
+
+'''Level 3'''
+* Grief Relief
+
+'''Level 5'''
+* Pro Medic
+* Field Support
+
+'''Level 8'''
+* Hurt Mender
+
+'''Level 10'''
+* Pro Medic Cap
+* Pro Medic Shirt
+
+'''Level 11'''
+* Anguish Aid
+
+'''Level 13'''
+* Heal Support
+
+'''Level 15'''
+* All-Star Medic
+* Pain Relief
+
+'''Level 17'''
+* Wound Mender
+
+'''Level 19'''
+* Trauma Support
+
+'''Level 20'''
+* Emergency Aid
+
+==Vendors==
+* Wumperwug in southeast [[Bristlewood]] - Lvl 15 weapons
+* [[Munchi Elwood]] in Seaside - Lvl 20 weapons and clothing
+{{Template:Jobs}}
+[[Category:Jobs]]
+[[Category:Combat]]
+[[Category:Medic]]
+[[Category:Members Only]]

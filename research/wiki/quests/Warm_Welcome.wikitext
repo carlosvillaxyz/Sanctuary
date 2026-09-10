@@ -1,0 +1,24 @@
+<!-- Quest:Warm Welcome | https://freerealms.fandom.com/wiki/Quest%3AWarm%20Welcome | CC-BY-SA -->
+{{Quest2|name=Warm Welcome|detail summary=A talking horse named Peppermint wants you to meet her friend Honeydew near Skysong Ledge.}}
+
+Warm Welcome is the introduction quest to the Pony Vale Questline. This quest sees you being greeted by Peppermint.   
+
+{{Questprog|quest series=[[Pony_Vale#Quest_Series|Pony Vale]]|next=[[Quest:Helping Honeydew|Helping Honeydew]]}}
+
+== Quest Overview ==
+There isn't much to this quest; you are greeted by Peppermint and then sent on to talk to Honeydew. 
+ 
+== Quest Dialogue: ==
+
+=== Peppermint: ===
+"Oh wow! You're a [*player_race*] right? It's wonderful to meet you! This is your first time to Pony Vale isn't it? Then you absolutely have to see Unicorn Forest, oh but first Skysong Ledge, that's where Skysong lives! He brought us all here you know, us horses I mean. He's so cool!
+
+Oh right, Skysong Ledge, that's straight north and a little west of here. Hey! You can meet my friend Honeydew when you get there!"
+
+=== Honeydew after being sent by Peppermint: ===
+"Hmm, oh hello there... now where did those baby horses get off to?
+
+Oh my, I'm being terribly rude aren't I! I haven't even given you a proper welcome. Well, I'm Honeydew. Nice to meet you!"
+[[Category:Quest]]
+[[Category:Pony Vale]]
+[[Category:Pony Vale Quests]]

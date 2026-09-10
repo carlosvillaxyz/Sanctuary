@@ -1,0 +1,9 @@
+<!-- Coins | https://freerealms.fandom.com/wiki/Coins | CC-BY-SA -->
+'''Coins''' are an in-game currency specifically for ''[[Free Realms]]''. They can be used to purchase items from the [[Coin Shop]], and [[Farms|farming]]. Unlike [[Station Cash]], coins do not cost real currency to obtain, although it is available to spend [[Station Cash|SC]] to purchase coins in the [[Station Cash Marketplace|SC Marketplace]].
+
+You can earn coins by doing random [[Quests|quests]] and [[Dungeons|dungeons]] throughout the game.
+[[Category:Coin Shop]]
+[[Category:SC Marketplace]]
+[[Category:Marketplace Items]]
+
+{{Sunset Sale}}

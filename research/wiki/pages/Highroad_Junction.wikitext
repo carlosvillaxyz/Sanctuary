@@ -1,0 +1,43 @@
+<!-- Highroad Junction | https://freerealms.fandom.com/wiki/Highroad%20Junction | CC-BY-SA -->
+{{Infobox
+|Image file = 129806.png
+|Row 1 title = Type
+|Row 1 info = Town
+|Row 2 title = Location
+|Row 2 info = South of [[Snowhill]]}}
+'''Highroad Junction''' is a small town in the [[Northern Wilds]], south of [[Snowhill]]. Players now start from the [[Cobblestone Village]] upon first arrival.
+
+==Points of Interest==
+*Highroad Junction Adoption Center
+*Bear Cave
+*Dance Party
+*Highroad Junction Tavern
+*[[Highroad Junction Playground]]
+*[[Highroad Vale]]
+
+==Job Trainers==
+*Mercy Merrywings ([[Pet Trainer]])
+*Veril Shiverwings (Pet Trainer)
+*Auguste Frydaze ([[Chef]] Trainer)
+*Harold ([[Brawler]] Trainer)
+
+==Shops==
+*Potions (health, energy, replenishing)
+*Pet Collars
+*Pet Supplies
+
+==Local [[Dungeons]]==
+*[[Hewey's Escape]] (removed)
+
+==Gallery==
+<gallery>
+Img 20130427-13-49-49.jpg
+Img 20130427-13-49-41.jpg
+</gallery>
+
+==See Also==
+*Frost Ridge Speedway
+{{location}}
+[[Category:Locations]]
+[[Category:Highroad Junction]]
+[[Category:Sacred Grove]]

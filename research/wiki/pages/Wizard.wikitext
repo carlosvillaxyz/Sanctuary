@@ -1,0 +1,187 @@
+<!-- Wizard | https://freerealms.fandom.com/wiki/Wizard | CC-BY-SA -->
+{{ZAM|Category:Wizard_(FR_Job)}}
+{{JobInfobox
+|name= Wizard
+|image= Wizard.png
+|caption= Female [[Human]] Wizard}}
+[[Image:WizardT.png|left]]''<font style="font-size:15px">{{Quote|Wizards summon the elements to attack their foes from a distance. They use magical wands to channel elemental energy into spells that can confuse enemies. They can even shoot lightning! Those who wish to learn the mystical ways of Wizardry can speak to [[Fizzlesticks]] in the [[Robgoblin Camp]] for training.|Job description}}</font>''
+'''Wizard''' is a [[:Category:Members Only|Members Only]] ranged combat [[Jobs|job]], specializing in long-distance combat using magical skills and wands. This experience is gained by completing Wizard [[Quests|quests]] and by battling in combat instances in the [[Wilds]] and in [[Dungeons|dungeons]].
+
+==Unlocking Wizard==
+Wizard is unlocked by talking to [[Fizzlesticks]] in the [[Robgoblin Camp]] and completing his quests.
+
+==Trainers==
+*Fizzlesticks in the Robgoblin Camp
+*[[Yaren Sunstare]] in [[Snowhill]]
+*Talespinner Yvelle in [[Merry Vale]]
+*[[Osgood]] in [[Sanctuary]]
+*[[Sandbur]] in Sanctuary
+*[[Iliya]] in [[Blackspore Swamp]]
+*Sven in [[Bristlewood]]
+*Karin Spellweaver in Sanctuary
+*Natali in [[Lakeshore]]
+
+==Skills==
+{|text-align="center" cellpadding=6 width=95%
+!bgcolor="silver" width=5%|Lvl
+!bgcolor="silver" width=12%|Skill
+!bgcolor="silver"|Effect
+|-
+|style="text-align:center;"|1
+|Zap
+|Assaults your target with arcing bolts of lightning, causing 83-125 damage to up to 3 enemies.
+|-
+|bgcolor="#F5F5F5" style="text-align:center;"|5
+|bgcolor="#F5F5F5"|Fireball
+|bgcolor="#F5F5F5"|Summons a fireball to burn your target, causing 50-74 damage in an area and burning them over 10 seconds.
+|-
+|style="text-align:center;"|10
+|Ice Nova
+|Freezes all enemies around the wizard in ice for 3 seconds, increasing their damage taken by 3-15%.
+|-
+|bgcolor="#F5F5F5" style="text-align:center;"|15
+|bgcolor="#F5F5F5"|Chaos
+|bgcolor="#F5F5F5"|Infiltrates your target's mind with compelling whispers, confusing them for 5-9 seconds.
+|}
+
+==[[Quests]]==
+'''Note:''' These are listed in order received, so some of the trainers will have more than one category. Also, Natali's quests are '''NOT''' needed to finish the wizard quests and are simply there to help you level up wizard when needed.
+
+'''Fizzlesticks'''
+* Wizard: How to be a Wizard
+* Wizard: I Can't Read This!
+* Wizard: Sticky Spell Book
+* Wizard: Lightning Bolt
+* Wizard: The First Rule of Being a Wizard...
+* Wizard: Market Wizards
+* Wizard: Student Profits
+* Wizard: Reach Level 5
+:* Contract: Troll Magic - Natali in Lakeshore [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* Wizard: An Icy Mistake
+
+'''Yaren Sunstare'''
+* Wizard: Merry Magical Story
+
+'''Talespinner Yvelle'''
+* Wizard: Feeding the Storyteller
+
+'''Yaren Sunstare'''
+* Wizard: Lost Student
+* Wizard: Osgood as it gets
+
+'''Osgood'''
+* Wizard: Reach Level 10
+:* Contract: Robgoblin Magic - Natali in Lakeshore [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* Wizard: Helping a Friend
+
+'''Sandbur'''
+* Wizard: Searching in the Past
+* Wizard: Crystal Clear Delivery
+
+'''Iliya'''
+* Wizard: Things Left Unfinished
+* Wizard: Filling in the Gaps
+
+'''Osgood'''
+* Wizard: Reach Level 15
+:* Contract: Secret Magic - Natali in Lakeshore [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* Wizard: Missing Student Sven
+
+'''Sven'''
+* Wizard: Sven's Job Offer
+* Wizard: A Twig From Treeleaf
+* Wizard: One Thing to Bind Them
+* Wizard: Reach Level 20
+:* Contract: Life and Death Magic - Natali in Lakeshore [[Image:Icon repeat.png|15px|Repeatable Quest]]
+* Wizard: Two Gems Are Better Than One
+
+'''Karin Spellweaver'''
+* Wizard: Rescue Mission
+
+'''Osgood'''
+* Wizard: Parts and Labor
+
+==[[Collections]]==
+{{main|Job Specific (Collections)#Wizard Collections}}
+* Wizard Stories
+* Wizard Wand Essences
+* Wizard Wand Materials
+
+==Equipment==
+===Weapons===
+'''Level 1'''
+* Student Wand 
+* Comet Infused Wand 
+* Amateur Wand
+
+'''Level 4'''
+*Pro Wizard Wand
+*Solar Charmed Wand
+
+'''Level 5'''
+* Lunar Enchanted Wand 
+* Solar Charmed Wand 
+* Pro Wizard Wand 
+* Wizard's Wand of Tsunami
+* Wizard's Wand of Glaciers
+* Wizard's Wand of Shock
+* Gemstone Wand
+
+'''Level 8'''
+* Bolt Wand 
+* Wizard's Bone Wand of Tsunami
+
+'''Level 11'''
+* Bone Wand 
+* Eclipse Infused Wand 
+
+'''Level 13'''
+* Bone Wand 
+
+'''Level 15'''
+* All-Star Wizard Wand 
+* Tempest Woven Wand 
+
+'''Level 19'''
+* Ornate Wand 
+
+'''Level 20'''
+* Wand of Spectral Fire 
+* Magical Essence Ornate Wand 
+
+===Clothing===
+'''Level 1'''
+* Student Wizard
+* Power Charmed
+* Amateur Wizard
+
+'''Level 3'''
+* Comet Infused
+
+'''Level 5'''
+* Lunar Enchanted
+* Pro Wizard
+
+'''Level 8'''
+* Solar Charmed
+
+'''Level 11'''
+* Eclipse Infused
+
+'''Level 15'''
+* Tempest Woven
+* All-Star Wizard (Except Robe)
+
+'''Level 17'''
+* Shadow Infused
+
+'''Level 19'''
+* Void Woven
+
+'''Level 20'''
+* All-Star Wizard Robe
+* Nether Enchanted
+{{Jobs}}
+[[Category:Jobs]]
+[[Category:Wizard]]
+[[Category:Members Only]]

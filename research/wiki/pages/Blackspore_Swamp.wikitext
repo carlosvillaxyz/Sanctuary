@@ -1,0 +1,107 @@
+<!-- Blackspore Swamp | https://freerealms.fandom.com/wiki/Blackspore%20Swamp | CC-BY-SA -->
+{{LocationInfobox
+|name= Blackspore Swamp[[File:Logo blackspore.png|50px]]
+|image= Map blackspore.png
+|type= Region
+|level= All
+|location= East of [[Crossroads]], southeast of [[Stillwater Crossing]]
+|inhabitants= [[Human|Humans]]<br>[[Pixies]]<br>Thugawugs}}
+'''Blackspore Swamp''' is a town located in the southeast corner of [[Sacred Grove]]. It is a dark and gloomy swamp where there is little difference between night and day. Amid the bogs are rotting remains of what existed before the [[Unbinding]] including archaeological sites, the [[Ancient's Wall]], and myriad fossils to be collected.
+
+Blackspore is roughly rectangular in shape with the long dimension running north and south. The western side is swampy terrain and the eastern side is submerged under a dark lake. The main outpost, [[Mire's Edge]], is clumped into a loose knot along the shore. Just north of Mire's Edge is [[Mucklewhump's Ferry]]. The presence of old man Mucklewhump gives the impression he once gave boat rides to the [[Isle of Tears]] out on the lake. South of Mire's Edge is the Ancient's Wall, and south of the wall is the [[Sinking Graveyard]], [[Shadowtalon Dojo]] and the [[Quagmire Quarry]]. There's a lot of mystery surrounding the quarry and the unexplained deaths of some of the [[Miner|miners]]. Blackspore is separated from the rest of Sacred Grove by a mountain range that rings the town. There are two tunnels under the mountains that lead to town and there is also a [[Warpstones|warpstone]] in Blackspore near Mire's Edge.
+
+During the annual [[Events|event]] [[Super Spooktacular]], Blackspore is home to the [[Vampires vs. Werewolves Dance-off]], which takes place just outside the gates of the [[Bone Bog Cemetery]]. The Dance-off is hosted by the [[Pumpkin Prince]], whose tomb is in a corner of the cemetery. Many of the Super Spooktacular quests involve searching around Blackspore and crossing swords with the many haunts found here.
+[[File:Blackspore..png|thumb|300px]]
+==History==
+Long before the Unbinding, the area now known as Blackspore Swamp was a beautiful rolling landscape, full of lush forests, fertile fields, and sparkling springs. Now Blackspore is a vast, seething swamp that seems to be sinking further and further into the mire. Despite -- or perhaps because of -- this decline, Blackspore is a refuge for thieves and other shady characters who take shelter in its shadows.
+
+==Travel==
+Blackspore is located east of [[Cobblestone Village|Crossroads]] and southeast of [[Stillwater Crossing]]. The only way into or out of Blackspore, other than by [[Warpstones]], is to pass through the tunnels near Crossroads or Stillwater Crossing.
+
+==Locations==
+===On the Atlas===
+====Warpstones====
+*Blackspore Warpstone
+
+====Dungeons====
+*[[Bone Bog Cemetery]]
+*[[Cracked Claw Caverns]]
+*[[Haunted Mines]]
+
+==== Battles ====
+*[[Bergram Stumpfinger]]
+*[[Cray Marauder]]
+*[[Grave Elemental]]
+*[[Mudshell]]
+*Spawn of Necrosis
+*Tormented Spirit
+*Venomous Frog
+*[[Wraith]]
+
+====Minigames====
+*Checkers & Chess Table
+
+===Off the Atlas===
+====Dig Sites====
+*[[Relic Excavation Site]]
+
+====Places of Interest====
+*[[Ancient's Wall]]
+*[[Blackspore Pet Adoption Center]]
+*[[Mire's Edge]]
+*[[Mucklewhump's Ferry]]
+*[[Oberyn's Retreat]]
+*[[Quagmire Quarry]]
+*[[Shadowtalon Dojo]]
+*Splortata's Camp
+*Splortata's Timeout Spot
+*[[The Guild House]]
+*[[Isle of Tears]]
+*[[Sinking Graveyard]]
+
+==[[Quests|Questline]]==
+===Blackspore Swamp Series===
+*Quest: The Road to Mire's Edge
+*Quest: Easy Money
+*Quest: Darci's Deficiencies
+*Quest: Favors for Favors
+*Quest: Combating the Cray
+*Quest: The Mining Operation
+*Quest: Free for the Taking
+*Quest: The Eye of Necrosis
+*Quest: Breaking a Few Eggs
+*Quest: Rumor has it...
+*Quest: Testing a Theory
+*Quest: Dwarven Expertise
+*Quest: Block Loblog's Bog Log
+*Quest: Consumed by the Past
+*Quest: Dead Ends
+
+== Events ==
+
+* [[Super Spooktacular]] ([[Vampires vs. Werewolves Dance-off]])
+
+==Collections==
+===Exploration===
+* [[Exploration (Collections)|Blackspore&nbsp;]]
+* [[Exploration (Collections)|Blackspore Rare Exploration]]
+* Blackspore Elite Exploration
+
+===Gathering===
+* Pile of Fossils
+* Pile of Fossils (Rare Collection)
+
+==Gallery==
+<gallery>
+b017cdfe8db21c7f2170cca03527cbe7.jpg
+Freerealms Blackspore.jpg
+Alen-lapidis-screenshot-11.jpg
+Alen-lapidis-screenshot-13.jpg
+Alen-lapidis-screenshot-14.jpg
+Alen-lapidis-screenshot-17.jpg
+FRIssue5 Blackspore.jpg|Blackspore in the [[Free Realms (comic)|Free Realms Issue 5]].
+</gallery>
+{{Location}}
+[[Category:Locations]]
+[[Category:Blackspore]]
+[[Category:Sacred Grove]]
