@@ -1,4 +1,4 @@
-# Starts the three Sanctuary servers (SQLite) in their own windows, then launches the Free Realms client.
+# Starts the local asset server and the three Sanctuary servers (SQLite) in their own windows, then launches the client.
 # Usage:  .\run_local.ps1            -> servers + client (login flow, account test/testtest)
 #         .\run_local.ps1 -NoClient  -> servers only
 param([switch]$NoClient)
@@ -14,6 +14,10 @@ $env:DOTNET_ROLL_FORWARD        = "Major"   # lets net9.0 apps run on the .NET 1
 
 dotnet build "$src\Sanctuary.slnx" -c Debug --nologo -v q
 if ($LASTEXITCODE -ne 0) { Write-Error "Build failed"; exit 1 }
+
+# Local asset-delivery server (caches streamed client assets, serves overrides). See tools\asset-server\README.md
+$assetServer = Join-Path $repo "tools\asset-server\server.py"
+Start-Process python -ArgumentList "`"$assetServer`"" -WorkingDirectory $repo -WindowStyle Normal
 
 foreach ($p in "Login", "Gateway", "WebAPI") {
     $dll = "$src\Sanctuary.$p\bin\Debug\net9.0\Sanctuary.$p.dll"
