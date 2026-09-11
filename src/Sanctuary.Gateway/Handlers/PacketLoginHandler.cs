@@ -156,7 +156,7 @@ public static class PacketLoginHandler
             }
         }
 
-        bool isReferee = character.User.IsMod || character.User.IsAdmin;
+        bool isReferee = _options.GrantStaffProfiles && (character.User.IsMod || character.User.IsAdmin);
         if (isReferee)
         {
             ProfileHelper.AddSpecialProfile(character, dbContext, _resourceManager, _logger, SpecialProfileIds.Referee);

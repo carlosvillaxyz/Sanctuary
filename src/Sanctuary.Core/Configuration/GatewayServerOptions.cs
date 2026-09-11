@@ -29,4 +29,10 @@ public sealed class GatewayServerOptions : ServerOptions
     public required string LoginGatewayChallenge { get; set; }
 
     public bool ShowMemberNagScreen { get; set; }
+
+    /// <summary>
+    /// Give admin and mod accounts the community staff jobs (Referee, Enforcer) at level 20. These were never in
+    /// the original game; off for the offline build, where admin only unlocks the '!' console commands.
+    /// </summary>
+    public bool GrantStaffProfiles { get; set; }
 }
