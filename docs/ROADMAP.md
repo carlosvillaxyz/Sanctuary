@@ -4,6 +4,8 @@
 own asset server. See [HANDOFF-2026-09-10.md](HANDOFF-2026-09-10.md) for everything done so far and the
 immediate next steps.
 
+**Current milestone:** Cobblestone Village complete — see [PLAN-cobblestone.md](PLAN-cobblestone.md) (2026-09-11).
+
 Goal: turn the community "walking emulator" into a real single-player-first game, faithful to the 2009-2014
 experience where the data survives and our own design where it doesn't. AI-assisted throughout. Upstream
 compatibility is not a goal; we track upstream only to cherry-pick fixes.
