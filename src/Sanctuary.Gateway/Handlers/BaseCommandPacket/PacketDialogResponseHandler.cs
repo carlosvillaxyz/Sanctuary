@@ -18,6 +18,8 @@ public static class PacketDialogResponseHandler
     {
         var loggerFactory = serviceProvider.GetRequiredService<ILoggerFactory>();
         _logger = loggerFactory.CreateLogger(nameof(PacketDialogResponseHandler));
+
+        DialogueManager.Configure(serviceProvider);
     }
 
     public static bool HandlePacket(GatewayConnection connection, ReadOnlySpan<byte> data)
@@ -31,6 +33,15 @@ public static class PacketDialogResponseHandler
         _logger.LogInformation("Dialog response from {player}: {packet} ( Data: {data} )", connection.Player.Name, packet, Convert.ToHexString(data));
 
         DialogueManager.OnResponse(connection.Player, packet.ButtonId);
+        return true;
+    }
+
+    /// <summary>The client closed the window itself (Escape): sub-opcode 4 with no body.</summary>
+    public static bool HandleClientClosed(GatewayConnection connection)
+    {
+        _logger.LogInformation("Dialog closed by client for {player}", connection.Player.Name);
+
+        DialogueManager.OnClientClosed(connection.Player);
         return true;
     }
 }

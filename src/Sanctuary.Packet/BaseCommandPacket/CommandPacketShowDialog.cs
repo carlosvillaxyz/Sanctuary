@@ -16,7 +16,7 @@ public class CommandPacketShowDialog : BaseCommandPacket, ISerializablePacket
     public new const short OpCode = 3;
 
     public int DialogTextId;
-    public int SpeakerAnimationId = -1;
+    public int SpeakerAnimationId;
     public ulong SpeakerGuid;
     public bool EnableEscape = true;
     public float Unknown4;
@@ -27,8 +27,8 @@ public class CommandPacketShowDialog : BaseCommandPacket, ISerializablePacket
     public Vector4 NewPlayerPosition;
     public float Unknown8;
     public bool HidePlayers;
-    public bool Unknown10;
-    public bool Unknown11;
+    public bool Unknown10 = true;
+    public bool Unknown11 = true;
     public float Zoom;
     public int SpeakerSoundId;
 

@@ -265,6 +265,15 @@ public abstract class BaseZone : IZone, IDisposable
             return false;
         }
 
+        // Quest givers and talk targets get the speech-bubble cursor and the quest's click range.
+        if (Dialogue.DialogueManager.IsQuestNpc(_resourceManager, npc.Guid))
+        {
+            npc.CursorId = Dialogue.DialogueManager.TalkCursorId;
+
+            if (_resourceManager.Quests.TryGetNpcInteractRange(npc.Guid, out var interactRange))
+                npc.InteractRange = interactRange;
+        }
+
         foreach (var script in definition.Scripts ?? [])
         {
             if (!npc.TryAddScript(script))
