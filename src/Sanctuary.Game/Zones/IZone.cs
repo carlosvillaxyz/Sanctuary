@@ -1,10 +1,11 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Numerics;
 
 using Sanctuary.Game.Entities;
 using Sanctuary.Game.Pathfinding;
 using Sanctuary.Game.Resources.Definitions;
+using Sanctuary.Game.Resources.Definitions.Combat;
 using Sanctuary.Scripting;
 using Sanctuary.UdpLibrary;
 
@@ -18,6 +19,10 @@ public interface IZone : IScriptableZone
     void OnStart();
     void OnClientIsReady(Player entity);
     void OnClientFinishedLoading(Player entity);
+
+    // COMBAT: an NPC in this zone died to a player (award XP, credit quests) or took a non-fatal hit.
+    void OnNpcKilled(Player killer, Npc npc);
+    void OnNpcDamaged(Player attacker, Npc npc);
 
     #endregion
 
@@ -38,6 +43,7 @@ public interface IZone : IScriptableZone
     bool TryCreateNpc([MaybeNullWhen(false)] out Npc npc);
     bool TryCreateNpc(ulong? guid, [MaybeNullWhen(false)] out Npc npc);
     bool TryCreateNpc(ulong? guid, NpcDefinition definition, [MaybeNullWhen(false)] out Npc npc);
+    bool TryCreateCombatNpc(ulong? guid, NpcDefinition definition, EnemyStats stats, [MaybeNullWhen(false)] out CombatNpc npc);
     IReadOnlyList<CollectionNodePoolStatus> GetCollectionNodePoolStatuses();
     IReadOnlyList<CollectionNodeSpawnStatus> GetCollectionNodeSpawnStatuses(string? poolKey = null);
     bool TryPlaceCollectionNodeSpawn(string poolKey, Vector4 position, float heading,

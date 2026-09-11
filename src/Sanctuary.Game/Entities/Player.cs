@@ -23,7 +23,7 @@ using Sanctuary.UdpLibrary.Enumerations;
 
 namespace Sanctuary.Game.Entities;
 
-public sealed class Player : ClientPcData, IEntity
+public sealed partial class Player : ClientPcData, IEntity
 {
     private readonly UdpConnection _connection;
     private readonly IResourceManager _resourceManager;
@@ -274,10 +274,14 @@ public sealed class Player : ClientPcData, IEntity
             if (_delayedSlotPackets.TryRemove(key, out var removed))
                 SendTunneled(removed.Packet);
         }
+
+        WorldCombatStateTick();
     }
 
     public void UpdateEverySecond()
     {
+        RegenTick();
+        EnergyRegenTick();
     }
 
     // The client animates the cooldown sweep itself from TotalRefreshTime -
@@ -483,18 +487,36 @@ public sealed class Player : ClientPcData, IEntity
             if (npc.CursorId == 0)
                 continue;
 
-            // Selectable when it has something to offer: a quest badge, or a plain interaction
-            // (collectibles, gathering nodes, entrances carry no badge).
+            // Selectable when it has something to offer: a quest badge, a plain interaction
+            // (collectibles, gathering nodes, entrances carry no badge), or a fight (attack cursor).
             playerUpdatePacketNpcRelevance.Entries.Add(new PlayerUpdatePacketNpcRelevance.Entry
             {
                 Guid = npc.Guid,
                 CursorId = npc.CursorId,
-                HasCursor = GetNotificationImageId(npc) != 0 || npc.InteractAction is not null
+                HasCursor = GetNotificationImageId(npc) != 0 || npc.InteractAction is not null || npc.IsHostile
             });
         }
 
         if (playerUpdatePacketNpcRelevance.Entries.Count > 0)
             SendTunneled(playerUpdatePacketNpcRelevance);
+
+        // Pushing health is what makes the client draw an enemy's nameplate bar, so only opted-in NPCs get it.
+        foreach (var npc in npcs)
+        {
+            if (!npc.IsDamageable || !npc.ShowHealthBar)
+                continue;
+
+            var updateStat = new ClientUpdatePacketUpdateStat { Guid = npc.Guid };
+            updateStat.Stats.Add(new CharacterStat(CharacterStatId.MaxHealth, npc.MaxHealth));
+            SendTunneled(updateStat);
+
+            SendTunneled(new PlayerUpdatePacketUpdateHitpoints
+            {
+                Guid = npc.Guid,
+                Hitpoints = npc.Health,
+                MaxHitpoints = npc.MaxHealth
+            });
+        }
 
         var playerUpdatePacketAddNotifications = new PlayerUpdatePacketAddNotifications();
 
@@ -670,15 +692,16 @@ public sealed class Player : ClientPcData, IEntity
     {
         var levelStats = LevelStats.ForProfile(ActiveProfile);
 
+        var inCombatDivisor = IsCombatJob
+            ? _resourceManager.CombatSettings.Player.InCombatHealthRegenDivisorCombatJob
+            : _resourceManager.CombatSettings.Player.InCombatHealthRegenDivisorNonCombatJob;
+
         UpdateCharacterStats(
             new CharacterStat(CharacterStatId.MaxHealth, levelStats.MaxHealth),
-            new CharacterStat(CharacterStatId.HitPointRegen, levelStats.HealthRegen));
+            new CharacterStat(CharacterStatId.HitPointRegen, levelStats.HealthRegen),
+            new CharacterStat(CharacterStatId.InCombatHitPointRegen, levelStats.MaxHealth / Math.Max(1, inCombatDivisor)));
 
-        SendTunneled(new ClientUpdatePacketHitpoints
-        {
-            CurrentHitpoints = levelStats.MaxHealth,
-            MaxHitpoints = levelStats.MaxHealth
-        });
+        RefillHealth();
     }
 
     public void OnLevelUp(ClientPcProfile profile)
@@ -880,7 +903,7 @@ public sealed class Player : ClientPcData, IEntity
         get => _energy;
         private set
         {
-            _energy = Math.Min(value, MaxEnergy);
+            _energy = Math.Clamp(value, 0, MaxEnergy);
 
             SendTunneled(new ClientUpdatePacketMana
             {

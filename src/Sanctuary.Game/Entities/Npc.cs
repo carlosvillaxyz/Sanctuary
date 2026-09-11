@@ -55,6 +55,25 @@ public class Npc : IScriptableNpc, IEntity
 
     public int Disposition { get; set; } = 1;
 
+    // ---- Combat ----
+    // Server-side health so abilities can damage this NPC. MaxHealth == 0 means "not damageable" (no bar).
+    public int MaxHealth { get; set; }
+    public int Health { get; set; }
+
+    // Draw a nameplate health bar (AddNpc.Unknown41). Sending hitpoints is what makes the client draw one, so
+    // Player.OnAddVisibleNpcs only pushes health for NPCs that opt in.
+    public bool ShowHealthBar { get; set; }
+
+    // AddNpc "render as enemy" flag (Unknown38). Sulphural/main: red name = Disposition 0 + NameColor 0
+    // + a non-default ActiveProfile at spawn, because the client's AddNpc apply re-runs its nameplate colour
+    // resolver only when SetProfileId sees a change.
+    public bool EnemyStatus { get; set; }
+    public int ActiveProfile { get; set; }
+
+    public bool IsHostile => Disposition == 0;
+    public bool IsDamageable => MaxHealth > 0;
+    public bool IsAlive => MaxHealth == 0 || Health > 0;
+
     public Action<Player>? InteractAction { get; set; }
     public Action? UpdateEverySecondAction { get; set; }
 
@@ -198,7 +217,7 @@ public class Npc : IScriptableNpc, IEntity
 
     #region Update
 
-    public void UpdateEveryTick()
+    public virtual void UpdateEveryTick()
     {
         if (!_scripts.IsEmpty)
             GetOrCreateScriptContext().FireEvent("tick");
@@ -212,7 +231,7 @@ public class Npc : IScriptableNpc, IEntity
         }
     }
 
-    public void UpdateEverySecond()
+    public virtual void UpdateEverySecond()
     {
         UpdateEverySecondAction?.Invoke();
 
@@ -220,15 +239,20 @@ public class Npc : IScriptableNpc, IEntity
             GetOrCreateScriptContext().FireEvent("second");
     }
 
-    public void UpdatePosition(Vector4 position, Quaternion rotation, bool updateZoneArea = true)
+    // Move without telling any client. CombatNpc streams its own throttled position updates (with the run
+    // state and ExpectedSpeed the client needs to animate a chase) instead of the per-call broadcast below.
+    protected void SetPosition(Vector4 position, Quaternion rotation)
     {
         Position = position;
         Rotation = rotation;
 
         if (Visible)
-        {
             UpdateZoneTile();
-        }
+    }
+
+    public void UpdatePosition(Vector4 position, Quaternion rotation, bool updateZoneArea = true)
+    {
+        SetPosition(position, rotation);
 
         var packet = new PlayerUpdatePacketUpdatePosition
         {
@@ -328,10 +352,10 @@ public class Npc : IScriptableNpc, IEntity
             TemporaryAppearance = default,
 
 
-            Unknown38 = default,
+            Unknown38 = EnemyStatus,
             Unknown39 = default,
             Unknown40 = default,
-            Unknown41 = default,
+            Unknown41 = ShowHealthBar,
             Unknown42 = default,
 
             HasTilt = default,
@@ -373,7 +397,7 @@ public class Npc : IScriptableNpc, IEntity
 
             FlyByEffectId = default,
 
-            ActiveProfile = default,
+            ActiveProfile = ActiveProfile,
 
             NotificationImageSetId = default,
             Unknown68 = default,

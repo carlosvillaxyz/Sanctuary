@@ -16,6 +16,7 @@ using Sanctuary.Core.Collections;
 using Sanctuary.Game.Entities;
 using Sanctuary.Game.Pathfinding;
 using Sanctuary.Game.Resources.Definitions;
+using Sanctuary.Game.Resources.Definitions.Combat;
 using Sanctuary.Game.Resources.Definitions.Zones;
 using Sanctuary.Scripting;
 using Sanctuary.UdpLibrary;
@@ -119,6 +120,17 @@ public abstract class BaseZone : IZone, IDisposable
     {
     }
 
+    public virtual void OnNpcKilled(Player killer, Npc npc)
+    {
+    }
+
+    public virtual void OnNpcDamaged(Player attacker, Npc npc)
+    {
+    }
+
+    // NPCs with a role (quest giver or target, vendor) never spawn hostile even if Enemies.json matches them.
+    protected virtual bool IsProtectedNpc(ulong guid) => false;
+
     #endregion
 
     #region IScriptable
@@ -184,14 +196,32 @@ public abstract class BaseZone : IZone, IDisposable
             return false;
         }
 
+        var position = new Vector4(x, y, z, 1f);
+        var rotation = new Quaternion(MathF.Sin(heading), 0f, MathF.Cos(heading), 0f);
+
+        // WORLD COMBAT: a definition Enemies.json classifies as a monster spawns as a hostile CombatNpc
+        // (aggro, chase, leash, respawn) unless it has a quest or vendor role in this zone.
+        if (_resourceManager.Enemies.TryResolve(definition, out var enemyStats) && !IsProtectedNpc(npcGuid ?? 0))
+        {
+            if (!TryCreateCombatNpc(npcGuid, definition, enemyStats, out var enemy))
+            {
+                _logger.LogWarning("Failed to spawn enemy {NpcId}: Could not create NPC instance.", npcId);
+                return false;
+            }
+
+            enemy.SpawnPosition = position;
+            enemy.SpawnRotation = rotation;
+            enemy.UpdatePosition(position, rotation);
+
+            npc = enemy;
+            return true;
+        }
+
         if (!TryCreateNpc(npcGuid, definition, out var spawnedNpc))
         {
             _logger.LogWarning("Failed to spawn NPC {NpcId}: Could not create NPC instance.", npcId);
             return false;
         }
-
-        var position = new Vector4(x, y, z, 1f);
-        var rotation = new Quaternion(MathF.Sin(heading), 0f, MathF.Cos(heading), 0f);
 
         spawnedNpc.UpdatePosition(position, rotation);
 
@@ -274,6 +304,34 @@ public abstract class BaseZone : IZone, IDisposable
         {
             if (!npc.TryAddScript(script))
                 _logger.LogWarning("NPC {NpcName} ({NpcGuid}) already has script {Script}", npc.Name, npc.Guid, script);
+        }
+
+        return true;
+    }
+
+    // Enemies get no greeting lines and no scripts: they are targets, not characters.
+    public bool TryCreateCombatNpc(ulong? guid, NpcDefinition definition, EnemyStats stats, [MaybeNullWhen(false)] out CombatNpc npc)
+    {
+        var scale = 1f;
+
+        if (_resourceManager.Models.TryGetValue(definition.ModelId, out var model) && model.Scale != 0f)
+            scale = model.Scale;
+
+        npc = new CombatNpc(this, stats, _resourceManager.CombatSettings.Enemy)
+        {
+            Guid = GetNpcGuid(guid),
+            NameId = definition.NameId,
+            Name = definition.Name,
+            ModelId = definition.ModelId,
+            TextureAlias = definition.TextureAlias,
+            Scale = scale,
+            Visible = true
+        };
+
+        if (!_npcs.TryAdd(npc.Guid, npc) || !_entities.TryAdd(npc.Guid, npc))
+        {
+            npc = null;
+            return false;
         }
 
         return true;
@@ -922,7 +980,8 @@ public abstract class BaseZone : IZone, IDisposable
 
             foreach (var npc in player.VisibleNpcs.Values)
             {
-                if (npc.AmbientLineIds is null || npc.AmbientLineIds.Length == 0)
+                // Enemies never greet, whatever a data file says.
+                if (npc is CombatNpc || npc.AmbientLineIds is null || npc.AmbientLineIds.Length == 0)
                     continue;
 
                 var dx = npc.Position.X - player.Position.X;
