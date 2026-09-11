@@ -40,6 +40,9 @@ public static class PacketClientFinishedLoadingHandler
 
         connection.Player.SendToolbar();
 
+        // The captures show DamageReductionPercent 100 for ~42 s after login.
+        connection.Player.OnEnteredWorld();
+
         return true;
     }
 }

@@ -7,6 +7,7 @@ using Microsoft.Extensions.Logging;
 
 using Sanctuary.Database;
 using Sanctuary.Game;
+using Sanctuary.Game.Combat;
 using Sanctuary.Game.Entities;
 using Sanctuary.Gateway.Helpers.Abilities;
 using Sanctuary.Packet;
@@ -57,7 +58,10 @@ public static class AbilityPacketClientRequestStartAbilityHandler
         if (packet.Data.Id == ConsumableAbility.ActionBarId)
             return HandleItemAbility(connection.Player, packet);
 
-        return ConsumableAbility.SendFailure(connection.Player);
+        // Any other bar is the job's weapon toolbar: slot 0 = basic attack, 1 = the weapon's special.
+        // packet.Guid is the client's selected target (0 = none; the engine then picks the nearest enemy).
+        CombatEngine.TryAttack(_resourceManager, connection.Player, packet.Data.Slot, packet.Guid);
+        return true;
     }
 
     private static bool HandleItemAbility(Player player, AbilityPacketClientRequestStartAbility packet)

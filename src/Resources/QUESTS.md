@@ -1,4 +1,4 @@
-# Adding Quests
+﻿# Adding Quests
 
 Quests are entirely data-driven: everything from goals to rewards to NPC gating lives in
 [`Quests.json`](Quests.json). Adding a quest means adding a JSON entry - no C# code changes
@@ -81,9 +81,10 @@ done. Each goal becomes its own tracker row.
 | `TalkToNpc` | 0 | player interacts with `TargetGuid` |
 | `ReachLocation` | 1 | player gets within `ReachRadius` (default 12) of `ReachPosition`, checked on every position update (2D, X/Z only) |
 | `Collect` | 2 | player gathers `RequiredCount` pickups from `CollectSpawns` |
+| `Kill` | 3 | player defeats `RequiredCount` enemies whose `NameId` is in `KillNameIds` |
 
-That's the full set - this branch has no combat system, so there's no Kill/hunt or
-battle-instance-encounter goal type. Don't add one without also building what would drive it.
+That's the full set. There is no battle-instance-encounter goal type yet (instances are a later slice);
+don't add one without also building what would drive it.
 
 ### ReachLocation example
 
@@ -112,6 +113,21 @@ Use `/whereami` in-game to grab coordinates while standing where you want the go
 `RequiredCount` of `0` (or omitted) defaults to "collect them all" (`CollectSpawns.Count`).
 `CollectModelId` is a `Models.txt` id (e.g. `93` = `bw_collectible_mushrooms_01`); `CollectNameId`
 is the hover/name text shown on the pickup.
+
+### Kill example
+
+Enemies are the placed NPCs that `Resources/Enemies.json` classifies as hostile (see
+`docs/combat-port.md`). A Kill goal counts every defeated enemy carrying one of the listed `NameId`s,
+whichever spawn it was, so "Fighting off the Pack" (5 Hooligan Wolves) is:
+
+```json
+{ "NameId": 5100203, "Type": 3, "RequiredCount": 5, "KillNameIds": [5100200] }
+```
+
+`KillNameIds` are `Npcs.json` `NameId`s (5100200 = Hooligan Wolf, 5100401 = Hooligan, 5100400 =
+Hooligan Archer). Progress is persisted in `GoalCount` like Collect goals, and the tracker arrow points
+at the nearest living enemy of that species. The loader warns when `KillNameIds` or `RequiredCount` is
+missing.
 
 Every zone that has a Collect-goal quest must call `zone.spawnQuestCollectibles()` once from its
 Lua `onStart` (see `FabledRealms.lua`). This one call spawns **every** collectible pickup across

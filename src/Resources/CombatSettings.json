@@ -1,0 +1,38 @@
+{
+  "Comment": "Overworld combat tunables. Read by CombatSettingsCollection (Sanctuary.Game/Resources); every value has a code default, so a missing key keeps working. Enemy stats live in Enemies.json, player health by level in LevelStats.json, energy per job in CombatJobs.json.",
+  "Player": {
+    "Comment": "OutOfCombatSeconds: no health regen, and the in-combat HUD flags drop, this long after the last hit taken or dealt (Sulphural/main c34648df). InCombatHealthRegenDivisor*: in-combat regen per second = max health / divisor (captures: 100 for combat jobs, 400 for non-combat; out-of-combat regen comes from LevelStats.json). DefenseConstant K: an enemy hit is reduced by Defense / (Defense + K), then minus DamageReductionAmount, then DamageReductionPercent (empirical fit from the 2014 captures, K in 511-521). KnockoutRecoverSeconds: the respawn window's countdown (wiki: 'After ten seconds of waiting, you will be able to recover'). AutoReviveSeconds: in-place revive if no Revive button is pressed by then (the wiki's 'after ten seconds of waiting you will be able to recover'; kept just past the countdown so the window's buttons get their turn first). ReviveInvulnerableSeconds / LoginInvulnerableSeconds: DamageReductionPercent 100 windows seen in the captures (~7 s after a revive, ~42 s after login). ReviveHereCoinCost: coins for 'Revive here' (0 = free, the wiki's in-place recover); 'Revive at safe location' is always free and goes to the nearest warpstone. KnockoutEffectId 5017 = PFX death poof, ReviveEffectId 15117 = PFX_levelup_big (Sulphural's choices; the client draws nothing of its own at 0 HP). SendInWorldCombatFlag: op41/132 SetInWorldCombat - required for floating damage numbers out in the world, but it also puts a health bar on every nameplate while in combat (a global client switch, traced by Sulphural). SendIsFightingFlag: op41/133 SetIsFighting (weapon drawn).",
+    "OutOfCombatSeconds": 6,
+    "InCombatHealthRegenDivisorCombatJob": 100,
+    "InCombatHealthRegenDivisorNonCombatJob": 400,
+    "DefenseConstant": 515,
+    "KnockoutRecoverSeconds": 10,
+    "AutoReviveSeconds": 12,
+    "ReviveInvulnerableSeconds": 7,
+    "LoginInvulnerableSeconds": 42,
+    "ReviveHereCoinCost": 0,
+    "KnockoutEffectId": 5017,
+    "ReviveEffectId": 15117,
+    "SendInWorldCombatFlag": true,
+    "SendIsFightingFlag": true
+  },
+  "Enemy": {
+    "Comment": "Death presentation is the 2014-04-01 capture's exact recipe for a dying pack wolf: RemovePlayerGracefully(Animate=true, Delay=2000, effect 5017, Duration=1000) - the client plays the model's own death clip, then the poof, then despawns. PositionBroadcastDistance: how far a chasing enemy moves before another position update is streamed (Sulphural a126be4b). AttackCursorId 11 = crossed swords. HitAnimationHoldMs: how long a hit-reaction clip stays on an enemy before its idle is restored.",
+    "DeathHoldMs": 2000,
+    "DeathEffectId": 5017,
+    "DeathEffectDurationMs": 1000,
+    "PositionBroadcastDistance": 0.3,
+    "AttackCursorId": 11
+  },
+  "Abilities": {
+    "Comment": "BasicDamageDelayFraction: the basic swing's damage lands this far into its recast window (BasicRecastMs in CombatJobs.json) so the number pops as the swing connects. Specials: the action-bar lock and the delay before their damage lands (Sulphural 00c1db34). DodgeAnimationId 1406 = com_dodge sidestep. DodgeChancePercent: base chance an enemy swing misses a player, on top of the MeleeAvoidance stat (Sulphural e8c8a3d4 used 5; the captures never showed a miss on the 0-avoidance Adventurer, so 0 here). DamageReferenceLevel / DamageGrowthPerLevel: OUR level scaling for player abilities - a CombatAbilities.json Damage value is the hit at the reference level and grows 1.15x per level (the captured health ratio), so a level-1 Brawler basic (254 -> 145) takes four swings on a 500-HP Hooligan Wolf and a level-20 Ninja basic lands ~2,067 against the captured 2,739. Replaces Sulphural's rank^2 ease-in (12049172). SelectedTargetRangeSlack: a clicked target may be this many times the job's reach away and still be hit, to forgive client/server position lag.",
+    "DamageReferenceLevel": 5,
+    "DamageGrowthPerLevel": 1.15,
+    "SelectedTargetRangeSlack": 2.0,
+    "BasicDamageDelayFraction": 0.85,
+    "SpecialActionTimeSeconds": 0.4,
+    "SpecialDamageDelaySeconds": 0.4,
+    "DodgeAnimationId": 1406,
+    "DodgeChancePercent": 0
+  }
+}
