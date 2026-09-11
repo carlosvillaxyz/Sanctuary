@@ -27,5 +27,9 @@ foreach ($p in "Login", "Gateway", "WebAPI") {
 
 if (-not $NoClient) {
     Start-Sleep -Seconds 4
+
+    # Game assets missing from the community streaming server (no-op once placed). See tools\client-fixes.
+    if (Test-Path "$repo\client") { python "$repo\tools\client-fixes\place_local_assets.py" }
+
     python "$repo\run_client.py"
 }
