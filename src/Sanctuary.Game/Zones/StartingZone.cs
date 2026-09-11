@@ -44,7 +44,7 @@ public sealed class StartingZone : BaseZone
 
         SendUpdateStat(player);
 
-        var levelStats = LevelStats.For(player.ActiveProfile.Rank);
+        var levelStats = LevelStats.ForProfile(player.ActiveProfile);
 
         var clientUpdatePacketHitpoints = new ClientUpdatePacketHitpoints
         {
@@ -142,7 +142,7 @@ public sealed class StartingZone : BaseZone
 
         clientUpdatePacketUpdateStat.Guid = player.Guid;
 
-        var levelStats = LevelStats.For(player.ActiveProfile.Rank);
+        var levelStats = LevelStats.ForProfile(player.ActiveProfile);
 
         clientUpdatePacketUpdateStat.Stats.AddRange(
         [

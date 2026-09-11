@@ -1,22 +1,82 @@
 [
-  { "Level": 1, "StarsToNextLevel": 100 },
-  { "Level": 2, "StarsToNextLevel": 150 },
-  { "Level": 3, "StarsToNextLevel": 200 },
-  { "Level": 4, "StarsToNextLevel": 250 },
-  { "Level": 5, "StarsToNextLevel": 300 },
-  { "Level": 6, "StarsToNextLevel": 350 },
-  { "Level": 7, "StarsToNextLevel": 400 },
-  { "Level": 8, "StarsToNextLevel": 450 },
-  { "Level": 9, "StarsToNextLevel": 500 },
-  { "Level": 10, "StarsToNextLevel": 550 },
-  { "Level": 11, "StarsToNextLevel": 600 },
-  { "Level": 12, "StarsToNextLevel": 650 },
-  { "Level": 13, "StarsToNextLevel": 700 },
-  { "Level": 14, "StarsToNextLevel": 750 },
-  { "Level": 15, "StarsToNextLevel": 800 },
-  { "Level": 16, "StarsToNextLevel": 850 },
-  { "Level": 17, "StarsToNextLevel": 900 },
-  { "Level": 18, "StarsToNextLevel": 950 },
-  { "Level": 19, "StarsToNextLevel": 1000 },
-  { "Level": 20, "StarsToNextLevel": 0 }
+  {
+    "Level": 1,
+    "StarsToNextLevel": 300
+  },
+  {
+    "Level": 2,
+    "StarsToNextLevel": 411
+  },
+  {
+    "Level": 3,
+    "StarsToNextLevel": 522
+  },
+  {
+    "Level": 4,
+    "StarsToNextLevel": 633
+  },
+  {
+    "Level": 5,
+    "StarsToNextLevel": 744
+  },
+  {
+    "Level": 6,
+    "StarsToNextLevel": 856
+  },
+  {
+    "Level": 7,
+    "StarsToNextLevel": 967
+  },
+  {
+    "Level": 8,
+    "StarsToNextLevel": 1078
+  },
+  {
+    "Level": 9,
+    "StarsToNextLevel": 1189
+  },
+  {
+    "Level": 10,
+    "StarsToNextLevel": 1300
+  },
+  {
+    "Level": 11,
+    "StarsToNextLevel": 1411
+  },
+  {
+    "Level": 12,
+    "StarsToNextLevel": 1522
+  },
+  {
+    "Level": 13,
+    "StarsToNextLevel": 1633
+  },
+  {
+    "Level": 14,
+    "StarsToNextLevel": 1744
+  },
+  {
+    "Level": 15,
+    "StarsToNextLevel": 1856
+  },
+  {
+    "Level": 16,
+    "StarsToNextLevel": 1967
+  },
+  {
+    "Level": 17,
+    "StarsToNextLevel": 2078
+  },
+  {
+    "Level": 18,
+    "StarsToNextLevel": 2189
+  },
+  {
+    "Level": 19,
+    "StarsToNextLevel": 2300
+  },
+  {
+    "Level": 20,
+    "StarsToNextLevel": 0
+  }
 ]

@@ -668,7 +668,7 @@ public sealed class Player : ClientPcData, IEntity
     /// </summary>
     public void ApplyLevelStats()
     {
-        var levelStats = LevelStats.For(ActiveProfile.Rank);
+        var levelStats = LevelStats.ForProfile(ActiveProfile);
 
         UpdateCharacterStats(
             new CharacterStat(CharacterStatId.MaxHealth, levelStats.MaxHealth),
