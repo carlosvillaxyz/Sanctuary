@@ -1,0 +1,40 @@
+<!-- Iggy | https://freerealms.fandom.com/wiki/Iggy | CC-BY-SA -->
+{{PetInfobox
+|Image=Iggy.jpg
+|Gender=[[:Category:Males|Male]]
+|Category=[[:Category:Triceratops|Triceratops]]
+}}
+{{IGD|I'm a shy triceratops named Iggy. Will you be my friend?}}
+'''Iggy''' is a [[:Category:Triceratops|triceratops]] [[Pets|pet]] that is available to everyone for purchase through the [[Station Cash Marketplace|SC Marketplace]] at the regular price of {{SC|225}}, and to [[Membership|Members]] at the 10% discount price of {{SC|202}}.
+
+A purple version of Iggy was formerly acquired by redeeming a code<ref>[https://youtu.be/bhlBC9zKjNU Free Pet Code on FreeRealms] on [https://www.youtube.com YouTube]</ref> from the [https://en.wikipedia.org/wiki/FUN!_Online_Games Beckett Fun Online Games magazine]<ref>[https://web.archive.org/web/20210304210709/http://www.freerealmsinsider.com/content/1158-free-realms-featured-fun-magazine-includes-exclusive-purple-triceratops-code Free Realms featured in FUN Magazine - includes exclusive Purple Triceratops code!] on [http://www.freerealmsinsider.com/ Free Realms Insider]</ref> or [http://web.archive.org/web/20100514121216/http://www.massiveonlinegamer.com/ Beckett Massive Online Gamer website].<ref>[https://web.archive.org/web/20210116015126/http://www.freerealmsinsider.com/content/1905-get-exclusive-purple-triceratops-free Get An Exclusive Purple Triceratops Free!!!] on [http://www.freerealmsinsider.com/ Free Realms Insider]</ref> Only 1,000 key codes were distributed from the website, along with a limit of 1 code per account.
+
+* To obtain Iggy from the magazine, players needed to purchase a copy of Beckett Fun! Online Games #3,<ref>[http://store.beckett.com/Beckett-Fun-Online-Games-3.html Beckett Fun! Online Games #3] on [https://web.archive.org/web/20110129223405/http://store.beckett.com:80/Gaming-and-Entertainment-Magazines-Fun-Online-Games/ The Beckett Store]</ref><ref>[https://www.beckettmedia.com/gaming-and-entertainment/magazine-specials/fun-online-games?product_id=67690565 Fun Online Games #3] on [https://www.beckettmedia.com/ Beckett Media]</ref> and redeem the code printed inside the magazine.
+* To obtain Iggy from the website, players needed to log in or create an account, go to the Game Codes<ref>[http://web.archive.org/web/20100823233907/http://www.massiveonlinegamer.com:80/game-code Game Codes] on [http://web.archive.org/web/20100514121216/http://www.massiveonlinegamer.com/ Beckett Massive Online Gamer]</ref> page, generate a code for Iggy, and redeem it.
+
+==Tricks==
+Iggy can perform the following tricks:
+* Chase Tail
+* Hand Stand
+* Charge
+
+==Gallery==
+<gallery>
+Artwork.free-realms.1024x768.2009-12-09.267.jpg|Model of Iggy.
+20qxu75-1-.png
+E83567cf20d3551266bd8f1afa5727cb-1-.jpg
+Fb879877c539c2a62d18c8eb7f5985b2-1-.jpg|Code version of Iggy.
+fog-3-250x344.jpg|Iggy code featured in Beckett Fun! Online Games #3 magazine.
+purple_triceratops.jpg|Promotional image for Iggy on Beckett Massive Online Gamer.
+</gallery>
+
+==References==
+<references/>
+
+[[Category:Pets]]
+[[Category:Males]]
+[[Category:Triceratops]]
+[[Category:SC Marketplace]]
+[[Category:Marketplace Items]]
+
+{{Sunset Sale}}

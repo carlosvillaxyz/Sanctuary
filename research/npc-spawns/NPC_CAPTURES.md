@@ -1,3 +1,6 @@
+> **Correction (2026-09-11):** pcap timestamps show these captures were taken 2014-03-25 and 2014-03-31, in the
+> game's final week, not in 2010. Positions therefore reflect the final build.
+
 # NPC spawns from live Free Realms captures
 
 The original Free Realms servers were authoritative for NPC placement — NPC spawn

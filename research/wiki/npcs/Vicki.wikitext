@@ -1,0 +1,20 @@
+<!-- Vicki | https://freerealms.fandom.com/wiki/Vicki | CC-BY-SA -->
+{{Infobox
+|Box title = Vicki
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Hair color
+|Row 3 info = White
+|Row 4 title = Eye color
+|Row 4 info = Blue
+|Row 5 title = Location(s)
+|Row 5 info = [[Bristlewood]], [[Briarwood]]}}
+'''Vicki''' is a [[Human|human]] [[Non-Playable-Character|NPC]] that can be found in [[Bristlewood]], located in [[Briarwood]]. She is found in multiple [[Locations|areas]] depending on what part of the [[Archer]] [[Jobs|Job]] quest series you are on.
+
+Vicki is initially found at Farnum's Farm. Later in the series, she can be found directly north of the Bristlewood [[Warpstones|Warpstone]], hiding in front of a large thorny tree root (she would be easily visible from the warpstone, but a huge mushroom is in the way). Her accomplice stands to her left.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Human]]
+[[Category:Bristlewood]]

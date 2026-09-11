@@ -1,0 +1,36 @@
+<!-- Roosey | https://freerealms.fandom.com/wiki/Roosey | CC-BY-SA -->
+{{Infobox
+|Box title = Roosey
+|Image file = Roosey.jpg
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Cobblestone Village]]
+|Row 4 title = Occupation
+|Row 4 info = [[Merchants|Merchant]]}}
+'''Roosey''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found near the [[Cobblestone Village]] Cooking Table. She sells exclusively [[Brawler]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*Bell Brawler Shoulderpads
+*Bell Brawler Pants
+*Bell Brawler Bandana
+*Bell Brawler Gloves
+*Bell Brawler Boots
+*Bell Brawler Shirt
+*[[Brawler's Flair Shard of Valentines]]
+*[[Brawler's Flair Shard of Smoldering]]
+*Brawler's Power Shard of Regeneration I
+*Brawler's Ring of Energy I
+*Brawler's Necklace of Bark Skin I
+*[[Brawler's Mallet of Sweeps]]
+
+==Trivia==
+*Roosey was introduced to in-game on August 6, 2013.
+[[Category:NPC]]
+[[Category:Pixie]]
+[[Category:Females]]
+[[Category:Brawler]]
+[[Category:Merchant]]
+[[Category:Cobblestone Village]]

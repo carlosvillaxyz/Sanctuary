@@ -1,0 +1,30 @@
+<!-- Rascal | https://freerealms.fandom.com/wiki/Rascal | CC-BY-SA -->
+{{PetInfobox
+|Image=Rascal.png
+|Gender=[[:Category:Males|Male]]
+|Category=[[Dogs|Dog]]
+|Subcategory=[[:Category:Small Dogs|Small Dog]]
+|Trait=[[:Category:Excited Pets|Excited]]
+}}
+{{IGD|Hi! I'm Rascal and I'm an excited dog! We should look for adventure!}}
+'''Rascal''' is a [[Dogs|dog]] [[Pets|pet]] that is available to everyone for purchase through the [[Station Cash Marketplace|SC Marketplace]] at the regular price of {{SC|225}}, and to [[Membership|Members]] at the 10% discount price of {{SC|202}}.
+
+==Tricks==
+
+Rascal can perform the following tricks:
+* Speak
+* Sit Up
+* Roll Over
+* Play Dead
+* Peek-a-boo
+* Handstand
+* Dance
+
+{{Sunset Sale}}
+[[Category:Pets]]
+[[Category:Dogs]]
+[[Category:Small Dogs]]
+[[Category:Excited Pets]]
+[[Category:Males]]
+[[Category:SC Marketplace]]
+[[Category:Marketplace Items]]

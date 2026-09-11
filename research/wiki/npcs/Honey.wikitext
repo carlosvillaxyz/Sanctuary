@@ -1,0 +1,28 @@
+<!-- Honey | https://freerealms.fandom.com/wiki/Honey | CC-BY-SA -->
+{{Infobox
+|name= Honey
+|image= Honey23.jpg
+|gender= Female
+|race= [[Pixies|Pixie]]
+|hair color= Blonde
+|eye color= Green
+|location(s)= [[Queensfields]], [[Sanctuary]]
+|occupation= [[Farmer]]}}
+'''Honey''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in [[Queensfields]], located in [[Sanctuary]].
+
+==[[Quests]]==
+*Quest:Chef: Crazy Craving
+*Quest:Chef: Meet the Reputable Bordon Cloo
+
+==Appearances==
+*Quest:Chef: Queensfields
+*Quest:Chef: Crazy Craving
+*Quest:Chef: Meet the Reputable Bordon Cloo
+*Quest:Postman: Bixie Buds
+*Quest:Looking for Lavender
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Farming]]
+[[Category:Quest Givers]]
+[[Category:Sanctuary]]

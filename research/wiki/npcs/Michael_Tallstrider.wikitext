@@ -1,0 +1,14 @@
+<!-- Michael Tallstrider | https://freerealms.fandom.com/wiki/Michael%20Tallstrider | CC-BY-SA -->
+{{Infobox
+|name= Michael Tallstrider
+|gender= Male
+|race= [[Human]]
+|hair color= Brown
+|eye color= Light brown
+|location(s)= [[Sacred Glade]]}}
+'''Micheal Tallstrider''' was a [[Human|human]] [[Non-Playable-Character|NPC]] that can be found in [[Sacred Glade]]. He frantically runs up to the player, he was glad they made it through the [[Warpstones|warpstone]] before it was destroyed by the [[Robgoblins|robgoblins]]. Micheal needs the player to help chasing the creatures off.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Sacred Glade]]
+[[Category:No longer in-game]]

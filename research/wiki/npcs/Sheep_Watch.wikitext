@@ -1,0 +1,87 @@
+<!-- Sheep Watch | https://freerealms.fandom.com/wiki/Sheep%20Watch | CC-BY-SA -->
+{{Infobox
+|Box title = Sheep Watch
+|Image file = Sheep Watch.jpg
+|Row 1 title = Type
+|Row 1 info = Farm
+|Row 2 title = Level
+|Row 2 info = Varied
+|Row 3 title = Location
+|Row 3 info = [[Southern Wilds]]}}{{Quote|A pack of [[Wolves|wolves]] is attacking the sheep at Farnum Farmstead. Save the sheep by defeating the wolves!|Battle description}}
+The '''Sheep Watch''' is a [[:Category:Difficulty 1|difficulty 1]] [[Dungeons|dungeon]] that is started by clicking on the gate in the [[Southern Wilds|southwest Wilds]], near [[Farnum's Farm]]. There is an icon on the [[Atlas]] for the Sheep Watch.
+
+==Mobs==
+===[[Non-Playable-Character|NPCs]]===
+*Sheep
+
+===[[:Category:Enemies|Enemies]]===
+*Wolves
+
+===[[Boss|Bosses]]===
+*Alpha Female Wolf
+*Alpha Male Wolf
+
+==Goals==
+:Defeat all the wolves
+
+==Rewards==
+:122 Stars
+:Members Only Bonus: 51 Coins
+
+===Archer Prize Wheel===
+:[[Archer's Bow of Blizzards]]
+:[[Archer's Necklace of Vitality I]]
+:[[Archer's Power Shard of Regeneration I]]
+:[[Battle Item Mystery Pack]]
+:[[Hen Feather Archer Quiver]]
+:8 Coins
+
+===Brawler Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:[[Brawler's Mallet of Rumbling]]
+:[[Brawler's Necklace of Vitality I]]
+:[[Brawler's Power Shard of Regeneration I]]
+:[[Saved by the Bell Brawler Shoulderpads]]
+:8 Coins
+
+===Medic Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:[[Medic's Necklace of Vitality I]]
+:[[Medic's Power Shard of Regeneration I]]
+:[[Medic's Reflex Hammer of Vitals]]
+:[[Stable Condition Medic Backpack]]
+:8 Coins
+
+===Ninja Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:[[Kusa Ninja Shoulderguard]]
+:[[Ninja's Training Sword of 1000 Storms]]
+:[[Ninja's Necklace of Vitality I]]
+:[[Ninja's Power Shard of Regeneration I]]
+:8 Coins
+
+===Warrior Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:[[Standard Action Warrior Pauldrons]]
+:[[Warrior's Cudgel of Cleaving]]
+:[[Warrior's Necklace of Vitality I]]
+:[[Warrior's Power Shard of Regeneration I]]
+:8 Coins
+
+===Wizard Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:[[Novice Wizard Talisman]]
+:[[Wizard's Necklace of Vitality I]]
+:[[Wizard's Power Shard of Regeneration I]]
+:[[Wizard's Sparkle Twig of Glaciers]]
+:8 Coins
+
+==Gallery==
+<gallery>
+A31350acca25f1f7bca5f212962f2b60.png|Battle icon of Sheep Watch
+Sheep Watch int.jpg|Sheep Watch, interior
+</gallery>
+[[Category:Dungeon]]
+[[Category:Combat Mini-game]]
+[[Category:Difficulty 1]]
+[[Category:Wilds]]

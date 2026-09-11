@@ -1,0 +1,33 @@
+<!-- Vela | https://freerealms.fandom.com/wiki/Vela | CC-BY-SA -->
+{{Infobox
+|Box title = Vela<br><Miner Gear>
+|Image file = Vela.jpg
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Hair color
+|Row 3 info = Light brown
+|Row 4 title = Eye color
+|Row 4 info = Silver
+|Row 5 title = Location(s)
+|Row 5 info = [[Southern Wilds]]
+|Row 6 title = Occupation
+|Row 6 info = [[Miner]]<br>[[Merchants|Merchant]]}}
+'''Vela''' is a [[Human|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found at the forging station in [[Farnum's Farm]], located in the [[Southern Wilds]]. She sells [[Miner]] [[Jobs|Job]] related [[Items|items]] along with crafting supplies.
+
+==Sells==
+*[[Miner's Flair Shard of the Forest]]
+*[[Miner's Flair Shard of Ice]]
+*[[Miner's Power Shard of Timing I]]
+*[[Miner's Necklace of Timing I]]
+*[[Miner's Pickaxe of Timing I]]
+
+==Trivia==
+*Vela was introduced in-game on the update of October 15, 2013.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Human]]
+[[Category:Miner]]
+[[Category:Merchant]]
+[[Category:Wilds]]

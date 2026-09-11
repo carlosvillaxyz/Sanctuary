@@ -1,0 +1,65 @@
+<!-- King of the Ring! | https://freerealms.fandom.com/wiki/King%20of%20the%20Ring%21 | CC-BY-SA -->
+{{Infobox
+|Box title = King of the Ring!
+|Row 1 title = Type
+|Row 1 info = Battle area
+|Row 2 title = Level
+|Row 2 info = Varied
+|Row 3 title = Location
+|Row 3 info = [[Cobblestone Village|Crossroads]]}}{{Quote|[[Mongo]] is the toughest [[Trolls|troll]] around! Defeat Mongo to put him in his place!|Battle description}}
+'''King of the Ring!''' was a [[:Category:difficulty 1|difficulty 1]] [[Dungeons|dungeon]] that were started by clicking on the gate in [[Cobblestone Village|Crossroads]]. There was an icon on the [[Atlas]] for the King of the Ring! dungeon.
+
+==Mobs==
+===[[Non-Playable-Character|NPCs]]===
+*[[Kibler]]
+*Carlos Brazenfist
+*Two [[Human|humans]]
+
+===[[Boss|Bosses]]===
+*[[Mongo]]
+
+==Goals==
+*Knock out [[Mongo]]!
+
+==Rewards==
+*12 Stars
+
+===[[Archer]] Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:[[Hen Feather Archer Gloves]]
+: 19 [[Coins]]
+
+===[[Brawler]] Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:Bell Brawler Gloves
+:19 Coins
+
+===[[Medic]] Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:Stable Condition Medic Gloves
+:19 Coins
+
+===[[Ninja]] Prize Wheel ===
+:[[Battle Item Mystery Pack]]
+:Kusa Ninja Armwraps
+:19 Coins
+
+===[[Warrior]] Prize Wheel===
+:Basic Attack Warrior Tunic
+:Standard Action Warrior Gauntlets
+:19 Coins
+
+===[[Wizard]] Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:Novice Wizard Gloves
+:19 Coins
+
+==Gallery==
+<gallery>
+King of the Ring int.jpg|King of the Ring, interior
+</gallery>
+[[Category:Dungeon]]
+[[Category:Combat Mini-game]]
+[[Category:Difficulty 1]]
+[[Category:Cobblestone Village]]
+[[Category:No longer in-game]]

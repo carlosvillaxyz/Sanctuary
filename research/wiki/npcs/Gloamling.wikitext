@@ -1,0 +1,26 @@
+<!-- Gloamling | https://freerealms.fandom.com/wiki/Gloamling | CC-BY-SA -->
+{{Infobox
+|name= Gloamling
+|image= Img 20130624-17-44-25.jpg
+|race= Unknown
+|location(s)= [[Briarwood]]<br>[[Farnum's Farm]]<br>[[Seaside]]}}
+The '''Gloamling''' is an [[:Category:Enemies|enemy]] [[Non-Playable-Character|NPC]] that can be found in three [[Locations|locations]]. It is the [[Gloam]] creature that resemble [[Necronomicus]]' powered form.
+
+==Appearances==
+*Briarwood Caverns
+*Quest:Saving Farnum's Farm <small>(indirectly mentioned)</small>
+*Quest:Portal Remnants
+*Quest:Ghosts of the Past
+*Quest:Not the Ghosts You're Looking For
+*Unwanted Guests
+
+==Gallery==
+<gallery>
+Ghostninjastriker.jpg|Gloamlings disguised as Ghost Ninja Strikers.
+</gallery>
+[[Category:NPC]]
+[[Category:Enemies]]
+[[Category:Gloam]]
+[[Category:Briarwood]]
+[[Category:Cobblestone Village]]
+[[Category:Seaside]]

@@ -1,0 +1,31 @@
+<!-- Rocky | https://freerealms.fandom.com/wiki/Rocky | CC-BY-SA -->
+{{Infobox
+|Box title = Rocky
+|Image file = Rocky.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Southern Wilds]]
+|Row 4 title = Occupation
+|Row 4 info = [[Merchants|Merchant]]}}
+'''Rocky''' is a [[Humans|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found near the Cooking Table at [[Farnum's Farm]], located in the [[Southern Wilds]]. He sells exclusively [[Brawler]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*Bell Brawler Shoulderpads
+*Bell Brawler Pants
+*Bell Brawler Bandana
+*Bell Brawler Gloves
+*Bell Brawler Boots
+*Bell Brawler Shirt
+*[[Brawler's Mallet of Sweeps]]
+
+==Trivia==
+*Rocky was introduced in-game on August 6, 2013.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Brawler]]
+[[Category:Merchant]]
+[[Category:Wilds]]

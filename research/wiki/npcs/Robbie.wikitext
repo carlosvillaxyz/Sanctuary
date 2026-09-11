@@ -1,0 +1,69 @@
+<!-- Robbie | https://freerealms.fandom.com/wiki/Robbie | CC-BY-SA -->
+{{Infobox
+|name= Robbie
+|image= Robbie.png
+|gender= Male
+|race= [[Robgoblins|Robgoblin]]
+|eye color= Red
+|location(s)= [[Sacred Glade]] (formerly)<br>[[Greenwood Forest]]}}
+'''Robbie''' is a [[Robgoblins|robgoblin]] [[Non-Playable-Character|NPC]] that can be found at [[Camp Robbie]], located in the [[Greenwood Forest]]. Robbie, along with [[Chatty]], are the official mascots of ''[[Free Realms]]''.
+
+Robbie is also an NPC [[Boss|boss]] in [[Bigfoot's Lair]], he used to wear the Bigfoot costume which come to attack the player in the [[Battles|battle]].
+
+==[[Quests]]==
+*Quest:Rags to Riches
+*Quest:Certified Treasure Hunter
+*Quest:Bigfooted Friend
+
+==Appearances==
+*Free Realms Trailer 2007
+*Free Realms Trailer 2008
+*Free Realms Ninja Prank Commercial
+*Quest:Camp Troubles
+*Quest:Confronting Bigfoot
+*[[Bigfoot's Lair]]
+*Quest:Putting Your Foot Down
+*Quest:Rags to Riches
+*Quest:Unearthing Treasures <small>(mentioned)</small>
+*Quest:The Great Scavenger Hunt <small>(mentioned)</small>
+*Quest:Certified Treasure Hunter
+*Quest:Bigfooted Friend
+*Quest:Bigfoot's Endangered
+*[[Bigfoot Defender]]
+
+==Gallery==
+<gallery>
+RobbieConcept.png|Concept art of Robbie.
+Robgoblins Dailey.jpg|Concept art of Robbie and the robgoblins.
+The-free-realms-filter-56.webp
+Prototyperobgoblin.jpg|Prototype from Fan Faire 2008.
+Cory-rohlfs-robbiepose.jpg|Model of Robbie by Cory Rohlfs.
+Cory-rohlfs-robbiewire.jpg|Wire model of Robbie by Cory Rohlfs.
+Cory-rohlfs-fr-characters.jpg|3D artwork of the characters by Cory Rohlfs.
+FR Roster Numbo.jpg
+Frcomicpitchart.jpg
+Wikia-Visualization-Add-4,freerealms.png
+Free-realms.jpg
+Wikia-Visualization-Main,freerealms.png
+ChattyvsRobbie.jpg
+Frpardonourdustcropped500.png
+ErrorImage.jpg
+Camp Robbie.jpg
+Bigfoot.jpg|Robbie's disguise of Bigfoot.
+</gallery>
+
+==Trivia==
+*Robbie was introduced in-game as a part of [[Camp Robbie]] on June 4th, 2010.
+
+==Sources==
+*[https://www.slideshare.net/crowempires/the-free-realms-filter The Free Realms Filter] on [https://www.slideshare.net/ SlideShare]
+*[https://www.deviantart.com/zatransis/art/Free-Realms-Comic-Pitch-Art-125162820 Free Realms Comic Pitch Art] on [https://www.deviantart.com/ DeviantArt]
+[[Category:NPC]]
+[[Category:Enemies]]
+[[Category:Boss]]
+[[Category:Males]]
+[[Category:Robgoblin]]
+[[Category:Quest Givers]]
+[[Category:Camp Robbie]]
+[[Category:Sacred Glade]]
+[[Category:Greenwood Forest]]

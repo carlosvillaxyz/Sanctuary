@@ -1,0 +1,71 @@
+<!-- Robgoblins | https://freerealms.fandom.com/wiki/Robgoblins | CC-BY-SA -->
+{{Infobox
+|Box title = Robgoblins
+|Image file = Robgoblin.jpg
+|Row 1 title = Skin color   
+|Row 1 info = Green, red, blue, brown, orange
+|Row 2 title = Eye color
+|Row 2 info = Red, purple, yellow
+|Row 3 title = Location(s)
+|Row 3 info = [[Sacred Grove]]<br>[[Sunstone Valley]]
+|Row 4 title = Distinctions
+|Row 4 info = Large facial features, small bodies}}
+'''Robgoblins''' are a [[Races|race]] of goblin-like creatures. They are small creatures that live primarily in camps with other robgoblins. They have an affinity for destruction, explosives, magic and stealing.
+
+Many robgoblins are [[:Category:Enemies|enemies]], but there are also robgoblin [[Non-Playable-Character|NPCs]] and questgivers.
+
+==Sub-Races==
+There are currently two sub-races of robgoblins in two [[Locations|locations]]. All of them have the basic body shape, skins, ears, and eyes, but there is a difference.
+
+Robgoblins can be found in [[Sacred Grove]]. They have green skins, long ears, and big noses. They can also be found in [[Sunstone Valley]], although there are several differences in these two cousins. Such include a red skin tone and a default occupation as a scrapsmith. There is a [[Whirly's Scrap Camp|scrapsmith camp]] just outside of the hostile area controlled by these small creatures.
+
+==Notable Robgoblins==
+===[[Southern Wilds]]===
+*[[Robbie]]
+
+===[[Lakeshore]]===
+*[[Fizzlesticks]]
+*[[Bizzie]]
+
+===[[Seaside]]===
+*[[Sizzlebottom]]
+*[[Burglz]]
+*[[Grekel]]
+*[[Triggster]]
+*[[Twitch]]
+*[[Wemo]]
+
+===[[Snowhill]]===
+*Holigoblin
+
+===[[Merry Vale]]===
+*[[Lucky Chance McXander]]
+
+===[[Wugachug]]===
+*[[Rumple]]
+
+===[[Sunstone Valley]]===
+*[[Whirly Willis]]
+*[[Rizzle]]
+*[[Scrapsmith Crackle]]
+*Junkmaker Jort
+*[[Scrapmaster Fizzbang]]
+*[[Robgoblin Junk Thief]]
+*[[Robgoblin Shinyseeker]]
+*[[Robgoblin Mechanic]]
+*[[Robgoblin Kaboomer]]
+*[[Robgoblin Tinkerer]]
+
+==Gallery==
+<gallery>
+ChugnRob MerghartJ.jpg|Artwork of a robgoblin and a [[Chugawugs|chugawug]] by Jeff Merghart.
+Robgoblins Dailey.jpg|Concept art of the robgoblins by Patrick Dailey.
+Karcy-helms-fr-characters.jpg|3D artwork of the characters by Karcy Helms.
+Robcamp01.jpg|Wizard robgoblin
+Robcamp02.jpg|Robgoblin trickster
+Sunstonerobs.jpg|Robgoblins in Sunstone Valley
+</gallery>
+[[Category:Races]]
+[[Category:Robgoblin]]
+[[Category:Sacred Grove]]
+[[Category:Sunstone Valley]]

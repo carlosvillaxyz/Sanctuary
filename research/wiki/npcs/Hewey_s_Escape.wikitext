@@ -1,0 +1,64 @@
+<!-- Hewey's Escape | https://freerealms.fandom.com/wiki/Hewey%27s%20Escape | CC-BY-SA -->
+{{Infobox
+|Box title = Hewey's Escape
+|Image file = Hewey's Escape ext.jpg
+|Row 1 title = Type
+|Row 1 info = Cave
+|Row 2 title = Level
+|Row 2 info = Varied
+|Row 3 title = Location
+|Row 3 info = [[Highroad Junction]]}}{{Quote|Hewey the Bear escaped the local zoo! Knock some sense into Hewey so he'll return to the zoo.|Battle description}}
+'''Hewey's Escape''' was a [[:Category:Difficulty 1|difficulty 1]] [[Dungeons|dungeon]] that were started by clicking on the barrier in [[Highroad Junction]]. There was an icon on the [[Atlas]] for Hewey's Escape.
+
+==Mobs==
+===[[Non-Playable-Character|NPCs]]===
+*Harold
+
+===[[Boss|Bosses]]===
+*Hewey the Bear
+
+==Goals==
+:Knock out Hewey the Bear!
+
+==Rewards==
+:10 Stars
+
+===[[Archer]] Prize Wheel===
+:[[Hen Feather Archer Gloves]]
+:[[Small Health Potion]]
+:36 [[Coins]]
+
+===[[Brawler]] Prize Wheel===
+:Bell Brawler Gloves
+:[[Small Health Potion]]
+:36 Coins
+
+===[[Medic]] Prize Wheel===
+:[[Small Health Potion]]
+:Stable Condition Medic Gloves
+:36 Coins
+
+===[[Ninja]] Prize Wheel===
+:Kusa Ninja Armwraps
+:[[Small Health Potion]]
+:36 Coins
+
+===[[Warrior]] Prize Wheel===
+:[[Small Health Potion]]
+:Standard Action Warrior Gauntlets
+:36 Coins
+
+===[[Wizard]] Prize Wheel===
+:Novice Wizard Gloves
+:[[Small Health Potion]]
+:36 Coins
+
+==Gallery==
+<gallery>
+Hewey's Escape int.jpg|Hewey's Escape, interior
+</gallery>
+[[Category:Dungeon]]
+[[Category:Combat Mini-game]]
+[[Category:Difficulty 1]]
+[[Category:Highroad Junction]]
+[[Category:No longer in-game]]

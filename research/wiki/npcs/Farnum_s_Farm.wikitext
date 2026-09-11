@@ -1,0 +1,20 @@
+<!-- Farnum's Farm | https://freerealms.fandom.com/wiki/Farnum%27s%20Farm | CC-BY-SA -->
+{{LocationInfobox2
+|image= 9ac999d53a9e4663b22c098dcd83cd02.png
+|type= Farm
+|location= South of the [[Cobblestone Village]] [[Warpstones|warpstone]]}}
+'''Farnum's Farm''', also commonly called '''Farnum Farmstead''', is an [[Locations|area]] located in the far southern reaches of [[Sacred Grove]]. One of the quickest ways to reach the farm is by heading south from the [[Cobblestone Village]] [[Warpstones|warpstone]].
+
+==Crops for Harvesting==
+*Spiralmint
+*Stainberry
+*Gummyfruit
+*Rainleaf
+*Stickfruit
+*Tumtumnip
+
+==[[Dungeons]]==
+*[[Sheep Watch]]
+*[[Highroad Hijinx]]
+[[Category:Locations]]
+[[Category:Cobblestone Village]]

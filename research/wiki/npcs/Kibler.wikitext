@@ -1,0 +1,15 @@
+<!-- Kibler | https://freerealms.fandom.com/wiki/Kibler | CC-BY-SA -->
+{{Infobox
+|name= Kibler
+|image= Kibler.png
+|gender= Male
+|race= [[Robgoblins|Robgoblin]]
+|eye color= Red
+|location(s)= [[Cobblestone Village|Crossroads]]
+|occupation= Ring announcer}}
+'''Kibler''' was a [[Robgoblins|robgoblin]] [[Non-Playable-Character|NPC]] that can found in [[Cobblestone Village|Crossroads]] near the [[King of the Ring!]] [[Dungeons|dungeon]]. He was the ring announcer for the King of the Ring.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Robgoblin]]
+[[Category:Cobblestone Village]]
+[[Category:No longer in-game]]

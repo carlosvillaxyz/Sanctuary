@@ -1,0 +1,14 @@
+<!-- Zax | https://freerealms.fandom.com/wiki/Zax | CC-BY-SA -->
+{{PetInfobox
+|Image=Zax.png
+|Gender=[[:Category:Males|Male]]
+|Category=[[T-Rexes|T-rex]]}}
+{{IGD|My name's Zax, and I'm a little Tyrannosaurus Rex! Wanna see me do some tricks?}}
+'''Zax''' is a [[T-Rexes|t-rex]] [[Pets|pet]] that is available to everyone in the [[Station Cash Marketplace|SC Marketplace]] at the price {{SC|350}} and to [[Membership|Members]] at the 10% discount price of {{SC|315}}.
+[[Category:Pets]]
+[[Category:Males]]
+[[Category:T-Rexes]]
+[[Category:Marketplace Items]]
+[[Category:SC Marketplace]]
+
+{{Sunset Sale}}

@@ -1,0 +1,16 @@
+<!-- Highroad Vale | https://freerealms.fandom.com/wiki/Highroad%20Vale | CC-BY-SA -->
+{{Infobox
+|Image file = A69a27b22837b2dd5f6d12f933b9ad21.png
+|Row 1 title = Type
+|Row 1 info = N/A
+|Row 2 title = Location
+|Row 2 info = [[Highroad Junction]]}}
+The '''Highroad Vale''' was the [[Locations|area]] where all newly-created characters are introduced into [[World|Free Realms]]. The path that leads to the vale were diagonally across the intersection from the [[Highroad Junction]] [[Warpstones|warpstone]].
+
+==Gallery==
+<gallery>
+Img 20130427-13-50-57.jpg
+Img 20130427-13-53-40.jpg
+</gallery>
+[[Category:Locations]]
+[[Category:Highroad Junction]]

@@ -1,0 +1,43 @@
+<!-- Chatty | https://freerealms.fandom.com/wiki/Chatty | CC-BY-SA -->
+{{Infobox
+|name= Chatty
+|image= Chatty1.png
+|gender= Male
+|race= [[Treebles|Treeble]]
+|eye color= Cyan
+|location(s)= [[Camp Chatty]], [[Greenwood Forest]]}}{{Quote|Here in [[World|Free Realms]], you RULE!|Chatty, in Free Realms Trailer 2009}}
+'''Chatty''' is a [[Treebles|treeble]] [[Non-Playable-Character|NPC]] that can be found at [[Camp Chatty]], located in the [[Greenwood Forest]]. Chatty, along with [[Robbie]], are the official mascots of ''[[Free Realms]]''.
+
+==[[Quests]]==
+*Quest:Meet and Greet
+
+==Appearances==
+*Free Realms Trailer 2009
+*Free Realms Commercial 2009
+*Free Realms Ninja Prank Commercial
+*Free Realms Super Ego Commercial
+*Free Realms Holiday TV Spot
+*Free Realms Yeti TV Spot
+*Quest:Meet and Greet
+*Quest:The Great Treeble Race <small>(mentioned)</small>
+*Quest:Confronting Bigfoot
+*Quest:Bigfooted Friend
+*Free Realms Official First Birthday Yearbook
+*Free Realms Party Time TV Spot Preview!
+*SOE Free Realms Tiger TV Spot
+*Happy 3rd Birthday Free Realms
+*Palia <small>(cameo as a decor item)</small>
+
+==Gallery==
+View the gallery: [[Chatty/Gallery|Here]]
+
+==Trivia==
+*Chatty was introduced in-game as a part of [[Camp Chatty]] on June 4th, 2010.
+*Chatty is currently the only known treeble that appears as an NPC in [[Sacred Grove]].
+**Although there are two treeble [[Pets|pets]] in-game; [[Treeble]] and [[Striped Treeble]] we have seen, thus implying that there are more of Chatty's kind.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Treeble]]
+[[Category:Quest Givers]]
+[[Category:Camp Chatty]]
+[[Category:Greenwood Forest]]

@@ -1,0 +1,33 @@
+<!-- Dot | https://freerealms.fandom.com/wiki/Dot | CC-BY-SA -->
+{{PetInfobox
+|Image=Dot.jpg
+|Gender=[[:Category:Females|Female]]
+|Category=[[Dogs|Dog]]
+|Subcategory=[[:Category:Large Dogs|Large Dog]]
+|Trait=[[:Category:Excited Pets|Excited]]
+}}
+{{IGD|Hello there!  My name's Dot and I'm an excited dog!  Let's go exploring together!}}
+'''Dot''' is a [http://en.wikipedia.org/wiki/Dalmatian_(dog) Dalmatian] [[Dogs|dog]] [[Pets|pet]] that is available to everyone for purchase through the [[Station Cash Marketplace|SC Marketplace]] at the regular price of {{SC|299}}, and to [[Membership|Members]] at the 10% discount price of {{SC|269}}.
+
+Dot was also distributed to all players who had either a three-month, six-month, twelve-month, or lifetime membership plan through the [[Snow Days Membership Gift]] pack during [[Snow_Days#2010|2010]] [[Snow Days]].
+
+==Tricks==
+
+Dot can perform the following tricks:
+* Speak
+* Sit Up
+* Roll Over
+* Play Dead
+* Peek-a-boo
+* Handstand
+* Dance
+
+{{ZAM|FR_Item:Snow_Days_Membership_Gift}}
+{{Sunset Sale}}
+[[Category:Pets]]
+[[Category:Dogs]]
+[[Category:Large Dogs]]
+[[Category:Excited Pets]]
+[[Category:Females]]
+[[Category:SC Marketplace]]
+[[Category:Marketplace Items]]

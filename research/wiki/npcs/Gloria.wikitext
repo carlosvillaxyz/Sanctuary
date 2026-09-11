@@ -1,0 +1,18 @@
+<!-- Gloria | https://freerealms.fandom.com/wiki/Gloria | CC-BY-SA -->
+{{Character Infobox
+|Box title = Gloria<br><Pets>
+|race = [[Human]]
+|gender = Female
+|location = [[Cobblestone Village]]
+|occupation = [[Merchant]]
+|Image file = Gloria.jpg}}
+'''Gloria''' is a female [[Human]], [[NPC]] [[Merchant]] that can be found at the Cobblestone VIllage Pet Adoption Center located near the [[Cobblestone Village]] [[Warpstone]], and sells [[Pet Pal]] related [[items]].
+==Sells==
+*{{Member}}[[Shaggy Cow]]
+*{{Member}}[[Mini Cray]]
+*{{Member}}[[Fish]]
+*{{Member}}[[Crab]]
+[[Category:Human]]
+[[Category:Merchant]]
+[[Category:Cobblestone Village]]
+[[Category:NPC]]

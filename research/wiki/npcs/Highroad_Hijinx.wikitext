@@ -1,0 +1,97 @@
+<!-- Highroad Hijinx | https://freerealms.fandom.com/wiki/Highroad%20Hijinx | CC-BY-SA -->
+{{Infobox
+|Box title = Highroad Hijinx
+|Row 1 title = Type
+|Row 1 info = Forest
+|Row 2 title = Level
+|Row 2 info = Varied
+|Row 3 title = Location
+|Row 3 info = [[Southern Wilds]]}}{{Quote|Hooligans are camped in the hills and bullying everyone! Find their leader, Mac, and defeat him!|Battle description}}
+The '''Highroad Hijinx''' is a [[:Category:Difficulty 2|difficulty 2]] [[Dungeons|dungeon]] that is started by clicking on the fence in the [[Southern Wilds|southwest Wilds]], near [[Farnum's Farm]]. There is an icon on the [[Atlas]] for the Highroad Hijinx.
+
+==Mobs==
+===[[:Category:Enemies|Enemies]]===
+*Hooligans
+*Hooligan-At-Arms
+*[[Collin]]
+
+===[[Boss|Bosses]]===
+*Mac
+
+==Goals==
+:Defeat Mac!
+:Bonus: Destroy the Hooligan Weapon Racks! (4)
+
+==Rewards==
+:118 Stars or less
+:Members Only Bonus: 49 Coins
+
+===Archer Prize Wheel===
+:[[Archer's Horse Bow of Explosions]]
+:[[Archer's Necklace of Bark Skin II]]
+:[[Archer's Power Shard of Regeneration II]] 
+:[[Battle Item Mystery Pack]]
+:[[Roving Archer Quiver]]
+:26 Coins
+
+===Brawler Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:[[Brawler's Hammer of Pummeling]] 
+:[[Brawler's Necklace of Bark Skin II]]
+:[[Brawler's Power Shard of Regeneration II]] 
+:[[Bum Rush Brawler Shoulderpads]] 
+:26 Coins
+
+===Medic Prize Wheel===
+:[[Antibiotic Medic Backpack]]
+:[[Battle Item Mystery Pack]] 
+:[[Medic's Necklace of Bark Skin II]]
+:[[Medic's Power Shard of Regeneration II]] 
+:[[Medic's Scalpel of Alarm]]
+:26 Coins
+
+===Ninja Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:[[Ninja's Blade of Shuriken Storm]] 
+:[[Ninja's Necklace of Bark Skin II]]
+:[[Ninja's Power Shard of Regeneration II]] 
+:[[Sekkou Ninja Shoulderguard]]
+:26 Coins
+
+===Warrior Prize Wheel===
+:[[Battle Item Mystery Pack]] 
+:[[Second Wind Warrior Pauldrons]]
+:[[Warrior's Axe of Earthquake]] 
+:[[Warrior's Necklace of Bark Skin II]]
+:[[Warrior's Power Shard of Regeneration II]] 
+:26 Coins
+
+===Wizard Prize Wheel===
+:[[Battle Item Mystery Pack]]
+:[[Journeyman Wizard Talisman]] 
+:[[Wizard's Necklace of Bark Skin II]]
+:[[Wizard's Power Shard of Regeneration II]]  
+:[[Wizard's Wand of Firestorm]] 
+:26 Coins
+
+===Bonus Rewards===
+Completion of the bonus goal, "Destroy the Hooligan Weapon Racks!", will grant all players in the instance an article of clothing from the sets listed below. The color and body part of the armor is random, but the armor will match the current job of the player receiving it.
+
+:Archer: [[:Category:Point Blank|Point Blank]], [[:Category:Roving|Roving]]
+:Brawler: [[:Category:Bum Rush|Bum Rush]], [[:Category:Peek-a-Boo|Peek-a-Boo]]
+:Medic: [[:Category:Antibiotic|Antibiotic]], [[:Category:Urgent Care|Urgent Care]]
+:Ninja: [[:Category:Nokizaru|Nokizaru]], [[:Category:Sekkou|Sekkou]]
+:Warrior: [[:Category:Basic Attack|Basic Attack]], [[:Category:Second Wind|Second Wind]]
+:Wizard: [[:Category:Hedge|Hedge]], [[:Category:Journeyman|Journeyman]]
+
+==Gallery==
+<gallery>
+TieredCanyonThemedMapDesign.jpg|The themed map design of the tiered canyon used for the Highroad Hijinx.<ref>[http://auburn-sky.com/game-portfolio/Game%20Port%20HTML/FreeRealms.html Free Realms Combat Design Portfolio] on [http://auburn-sky.com/game-portfolio/index.html Chris Molina // Game Designer]</ref>
+</gallery>
+
+==References==
+<references/>
+[[Category:Dungeon]]
+[[Category:Combat Mini-game]]
+[[Category:Difficulty 2]]
+[[Category:Wilds]]

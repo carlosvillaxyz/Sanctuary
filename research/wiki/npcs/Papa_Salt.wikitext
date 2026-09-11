@@ -1,0 +1,14 @@
+<!-- Papa Salt | https://freerealms.fandom.com/wiki/Papa%20Salt | CC-BY-SA -->
+{{Infobox
+|Box title = Papa Salt
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = Farnum's Farm, [[Cobblestone Village]]}}
+'''Papa Salt''' is a [[Human|human]] [[Non-Playable-Character|NPC]] that can be found in Farnum's Farm, located in [[Cobblestone Village]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Cobblestone Village]]

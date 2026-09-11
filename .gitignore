@@ -448,3 +448,6 @@ research/npc-spawns/npc_spawns_unique.json
 research/npc-spawns/npc_spawns_labeled.json
 research/npc-spawns/npc_spawns_labeled.csv
 research/npc-spawns/npc_spawns_named.json
+
+# Local copies of archived web pages (ZAM, freerealms.com via Wayback) - third-party content, never commit
+research/archive-cache/

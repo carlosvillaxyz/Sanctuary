@@ -1,0 +1,19 @@
+<!-- Bo | https://freerealms.fandom.com/wiki/Bo | CC-BY-SA -->
+{{Infobox
+|Box title = Bo
+|Image file = Bo.png
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Hair color
+|Row 3 info = Light brown
+|Row 4 title = Eye color
+|Row 4 info = Green
+|Row 5 title = Location(s)
+|Row 5 info = Farnum's Farm, [[Wilds]]}}
+'''Bo''' is a [[Human|human]] [[Non-Playable-Character|NPC]] that can be found in Farnum's Farm next to the [[Sheep Watch]] [[:Category:Battle|battle]].
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Human]]
+[[Category:Wilds]]

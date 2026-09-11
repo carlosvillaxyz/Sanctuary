@@ -1,0 +1,31 @@
+<!-- Estus | https://freerealms.fandom.com/wiki/Estus | CC-BY-SA -->
+{{Infobox
+|Box title = Estus
+|Image file = Estus.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Southern Wilds]]
+|Row 4 title = Occupation
+|Row 4 info = [[Blacksmith]]<br>[[Merchants|Merchant]]}}
+'''Estus''' is a [[Human|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found at the forging station in [[Farnum's Farm]] located in the [[Southern Wilds]]. He sells exclusively [[Blacksmith]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*[[Blacksmith's Flair Shard of the Forest]]
+*[[Blacksmith's Flair Shard of Ice]]
+*[[Blacksmith's Power Shard of Talen I]]
+*[[Blacksmith's Necklace of Timing I]]
+*[[Blacksmith's Ring of Talen I]]
+*[[Blacksmith's Hammer of Talent I]]
+*[[Dancing Monkey Bokken Recipe]]
+
+==Trivia==
+*Estus was introduced in-game on August 6, 2013.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Blacksmith]]
+[[Category:Merchant]]
+[[Category:Wilds]]

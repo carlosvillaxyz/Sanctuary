@@ -1,0 +1,16 @@
+<!-- Speedways | https://freerealms.fandom.com/wiki/Speedways | CC-BY-SA -->
+[[File:1107632-freerealms sandstormspeedway demoderby screenshot 1 1024px.jpg|thumb|295x295px]]
+'''Speedways''' are [[Locations|location]] themed [[wikipedia:Race track|race tracks]] where players can race karts against artificial intelligence (AI), other players, or both. The Kart Racing [[Mini-Games|minigame]] is exclusively for the [[Kart Driver]] [[Job]].
+
+==Tracks==
+There are five speedways in [[Sacred Grove]]:
+*Tangletrack in [[Briarwood]]
+*Frost Ridge in [[Snowhill]]
+*Wildwood in [[Sanctuary]]
+*Thunder Falls in [[Lakeshore]]
+*Sandstorm in [[Seaside]]
+
+All speedways, excluding the Sandstorm Speedway, offer both Kart Racing and Demo Derby which is exclusive for the [[Demo Derby Driver]] Job.
+{{Location}}
+[[Category:Locations]]
+[[Category:Speedways]]

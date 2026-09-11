@@ -1,0 +1,18 @@
+<!-- One of Three | https://freerealms.fandom.com/wiki/One%20of%20Three | CC-BY-SA -->
+{{Infobox
+|title= One of Three
+|image= One of three.jpg
+|gender= Male
+|race= Unknown
+|location(s)= [[Greenwood Forest]]<br>[[Queensfields]]<br>[[Cobblestone Village]]}}
+'''One of Three''' is an [[:Category:Enemies|enemy]] [[Non-Playable-Character|NPC]] that can be found wandering designated spawn [[Locations|areas]] that include: West of the [[Greenwood Forest]] [[Warpstones|warpstone]], near a [[Bumbleberry Patch|bumbleberry patch]] located in [[Queensfields]], and south of a cave in the [[Cobblestone Village]].
+
+==Trivia==
+*One of Three was introduced in-game on October 1st, 2013. 
+[[Category:NPC]]
+[[Category:Enemies]]
+[[Category:Males]]
+[[Category:Cobblestone Village]]
+[[Category:Greenwood Forest]]
+[[Category:Sanctuary]]
+[[Category:Super Spooktacular]]

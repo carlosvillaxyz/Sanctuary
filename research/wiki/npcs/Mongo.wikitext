@@ -1,0 +1,16 @@
+<!-- Mongo | https://freerealms.fandom.com/wiki/Mongo | CC-BY-SA -->
+{{Infobox
+|name= Mongo
+|image= 339.jpg
+|gender= Male
+|race= [[Trolls|Troll]]
+|eye color= Red
+|location(s)= [[Cobblestone Village|Crossroads]]}}{{Quote|Everyone at [[Cobblestone Village|Crossroads]] likes Mongo. It’s [[Kibler]] they can’t stand! Carlos and the rest of the Crossroads inhabitants hope that someone can beat Mongo to teach Kibler a lesson.|Mongo's introduction}}
+'''Mongo''' was a [[Trolls|troll]] [[Non-Playable-Character|NPC]] [[Boss|boss]] that could be found at Crossroads. He was the boss of the [[King of the Ring!]] [[Dungeons|dungeon]].
+[[Category:NPC]]
+[[Category:Enemies]]
+[[Category:Boss]]
+[[Category:Males]]
+[[Category:Troll]]
+[[Category:Cobblestone Village]]
+[[Category:No longer in-game]]
