@@ -41,8 +41,8 @@
     4473, 4474, 218,
     786, 1681, 1682, 3967, 4202
   ],
-  "FriendlyNpcIdsComment": "Npcs.json ids that must never spawn hostile even if a rule above matches them (seasonal set pieces, decorative spawns).",
-  "FriendlyNpcIds": [ ],
+  "FriendlyNpcIdsComment": "Npcs.json ids that must never spawn hostile even if a rule above matches them (seasonal set pieces, decorative spawns, named characters sharing a monster model). Rizzle, Whirly Willis and Scrap Collector Flashbang are named Sunstone Valley robgoblins on the Robgoblin Mechanic model (1681), kept friendly until their retail roles are confirmed.",
+  "FriendlyNpcIds": [ 3924, 3925, 3926 ],
   "Species": [
     {
       "Comment": "Hooligan Wolf - Mac's hooligans' wolves on the road west of Cobblestone Village (Npcs.json 3156-3158 at -2100,-46,460 and 4164-4166 at -1925,-49,296). Newbie-area pack: level 1, 500 HP, 20 damage, 15 stars.",
