@@ -74,7 +74,6 @@ public static class PacketLoginHandler
             return true;
         }
 
-        // Use ticket as key.
         connection.InitializeCipher(packet.Ticket);
 
         using var dbContext = _dbContextFactory.CreateDbContext();
@@ -91,6 +90,7 @@ public static class PacketLoginHandler
                 .ThenInclude(x => x.IgnoreCharacter)
             .Include(x => x.Profiles)
                 .ThenInclude(x => x.Items)
+            .Include(x => x.Quests)
             .Include(x => x.GuildMember!)
                 .ThenInclude(x => x.Guild)
                     .ThenInclude(x => x.Members)
@@ -135,7 +135,7 @@ public static class PacketLoginHandler
                 return true;
             }
         }
-      
+
         var orphanedIgnores = character.Ignores
             .Where(x => x.IgnoreCharacter is null)
             .ToList();
@@ -164,7 +164,6 @@ public static class PacketLoginHandler
         }
         else
         {
-            // if user is no longer a mod, remove referee profile
             ProfileHelper.RemoveSpecialProfile(character, dbContext, _logger, SpecialProfileIds.Referee);
             ProfileHelper.RemoveSpecialProfile(character, dbContext, _logger, SpecialProfileIds.Enforcer);
         }
@@ -198,18 +197,12 @@ public static class PacketLoginHandler
 
         connection.Send(packetLoginReply);
 
-        // TODO
-        // AchievementObjectiveActivatedPacket - Part 1?
-        // EncounterOverworldCombatPacket
 
         connection.SendInitializationParameters();
         connection.SendZoneDetails();
         connection.ClientGameSettings();
         connection.SendItemDefinitions();
 
-        // TODO
-        // AnnoucementDataSendPacket
-        // AchievementObjectiveActivatedPacket - Part 2?
 
         connection.SendSelfToClient();
 

@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Sanctuary.Core.Extensions;
 using Sanctuary.Core.IO;
 using Sanctuary.Game.Entities;
+using Sanctuary.Game.Quests;
 using Sanctuary.Game.Resources.Definitions.Zones;
 using Sanctuary.Packet;
 using Sanctuary.Packet.Common;
@@ -18,6 +19,8 @@ public sealed class StartingZone : BaseZone
 {
     private readonly IZoneManager _zoneManager;
     private readonly IResourceManager _resourceManager;
+    private readonly IQuestManager _questManager;
+
     private readonly StartingZoneDefinition _zoneDefinition;
 
     public StartingZone(StartingZoneDefinition zoneDefinition, IServiceProvider serviceProvider)
@@ -27,6 +30,7 @@ public sealed class StartingZone : BaseZone
 
         _zoneManager = serviceProvider.GetRequiredService<IZoneManager>();
         _resourceManager = serviceProvider.GetRequiredService<IResourceManager>();
+        _questManager = serviceProvider.GetRequiredService<IQuestManager>();
     }
 
     #region Client Is Ready
@@ -83,6 +87,22 @@ public sealed class StartingZone : BaseZone
         SendIgnoreList(player);
 
         UpdateFriendStatus(player);
+
+        _questManager.RestoreJournal(player);
+
+        foreach (var npc in Npcs)
+        {
+            if (!_questManager.IsQuestNpc(npc.Guid))
+                continue;
+
+            if (_resourceManager.Quests.TryGetNpcCursorId(npc.Guid, out var cursorId))
+                npc.CursorId = cursorId;
+
+            if (_resourceManager.Quests.TryGetNpcInteractRange(npc.Guid, out var interactRange))
+                npc.InteractRange = interactRange;
+
+            _questManager.RefreshQuestNotification(player, npc.Guid);
+        }
     }
 
     private void SendQuickChatData(Player player)
@@ -119,7 +139,6 @@ public sealed class StartingZone : BaseZone
 
         clientUpdatePacketUpdateStat.Guid = player.Guid;
 
-        // TODO
         clientUpdatePacketUpdateStat.Stats.AddRange(
         [
             new CharacterStat(CharacterStatId.MaxHealth, 2500),
@@ -285,8 +304,6 @@ public sealed class StartingZone : BaseZone
 
     private void SendAdventurersJournalInfo(Player player)
     {
-        // DO NOT REMOVE even if it's not fully implemented. This packet is needed
-        // due to an Area Definition called "Newbiezone" in FabledRealmsAreas.xml.
 
         var adventurersJournal = new AdventurersJournalInfoPacket();
 
@@ -852,174 +869,6 @@ public sealed class StartingZone : BaseZone
                 ImageSetId = 43286,
                 Unknown = 0
             },
-            new()
-            {
-                Id = 3,
-                RegionId = 1,
-                DisplayOrder = 3,
-                QuestId = 2565,
-                NameId = 5100487,
-                DescriptionId = 5100488,
-                CompletedImageSetId = 43273,
-                ImageSetId = 43272,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 4,
-                RegionId = 1,
-                DisplayOrder = 4,
-                QuestId = 2572,
-                NameId = 5100772,
-                DescriptionId = 5100773,
-                CompletedImageSetId = 43281,
-                ImageSetId = 43280,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 5,
-                RegionId = 1,
-                DisplayOrder = 5,
-                QuestId = 2573,
-                NameId = 5100776,
-                DescriptionId = 5100777,
-                CompletedImageSetId = 43291,
-                ImageSetId = 43290,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 6,
-                RegionId = 1,
-                DisplayOrder = 6,
-                QuestId = 2587,
-                NameId = 5101187,
-                DescriptionId = 5101188,
-                CompletedImageSetId = 43283,
-                ImageSetId = 43282,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 16,
-                RegionId = 2,
-                DisplayOrder = 1,
-                QuestId = 2568,
-                NameId = 5100756,
-                DescriptionId = 5100757,
-                CompletedImageSetId = 43305,
-                ImageSetId = 43304,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 17,
-                RegionId = 2,
-                DisplayOrder = 2,
-                QuestId = 2569,
-                NameId = 5100760,
-                DescriptionId = 5100761,
-                CompletedImageSetId = 43287,
-                ImageSetId = 43286,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 18,
-                RegionId = 2,
-                DisplayOrder = 3,
-                QuestId = 2570,
-                NameId = 5100764,
-                DescriptionId = 5100765,
-                CompletedImageSetId = 43273,
-                ImageSetId = 43272,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 19,
-                RegionId = 2,
-                DisplayOrder = 4,
-                QuestId = 2571,
-                NameId = 5100768,
-                DescriptionId = 5100769,
-                CompletedImageSetId = 43279,
-                ImageSetId = 43278,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 20,
-                RegionId = 2,
-                DisplayOrder = 5,
-                QuestId = 2574,
-                NameId = 5100780,
-                DescriptionId = 5100781,
-                CompletedImageSetId = 43277,
-                ImageSetId = 43276,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 21,
-                RegionId = 2,
-                DisplayOrder = 6,
-                QuestId = 2575,
-                NameId = 5100784,
-                DescriptionId = 5100785,
-                CompletedImageSetId = 43283,
-                ImageSetId = 43282,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 32,
-                RegionId = 3,
-                DisplayOrder = 2,
-                QuestId = 2602,
-                NameId = 442851,
-                DescriptionId = 442857,
-                CompletedImageSetId = 43287,
-                ImageSetId = 43286,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 35,
-                RegionId = 3,
-                DisplayOrder = 5,
-                QuestId = 2605,
-                NameId = 442854,
-                DescriptionId = 442860,
-                CompletedImageSetId = 43279,
-                ImageSetId = 43278,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 36,
-                RegionId = 3,
-                DisplayOrder = 6,
-                QuestId = 2606,
-                NameId = 442855,
-                DescriptionId = 442861,
-                CompletedImageSetId = 43305,
-                ImageSetId = 43304,
-                Unknown = 0
-            },
-            new()
-            {
-                Id = 37,
-                RegionId = 4,
-                DisplayOrder = 1,
-                QuestId = 2592,
-                NameId = 0,
-                DescriptionId = 0,
-                CompletedImageSetId = 0,
-                ImageSetId = 0,
-                Unknown = 0
-            }
         ];
 
         adventurersJournal.Stickers = stickers.ToDictionary(x => x.Id);
@@ -1107,47 +956,47 @@ public sealed class StartingZone : BaseZone
         {
             new PlayerCustomizationData
             {
-                Id = 0, // Head
+                Id = 0,
                 Param = player.HeadId,
                 StringParam = player.Head
             },
             new PlayerCustomizationData
             {
-                Id = 1, // Skin Tone
+                Id = 1,
                 Param = player.SkinToneId,
                 StringParam = player.SkinTone
             },
             new PlayerCustomizationData
             {
-                Id = 2, // Hair
+                Id = 2,
                 Param = player.HairId,
                 StringParam = player.Hair
             },
             new PlayerCustomizationData
             {
-                Id = 3, // Hair Color
+                Id = 3,
                 Param = player.HairColor
             },
             new PlayerCustomizationData
             {
-                Id = 4, // Eye Color
+                Id = 4,
                 Param = player.EyeColor
             },
             new PlayerCustomizationData
             {
-                Id = 5, // Model Customization
+                Id = 5,
                 Param = player.ModelCustomizationId,
                 StringParam = player.ModelCustomization
             },
             new PlayerCustomizationData
             {
-                Id = 6, // Face Paint
+                Id = 6,
                 Param = player.FacePaintId,
                 StringParam = player.FacePaint
             },
             new PlayerCustomizationData
             {
-                Id = 8, // Model
+                Id = 8,
                 Param = player.Model
             }
         };
@@ -1226,21 +1075,8 @@ public sealed class StartingZone : BaseZone
 
         player.SendTunneled(packetInGamePurchaseStoreBundleGroups);
 
-        /* var inGamePurchaseUpdateSaleDisplay = new InGamePurchaseUpdateSaleDisplay();
 
-        inGamePurchaseUpdateSaleDisplay.Sales.Add(new SaleDisplayInfo
-        {
-            Id = 12951,
-            IconId = 7866,
-            TintId = 0,
-            TitleId = 824,
-            BodyId = 825,
-            SecondsLeft = 1000,
-            Unknown = 0,
-            IsMembership = false
-        });
 
-        player.SendTunneled(inGamePurchaseUpdateSaleDisplay); */
     }
 
     private void SendFriendList(Player player)

@@ -49,8 +49,10 @@ public class ResourceManager : IResourceManager
     public static readonly string QuickChatsFile = Path.Combine(BaseDirectory, "QuickChats.json");
     public static readonly string PlayerTitlesFile = Path.Combine(BaseDirectory, "PlayerTitles.json");
     public static readonly string PointOfInterestsFile = Path.Combine(BaseDirectory, "PointOfInterests.json");
+    public static readonly string ConsumablesFile = Path.Combine(BaseDirectory, "Consumables.json");
     public static readonly string NpcsFile = Path.Combine(BaseDirectory, "Npcs.json");
     public static readonly string NameFilterFile = Path.Combine(BaseDirectory, "NameFilter.txt");
+    public static readonly string QuestsFile = Path.Combine(BaseDirectory, "Quests.json");
     public static readonly string MapsDirectory = Path.Combine(BaseDirectory, "Maps");
     public static readonly string RewardTablesFile = Path.Combine(BaseDirectory, "Rewards.json");
     public static readonly string CombatAbilitiesFile = Path.Combine(BaseDirectory, "CombatAbilities.json");
@@ -89,8 +91,10 @@ public class ResourceManager : IResourceManager
     public ProfileDefinitionCollection Profiles { get; }
     public QuickChatDefinitionCollection QuickChats { get; }
     public PointOfInterestDefinitionCollection PointOfInterests { get; }
+    public ConsumableCollection Consumables { get; }
     public NpcDefinitionCollection Npcs { get; }
     public NameFilterCollection NameFilter { get; }
+    public QuestDefinitionCollection Quests { get; }
     public MapGraphCollection Maps { get; }
 
     public RewardTableDefinitionCollection RewardTables { get; }
@@ -141,8 +145,10 @@ public class ResourceManager : IResourceManager
         QuickChats = new(_logger);
         PlayerTitles = new(_logger);
         PointOfInterests = new(_logger);
+        Consumables = new(_logger);
         Npcs = new(_logger);
         NameFilter = new(_logger);
+        Quests = new(_logger);
         Maps = new(_logger);
         RewardTables = new(_logger);
         CombatAbilities = new(_logger);
@@ -247,8 +253,6 @@ public class ResourceManager : IResourceManager
 
         foreach (var table in RewardTables.Values)
         {
-            // NOTE: We may need to fiddle with this if we ever extend past just items and currencies,
-            // though isn't everything technically an item? Didn't think that far ahead.
             if (table.DropTable.OfType<ItemRewardDropDefinition>().Any(drop => !ClientItemDefinitions.ContainsKey(drop.ItemDefinitionId)))
             {
                 _logger.LogError("Reward table {key} references an unknown item definition.", table.Key);
@@ -311,7 +315,13 @@ public class ResourceManager : IResourceManager
         if (!PointOfInterests.Load(PointOfInterestsFile))
             return false;
 
+        if (!Consumables.Load(ConsumablesFile))
+            return false;
+
         if (!Npcs.Load(NpcsFile))
+            return false;
+
+        if (!Quests.Load(QuestsFile))
             return false;
 
         if (!Maps.Load(MapsDirectory))
@@ -398,6 +408,8 @@ public class ResourceManager : IResourceManager
                 loaded = Npcs.Load(NpcsFile);
             else if (e.FullPath == NameFilterFile)
                 loaded = NameFilter.Load(NameFilterFile);
+            else if (e.FullPath == QuestsFile)
+                loaded = Quests.Load(QuestsFile);
             else if (e.FullPath == RewardTablesFile)
                 loaded = RewardTables.Load(RewardTablesFile);
             else if (e.FullPath == CombatAbilitiesFile)

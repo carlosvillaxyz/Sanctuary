@@ -12,6 +12,7 @@ using Sanctuary.Core.IO;
 using Sanctuary.Game.ChatCommands;
 using Sanctuary.Game.Helpers;
 using Sanctuary.Game.Interactions;
+using Sanctuary.Game.Resources.Definitions;
 using Sanctuary.Game.Resources.Definitions.Combat;
 using Sanctuary.Game.Zones;
 using Sanctuary.Packet;
@@ -33,6 +34,7 @@ public sealed class Player : ClientPcData, IEntity
     public ZoneTile ZoneTile { get; private set; } = ZoneTile.Empty;
     public ConcurrentDictionary<ulong, Npc> VisibleNpcs { get; } = [];
     public ConcurrentDictionary<ulong, Player> VisiblePlayers { get; } = [];
+
 
     private int ZoneAreaId { get; set; }
 
@@ -56,6 +58,43 @@ public sealed class Player : ClientPcData, IEntity
     public ConcurrentSet<ulong> IncomingFriendRequests { get; } = [];
     public ConcurrentSet<ulong> IncomingGuildInvites { get; } = [];
 
+
+    public ulong CharacterId { get; set; }
+
+    public ulong LastInteractNpcGuid { get; set; }
+    public DateTime LastInteractAt { get; set; }
+
+    public DateTime LastQuestAcceptedAt { get; set; }
+
+    public Dictionary<int, bool> Quests { get; } = new();
+
+    public Dictionary<int, int> QuestGoalProgress { get; } = new();
+
+    public Dictionary<int, int> QuestCollectProgress { get; } = new();
+
+    public HashSet<ulong> TalkedQuestNpcs { get; } = new();
+
+    public Queue<QuestDialogueLine> PendingDialogue { get; } = new();
+    public ulong PendingDialogueNpcGuid { get; set; }
+
+    public ulong TalkingNpcGuid { get; set; }
+    public int TalkAnimationTicket { get; set; }
+
+    public int ActiveQuestId { get; set; }
+
+    public System.Action? PendingQuestEndAction { get; set; }
+
+    public void AwardXp(int xp)
+    {
+        SendTunneled(new ClientUpdatePacketUpdateProfileExperience
+        {
+            ProfileId = ActiveProfileId,
+            XpGained = xp,
+            TotalXpInLevel = 0,
+            CurrentLevel = 0
+        });
+    }
+
     public ConcurrentDictionary<ChatChannel, bool> ChatChannelStatus { get; set; } = [];
 
     public int StationCash { get; set; }
@@ -64,6 +103,37 @@ public sealed class Player : ClientPcData, IEntity
     public GuildData? GuildData { get; set; }
 
     public int TimezoneOffset { get; set; }
+
+    public Dictionary<int, Dictionary<int, int>> ActionBarItemGuids { get; set; } = new();
+
+    public int TemporaryAppearance { get; set; }
+    public DateTimeOffset? TemporaryAppearanceExpiresAt { get; set; }
+    private int _temporaryAppearanceEffectId;
+
+    public ulong LastSillyStringTarget { get; set; }
+
+    private readonly ConcurrentDictionary<int, DateTimeOffset> _itemCooldowns = new();
+
+    public bool IsItemOnCooldown(int itemDefinitionId) =>
+        _itemCooldowns.TryGetValue(itemDefinitionId, out var expiresAt) && DateTimeOffset.UtcNow < expiresAt;
+
+    public void StartItemCooldown(int itemDefinitionId, int cooldownMs) =>
+        _itemCooldowns[itemDefinitionId] = DateTimeOffset.UtcNow.AddMilliseconds(cooldownMs);
+
+    // Min-heap ordered by send time
+    private readonly PriorityQueue<(ISerializablePacket Packet, bool SendToSelf), DateTimeOffset> _delayedPackets = new();
+
+    // One scheduled personal-UI packet per action bar slot (the cooldown re-enable) - keyed, not queued,
+    // so a slot that gets emptied before its cooldown naturally expires (last item consumed) can cancel
+    // its own pending re-enable instead of it firing later and silently un-deleting the slot.
+    private readonly ConcurrentDictionary<(int, int), (DateTimeOffset SendAt, ISerializablePacket Packet)> _delayedSlotPackets = new();
+
+    public void ScheduleSlotPacket(int actionBarId, int slotIndex, ISerializablePacket packet, int delayMs)
+    {
+        _delayedSlotPackets[(actionBarId, slotIndex)] = (DateTimeOffset.UtcNow.AddMilliseconds(delayMs), packet);
+    }
+
+    public void CancelScheduledSlotPacket(int actionBarId, int slotIndex) => _delayedSlotPackets.TryRemove((actionBarId, slotIndex), out _);
 
     public Vector4 StartingZonePosition { get; set; }
     public Quaternion StartingZoneRotation { get; set; }
@@ -128,13 +198,21 @@ public sealed class Player : ClientPcData, IEntity
             SendTunneled(packet);
     }
 
+    public void SendTunneledToVisibleDelayed(ISerializablePacket packet, int delayMs, bool sendToSelf = false)
+    {
+        lock (_delayedPackets)
+        {
+            _delayedPackets.Enqueue((packet, sendToSelf), DateTimeOffset.UtcNow.AddMilliseconds(delayMs));
+        }
+    }
+
     public bool IsMuted()
     {
         DateTimeOffset currentTime = DateTimeOffset.UtcNow;
         DateTimeOffset? mutedUntil = MutedUntil;
         return mutedUntil.HasValue && mutedUntil > currentTime;
     }
-    
+
     public void Disconnect()
     {
         _connection.Disconnect();
@@ -176,10 +254,72 @@ public sealed class Player : ClientPcData, IEntity
 
     public void UpdateEveryTick()
     {
+        var now = DateTimeOffset.UtcNow;
+
+        if (TemporaryAppearanceExpiresAt.HasValue &&
+            TemporaryAppearanceExpiresAt.Value <= now)
+        {
+            RemoveTemporaryAppearance();
+        }
+
+        while (true)
+        {
+            (ISerializablePacket Packet, bool SendToSelf) due;
+
+            lock (_delayedPackets)
+            {
+                if (!_delayedPackets.TryPeek(out _, out var sendAt) || sendAt > now)
+                    break; // none or none ready
+
+                due = _delayedPackets.Dequeue();
+            }
+
+            SendTunneledToVisible(due.Packet, due.SendToSelf);
+        }
+
+        foreach (var (key, scheduled) in _delayedSlotPackets)
+        {
+            if (scheduled.SendAt > now)
+                continue;
+
+            if (_delayedSlotPackets.TryRemove(key, out var removed))
+                SendTunneled(removed.Packet);
+        }
     }
 
     public void UpdateEverySecond()
     {
+    }
+
+    // The client animates the cooldown sweep itself from TotalRefreshTime -
+    // no per-second resend needed for that. But it does NOT re-enable the slot for input on its own once
+    // the sweep finishes ("sweep animates but after the sweep I cannot use the ability again") - that
+    // needs one explicit packet once the cooldown is actually over. So: one packet now, one packet
+    // scheduled for later - not the old repeating-every-second loop, and not silence either.
+    public void StartActionBarCooldown(int actionBarId, int slotIndex, int iconId, int nameId, int count, int cooldownMs, int iconTintId = 0)
+    {
+        SendTunneled(BuildActionBarSlotPacket(actionBarId, slotIndex, iconId, iconTintId, nameId, count, cooldownMs, enabled: false, elapsed: 0));
+        ScheduleSlotPacket(actionBarId, slotIndex, BuildActionBarSlotPacket(actionBarId, slotIndex, iconId, iconTintId, nameId, count, cooldownMs, enabled: true, elapsed: cooldownMs), cooldownMs);
+    }
+
+    private static ClientUpdatePacketUpdateActionBarSlot BuildActionBarSlotPacket(int actionBarId, int slotIndex, int iconId, int iconTintId, int nameId, int count, int cooldownMs, bool enabled, int elapsed)
+    {
+        var packet = new ClientUpdatePacketUpdateActionBarSlot { Data = { Id = actionBarId, Slot = slotIndex } };
+        packet.Slot.IsEmpty = false;
+        packet.Slot.IconId = iconId;
+        packet.Slot.IconTintId = iconTintId;
+        packet.Slot.NameId = nameId;
+        packet.Slot.Unknown5 = 1;
+        packet.Slot.Unknown6 = 4;
+        packet.Slot.Unknown7 = 15;
+        packet.Slot.Enabled = enabled;
+        packet.Slot.Unknown10 = elapsed;
+        packet.Slot.TotalRefreshTime = cooldownMs;
+        packet.Slot.Unknown12 = elapsed;
+        packet.Slot.Quantity = count;
+        packet.Slot.ForceDismount = true;
+        packet.Slot.Unknown15 = elapsed;
+        return packet;
     }
 
     public void UpdatePosition(Vector4 position, Quaternion rotation, bool updateZoneArea = true)
@@ -196,6 +336,31 @@ public sealed class Player : ClientPcData, IEntity
             if (updateZoneArea)
                 UpdateZoneArea();
         }
+    }
+
+    // Nearest other player in the zone within range, excluding excludeGuid if given.
+    public Player? FindNearestPlayer(float range, ulong excludeGuid = 0)
+    {
+        Player? nearest = null;
+        var nearestDistance = range * range;
+
+        foreach (var candidate in Zone.Players)
+        {
+            if (candidate.Guid == Guid || candidate.Guid == excludeGuid)
+                continue;
+
+            var deltaX = candidate.Position.X - Position.X;
+            var deltaZ = candidate.Position.Z - Position.Z;
+            var distance = deltaX * deltaX + deltaZ * deltaZ;
+
+            if (distance >= nearestDistance)
+                continue;
+
+            nearestDistance = distance;
+            nearest = candidate;
+        }
+
+        return nearest;
     }
 
     private void UpdateZoneTile()
@@ -230,11 +395,9 @@ public sealed class Player : ClientPcData, IEntity
 
         Zone.TryRemovePlayer(Guid);
 
-        // Add to new zone/zonetile
 
         zone.TryAddPlayer(this);
 
-        // Teleport to new zone
 
         Visible = false;
 
@@ -317,7 +480,11 @@ public sealed class Player : ClientPcData, IEntity
             if (npc is Mount)
                 continue;
 
-            SendTunneled(npc.GetAddNpcPacket());
+            var playerUpdatePacketAddNpc = npc.GetAddNpcPacket();
+
+            playerUpdatePacketAddNpc.NotificationImageSetId = GetNotificationImageId(npc);
+
+            SendTunneled(playerUpdatePacketAddNpc);
         }
 
         var playerUpdatePacketNpcRelevance = new PlayerUpdatePacketNpcRelevance();
@@ -342,10 +509,22 @@ public sealed class Player : ClientPcData, IEntity
 
         foreach (var npc in npcs)
         {
-            if (npc.Notification is null)
-                continue;
-
-            playerUpdatePacketAddNotifications.Notifications.Add(npc.Notification);
+            var questImageId = GetNotificationImageId(npc);
+            if (questImageId != 0)
+            {
+                playerUpdatePacketAddNotifications.Notifications.Add(new NotificationInfo
+                {
+                    Guid = npc.Guid,
+                    Combat = false,
+                    ImageId = questImageId,
+                    NameId = npc.NameId,
+                    SubTextId = npc.SubTextNameId,
+                });
+            }
+            else if (npc.Notification is not null)
+            {
+                playerUpdatePacketAddNotifications.Notifications.Add(npc.Notification);
+            }
         }
 
         if (playerUpdatePacketAddNotifications.Notifications.Count > 0)
@@ -353,6 +532,31 @@ public sealed class Player : ClientPcData, IEntity
 
         foreach (var npc in npcs)
             VisibleNpcs.TryAdd(npc.Guid, npc);
+    }
+
+    public int GetNotificationImageId(Npc npc)
+    {
+        var quests = _resourceManager.Quests;
+
+        if (quests.ByGiver.TryGetValue(npc.Guid, out var giverQuestIds))
+        {
+            foreach (var questId in giverQuestIds)
+            {
+                if (quests.TryGet(questId, out var quest) && quest.IsOfferableFor(Quests))
+                    return quest.NotificationAvailable;
+            }
+        }
+
+        if (quests.ByTarget.TryGetValue(npc.Guid, out var targetQuestIds))
+        {
+            foreach (var questId in targetQuestIds)
+            {
+                if (Quests.TryGetValue(questId, out var completed) && !completed && quests.TryGet(questId, out var quest))
+                    return quest.NotificationActive;
+            }
+        }
+
+        return npc.Notification?.ImageId ?? 0;
     }
 
     public void OnAddVisiblePlayers(params IEnumerable<Player> players)
@@ -510,7 +714,6 @@ public sealed class Player : ClientPcData, IEntity
 
         var compositeEffectId = clientItemDefinition.CompositeEffectId;
 
-        // Update the Weapon composite effect if we have a Flair Shard equipped.
         if (slot == 7)
         {
             var flairShardcompositeEffectId = GetFlairShardCompositeEffect();
@@ -567,7 +770,7 @@ public sealed class Player : ClientPcData, IEntity
             IsMember = MembershipStatus != 0,
             IsReferee = isReferee,
 
-            // playerUpdatePacketAddPc.TemporaryAppearance = 277;
+            TemporaryAppearance = TemporaryAppearance,
 
             ActiveProfileId = ActiveProfileId,
 
@@ -593,6 +796,34 @@ public sealed class Player : ClientPcData, IEntity
             packet.Guilds.Add(0, GuildData.Guid);
 
         return packet;
+    }
+
+    public void ApplyTemporaryAppearance(int modelId, int durationMs, int effectId = 0)
+    {
+        TemporaryAppearance = modelId;
+        _temporaryAppearanceEffectId = effectId;
+
+        if (durationMs > 0)
+            TemporaryAppearanceExpiresAt = DateTimeOffset.UtcNow.AddMilliseconds(durationMs);
+
+        if (effectId != 0)
+            SendTunneledToVisible(new PlayerUpdatePacketPlayCompositeEffect { Guid = Guid, CompositeEffectId = effectId, Position = Position, Clear = false }, true);
+
+        SendTunneledToVisible(new PlayerUpdatePacketUpdateTemporaryAppearance { Guid = Guid, TemporaryAppearance = modelId }, true);
+    }
+
+    public void RemoveTemporaryAppearance()
+    {
+        TemporaryAppearance = 0;
+        TemporaryAppearanceExpiresAt = null;
+
+        if (_temporaryAppearanceEffectId != 0)
+        {
+            SendTunneledToVisible(new PlayerUpdatePacketPlayCompositeEffect { Guid = Guid, CompositeEffectId = _temporaryAppearanceEffectId, Position = Position, Clear = false }, true);
+            _temporaryAppearanceEffectId = 0;
+        }
+
+        SendTunneledToVisible(new PlayerUpdatePacketRemoveTemporaryAppearance { Guid = Guid }, true);
     }
 
     #region Combat
@@ -660,7 +891,6 @@ public sealed class Player : ClientPcData, IEntity
         SendTunneled(setDefinition);
 
         MaxEnergy = kit.Energy.Max;
-        // Resync energy against the new max.
         Energy = _energy;
 
         return true;
@@ -756,12 +986,48 @@ public sealed class Player : ClientPcData, IEntity
 
     public void Dispose()
     {
-        RemoveFromVisibleEntities(false); // no need to notify self since we're DCing
+        RemoveFromVisibleEntities(false);
 
         Mount?.Dispose();
         Mount = null;
 
         ZoneTile.Entities.Remove(Guid, out _);
         Zone.TryRemovePlayer(Guid);
+    }
+
+    public sealed record InteractionMenu(ulong Guid, IReadOnlyDictionary<int, Action<Player>> Options);
+
+    public InteractionMenu? OpenInteractionMenu { get; set; }
+
+    private const int NpcInteractionIdBase = 1_000_000;
+
+    public void SendInteractionMenu(Npc npc, IReadOnlyList<NpcInteractionOption> options)
+    {
+        var packet = new CommandPacketInteractionList();
+
+        packet.List.Guid = npc.Guid;
+        packet.List.Name = npc.Name ?? string.Empty;
+
+        var actions = new Dictionary<int, Action<Player>>(options.Count);
+
+        for (var i = 0; i < options.Count; i++)
+        {
+            var option = options[i];
+            var id = NpcInteractionIdBase + i;
+
+            packet.List.Interactions.Add(new InteractionData
+            {
+                Id = id,
+                IconId = option.IconId,
+                ButtonText = option.ButtonTextId,
+                TooltipId = option.TooltipId
+            });
+
+            actions[id] = option.Invoke;
+        }
+
+        OpenInteractionMenu = new InteractionMenu(npc.Guid, actions);
+
+        SendTunneled(packet);
     }
 }

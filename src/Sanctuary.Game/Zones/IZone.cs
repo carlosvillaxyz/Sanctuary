@@ -1,12 +1,12 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Numerics;
 
 using Sanctuary.Game.Entities;
+using Sanctuary.Game.Pathfinding;
 using Sanctuary.Game.Resources.Definitions;
 using Sanctuary.Scripting;
 using Sanctuary.UdpLibrary;
-using Sanctuary.Game.Pathfinding;
 
 namespace Sanctuary.Game.Zones;
 
@@ -35,6 +35,7 @@ public interface IZone : IScriptableZone
     bool TryAddMount(Mount mount);
     bool TryAddPlayer(Player player);
 
+    bool TryCreateNpc([MaybeNullWhen(false)] out Npc npc);
     bool TryCreateNpc(ulong? guid, [MaybeNullWhen(false)] out Npc npc);
     bool TryCreateNpc(ulong? guid, NpcDefinition definition, [MaybeNullWhen(false)] out Npc npc);
     IReadOnlyList<CollectionNodePoolStatus> GetCollectionNodePoolStatuses();
@@ -53,8 +54,6 @@ public interface IZone : IScriptableZone
 
     bool TryRemoveNpc(ulong guid);
     bool TryRemovePlayer(ulong guid);
-
-
 
     #endregion
 
