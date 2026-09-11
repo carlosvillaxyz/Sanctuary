@@ -16,7 +16,13 @@ Yourself" and "Call the Crew" (to Shakey at Wildwood Speedway) play through.
 - **Tracker glitches after closing the journal.** The quest detail panel needed its arrows clicked to recover.
 - **Dialogue camera too close.** Tune the camera focus parameter; compare with the MMOHut footage.
 - **No level-up.** Quest XP was display-only in that branch. Fixed the same night: quest XP now uses PR #120's
-  real levelling (persisted, rank table, level-up toast).
+  real levelling. The rank message was also missing two fields and the full-screen celebration was never sent;
+  both fixed. **Verified in client:** replaying the two quests takes Rick to level 2 with the job level-up badge
+  animation (brief) and the particle burst.
+- **NPCs feel static.** Final-week captures: 3,475 of 3,521 NPCs spawned in the plain idle; ~46 used special idles
+  (sleeping dogs, dancing robgoblins). Walking routes and NPC chatter: under investigation in the Cobblestone plan.
+- **The `!exp` dev command** (prefix is `!`, not `/`). Carlos: things not in the original game shouldn't be
+  player-facing. Proposed: lock dev commands to admin accounts.
 - **Coins.** New characters get 999,999,999 coins (dev value in `login.json`). Carlos will recreate his character
   once the economy is designed.
 
