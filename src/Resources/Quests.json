@@ -9,12 +9,9 @@
     "IconId": 43278,
     "GiverGuid": 100000002045,
     "TargetGuid": 100000002049,
-    "RewardCoins": 30,
+    "RewardCoins": 5,
     "RewardExperience": 60,
-    "RewardItems": [
-      1180,
-      75110
-    ],
+    "RewardItems": [],
     "PrerequisiteQuestId": 0,
     "NextQuestId": 1801,
     "NotificationAvailable": 2,
@@ -41,15 +38,11 @@
     "IconId": 43278,
     "GiverGuid": 100000002049,
     "TargetGuid": 100000003018,
-    "RewardCoins": 30,
+    "RewardCoins": 7,
     "RewardExperience": 70,
-    "RewardItems": [
-      8185,
-      3007,
-      2969
-    ],
+    "RewardItems": [],
     "PrerequisiteQuestId": 2563,
-    "NextQuestId": 0,
+    "NextQuestId": 1802,
     "NotificationAvailable": 2,
     "NotificationActive": 6,
     "Goals": [
@@ -64,6 +57,32 @@
         "DescriptionId": 94512,
         "DialogueId": 94257,
         "TargetGuid": 100000002049
+      }
+    ]
+  },
+  {
+    "Name": "Back for More",
+    "QuestId": 1802,
+    "TitleId": 94263,
+    "DescriptionId": 94264,
+    "GiverDialogueId": 94262,
+    "ObjectiveDescriptionId": 100151,
+    "IconId": 43278,
+    "GiverGuid": 100000002049,
+    "TargetGuid": 100000002045,
+    "RewardCoins": 2,
+    "RewardExperience": 20,
+    "RewardItems": [],
+    "PrerequisiteQuestId": 1801,
+    "NextQuestId": 0,
+    "NotificationAvailable": 2,
+    "NotificationActive": 6,
+    "Goals": [
+      {
+        "NameId": 100150,
+        "DescriptionId": 101040,
+        "DialogueId": 94265,
+        "TargetGuid": 100000002045
       }
     ]
   },

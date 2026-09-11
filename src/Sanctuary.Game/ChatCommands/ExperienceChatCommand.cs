@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
 using Sanctuary.Database;
@@ -17,7 +17,7 @@ public class ExperienceChatCommand : IChatCommand
     public string KeyWord => "exp";
     public string Usage => "<profileId> <amount>";
     public string Description => "Grants experience (stars) to the given job profile, for testing.";
-    public ChatCommandRole RequiredRole => ChatCommandRole.Player;
+    public ChatCommandRole RequiredRole => ChatCommandRole.Admin;
 
     public ExperienceChatCommand(IChatCommandManager chatCommandManager, IResourceManager resourceManager,
         IDbContextFactory<DatabaseContext> dbContextFactory, ILogger<ExperienceChatCommand> logger)

@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
 using Sanctuary.Database;
@@ -17,7 +17,7 @@ public class RewardChatCommand : IChatCommand
     public string KeyWord => "reward";
     public string Usage => "<tableKey>";
     public string Description => "Rolls and grants a reward from the given reward table, for testing.";
-    public ChatCommandRole RequiredRole => ChatCommandRole.Player;
+    public ChatCommandRole RequiredRole => ChatCommandRole.Admin;
 
     public RewardChatCommand(IChatCommandManager chatCommandManager, IResourceManager resourceManager,
         IDbContextFactory<DatabaseContext> dbContextFactory, ILogger<RewardChatCommand> logger)

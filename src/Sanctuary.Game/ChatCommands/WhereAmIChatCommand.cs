@@ -1,4 +1,4 @@
-using Sanctuary.Game.Entities;
+﻿using Sanctuary.Game.Entities;
 using Sanctuary.Game.Helpers;
 
 namespace Sanctuary.Game.ChatCommands;
@@ -8,7 +8,7 @@ public class WhereAmIChatCommand : IChatCommand
     public string KeyWord => "whereami";
     public string Usage => "";
     public string Description => "Prints your current position.";
-    public ChatCommandRole RequiredRole => ChatCommandRole.Player;
+    public ChatCommandRole RequiredRole => ChatCommandRole.Admin;
 
     public bool Handle(Player invoker, string[] args)
     {
