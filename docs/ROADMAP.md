@@ -66,6 +66,9 @@ Deliverable: level a Brawler 1 -> 5 in Cobblestone Village.
 Deliverable: the Brawler questline to level 10 is completable.
 
 ## Phase 5 — Economy and housing without Station Cash
+Economy is the one area deliberately open to redesign (Carlos, 2026-09-11): the original leaned on real-money
+Station Cash for progression, so replacing it is filling a gap Sony left, not changing the game. Goal: a real
+earn-and-unlock loop — coins from quests and activities, purchases gated by level. Brainstorm before building.
 - [ ] Remove SC from every UI path the server controls; coins only
 - [ ] Coin Shop rebuilt from `CoinStoreItems.json`
 - [ ] Free starter house, working purchase/placement (`Houses.json` already has zones and build boxes;
