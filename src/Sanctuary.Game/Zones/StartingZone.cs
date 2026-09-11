@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Sanctuary.Core.Extensions;
 using Sanctuary.Core.IO;
 using Sanctuary.Game.Entities;
+using Sanctuary.Game.Helpers;
 using Sanctuary.Game.Quests;
 using Sanctuary.Game.Resources.Definitions.Zones;
 using Sanctuary.Packet;
@@ -43,10 +44,12 @@ public sealed class StartingZone : BaseZone
 
         SendUpdateStat(player);
 
+        var levelStats = LevelStats.For(player.ActiveProfile.Rank);
+
         var clientUpdatePacketHitpoints = new ClientUpdatePacketHitpoints
         {
-            CurrentHitpoints = 2500,
-            MaxHitpoints = 2500
+            CurrentHitpoints = levelStats.MaxHealth,
+            MaxHitpoints = levelStats.MaxHealth
         };
 
         player.SendTunneled(clientUpdatePacketHitpoints);
@@ -139,12 +142,14 @@ public sealed class StartingZone : BaseZone
 
         clientUpdatePacketUpdateStat.Guid = player.Guid;
 
+        var levelStats = LevelStats.For(player.ActiveProfile.Rank);
+
         clientUpdatePacketUpdateStat.Stats.AddRange(
         [
-            new CharacterStat(CharacterStatId.MaxHealth, 2500),
+            new CharacterStat(CharacterStatId.MaxHealth, levelStats.MaxHealth),
             new CharacterStat(CharacterStatId.MaxMovementSpeed, 8f),
             new CharacterStat(CharacterStatId.WeaponRange, 5f),
-            new CharacterStat(CharacterStatId.HitPointRegen, 25),
+            new CharacterStat(CharacterStatId.HitPointRegen, levelStats.HealthRegen),
             new CharacterStat(CharacterStatId.MaxMana, 100),
             new CharacterStat(CharacterStatId.ManaRegen, 4),
             new CharacterStat(CharacterStatId.MeleeChanceToHit, 100),

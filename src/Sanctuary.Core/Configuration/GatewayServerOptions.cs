@@ -35,4 +35,7 @@ public sealed class GatewayServerOptions : ServerOptions
     /// the original game; off for the offline build, where admin only unlocks the '!' console commands.
     /// </summary>
     public bool GrantStaffProfiles { get; set; }
+
+    /// <summary>Conversation camera zoom (0 = client default). Re-read live when gateway.json changes.</summary>
+    public float DialogueCameraZoom { get; set; }
 }

@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
 using Sanctuary.Game.Entities;
@@ -9,6 +9,9 @@ namespace Sanctuary.Game.Quests;
 
 public static class QuestDialogue
 {
+    /// <summary>Dialogue camera zoom, set from gateway.json DialogueCameraZoom (0 = client default).</summary>
+    public static float CameraZoom { get; set; }
+
     private const int YouGotItTextId = 103085;
 
     private const int PlusImageId = 303;
@@ -113,6 +116,7 @@ public static class QuestDialogue
             DialogueTextId = line.TextId,
             NpcGuid = npcGuid,
             CameraFocusParam = 1f,
+            Zoom = CameraZoom,
         };
 
         dialog.Responses.Add(new CommandPacketShowDialog.Response

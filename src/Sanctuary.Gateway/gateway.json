@@ -13,6 +13,8 @@
 
     "ShowMemberNagScreen": false,
 
-    "GrantStaffProfiles": false
+    "GrantStaffProfiles": false,
+
+    "DialogueCameraZoom": 0
   }
 }

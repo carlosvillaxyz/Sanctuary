@@ -662,6 +662,25 @@ public sealed class Player : ClientPcData, IEntity
     /// </summary>
     private const int LevelUpBurstDelayMs = 300;
 
+    /// <summary>
+    /// Sends max health and health regen for the active job's level, and refills health. Called at level-up and
+    /// on job switch; login sends the same values from StartingZone.
+    /// </summary>
+    public void ApplyLevelStats()
+    {
+        var levelStats = LevelStats.For(ActiveProfile.Rank);
+
+        UpdateCharacterStats(
+            new CharacterStat(CharacterStatId.MaxHealth, levelStats.MaxHealth),
+            new CharacterStat(CharacterStatId.HitPointRegen, levelStats.HealthRegen));
+
+        SendTunneled(new ClientUpdatePacketHitpoints
+        {
+            CurrentHitpoints = levelStats.MaxHealth,
+            MaxHitpoints = levelStats.MaxHealth
+        });
+    }
+
     public void OnLevelUp(ClientPcProfile profile)
     {
         // Full-screen job level-up celebration (levelup_<job>.gfx), driven by the serialized profile.
@@ -682,7 +701,8 @@ public sealed class Player : ClientPcData, IEntity
             Position = Position
         }, LevelUpBurstDelayMs, sendToSelf: true);
 
-        // Still to do: stat changes per level (health, energy) and ability unlocks by level.
+        if (profile.Id == ActiveProfileId)
+            ApplyLevelStats();
     }
 
     #endregion

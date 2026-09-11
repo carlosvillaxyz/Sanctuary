@@ -69,6 +69,9 @@ public static class CommandPacketSetProfileHandler
 
         connection.Player.SendToolbar();
 
+        // Each job has its own level, so health follows the job you switch to.
+        connection.Player.ApplyLevelStats();
+
         var friendStatusPacket = new FriendStatusPacket
         {
             Guid = connection.Player.Guid,

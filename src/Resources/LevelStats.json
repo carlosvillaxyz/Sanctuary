@@ -1,0 +1,105 @@
+{
+  "Comment": "Player max health and health regen by job level (the active job's Rank). PROVISIONAL: Sulphural/main JobLeveling curve (2500 + 250 per level, regen 25 + 3 per level), the fork our combat port comes from, so enemy damage stays balanced. To be replaced with values from the 2014 live captures (research/level-stats.md). Energy is per combat job in CombatJobs.json.",
+  "Levels": [
+    {
+      "Level": 1,
+      "MaxHealth": 2500,
+      "HealthRegen": 25
+    },
+    {
+      "Level": 2,
+      "MaxHealth": 2750,
+      "HealthRegen": 28
+    },
+    {
+      "Level": 3,
+      "MaxHealth": 3000,
+      "HealthRegen": 31
+    },
+    {
+      "Level": 4,
+      "MaxHealth": 3250,
+      "HealthRegen": 34
+    },
+    {
+      "Level": 5,
+      "MaxHealth": 3500,
+      "HealthRegen": 37
+    },
+    {
+      "Level": 6,
+      "MaxHealth": 3750,
+      "HealthRegen": 40
+    },
+    {
+      "Level": 7,
+      "MaxHealth": 4000,
+      "HealthRegen": 43
+    },
+    {
+      "Level": 8,
+      "MaxHealth": 4250,
+      "HealthRegen": 46
+    },
+    {
+      "Level": 9,
+      "MaxHealth": 4500,
+      "HealthRegen": 49
+    },
+    {
+      "Level": 10,
+      "MaxHealth": 4750,
+      "HealthRegen": 52
+    },
+    {
+      "Level": 11,
+      "MaxHealth": 5000,
+      "HealthRegen": 55
+    },
+    {
+      "Level": 12,
+      "MaxHealth": 5250,
+      "HealthRegen": 58
+    },
+    {
+      "Level": 13,
+      "MaxHealth": 5500,
+      "HealthRegen": 61
+    },
+    {
+      "Level": 14,
+      "MaxHealth": 5750,
+      "HealthRegen": 64
+    },
+    {
+      "Level": 15,
+      "MaxHealth": 6000,
+      "HealthRegen": 67
+    },
+    {
+      "Level": 16,
+      "MaxHealth": 6250,
+      "HealthRegen": 70
+    },
+    {
+      "Level": 17,
+      "MaxHealth": 6500,
+      "HealthRegen": 73
+    },
+    {
+      "Level": 18,
+      "MaxHealth": 6750,
+      "HealthRegen": 76
+    },
+    {
+      "Level": 19,
+      "MaxHealth": 7000,
+      "HealthRegen": 79
+    },
+    {
+      "Level": 20,
+      "MaxHealth": 7250,
+      "HealthRegen": 82
+    }
+  ]
+}

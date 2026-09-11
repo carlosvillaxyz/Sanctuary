@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 using Sanctuary.Core.IO;
 
@@ -22,6 +22,9 @@ public class CommandPacketShowDialog : BaseCommandPacket, ISerializablePacket
     public ulong NpcGuid;
 
     public float CameraFocusParam = 1f;
+
+    /// <summary>Camera zoom for the conversation shot (oxide's `zoom`; 0 = client default).</summary>
+    public float Zoom;
 
     public readonly List<Response> Responses = new();
 
@@ -59,7 +62,7 @@ public class CommandPacketShowDialog : BaseCommandPacket, ISerializablePacket
         writer.Write(false);
         writer.Write(false);
         writer.Write(false);
-        writer.Write(0f);
+        writer.Write(Zoom);
         writer.Write(0);
 
         return writer.Buffer;

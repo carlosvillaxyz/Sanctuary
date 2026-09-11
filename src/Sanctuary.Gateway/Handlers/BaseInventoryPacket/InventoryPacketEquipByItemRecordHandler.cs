@@ -66,6 +66,13 @@ public static class InventoryPacketEquipByItemRecordHandler
             return true;
         }
 
+        if (clientItemDefinition.MinProfileRank > profile.Rank)
+        {
+            _logger.LogInformation("Refused equip: item {definition} needs level {required}, job {profile} is level {rank}.",
+                clientItemDefinition.Id, clientItemDefinition.MinProfileRank, profile.Id, profile.Rank);
+            return true;
+        }
+
         using var dbContext = _dbContextFactory.CreateDbContext();
 
         var dbProfile = dbContext.Profiles

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Linq;
 
 using Microsoft.EntityFrameworkCore;
@@ -59,6 +59,13 @@ public static class InventoryPacketEquipByGuidHandler
         if (profile is null)
         {
             _logger.LogWarning("Invalid player profile. {guid} {profile}", packet.Guid, packet.ProfileId);
+            return true;
+        }
+
+        if (clientItemDefinition.MinProfileRank > profile.Rank)
+        {
+            _logger.LogInformation("Refused equip: item {definition} needs level {required}, job {profile} is level {rank}.",
+                clientItemDefinition.Id, clientItemDefinition.MinProfileRank, profile.Id, profile.Rank);
             return true;
         }
 

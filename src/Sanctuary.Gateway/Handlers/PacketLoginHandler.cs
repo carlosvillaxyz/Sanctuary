@@ -37,7 +37,12 @@ public static class PacketLoginHandler
 
         var options = serviceProvider.GetRequiredService<IOptionsMonitor<GatewayServerOptions>>();
         _options = options.CurrentValue;
-        options.OnChange(o => _options = o);
+        Sanctuary.Game.Quests.QuestDialogue.CameraZoom = _options.DialogueCameraZoom;
+        options.OnChange(o =>
+        {
+            _options = o;
+            Sanctuary.Game.Quests.QuestDialogue.CameraZoom = o.DialogueCameraZoom;
+        });
     }
 
     public static bool HandlePacket(GatewayConnection connection, Span<byte> data)
