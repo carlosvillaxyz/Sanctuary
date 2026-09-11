@@ -76,9 +76,12 @@ public class CombatChatCommand : IChatCommand
 
         foreach (var (enemy, distance) in enemies)
         {
+            // "sees you" is the aggro precondition: an enemy only looks for targets among the players its zone
+            // tile has handed it, so an enemy that cannot see you will never wake up however close you stand.
             ChatHelper.SendSystemMessage(invoker,
                 $"{enemy.Name} ({enemy.Guid}) L{enemy.Stats.Level} {enemy.Stats.Tier}: {enemy.Health}/{enemy.MaxHealth} hp, " +
-                $"dmg {enemy.Stats.Damage}, {enemy.Stats.Xp} stars, {(enemy.IsDead ? "dead" : enemy.State.ToString())}, {distance:F1} u.");
+                $"dmg {enemy.Stats.Damage}, {enemy.Stats.Xp} stars, {(enemy.IsDead ? "dead" : enemy.State.ToString())}, {distance:F1} u, " +
+                $"aggro {enemy.Stats.AggroRange:F0} u, sees you: {(enemy.VisiblePlayers.ContainsKey(invoker.Guid) ? "yes" : "NO")}.");
         }
 
         return true;

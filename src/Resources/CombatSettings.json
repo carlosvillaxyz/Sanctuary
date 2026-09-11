@@ -13,8 +13,9 @@
     "ReviveHereCoinCost": 0,
     "KnockoutEffectId": 5017,
     "ReviveEffectId": 15117,
-    "SendInWorldCombatFlag": true,
-    "SendIsFightingFlag": true
+    "SendInWorldCombatFlag": false,
+    "SendIsFightingFlag": true,
+    "SendInWorldCombatFlagComment": "op41/132 is a GLOBAL client switch: it draws floating damage numbers but also puts a health bar on every nameplate in view, friendly NPCs included. Off while we check whether enemy bars (drawn from their own hitpoints) and damage numbers survive on op41/133 alone."
   },
   "Enemy": {
     "Comment": "Death presentation is the 2014-04-01 capture's exact recipe for a dying pack wolf: RemovePlayerGracefully(Animate=true, Delay=2000, effect 5017, Duration=1000) - the client plays the model's own death clip, then the poof, then despawns. PositionBroadcastDistance: how far a chasing enemy moves before another position update is streamed (Sulphural a126be4b). AttackCursorId 11 = crossed swords. HitAnimationHoldMs: how long a hit-reaction clip stays on an enemy before its idle is restored.",
