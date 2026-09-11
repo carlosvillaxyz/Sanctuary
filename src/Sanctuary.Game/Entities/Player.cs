@@ -651,12 +651,36 @@ public sealed class Player : ClientPcData, IEntity
         player.SendTunneled(commandPacketInteractionList);
     }
 
+    /// <summary>PFX_levelup_big, the retail level-up particle burst.</summary>
+    private const int LevelUpCompositeEffectId = 15117;
+
+    /// <summary>
+    /// Burst delay after the full-screen celebration; sent in the same batch, the burst can be wiped by the
+    /// presentation's scene setup (observed by Sulphural).
+    /// </summary>
+    private const int LevelUpBurstDelayMs = 300;
+
     public void OnLevelUp(ClientPcProfile profile)
     {
-        // TODO: Hook for player level-up mechanics. The reward manager will call
-        // this function whenever a level-up is detected for the given job.
-        // Use this to implement stat changes, or any other level-up specific
-        // benefits.
+        // Full-screen job level-up celebration (levelup_<job>.gfx), driven by the serialized profile.
+        using (var writer = new PacketWriter())
+        {
+            profile.Serialize(writer);
+            SendTunneled(new ClientUpdatePacketJobLevelUp { Payload = writer.Buffer });
+        }
+
+        // A profile re-send clears the client's ability toolbar; put the active job's toolbar back.
+        if (profile.Id == ActiveProfileId)
+            SendToolbar();
+
+        SendTunneledToVisibleDelayed(new PlayerUpdatePacketPlayCompositeEffect
+        {
+            Guid = Guid,
+            CompositeEffectId = LevelUpCompositeEffectId,
+            Position = Position
+        }, LevelUpBurstDelayMs, sendToSelf: true);
+
+        // Still to do: stat changes per level (health, energy) and ability unlocks by level.
     }
 
     #endregion

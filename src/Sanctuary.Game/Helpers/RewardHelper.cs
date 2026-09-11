@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Linq;
 
 using Microsoft.EntityFrameworkCore;
@@ -229,7 +229,7 @@ public static class RewardHelper
 
         if (dbProfile.Level > oldLevel)
         {
-            SendRankUpNotification(player, clientPcProfile.Id, dbProfile.Level);
+            SendRankUpNotification(player, clientPcProfile);
             player.OnLevelUp(clientPcProfile);
         }
 
@@ -268,12 +268,14 @@ public static class RewardHelper
         });
     }
 
-    private static void SendRankUpNotification(Player player, int profileId, int newLevel)
+    private static void SendRankUpNotification(Player player, ClientPcProfile profile)
     {
         player.SendTunneled(new ClientUpdatePacketUpdateProfileRank
         {
-            ProfileId = profileId,
-            Rank = newLevel
+            ProfileId = profile.Id,
+            Rank = profile.Rank,
+            ProfileIconId = profile.Icon,
+            ProfileNameId = profile.NameId
         });
     }
 

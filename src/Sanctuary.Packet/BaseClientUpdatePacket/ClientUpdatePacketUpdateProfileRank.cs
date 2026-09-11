@@ -1,4 +1,4 @@
-using Sanctuary.Core.IO;
+﻿using Sanctuary.Core.IO;
 
 namespace Sanctuary.Packet;
 
@@ -8,6 +8,10 @@ public class ClientUpdatePacketUpdateProfileRank : BaseClientUpdatePacket, ISeri
 
     public int ProfileId;
     public int Rank;
+
+    /// <summary>Job icon and name shown by the client's level-up notification.</summary>
+    public int ProfileIconId;
+    public int ProfileNameId;
 
     public ClientUpdatePacketUpdateProfileRank() : base(OpCode)
     {
@@ -21,6 +25,8 @@ public class ClientUpdatePacketUpdateProfileRank : BaseClientUpdatePacket, ISeri
 
         writer.Write(ProfileId);
         writer.Write(Rank);
+        writer.Write(ProfileIconId);
+        writer.Write(ProfileNameId);
 
         return writer.Buffer;
     }
