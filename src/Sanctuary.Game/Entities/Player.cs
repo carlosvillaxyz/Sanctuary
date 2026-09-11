@@ -483,11 +483,13 @@ public sealed class Player : ClientPcData, IEntity
             if (npc.CursorId == 0)
                 continue;
 
+            // Selectable when it has something to offer: a quest badge, or a plain interaction
+            // (collectibles, gathering nodes, entrances carry no badge).
             playerUpdatePacketNpcRelevance.Entries.Add(new PlayerUpdatePacketNpcRelevance.Entry
             {
                 Guid = npc.Guid,
-                HasCursor = true,
-                CursorId = npc.CursorId
+                CursorId = npc.CursorId,
+                HasCursor = GetNotificationImageId(npc) != 0 || npc.InteractAction is not null
             });
         }
 

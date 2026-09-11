@@ -2,6 +2,7 @@
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Text.Json;
 
 using Microsoft.Extensions.Logging;
@@ -26,8 +27,32 @@ public class QuestDefinitionCollection
 
     public bool TryGet(int questId, out QuestDefinition definition) => Quests.TryGetValue(questId, out definition!);
 
+    /// <summary>Client Resources/Cursors.txt: "cursor_interaction_talk.cur".</summary>
+    public const byte TalkCursorId = 13;
+
+    private bool IsTalkTarget(ulong npcGuid)
+    {
+        if (!ByTarget.TryGetValue(npcGuid, out var questIds))
+            return false;
+
+        foreach (var questId in questIds)
+            if (TryGet(questId, out var quest))
+                foreach (var goal in quest.Goals)
+                    if (goal.Type == QuestGoalType.TalkToNpc && goal.AllTalkTargetGuids().Contains(npcGuid))
+                        return true;
+
+        return false;
+    }
+
     public bool TryGetNpcCursorId(ulong npcGuid, out byte cursorId)
     {
+        // Quest givers and talk-to targets are people: speech-bubble cursor. Collect pickups keep the goal's cursor.
+        if (ByGiver.ContainsKey(npcGuid) || IsTalkTarget(npcGuid))
+        {
+            cursorId = TalkCursorId;
+            return true;
+        }
+
         cursorId = 0;
 
         foreach (var index in new[] { ByGiver, ByTarget })

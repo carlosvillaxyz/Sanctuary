@@ -412,9 +412,8 @@ public sealed class QuestManager : IQuestManager
             relevance.Entries.Add(new PlayerUpdatePacketNpcRelevance.Entry
             {
                 Guid = npc.Guid,
-                HasCursor = true,
                 CursorId = npc.CursorId,
-                Unknown2 = imageId != 0
+                HasCursor = imageId != 0 || npc.InteractAction is not null
             });
             player.SendTunneled(relevance);
         }

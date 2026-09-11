@@ -1,0 +1,27 @@
+{
+  "Comment": "Over-head greeting bubbles an NPC says when a player walks within 18 units (25 s cooldown per NPC). Keys are NPC guids (100000000000 + Npcs.json id); values are client string ids, one picked at random. Only each character's own authentic retail lines: the 2014 captures show only certain NPCs greeted, so there is no generic pool. Lines with <font> markup can't be used; the client's bubbles render <BR> but not <font>. Sources: research/starting-area.md and the client string table.",
+  "Lines": {
+    "100000002045": [47891],
+    "100000002046": [94013, 94023, 94035],
+    "100000002047": [94028, 94055, 94058],
+    "100000002048": [94026, 94054],
+    "100000002049": [94388],
+    "100000002087": [20943, 20944, 20945],
+    "100000004154": [5100399],
+    "100000004155": [5100399],
+    "100000004157": [5100399],
+    "100000004158": [5100399],
+    "100000004159": [5100399],
+    "100000004160": [5100399],
+    "100000004161": [5100399]
+  },
+  "Notes": {
+    "100000002045": "Samantha: warpstone tip for newcomers",
+    "100000002046": "Crash onlooker (human_m_andy): 'Ricky, didn't you see the lamp?' / 'Isn't this like, the third kart you've busted this month?' / 'Did you even see the lamppost?'",
+    "100000002047": "Crash onlooker (human_m_freestyle_10): 'You lost a tire, Ricky. A whole TIRE!' / 'You knocked it clear outta the ground, man!' / 'This is your worst crash ever, Ricky. Shakey's gonna kill you!'",
+    "100000002048": "Car Repair Guy: 'Look at it! I don't even know where to start.' / 'There's no way I'm fixing this by myself. We need the crew!'",
+    "100000002049": "Ricky Danger: 'That lamp post? Came out of nowhere, I swear!'",
+    "100000002087": "Bartle: 'Bandits! Beware of bandits on the road ahead!' / 'My wheel! What did they do to my wheel?' / 'Sheila! They stole my poor Sheila!'",
+    "100000004154": "Hooligans (NPX 4.0): 'Farnum Farmstead is ours, so SCRAM!'"
+  }
+}

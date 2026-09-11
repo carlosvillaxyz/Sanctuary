@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": 1186,
     "ModelId": 1062,
@@ -4846,10 +4846,7 @@
     "NameId": 19685,
     "Name": "Samantha",
     "ModelId": 958,
-    "ModelFileName": "fairy_f_merigold.agr",
-    "Scripts": [
-      "welcomer"
-    ]
+    "ModelFileName": "fairy_f_merigold.agr"
   },
   {
     "Id": 2046,

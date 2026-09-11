@@ -12,24 +12,21 @@ public class PlayerUpdatePacketNpcRelevance : BasePlayerUpdatePacket, ISerializa
     {
         public ulong Guid;
 
-        public bool HasCursor;
+        /// <summary>Always sent true by live-tested servers; meaning unknown.</summary>
+        public bool Unknown = true;
 
-        /// <summary>
-        /// Id from Cursors.txt
-        /// </summary>
+        /// <summary>Id from Cursors.txt.</summary>
         public byte CursorId;
 
-        public bool Unknown2;
+        /// <summary>True when the NPC's body is selectable and shows <see cref="CursorId"/> on hover.</summary>
+        public bool HasCursor;
 
         public void Serialize(PacketWriter writer)
         {
             writer.Write(Guid);
-
-            writer.Write(HasCursor);
-
+            writer.Write(Unknown);
             writer.Write(CursorId);
-
-            writer.Write(Unknown2);
+            writer.Write(HasCursor);
         }
     }
 

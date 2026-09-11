@@ -267,6 +267,9 @@ public abstract class BaseZone : IZone, IDisposable
             return false;
         }
 
+        if (AmbientLines.Value.TryGetValue(npc.Guid, out var ambientLineIds))
+            npc.AmbientLineIds = ambientLineIds;
+
         foreach (var script in definition.Scripts ?? [])
         {
             if (!npc.TryAddScript(script))
@@ -868,10 +871,67 @@ public abstract class BaseZone : IZone, IDisposable
                 {
                     entity.Value.UpdateEverySecond();
                 }
+
+                UpdateAmbientChatter();
             }
             catch (Exception ex)
             {
                 _logger.LogCritical(ex, $"{Name} ({Id}) - Zone Exception");
+            }
+        }
+    }
+
+    // NPC greeting bubbles. Driven from the PLAYER side on purpose: the loop above skips Static NPCs (which
+    // is most talkers), and the visibility hook is tile-based (~64-192 units) and only fires once on entry —
+    // far too coarse for "a player walked up to me". Sweeping each player's already-known visible NPCs keeps
+    // this cheap while letting us apply a real proximity gate.
+
+    /// <summary>Authentic per-NPC greeting bubbles, keyed by NPC guid (Resources/NpcAmbientLines.json).</summary>
+    private static readonly Lazy<Dictionary<ulong, int[]>> AmbientLines = new(LoadAmbientLines);
+
+    private static Dictionary<ulong, int[]> LoadAmbientLines()
+    {
+        var result = new Dictionary<ulong, int[]>();
+        var path = Path.Combine(ResourceManager.BaseDirectory, "NpcAmbientLines.json");
+
+        if (!File.Exists(path))
+            return result;
+
+        using var document = System.Text.Json.JsonDocument.Parse(File.ReadAllText(path));
+
+        if (!document.RootElement.TryGetProperty("Lines", out var lines))
+            return result;
+
+        foreach (var entry in lines.EnumerateObject())
+        {
+            if (!ulong.TryParse(entry.Name, out var guid))
+                continue;
+
+            result[guid] = entry.Value.EnumerateArray().Select(x => x.GetInt32()).ToArray();
+        }
+
+        return result;
+    }
+
+    private void UpdateAmbientChatter()
+    {
+        foreach (var player in _players.Values)
+        {
+            if (player.Zone != this)
+                continue;
+
+            foreach (var npc in player.VisibleNpcs.Values)
+            {
+                if (npc.AmbientLineIds is null || npc.AmbientLineIds.Length == 0)
+                    continue;
+
+                var dx = npc.Position.X - player.Position.X;
+                var dy = npc.Position.Y - player.Position.Y;
+                var dz = npc.Position.Z - player.Position.Z;
+                if (dx * dx + dy * dy + dz * dz > Npc.AmbientGreetRangeSquared)
+                    continue;
+
+                npc.TryAmbientGreet();
             }
         }
     }
