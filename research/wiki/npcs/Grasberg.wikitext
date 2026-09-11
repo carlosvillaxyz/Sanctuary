@@ -1,0 +1,35 @@
+<!-- Grasberg | https://freerealms.fandom.com/wiki/Grasberg | CC-BY-SA -->
+{{Infobox
+|Box title = Grasberg<br><Miner Gear>
+|Image file = Grasberg.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Eye color
+|Row 3 info = Brown
+|Row 4 title = Location(s)
+|Row 4 info = [[Lakeshore]]
+|Row 5 title = Occupation
+|Row 5 info = [[Miner]]<br>[[Merchants|Merchant]]}}
+'''Grasberg''' is a male [[Human|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found at the [[Lakeshore]] Crafting Station near the [[Lakeshore]] [[Cooking Table]]. He sells [[Miner]] [[Jobs|Job]] related [[Items|items]].
+
+==Sells==
+*{{Member}}[[Quarry Miner Kerchief]]
+*{{Member}}[[Quarry Miner Overalls]]
+*{{Member}}[[Quarry Miner Helmet]]
+*{{Member}}[[Quarry Miner Gloves]]
+*{{Member}}[[Quarry Miner Boots]]
+*{{Member}}[[Quarry Miner Shirt]]
+*[[Miner's Power Shard of Timing III]]
+*[[Miner's Necklace of Timing III]]
+*[[Miner's Dynamite of Timing III]]
+
+==Trivia==
+*Grasberg was introduced in-game on the update of October 15, 2013.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Miner]]
+[[Category:Merchant]]
+[[Category:Lakeshore]]

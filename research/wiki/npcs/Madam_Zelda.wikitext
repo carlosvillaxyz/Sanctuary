@@ -1,0 +1,41 @@
+<!-- Madam Zelda | https://freerealms.fandom.com/wiki/Madam%20Zelda | CC-BY-SA -->
+{{Infobox
+|name= Madam Zelda
+|image= MadamZelda.jpg
+|gender= Female
+|race= [[Human]]
+|hair color= Brown
+|eye color= Purple
+|location(s)= [[Blackspore Swamp]]<br>[[Snowhill]]}}{{Quote|Strange and mysterious things are happening everywhere in [[Blackspore Swamp|this swamp]], and I see them all....<br/>Err, usually.|In-game dialogue}}
+'''Madam Zelda''' is a [[Human|human]] [[Non-Playable-Character|NPC]] that can be found in Blackspore Swamp where she hosts special [[Quests|quests]] during the [[Super Spooktacular]]. She also assisted in the [[Trading Card Game|TCG Series 4]] ([[Baron von Darkcheat]]) by gathering all of the [[Realmkeepers]] together and training them to defeat the series namesake, [[Baron von Darkcheat (character)|Baron von Darkcheat]].
+
+==[[Quests]]==
+*Quest:Card Duelist: Zelda's Warning 
+*Quest:Card Duelist: Heart of Darkness
+*Quest:Card Duelist: Slow and Steady
+*Quest:Card Duelist: Stinky Feet
+*Quest:Card Duelist: Meet the Boss
+*Quest:A Dark Future
+*Quest:Being Prepared (Team Vampire)
+*Quest:Being Prepared (Team Werewolf)
+*Quest:Card Duelist: The Realmkeepers Are Missing!
+
+==Appearances==
+*Quest:Card Duelist: Zelda's Warning 
+*Quest:Card Duelist: Heart of Darkness
+*Quest:Card Duelist: Slow and Steady
+*Quest:Card Duelist: Stinky Feet
+*Quest:Card Duelist: Meet the Boss
+*Quest:A Dark Future
+*Quest:Being Prepared (Team Vampire)
+*Quest:Being Prepared (Team Werewolf)
+*[[Trading Card Game#Series 4 TCG Cards List|Trading Card Game Series 4]]
+*Quest:Card Duelist: The Realmkeepers Are Missing!
+*Quest:Card Duelist: Return from the Rumbledome
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Human]]
+[[Category:Quest Givers]]
+[[Category:Blackspore]]
+[[Category:Snowhill]]
+[[Category:Trading Card Game]]

@@ -1,0 +1,45 @@
+<!-- Ty | https://freerealms.fandom.com/wiki/Ty | CC-BY-SA -->
+{{Infobox
+|Box title = Ty
+|Image file = ImagesqtbnANd9GcTNTGmF962QM26BLW-4mcKt 2cGKkm 5DLq8sCNfyJutwBwTp7T-NAATkravg-1-.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Lakeshore]]<br>[[Seaside]]
+|Row 4 title = Occupation
+|Row 4 info = [[Ninja]]<br>Leader of the Flying Dragon Clan (formerly)}}
+'''Ty''' is a [[Ninja|ninja]] [[Non-Playable-Character|NPC]] that can be found in [[Lakeshore]]. He is a retired ninja trainer, he is also once the leader of the Flying Dragon Clan. He once taught in the defunct [[Flying Dragon Dojo]] but it got closed down for an unknown reason and Ty now stands outside his hut where he lives.
+
+==[[Quests]]==
+*Quest:Ninja: The Ninja Path
+*Quest:Ninja: Super Star
+*Quest:Ninja: Silence is Golden... and Deadly
+*Quest:Ninja: Achieve Level 10
+*Quest:Ninja: Shadows in the Snow
+*Quest:Ninja: Burst of Speed
+*Quest:Ninja: Walking the Path
+*Quest:Ninja: Gathered Shadows
+*Quest:Ninja: Stilling the Waters
+
+==Appearances==
+*Quest:Ninja: The Ninja Path
+*Quest:Ninja: Stolen Away
+*Quest:Ninja: Silence is Golden... and Deadly
+*Quest:Ninja: Return to the Mentor
+*Quest:Ninja: Achieve Level 10
+*Quest:Ninja: Shadows in the Snow
+*Quest:Ninja: Burst of Speed
+*Quest:Ninja: Walking the Path
+*Quest:Ninja: Achieve Level 20 <small>(mentioned)</small>
+*Quest:Ninja: Gathered Shadows
+*Quest:Ninja: Stilling the Waters
+*History of the Dojo
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Ninja]]
+[[Category:Quest Givers]]
+[[Category:Lakeshore]]
+[[Category:Seaside]]

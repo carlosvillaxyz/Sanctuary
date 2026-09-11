@@ -1,0 +1,20 @@
+<!-- Cronyn | https://freerealms.fandom.com/wiki/Cronyn | CC-BY-SA -->
+{{Infobox
+|Box title = Cronyn
+|Image file = Cronyn.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Dwarves|Dwarf]]
+|Row 3 title = Eye color
+|Row 3 info = Light brown
+|Row 4 title = Location(s)
+|Row 4 info = [[Singing Crystal Mines]], [[Snowhill]]
+|Row 5 title = Occupation
+|Row 5 info = [[Miner]]}}
+'''Cronyn''' is a [[Dwarves|dwarf]] [[Non-Playable-Character|NPC]] that can be found in the [[Singing Crystal Mines]], located in [[Snowhill]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Dwarves]]
+[[Category:Miner]]
+[[Category:Snowhill]]

@@ -1,0 +1,18 @@
+<!-- Steele | https://freerealms.fandom.com/wiki/Steele | CC-BY-SA -->
+{{Infobox
+|Box title = Steele
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Hair color
+|Row 3 info = Brown
+|Row 4 title = Eye color
+|Row 4 info = Light blue
+|Row 5 title = Location(s)
+|Row 5 info = [[Snowhill]]}}
+'''Steele''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in the Snowhill Town Hall, located in [[Snowhill]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Snowhill]]

@@ -441,3 +441,10 @@ FodyWeavers.xsd
 
 # Local asset-delivery cache/mirror (multi-GB)
 asset-cache/
+
+# Regenerable research artifacts (client text / raw capture downloads); see research/README.md
+research/strings/en_us.json
+research/npc-spawns/npc_spawns_unique.json
+research/npc-spawns/npc_spawns_labeled.json
+research/npc-spawns/npc_spawns_labeled.csv
+research/npc-spawns/npc_spawns_named.json

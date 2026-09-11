@@ -1,0 +1,28 @@
+<!-- Bert | https://freerealms.fandom.com/wiki/Bert | CC-BY-SA -->
+{{Infobox
+|name= Bert
+|image= Bert.jpg
+|gender= Male
+|race= Penguin
+|eye color= Green
+|location(s)= [[Snowhill]]
+|occupation= [[Postman]]}}
+'''Bert''' is a penguin [[Non-Playable-Character|NPC]] that can be found in [[Snowhill]].
+
+==Appearances==
+*Free Realms Be the Postman Trailer
+*Free Realms 2nd Birthday Yearbook Video
+*[[Free Realms Issue 11]]
+
+==Gallery==
+<gallery>
+Bert & Ernie color.jpg|Concept art of Bert and [[Ernie]] by Jason Johnson.
+Cory-rohlfs-fr-characters.jpg|3D artwork of the characters by Cory Rohlfs.
+FR comics Bert.jpg|Bert in the Free Realms Issue 11.
+</gallery>
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Penguins]]
+[[Category:Postman]]
+[[Category:Snowhill]]
+[[Category:Comic]]

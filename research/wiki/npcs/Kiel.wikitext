@@ -1,0 +1,19 @@
+<!-- Kiel | https://freerealms.fandom.com/wiki/Kiel | CC-BY-SA -->
+{{Infobox
+|Box title = Kiel
+|Image file = Kiel.png
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Hair color
+|Row 3 info = Gray
+|Row 4 title = Eye color
+|Row 4 info = Brown
+|Row 5 title = Location(s)
+|Row 5 info = [[Snowhill]]}}
+'''Kiel''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in [[Snowhill]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Snowhill]]

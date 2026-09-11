@@ -1,0 +1,14 @@
+<!-- Hot Springs | https://freerealms.fandom.com/wiki/Hot Springs | CC-BY-SA -->
+{{Infobox
+|Row 1 title = Type
+|Row 1 info = Hot springs
+|Row 2 title = Location
+|Row 2 info = [[Snowhill]]}}
+The '''Hot Springs''' is an [[Locations|area]] that is located in [[Snowhill]].
+
+==Gallery==
+<gallery>
+Hot Spring Sketch Concept.jpg|Concept art of the Hot Springs.
+</gallery>
+[[Category:Locations]]
+[[Category:Snowhill]]

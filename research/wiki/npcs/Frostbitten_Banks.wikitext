@@ -1,0 +1,23 @@
+<!-- Frostbitten Banks | https://freerealms.fandom.com/wiki/Frostbitten%20Banks | CC-BY-SA -->
+[[File:Frostbitten Banks.png|thumb|320px]] 
+'''Frostbitten Banks''' is a [[:Category:Difficulty 1|Difficulty 1]] fishing game.
+
+==[[Collections]]==
+*Snowhill Pond Fish
+*Snowhill Stream Fish
+*Extra Large Catch of the Day
+
+==Types of Fish==
+*Chilly Grouper - Catchable at level 1
+*Winter Piranha - Catchable at level 1
+*Frostgill Smelt - Catchable at level 5
+*Pacu Pacu - Catchable at level 5
+*Blue Thornfin - Catchable at level 10
+*Spineless Stickleback - Catchable at level 10
+*Goofy Grouper - Catchable at level 14
+*Talking Bass - Catchable at level 17
+*Ferocious Fangler - Catchable at level 20
+*Plattypus - Catchable at level 20
+[[Category:Difficulty 1]]
+[[Category:Fishing]]
+[[Category:Snowhill]]

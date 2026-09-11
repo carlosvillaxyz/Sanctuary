@@ -1,0 +1,83 @@
+name,name_id,model_id,model_file,x,y,z,heading,area,n,wiki,quest_giver,merchant,dialogue,role,url
+Candi Ivy,419832,45,human_f_santa.adr,230.2,24.4,401.0,-128.97,Snowhill_Bed_1,1,yes,yes,,,"Snow Days event quest giver (10 quests, by the Gifting Tree)",https://freerealms.fandom.com/wiki/Candi%20Ivy
+Frostpetal,5448,36,fairy_f_valinda.adr,72.9,20.6,331.2,-131.26,SnowHill_Entrance_Bed_2,1,yes,yes,,,"Quest giver: Meet the Mayor!, Ninja: Return to the Mentor (right of town entrance)",https://freerealms.fandom.com/wiki/Frostpetal
+Lucca De'Flor,23788,32,fairy_m_farmer_01.adr,200.2,23.0,352.1,-15.27,Halloween_Snowhill,1,yes,yes,,,Chef trainer (5 quests; cooking table at 2 Icecrest Ct),https://freerealms.fandom.com/wiki/Lucca%20De%27Flor
+Mayor Crystalline,182,34,fairy_f_lorina.adr,299.4,27.4,409.0,-67.47,SnowHill_Clock,1,yes,yes,,,Mayor; Brawler / Medic / Card Duelist quest hub (front of Town Hall),https://freerealms.fandom.com/wiki/Mayor%20Crystalline
+Momma Meepster,5102405,4552,penguin_baby_8bit_01.adr,127.7,22.6,423.2,-136.08,Snowhill_Bed_1,1,yes,yes,,Misplaced Meeps transcript,8-Bit Month event: Misplaced Meeps (near Big J's),https://freerealms.fandom.com/wiki/Momma%20Meepster
+Ree Peatpants,388454,428,fairy_m_sakka.agr,-54.1,5.2,332.0,76.24,TheWild_CowFarm,1,yes,yes,,,Ninja contract giver (4 repeatable contracts; south of town),https://freerealms.fandom.com/wiki/Ree%20Peatpants
+Tevin,79022,657,fairy_m_freestyle_08.agr,303.5,27.2,410.3,-61.35,SnowHill_Clock,1,yes,yes,,,Brawler trainer: Way of the Brawler,https://freerealms.fandom.com/wiki/Tevin
+Tiger the Party Animal,420171,1963,human_m_tiger_the_party_animal_holiday.agr,309.2,27.3,465.0,13.59,SnowHill_Stage,1,yes,yes,yes,A Luau / Party for Pets / Winter Party transcripts,Event party host / merchant (on the stage),https://freerealms.fandom.com/wiki/Tiger%20the%20Party%20Animal
+Arci Joan,391188,43,fairy_f_03.adr,293.9,25.4,355.4,-1.24,SnowHill_Bed_14,1,yes,,,,NPC beside Easy Penguin Defense minigame,https://freerealms.fandom.com/wiki/Arci%20Joan
+Assistant Chef Edward,90184,49,fairy_m_02.adr,193.7,22.7,364.0,29.11,Halloween_Snowhill,1,yes,,,,Merchant (Chef supplies),https://freerealms.fandom.com/wiki/Assistant%20Chief%20Edward
+Bert,177,21,penguin_bert.adr,210.7,28.7,434.6,-133.34,Snowhill_Bed_1,3,yes,,,,Penguin postman,https://freerealms.fandom.com/wiki/Bert
+Big J,6375,49,fairy_m_02.adr,146.6,23.5,386.1,177.25,Snowhill_Bed_1,1,yes,,,,Owner of Big J's cafe,https://freerealms.fandom.com/wiki/Big%20J
+Captain Ironsides,427724,2119,human_m_pirate_01.agr,124.6,23.8,352.9,146.47,Snowhill_Bed_1,1,yes,,,,Pirate NPC (TCG character),https://freerealms.fandom.com/wiki/Captain%20Ironsides
+Chip Numbwing,408638,1585,fairy_m_chip_numbwing.agr,130.8,25.1,392.6,176.29,Snowhill_Bed_1,1,yes,,yes,,Merchant (Fisherman),https://freerealms.fandom.com/wiki/Chip%20Numbwing
+Clara Chatterhag,36808,42,fairy_f_02.adr,274.1,26.4,458.6,-130.82,SnowHill_Stage,1,yes,,,Noisy Neighbors transcript,Starts Noisy Neighbors,https://freerealms.fandom.com/wiki/Clara%20Chatterhag
+Cragara,440941,4103,sogg_f_vendor.adr,130.9,28.7,290.9,-5.56,Halloween_Snowhill,1,yes,,yes,wiki quotes (shop open / closed),Mysterious Merchant (roaming),https://freerealms.fandom.com/wiki/Cragara
+Dempsy,5102200,4500,human_m_merchant_brawler_african.agr,237.1,26.2,436.1,79.57,Snowhill_Bed_1,1,yes,,yes,,"Merchant (Brawler gear, by Post Office)",https://freerealms.fandom.com/wiki/Dempsy
+Ernie,179,31,penguin_ernie.adr,226.0,26.8,431.3,44.85,Snowhill_Bed_1,2,yes,,,,Penguin postman,https://freerealms.fandom.com/wiki/Ernie
+Fladnag,5102517,4587,fairy_m_merchant_wizard_caucasian_volcano.agr,230.9,25.2,430.0,-176.17,Snowhill_Bed_1,1,yes,,yes,,"Merchant (Wizard gear, by Post Office)",https://freerealms.fandom.com/wiki/Fladnag
+Fritti Bluebelle,90186,573,fairy_f_freestyle_11.agr,286.8,27.5,406.3,-60.69,SnowHill_Clock,1,yes,,,wiki quote,,https://freerealms.fandom.com/wiki/Fritti%20Bluebelle
+Jonathon Forkpath,92578,30,fairy_m_old_01.adr,224.4,23.6,405.2,7.77,Snowhill_Bed_1,2,yes,,,,"Quest giver (Defenders Medal; wiki spells ""Johnathon"")",https://freerealms.fandom.com/wiki/Johnathon%20Forkpath
+Kiel,6156,12,fairychild_m_pointyhair.adr,139.7,23.6,393.9,-98.49,Snowhill_Bed_1,1,yes,,,,Idle NPC,https://freerealms.fandom.com/wiki/Kiel
+Mr. Twinkle,3070,48,fairy_m_01.adr,151.6,23.4,386.3,177.85,Snowhill_Bed_1,1,yes,,,,Idle NPC outside Big J's,https://freerealms.fandom.com/wiki/Mr.%20Twinkle
+Reba,5102420,4549,human_f_merchant_postman_caucasian.agr,215.3,28.2,441.7,-157.08,Snowhill_Bed_1,1,yes,,yes,,"Merchant (Postman gear, by Post Office)",https://freerealms.fandom.com/wiki/Reba
+Roland Sporeling,432170,565,human_m_roland_spore.agr,-0.6,102.3,472.9,-15.28,SnowHill_Bed_5,1,yes,,,wiki quote,Diamondback Raceway host (above Frostfang Caverns),https://freerealms.fandom.com/wiki/Roland%20Sporeling
+Senari,4726,181,human_f_explorer_caucasian01.agr,302.2,26.5,396.4,-111.42,SnowHill_Clock,1,yes,,,,Idle NPC,https://freerealms.fandom.com/wiki/Senari
+Skye,5102505,4578,fairy_f_merchant_chef_asian_phoenix.agr,203.8,23.1,352.8,-13.64,Halloween_Snowhill,1,yes,,yes,,"Merchant (Chef gear, by cooking table)",https://freerealms.fandom.com/wiki/Skye
+Sonja,5102437,4559,human_f_merchant_warrior_caucasian.agr,233.4,23.6,387.9,62.0,Snowhill_Bed_1,1,yes,,yes,,Merchant (Warrior gear),https://freerealms.fandom.com/wiki/Sonja
+Spratt,5102292,4521,fairy_f_merchant_medic_asian_cupid.agr,228.2,23.5,385.2,-71.2,Snowhill_Bed_1,1,yes,,yes,,Merchant (Medic gear),https://freerealms.fandom.com/wiki/Spratt
+Steele,47830,391,fairy_m_warrior_01.agr,319.5,26.1,430.2,-51.04,SnowHill_Clock,1,yes,,,,"Warrior trainer (Town Hall, blocks until lvl 5)",https://freerealms.fandom.com/wiki/Steele
+Tommy,5101985,4476,human_m_merchant_archer_asian.agr,235.0,23.7,384.3,32.21,Snowhill_Bed_1,1,yes,,yes,,"Merchant (Archer gear, Aug 2013)",https://freerealms.fandom.com/wiki/Tommy
+Annabelle,21849,439,human_f_mary.agr,245.1,24.8,470.1,153.34,Snowhill_Bed_1,1,no,,,,Idle NPC,
+Autumn Mistflower,394914,1067,fairy_f_autumn_mistflower.agr,304.8,27.3,414.8,-84.07,SnowHill_Clock,1,no,,,,NPC (also Npcs.json id 1198),
+Brian,3427,8,humanchild_m_tshirtwithbaggypants.adr,272.8,29.0,435.3,-41.22,Snowhill_Bed_1,1,no,,,,,
+Brittany,3062,42,fairy_f_02.adr,295.2,24.5,279.0,-128.52,SnowHill_HotSprings_CloseEffects_2,1,no,,,,,
+Calvin Coldcastle,420397,837,human_m_snowhill.adr,120.4,22.1,378.2,128.96,Snowhill_SkaterBoombox_MX_1,1,no,,,,Idle NPC,
+Carly Collision,19371,870,human_f_amber_violet_incar.agr,263.3,11.0,309.6,128.92,hotspring_steam_5 lower,1,no,,,,,
+Cinn,4554,32,fairy_m_farmer_01.adr,283.1,27.7,426.8,-109.77,Snowhill_Bed_1,1,no,,,,Farmer NPC,
+Coin Farmer Lubag,429152,488,chugawug_farmer_m.adr,101.2,22.8,330.0,-16.42,SnowHill_Entrance_Bed_2,1,no,,,,Farming NPC,
+Connor Rush,19364,869,human_m_verve_mcnichols_incar.agr,805.0,86.2,415.0,0.0,SnowHill_Bed_8,1,no,,,,,
+Crafty Robgoblin,420583,1935,robgoblin_m_reindeerantlers.adr,29.2,22.6,354.8,-118.4,SnowHill_Entrance_Bed_2,1,no,,,,Snow Days event,
+Downey,90117,573,fairy_f_freestyle_11.agr,228.3,24.0,371.5,-1.54,Snowhill_Bed_1,1,no,,,,Idle NPC,
+Drill Sergeant Dewey,22435,345,fairy_royalguard_m.adr,317.7,26.5,424.6,-64.66,SnowHill_Clock,1,no,,,,Warrior job unlock (front of Town Hall),
+Edward,39812,41,fairy_f_01.adr,263.8,23.9,281.1,-10.49,SnowHill_Bed_16,1,no,,,,,
+Everett,420809,38,human_m_miner_01.adr,322.8,25.6,378.5,-106.58,SnowHill_Bed_14,1,no,,,,Miner NPC,
+Freddy MacIsaac,385662,837,human_m_snowhill.adr,261.2,26.9,433.3,-118.83,Snowhill_Bed_1,1,no,,,,Idle NPC,
+Garrison Gold,38092,644,fairy_m_tcg_rick_garfield.agr,192.6,23.3,353.1,-0.32,Halloween_Snowhill,1,no,,,,Card Duelist job unlock,
+Gerold,104054,966,human_m_gerold.agr,-207.1,-19.1,290.6,-80.17,SoccerField,1,no,,,,Brawler quest giver: Growler Encroachment / The Growler Report (south of town),
+Grog,3224,14,chugawug_m_01.adr,293.0,28.2,296.2,-112.17,hotspring_steam_9,1,no,,,,Chugawug NPC,
+Holly Singsong,46947,41,fairy_f_01.adr,259.4,27.0,437.5,-126.99,Snowhill_Bed_1,1,no,,,,Idle NPC,
+Jet Madedge,19368,891,human_m_racer_johnny_thunder_incar.agr,360.1,6.0,291.1,-91.67,hotspring_steam_1,1,no,,,,,
+Jet Swiftpass,19363,891,human_m_racer_johnny_thunder_incar.agr,800.0,86.2,390.0,0.0,SnowHill_Bed_8,1,no,,,,,
+Joel,3429,9,humanchild_m_tshirtwithbeltbig.adr,270.7,28.0,437.3,137.25,Snowhill_Bed_1,1,no,,,,,
+Julie,3310,43,fairy_f_03.adr,293.3,24.9,277.5,58.93,SnowHill_HotSprings_CloseEffects_2,1,no,,,,,
+Layla Octane,19361,888,fairy_f_mustang_alli_incar.agr,790.0,86.2,390.0,0.0,SnowHill_Bed_8,1,no,,,,,
+Lealin,5454,48,fairy_m_01.adr,258.3,22.1,261.6,140.97,Snowhill_HotSprings,1,no,,,,,
+Lily Leadfoot,19358,871,fairy_m_sparks_blitzwing_incar.agr,805.0,86.2,365.0,0.0,SnowHill_Bed_8,1,no,,,,,
+Linnie,139451,524,fairy_f_freestyle_06.agr,284.3,27.6,399.6,-90.38,SnowHill_Clock,1,no,,,,Idle NPC,
+Little J,5449,12,fairychild_m_pointyhair.adr,117.5,22.4,431.4,168.41,Snowhill_Bed_1,1,no,,,,,
+Loryn,178,48,fairy_m_01.adr,198.0,29.0,429.0,89.44,Snowhill_Bed_1,1,no,,,,Postman trainer (4 quests),
+Mai Redline,19362,888,fairy_f_mustang_alli_incar.agr,795.0,86.2,415.0,0.0,SnowHill_Bed_8,1,no,,,,,
+Marcie,36807,7,humanchild_f_skirtandtunic.adr,170.9,23.2,406.3,0.13,Snowhill_Bed_1,1,no,,,,,
+Mikko Ragerunner,19367,870,human_f_amber_violet_incar.agr,251.8,11.0,294.1,128.92,hotspring_steam_6,1,no,,,,,
+Milus Featherfeet,72171,490,fairy_m_old_02.adr,192.9,28.1,417.4,64.09,Snowhill_Bed_1,1,no,,,,Elder pixie NPC,
+Morninglory,16826,731,fairy_f_morninglory.agr,261.8,49.0,211.6,20.05,Snowhill_HotSprings,1,no,,,,Warrior trainer,
+Murphy,3063,49,fairy_m_02.adr,263.2,24.2,243.4,-22.42,SnowHill_HotSprings_CloseEffects_1,1,no,,,,,
+Nikki,429539,826,human_f_snowhill.adr,57.7,30.6,363.6,27.21,SnowHill_Entrance_Bed_2,1,no,,,,Idle NPC,
+Nina the Wrecker,19370,870,human_f_amber_violet_incar.agr,265.9,11.0,172.7,40.11,hotspring_steam_8,1,no,,,,,
+Robgoblin Builder,420570,1928,robgoblin_m_xmas.adr,25.7,22.7,353.3,90.41,SnowHill_Entrance_Bed_2,1,no,,,,Snow Days event,
+Scarlet Shadeveil,36923,41,fairy_f_01.adr,316.7,26.4,416.4,6.89,SnowHill_Clock,1,no,,,,Idle NPC,
+Screamin' Steven,19344,891,human_m_racer_johnny_thunder_incar.agr,785.0,86.2,415.0,0.0,SnowHill_Bed_8,1,no,,,,,
+Sol,7054,9,humanchild_m_tshirtwithbeltbig.adr,100.0,61.8,541.4,174.64,Snowhill_snow_gust_4,1,no,,,,,
+Spindle,420500,1577,dwarf_m_edwingoldstory.adr,286.8,26.3,384.7,-11.17,Snowhill_Bed_1,1,no,,,,Dwarf NPC,
+Tad Slopeslider,117257,559,human_m_freestyle_06.agr,230.1,21.1,322.4,48.18,Halloween_Snowhill,1,no,,,,Idle NPC,
+Tanda T. Toes,91660,548,human_f_freestyle_06.agr,225.8,26.6,446.7,-0.02,Snowhill_Bed_1,1,no,,,,Idle NPC,
+Tucker Thunderjolt,19365,1331,human_m_samuel_bunker_incar.agr,360.1,15.0,215.0,-51.57,hotspring_steam_10,1,no,,,,,
+Vaelen Warpwatcher,130731,468,fairy_druid_m.adr,56.2,31.5,374.9,152.16,SnowHill_Entrance_Bed_2,1,no,,,,Warpstone druid (warp NPC),
+Willie,36827,837,human_m_snowhill.adr,290.1,27.7,295.0,52.42,SnowHill_Bed_16,1,no,,,,Idle NPC,
+Willow Slamdash,19366,1297,fairy_f_willow_slamdash_incar.agr,249.9,11.0,186.3,40.11,hotspring_steam_6,1,no,,,,,
+Wintara,7053,11,fairychild_f_sleevesandshorts.adr,98.9,61.8,541.3,-175.52,Snowhill_snow_gust_4,1,no,,,,,
+Yoink,441346,4106,robgoblin_m_banker.adr,197.6,28.4,420.2,105.1,Snowhill_Bed_1,1,no,,,,Robgoblin banker,
+Zoomer Rex,19359,872,human_m_antonio_taurino_incar.agr,785.0,86.2,365.0,0.0,SnowHill_Bed_8,1,no,,,,,

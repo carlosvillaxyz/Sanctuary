@@ -1,0 +1,44 @@
+<!-- Foreman Hetfield | https://freerealms.fandom.com/wiki/Foreman Hetfield | CC-BY-SA -->
+{{Infobox
+|Box title = Foreman Hetfield
+|Image file = Foremanhetfield.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Dwarves|Dwarf]]
+|Row 3 title = Eye color
+|Row 3 info = Brown
+|Row 4 title = Location(s)
+|Row 4 info = [[Snowhill]]
+|Row 5 title = Occupation
+|Row 5 info = [[Merchants|Merchant]]}}{{Quote|You know, making these custom playgrounds is easier than it looks! But you need the right items to do it....
+:Are you interested?|Foreman Hetfield}}
+'''Foreman Hetfield''' is a [[Dwarf|dwarf]] [[Non-Playable-Character|NPC]] that can be found under the [[Snowhill]] [[Playground|playground]]. Players can interact with him through left-click or the "x" key and then prompted to either accept or deny opening the [[Station Cash Marketplace|SC Marketplace]], he introduces has a specific filter default on housing items that are typically used for building playgrounds.
+
+Items in his marketplace filter:
+*Checkpoint {{SC|135}}
+*Checkpoint (20) {{SC|810}}
+*Checkpoint (5) {{SC|270}}
+*Curved Wooden Walkway {{SC|67}}
+*Fall-away Block {{SC|45}}
+*Fall-away Block {{SC|135}}
+*Fluffy Cloud {{SC|45}}
+*Fluffy Cloud {{SC|135}}
+*Fluffy Cloud Bridge {{SC|247}}
+*Large Launch Pad {{SC|180}}
+*Long Range Elevator Platform {{SC|135}}
+*Long Range Sideways Platform {{SC|135}}
+*Medium Launch Pad {{SC|135}}
+*Stone Bridge {{SC|157}}
+*Storm Cloud {{SC|45}}
+*Storm Cloud {{SC|135}}
+*Storm Cloud Bridge {{SC|247}}
+*Suspension Bridge {{SC|157}}
+*Wooden Bridge {{SC|157}}
+*Wooden Walkway {{SC|45}}
+*Wooden Walkway Ramp {{SC|67}}
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Dwarves]]
+[[Category:Merchant]]
+[[Category:Snowhill]]

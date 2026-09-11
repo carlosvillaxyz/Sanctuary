@@ -1,0 +1,15 @@
+<!-- Big J | https://freerealms.fandom.com/wiki/Big J | CC-BY-SA -->
+{{Infobox
+|Box title = Big J
+|Image file = Img 20130204-08-23-30 thumb.png
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]}}
+'''Big J''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] located in [[Snowhill]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Snowhill]]

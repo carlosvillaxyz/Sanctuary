@@ -1,0 +1,27 @@
+<!-- Quest:Glide Training: Confidence Is Key | https://freerealms.fandom.com/wiki/Quest%3AGlide%20Training%3A%20Confidence%20Is%20Key | CC-BY-SA -->
+{{Quest2
+|detail summary = Troy Ridewrangler in Seaside has asked me to use a launch pad to launch myself and my untrained glide-trainable ride through a fiery hoop in Snowhill.|first reward = [[Proof of Training - Part 3 of 5|Proof of Training<br>- Part 3 of 5]]|first reward image name = Ticketquestreward.png}}{{Questprog
+|previous = [[Quest:Glide Training: Basic Training|Glide Training: Basic Training]]|next = [[Quest:Glide Training: I'm Advanced!|Glide Training: I'm Advanced!]]|quest series = [[Glide Training#Quests|Glide Training Quest Series]]}}
+==Requirements==
+Player must own a usable glide-trainable [[ride]] along with waiting at least one day after completion of [[Quest:Glide Training: Basic Training]] in order to do [[Quest:Glide Training: Confidence Is Key]]
+==To Start==
+Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+==Goals==
+Bounce through the fiery hoop above the launch pad in Snowhill while on your untrained glide-trainable ride.
+*Bounce through the Snowhill hoop
+*Return to Troy Ridewrangler
+==Steps==
+#Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+#*"The third step in training a ride is to instill a sense of confidence in your ride.<br />Go to the launch pads in Snowhill and jump through the fiery hoop above while riding your untrained glide-trainable ride." -Troy Ridewrangler
+#Bounce through the Snowhill hoop
+#*While on your ride bounce on the specific launch pad near the [[Snowhill]] [[Playground]], aim for the middle of the pad.
+#Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+#*"Good job! Your ride's confidence has been magically transferred to the Training Saddle.<br />Training is hard work. Come back tomorrow and we can continue the training!" -Troy Ridewrangler
+==References==
+*[[Glide Training]]
+*[[Troy Ridewrangler]]
+*[[Launch Pad]]
+*[[Snowhill]]
+*[[Seaside]]
+*[[Rides]]
+[[Category:Quest]]

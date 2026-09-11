@@ -1,0 +1,52 @@
+<!-- Tiger the Party Animal | https://freerealms.fandom.com/wiki/Tiger the Party Animal | CC-BY-SA -->
+{{Infobox
+|Box title = Tiger the Party Animal
+|Image file = Tiger the party animal luau.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Hair color
+|Row 3 info = Blonde
+|Row 4 title = Eye color
+|Row 4 info = Green
+|Row 5 title = Location(s)
+|Row 5 info = [[Seaside]]<br>[[Sanctuary]]<br>[[Blackspore Swamp]]<br>[[Snowhill]]
+|Row 6 title = Occupation
+|Row 6 info = [[Merchants|Merchant]]
+|caption = Tiger at a Luau in Seaside}}
+'''Tiger the Party Animal''' is a [[Human|human]] [[Non-Playable-Character|NPC]] that spawns during Themed [[Community Events|Community Event]] Parties. Currently there are only three types of Themed Parties: Luaus, [[Community Events#Pet Party|Pet Parties]], and Winter Holiday Parties.
+
+Currently, Tiger is a [[Merchants|merchant]] as of August 27, 2013. He can be found in [[Blackspore Swamp|Blackspore]], [[Sanctuary]], and [[Seaside]] where he sells [[Luau Party Ticket]]s.
+
+==[[Quests]]==
+*Quest:A Luau <small>(repeatable)</small>
+*Quest:Party for Pets <small>(repeatable)</small>
+*Quest:Winter Party <small>(repeatable)</small>
+
+==Parties==
+===Luau===
+Referees host a Luau themed party during the summer season in a variety of [[Locations|locations]]. During these parties, Tiger will offer the [[Quest:A Luau|A Luau]] [[Quests|quest]] to players.
+
+===Pet Party===
+Referees host Pet Parties several times a month in a variety of locations, during these parties, Tiger will offer the [[Quest:Party for Pets|Party for Pets]] quest to players.
+
+==Appearances==
+*Quest:A Luau
+*Quest:Party for Pets
+*Quest:Winter Party
+
+==Gallery==
+<gallery>
+Tiger the party animal pet.jpg|Tiger at a [[Community Events#Pet Party|Pet Party]] in [[Sanctuary]].
+tiger the party animal snow days.jpg|Tiger at a Winter Holiday Party in [[Snowhill]].
+</gallery>
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Merchant]]
+[[Category:Quest Givers]]
+[[Category:Seaside]]
+[[Category:Sanctuary]]
+[[Category:Blackspore]]
+[[Category:Snowhill]]

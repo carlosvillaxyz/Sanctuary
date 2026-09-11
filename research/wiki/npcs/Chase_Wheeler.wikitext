@@ -1,0 +1,25 @@
+<!-- Chase Wheeler | https://freerealms.fandom.com/wiki/Chase%20Wheeler | CC-BY-SA -->
+{{Infobox
+|Box title = Chase Wheeler
+|Image file = Chase.png
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Hair color
+|Row 3 info = Light brown
+|Row 4 title = Location(s)
+|Row 4 info = Thunder Falls Speedway, [[Lakeshore]]
+|Row 5 title = Occupation
+|Row 5 info = [[Kart Driver]]}}
+'''Chase Wheeler''' is a [[Human|human]] [[Non-Playable-Character|NPC]] that can be found in the Thunder Falls [[Speedways|Speedway]], located in [[Lakeshore]]. He stands next to the billboard on the west side of the gate entrance. Also his [[Quests|quests]] are part of the Kart Driver Quest Series, he will not offer you any quests until you have completed all previous quests in the series.
+
+==Quests==
+*Kart Driver: Making Amends
+*Kart Driver: High Speed Chase
+*Kart Driver: Sweetwater Sasparilla Sponsorship
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Kart Driver]]
+[[Category:Lakeshore]]

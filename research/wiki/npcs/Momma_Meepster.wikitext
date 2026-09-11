@@ -1,0 +1,32 @@
+<!-- Momma Meepster | https://freerealms.fandom.com/wiki/Momma Meepster | CC-BY-SA -->
+{{Infobox
+|name= Momma Meepster
+|image= Mommameepster.jpg
+|gender= Female
+|race= Meep
+|eye color= Black
+|location(s)= [[Snowhill]] during the [[8-Bit Month]]}}{{Quote|Momma Meepster, a rare purple 8-bit penguin, has arrived in [[Snowhill]] and is searching for adventurers to help locate her lost 8-bit penguin babies across the Realms.|Game Update 111 Overview}}
+'''Momma Meepster''' is a meep [[Non-Playable-Character|NPC]] that can be found near the Big J's, located in [[Snowhill]].
+
+==Misplaced Meeps==
+Momma Meepster hosts a [[Quests|quest]] called [[Quest:Misplaced Meeps|Misplaced Meeps]] in which the player is sent to locate her baby "[[Lost Meep|Meeps]]" which are scattered across the [[Sacred Grove]].
+
+After completion of the Misplaced Meeps quest, Momma Meepster introduces the opportunity to adopt a [[Meep]] [[Pet Pals|Pet Pal]] for the regular price of {{Coin|25,000}} and to [[Membership|Members]] at the 10% discount price of {{Coin|22,500}}. 
+
+==Gallery==
+<gallery>
+Mommameepster.png|Teaser image
+</gallery>
+
+==Trivia==
+*On September 5, 2013 ''[[Free Realms]]'' Producer Steve George tweeted a teaser revealing Momma Meepster for the first time publicly. According to Steve George, Momma Meepster is a generous and loving penguin that may seem a BIT ROUGH around the edges.
+*Momma Meepster was introduced in-game as a part of the 8-Bit Month on September 10th, 2013.
+
+==Sources==
+*[https://twitter.com/SonyShock/status/375726300683448320/ Something smells fishy in #FreeRealms next week....] on [http://twitter.com Twitter]
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Meeps]]
+[[Category:Quest Givers]]
+[[Category:Snowhill]]
+[[Category:8-Bit month]]

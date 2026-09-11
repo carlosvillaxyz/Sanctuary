@@ -1,0 +1,14 @@
+<!-- Ivan Smolderwing | https://freerealms.fandom.com/wiki/Ivan%20Smolderwing | CC-BY-SA -->
+{{Infobox
+|Box title = Ivan Smolderwing
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Lakeshore]]}}
+'''Ivan Smolderwing''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in [[Lakeshore]] along with [[Raeya Alderspark]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Lakeshore]]

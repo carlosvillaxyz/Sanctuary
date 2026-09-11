@@ -1,0 +1,37 @@
+<!-- Spratt | https://freerealms.fandom.com/wiki/Spratt | CC-BY-SA -->
+{{Infobox
+|Box title = Spratt
+|Image file = Spratt.jpg
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]
+|Row 4 title = Occupation
+|Row 4 info = [[Medic]]<br>[[Merchant]]}}
+'''Spratt''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found in [[Snowhill]]. She sells exclusively [[Medic]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*[[Emergency Medic Backpack]]
+*[[Emergency Medic Fatigues]]
+*[[Emergency Medic Cap]]
+*[[Emergency Medic Gloves]]
+*[[Emergency Medic Boots]]
+*[[Emergency Medic Shirt]]
+*[[Medic's Flair Shard of Miracles]]
+*[[Medic's Power Shard of Vitality III]]
+*[[Medic's Necklace of Vitality III]]
+*[[Medic's Ring of Regeneration III]]
+*[[Medic's Bonesaw of Immunization]]
+*[[Medic's Bonesaw of Vitals]]
+*[[Medic's Bonesaw of Triage]]
+
+==Trivia==
+*Spratt was introduced in-game on August 27, 2013.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Medic]]
+[[Category:Merchant]]
+[[Category:Snowhill]]

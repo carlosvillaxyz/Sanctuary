@@ -1,0 +1,28 @@
+<!-- Quest:Ka-Boom or Not To Boom | https://freerealms.fandom.com/wiki/Quest%3AKa-Boom%20or%20Not%20To%20Boom | CC-BY-SA -->
+{{Quest2
+|detail summary = Fizzbang was always kind of a pain, but since the robgoblins were cut off from Glimmerdeep he's become a real hassle! He wants more junk, when there really isn't any more junk to be had. He's even sent kaboomers around to "remind" everyone of their junk quotas. How's a robgoblin supposed to nap with kaboomers "kabooming" all over the place!? Rizzle would really appreciate it if you could do something about that for him.
+|coin amount = 30}}{{Questprog
+|previous = [[Quest:A Beautiful Friendship|A Beautiful Friendship]]|next = [[Quest:Junk or Bust|Junk or Bust]]|quest series = [[Sunstone_Valley#Whirly's_Scrap_Camp|Sunstone Valley Quest Series]]}}
+==Requirements==
+Player must complete [[Quest:A Beautiful Friendship]] in order to do [[Quest:Ka-Boom or Not To Boom]]
+==To Start==
+Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+==Goals==
+Help Rizzle get his beauty sleep by defeating Robgoblin Kaboomers in Sunstone Valley.
+*Defeat Robgoblin Kaboomers - /10
+*Return to Rizzle
+==Steps==
+#Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"Uuugh. How is a robgoblin supposed to get ANY sleep with all that racket!<br />Night and day, Fizzbang’s lackeys just KABOOM this, or KABOOM that! Honestly, <Player Name>, if you could <font color='#D9781A'>stop those Robgoblin Kaboomers</font> it would literally be the greatest thing ever." -Rizzle
+#Defeat Robgoblin Kaboomers - /10
+#*[[Robgoblin Kaboomer]]s are located all around the areas outside of [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#Speak with [[Rizzle]] located in [[Whirly's Scrap Camp]] in [[Sunstone Valley]].
+#*"<nowiki>*snore*</nowiki><br /><nowiki>*snore*</nowiki><br />Huh, what... OH! <Player Name>!<br />It’s a good thing you’re back, because I have a whole new problem to deal with!" -Rizzle
+
+==References==
+*[[Glimmerdreep]]
+*[[Rizzle]]
+*[[Robgoblin Kaboomer]]
+*[[Sunstone Valley]]
+*[[Whirly's Scrap Camp]]
+[[Category:Quest]]

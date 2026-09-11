@@ -1,0 +1,22 @@
+<!-- Flynn | https://freerealms.fandom.com/wiki/Flynn | CC-BY-SA -->
+{{Infobox
+|Box title = Flynn
+|Image file = Flynn.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Hair color
+|Row 3 info = Blue
+|Row 4 title = Eye color
+|Row 4 info = Purple
+|Row 5 title = Location(s)
+|Row 5 info = [[Snowhill]]}}{{Quote|You know what the problem with this town is?<br />Vandals!<br/>They caused that cave-in in the mines, and they've made a mess backstage!<br />Either that or I haven't cleaned in a long time....|Flynn}}
+'''Flynn''' is a male [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found near the [[Snowhill Stage]] located in [[Snowhill]]. He appears to be the Snowhill Stage caretaker.
+
+==Trivia==
+*Flynn was introduced upon the launch of ''[[Free Realms]]'' in April 2009, during the time [[Bruce]] performed on the Snowhill Stage.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Snowhill]]

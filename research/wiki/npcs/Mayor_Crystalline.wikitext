@@ -1,0 +1,62 @@
+<!-- Mayor Crystalline | https://freerealms.fandom.com/wiki/Mayor Crystalline | CC-BY-SA -->
+{{Infobox
+|name= Mayor Cystalline
+|image= Mayor Crystalline.png
+|gender= Female
+|race= [[Pixies|Pixie]]
+|hair color= Brown
+|eye color= Purple
+|location(s)= [[Snowhill]]
+|occupation= Mayor of Snowhill}}
+'''Mayor Crystalline''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in front of the [[Snowhill Town Hall|town hall]], located in [[Snowhill]].
+
+==[[Quests]]==
+*Quest:Status Reports
+*Quest:Key to the City
+*Quest:Brawler: Achieve Level 10
+*Quest:Brawler: An Honest Mistake
+*Quest:Brawler: Confronting the Crook
+*Quest:Brawler: Reputation Regained
+*Quest:Medic: A Blustery Blunder
+*Quest:Medic: Into the Bristlewood
+*Quest:Card Duelist: Snowhill is Melting
+*Quest:Card Duelist: Defenders Duty
+*Quest:Holiday Recital <small>(repeatable)</small>
+
+==Appearances==
+*Quest:Meet the Mayor!
+*Quest:Big J Says Thanks
+*Quest:Status Reports
+*Quest:Key to the City
+*Quest:Brawler: Curious Key
+*Quest:Brawler: Achieve Level 10
+*Quest:Brawler: An Honest Mistake
+*Quest:Brawler: Confronting the Crook
+*Quest:Brawler: Reputation Regained
+*Quest:Medic: Flu Season
+*Quest:Medic: A Blustery Blunder
+*Quest:Medic: Into the Bristlewood
+*Quest:Wizard: Student Profits
+*Quest:Card Duelist: In Search of The Baron
+*Quest:Card Duelist: Snowhill is Melting
+*Quest:Card Duelist: Defenders Duty
+*Quest:Holiday Recital
+*[[Free Realms Issue 11]]
+*[[Trading Card Game#Series 3 TCG Cards List|Trading Card Game Series 3]]
+
+==Gallery==
+<gallery>
+ConceptArt Crystalline.jpg|Concept art of Mayor Crystalline by Jason Johnson.
+FR comics Mayor Crystalline.jpg|Mayor Crystalline in the Free Realms Issue 11.
+</gallery>
+
+==Trivia==
+*Mayor Crystalline originally had antennae like [[Fairies|fairies]] back in one of the FR concept arts. However, it was changed.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Mayors]]
+[[Category:Quest Givers]]
+[[Category:Snowhill]]
+[[Category:Comic]]
+[[Category:Trading Card Game]]

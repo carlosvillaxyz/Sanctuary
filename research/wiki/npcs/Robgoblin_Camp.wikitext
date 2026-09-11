@@ -1,0 +1,14 @@
+<!-- Robgoblin Camp | https://freerealms.fandom.com/wiki/Robgoblin%20Camp | CC-BY-SA -->
+{{LocationInfobox2
+|image= Robgoblincamp.png
+|type= Settlement area
+|location= [[Lakeshore]]}}
+The '''Robgoblin Camp''' is an settlement area home to many [[Robgoblins|robgoblins]] that is located northwest of [[Lakeshore]]. It is where the famous [[Wizard|wizard]], [[Fizzlesticks]], and a masterful [[Chef|chef]], Glerga, have made their homes. The robgoblins in this camp are known for swindling items from nearby towns, and are usually kept under a close watch, especially by the village of Lakeshore.
+
+Visitors to the camp are welcomed to entertain themselves with a game of checkers or chess, or utilize the cooking table to create various recipes. The robgoblins are fans of putting on shows, with a stage act constantly going on for passing travelers and locals alike to stop and enjoy.
+
+While robgoblins are not known for their pleasure of sharing their treasures with outsiders, a few [[Merchants|merchants]] here do offer some goods for a price.
+{{Location}}
+[[Category:Locations]]
+[[Category:Lakeshore]]
+[[Category:Sacred Grove]]

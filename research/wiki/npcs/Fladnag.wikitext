@@ -1,0 +1,42 @@
+<!-- Fladnag | https://freerealms.fandom.com/wiki/Fladnag | CC-BY-SA -->
+{{Infobox
+|Box title = Fladnag<br><Wizard Gear>
+|Image file = Fladnag.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Eye color
+|Row 3 info = Light brown
+|Row 4 title = Location(s)
+|Row 4 info = [[Snowhill]]
+|Row 5 title = Occupation
+|Row 5 info = [[Wizard]]<br>[[Merchants|Merchant]]}}
+'''Fladnag''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found near the Snowhill Post Office, located in [[Snowhill]]. He sells [[Wizard]] [[Jobs|Job]] related [[Items|items]].
+
+==Sells==
+*[[Scholar Wizard Talisman]]
+*[[Scholar Wizard Skirt]]
+*[[Scholar Wizard Slacks]]
+*[[Scholar Wizard Fez]]
+*[[Scholar Wizard Gloves]]
+*[[Scholar Wizard Shoes]]
+*[[Scholar Wizard Shoes]]
+*[[Scholar Wizard Medium Cloak]]
+*[[Wizard's Flair Shard of Subtlety]]
+*[[Wizard's Power Shard of Vitality III]]
+*[[Wizard's Necklace of Vitality III]]
+*[[Wizard's Ring of Regeneration III]]
+*[[Wizard's Bone Wand of Lightning]]
+*[[Wizard's Bone Wand of Tsunami]]
+*[[Wizard's Bone Wand of Glaciers]]
+
+==Trivia==
+*Fladnag was introduced in-game on October 15, 2013.
+*Fladnag's name is a [[w:c:lotr:The Lord of the Rings film trilogy|Lord of the Rings]] character, [[w:c:lotr:Gandalf|Gandalf]] spelled backwards.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Wizard]]
+[[Category:Merchant]]
+[[Category:Snowhill]]

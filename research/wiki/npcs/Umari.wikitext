@@ -1,0 +1,33 @@
+<!-- Umari | https://freerealms.fandom.com/wiki/Umari | CC-BY-SA -->
+{{Infobox
+|name= Umari
+|image= Umari.jpg
+|gender= Male
+|race= [[Yeti]]
+|eye color= Yellow
+|location(s)= [[Hot Springs Haven]], [[Snowhill]]}}
+'''Umari''' is a [[Yeti|yeti]] [[Non-Playable-Character|NPC]] [[Boss|boss]] that can be found in the [[Hot Springs Haven]], located in [[Snowhill]].
+
+==Dialogues==
+{{Quote|I do so love to dance!|Umari, he listen to his jam boxes when the player arrives}}
+
+{{Quote|Hey! You're the one ruining all our fun! Get out!|Umari, when the player arrives to fight}}
+
+{{Quote|Get out!|Umari, when he attack the player}}
+
+==Appearances==
+*[[Hot Springs Haven]]
+*[[Free Realms Issue 11]]
+*[[Free Realms Issue 12]]
+
+==Gallery==
+<gallery>
+FR comics Umari.jpg.jpg|Umari in Free Realms Issues 11-12.
+</gallery>
+[[Category:NPC]]
+[[Category:Enemies]]
+[[Category:Boss]]
+[[Category:Males]]
+[[Category:Yeti]]
+[[Category:Snowhill]]
+[[Category:Comic]]

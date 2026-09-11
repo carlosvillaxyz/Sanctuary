@@ -1,0 +1,15 @@
+<!-- Senari | https://freerealms.fandom.com/wiki/Senari | CC-BY-SA -->
+{{Infobox
+|Box title = Senari
+|Image file = Img 20130204-08-45-38 thumb.png
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]}}
+'''Senari''' is a [[Human|human]] [[Non-Playable-Character|NPC]] that can be found in [[Snowhill]].
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Human]]
+[[Category:Snowhill]]

@@ -1,0 +1,14 @@
+<!-- Laurin | https://freerealms.fandom.com/wiki/Laurin | CC-BY-SA -->
+{{Infobox
+|Box title = Laurin
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = Thunder Falls Speedway, [[Lakeshore]]}}
+'''Laurin''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in the Thunder Falls [[Speedways|Speedway]], located in [[Lakeshore]].
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Lakeshore]]

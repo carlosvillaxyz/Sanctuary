@@ -1,0 +1,21 @@
+<!-- Rainbow Lake | https://freerealms.fandom.com/wiki/Rainbow%20Lake | CC-BY-SA -->
+[[File:Rainbow Lake.png|thumb|320px]] 
+'''Rainbow Lake''' is a [[:Category:Difficulty 1|Difficulty 1]] fishing game.
+
+==[[Collections]]==
+*Extra Large Catch of the Day
+*Wilds Stream Fish
+*Wilds Pond Fish
+
+==Types of Fish==
+*Flutterfish - Catchable at level 1
+*Calico Catfish - Catchable at level 1
+*Tickled Trout - Catchable at level 1
+*Toothy Tetra - Catchable at level 5
+*Peachy Perch - Catchable at level 10
+*Finless Fish - Catchable at level 14
+*Lady Tetra - Catchable at level 17
+*Tangletooth Shark - Catchable at level 20
+[[Category:Difficulty 1]]
+[[Category:Fishing]]
+[[Category:Lakeshore]]

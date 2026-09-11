@@ -1,0 +1,15 @@
+<!-- Snowhill Town Hall | https://freerealms.fandom.com/wiki/Snowhill Town Hall | CC-BY-SA -->
+{{Infobox
+|Image file = SnowhillTownHall.png
+|Row 1 title = Type
+|Row 1 info = Town hall
+|Row 2 title = Location
+|Row 2 info = [[Snowhill]]}}
+The '''[[Snowhill]] Town Hall''' is a building located in the north of the large tree.
+
+==Gallery==
+<gallery>
+Snowhill Town Hall Concept.jpg|Concept art of the Snowhill Town Hall.
+</gallery>
+[[Category:Locations]]
+[[Category:Snowhill]]

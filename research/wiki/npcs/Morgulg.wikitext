@@ -1,0 +1,14 @@
+<!-- Morgulg | https://freerealms.fandom.com/wiki/Morgulg | CC-BY-SA -->
+{{Infobox
+|Box title = Morgulg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Chugawugs|Chugawug]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]}}
+'''Morgulg''' is a [[Chugawugs|chugawug]] [[Non-Playable-Character|NPC]] located at [[Snowhill]]. His [[Locations|location]] varies frequently dependent on your progress in the [[Wizard]] [[Quests|quest]] series, he also found at a house near the [[Crystal Barrier]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Chugawug]]
+[[Category:Snowhill]]

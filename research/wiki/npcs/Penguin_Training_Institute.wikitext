@@ -1,0 +1,17 @@
+<!-- Penguin Training Institute | https://freerealms.fandom.com/wiki/Penguin Training Institute | CC-BY-SA -->
+{{Infobox
+|Row 1 title = Type
+|Row 1 info = Rocky cavern
+|Row 2 title = Location
+|Row 2 info = [[Snowhill]]}}
+The '''Penguin Training Institute''' is an [[Locations|area]] that is located in [[Snowhill]].
+
+==Gallery==
+<gallery>
+Penguin Training Facility Concept.jpg|Concept art of the Penguin Training Institute by Jason Johnson.
+</gallery>
+
+==Trivia==
+*The Penguin Training Institute was originally called Penguin Training Facility back in one of the FR concept arts.
+[[Category:Locations]]
+[[Category:Snowhill]]
