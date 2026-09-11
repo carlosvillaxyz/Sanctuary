@@ -60,10 +60,11 @@ public static class DialogueManager
     public static bool IsQuestNpc(IResourceManager resourceManager, ulong npcGuid)
         => resourceManager.Quests.ByGiver.ContainsKey(npcGuid) || resourceManager.Quests.ByTarget.ContainsKey(npcGuid);
 
-    public static void Start(Player player, Npc npc)
+    /// <summary>Opens whatever this NPC has to say to the player. Returns false if there is nothing.</summary>
+    public static bool Start(Player player, Npc npc)
     {
         if (_resourceManager is null)
-            return;
+            return false;
 
         var quests = _resourceManager.Quests;
         var characterId = GuidHelper.GetPlayerId(player.Guid);
@@ -93,7 +94,7 @@ public static class DialogueManager
                     lines = [new QuestDialogueLine { TextId = quest.TurnInDialogueId }];
 
                 Open(player, new DialogueState { Speaker = npc, Mode = DialogueMode.Goal, QuestId = questId, Lines = lines });
-                return;
+                return true;
             }
         }
 
@@ -107,7 +108,7 @@ public static class DialogueManager
                 if (quests.TryGet(questId, out var quest) && quest.IsOfferableFor(done))
                 {
                     Open(player, new DialogueState { Speaker = npc, Mode = DialogueMode.Offer, QuestId = questId });
-                    return;
+                    return true;
                 }
             }
 
@@ -117,10 +118,12 @@ public static class DialogueManager
                 if (states.TryGetValue(questId, out var state) && !state.Completed)
                 {
                     Open(player, new DialogueState { Speaker = npc, Mode = DialogueMode.Reminder, QuestId = questId });
-                    return;
+                    return true;
                 }
             }
         }
+
+        return false;
     }
 
     public static void OnResponse(Player player, int buttonId)
@@ -268,11 +271,11 @@ public static class DialogueManager
         _logger.LogInformation("{Player} {Result} quest {QuestId} at {Npc}", player.Name,
             completed ? "completed" : "advanced", quest.QuestId, speaker.Guid);
 
-        End(player);
-
-        // Chains continue naturally: if this NPC now has something to offer (the next quest), offer it.
-        if (completed)
-            Start(player, speaker);
+        // Chains continue in the same window: if this NPC has more to say (the next goal, or the next quest in
+        // the chain), replace the window's contents. Closing and reopening races the client's close
+        // acknowledgement, which would wipe the new conversation's server-side state.
+        if (!Start(player, speaker))
+            End(player);
     }
 
     private static void GrantRewards(DatabaseContext dbContext, Player player, Npc speaker, QuestDefinition quest)
