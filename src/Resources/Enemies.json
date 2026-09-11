@@ -1,0 +1,73 @@
+{
+  "Comment": "Overworld enemy stats and the rule that decides which placed NPCs spawn hostile. Read by EnemyDefinitionCollection (Sanctuary.Game/Resources). An NPC definition (Npcs.json) becomes a hostile CombatNpc when its NameId matches a Species entry, or (fallback) when its ModelId is in HostileModelIds and it has no quest role; FriendlyNpcIds always wins. Stats come from the per-level curves times the tier multipliers unless a species overrides Health/Damage/Xp directly. HealthByLevel is the player COMBAT-job health curve decoded from the March 2014 captures (round(500 x 1.15^(level-1)), research/level-stats.md) - observed mobs sit on it exactly (Frostfang wolves 760 = level 4, Feathered Drakes 16,143 = 3 x level 18, Frostfang Alpha 3,800 = 5 x level 4). DamageByLevel is a fit through the two observed raw hits (~25 at level 4, 206 at level ~18): round(20 x 1.15^(level-1)). XpByLevel is OUR assumption (round(15 x 1.10^(level-1))) tuned against RankLevels.json (300 stars from level 1 to 2, i.e. ~20 wolf kills or the newbie quests plus a few fights); no kill-XP data survived. Tier Health multipliers Elite x3 and Boss x5 are capture-derived; Weak/Tough and every Damage/Xp multiplier are Sulphural/main's (12049172). Energy 800 is the observed mob mana.",
+  "HealthByLevel": [ 500, 575, 661, 760, 875, 1006, 1157, 1330, 1530, 1759, 2023, 2326, 2675, 3076, 3538, 4069, 4679, 5381, 6188, 7116 ],
+  "DamageByLevel": [ 20, 23, 26, 30, 35, 40, 46, 53, 61, 70, 81, 93, 107, 123, 142, 163, 187, 215, 248, 285 ],
+  "XpByLevel": [ 15, 17, 18, 20, 22, 24, 27, 29, 32, 35, 39, 43, 47, 52, 57, 63, 69, 76, 83, 92 ],
+  "Tiers": {
+    "Weak": { "Health": 0.55, "Damage": 0.8, "Xp": 0.6 },
+    "Normal": { "Health": 1.0, "Damage": 1.0, "Xp": 1.0 },
+    "Tough": { "Health": 1.9, "Damage": 1.3, "Xp": 1.7 },
+    "Elite": { "Health": 3.0, "Damage": 1.0, "Xp": 2.4 },
+    "Boss": { "Health": 5.0, "Damage": 1.8, "Xp": 4.5 }
+  },
+  "TierKeywordsComment": "Sulphural/main's EnemyTiers.FromName keyword sets (12049172), checked most specific first, used only when a species does not name its tier. The Elite damage x1.0 and Boss x1.8 above replace Sulphural's x1.6/x2.2: the captured drakes (3x HP) hit for the plain level value and the Alpha for ~1.8x a pack wolf.",
+  "TierKeywords": {
+    "Boss": [ "queen", "king", "chief", "boss", "alpha", "lord", "master", "overlord", "warlord", "ancient", "elder", "matron", "baron", "titan", "prime", "the " ],
+    "Elite": [ "adept", "wizard", "geomancer", "shaman", "sorcerer", "mystic", "champion", "elite", "captain", "commander", "necromancer", "conjurer", "pondblaster" ],
+    "Tough": [ "bruiser", "brute", "guardian", "enforcer", "marauder", "snarler", "ambusher", "warrior", "juggernaut", "hulk", "ravager", "smasher", "crusher", "boomer" ],
+    "Weak": [ "initiate", "forager", "camper", "prankster", "troublemaker", "grunt", "pup", "cub", "whelp", "straggler", "scout", "runt", "minion", "critter", "fishmonger", "hatchling" ]
+  },
+  "Defaults": {
+    "Comment": "Applied to every enemy unless the species overrides it. Level 3 is Sulphural's overworld baseline (WorldEnemyLevel); aggro 15 / leash 40 / melee reach 5 / respawn 8 s / chase speed 6 are its live-tested values (c34648df, a126be4b). The 2.4 s swing is the captured drake cadence.",
+    "Level": 3,
+    "Tier": "Normal",
+    "AggroRange": 15,
+    "LeashRange": 40,
+    "AttackRange": 5,
+    "AttackIntervalSeconds": 2.4,
+    "RespawnSeconds": 8,
+    "ChaseSpeed": 6,
+    "Energy": 800
+  },
+  "HostileModelIdsComment": "Fallback rule for unnamed creature spawns, seeded from Sulphural/main's curated overworld bestiary (7086796b, DungeonCatalog.WorldEnemyModelIds). Deliberately trimmed to creature models whose placed instances are all monsters: the humanoid models on Sulphural's list (trolls 77/166/167/739/314/408, robgoblin villagers 4/190/191, Blackspore thieves 669/685/730/1054, the Halloween wraiths 4563-4565, Darkthorne 353) flip named townsfolk and quest characters in Snowhill, Sunstone and Blackspore, and the retail town rosters keep those friendly. Add ids here (or a Species entry) to make more of the world fight back.",
+  "HostileModelIds": [
+    3284, 142, 1521,
+    62, 91, 92, 235,
+    121, 2140,
+    471, 754,
+    1694, 767, 751, 1701, 1702, 3217, 4220,
+    393, 394, 395, 397, 945, 4094,
+    4464, 4465, 4466, 4467, 4468,
+    4473, 4474, 218,
+    786, 1681, 1682, 3967, 4202
+  ],
+  "FriendlyNpcIdsComment": "Npcs.json ids that must never spawn hostile even if a rule above matches them (seasonal set pieces, decorative spawns).",
+  "FriendlyNpcIds": [ ],
+  "Species": [
+    {
+      "Comment": "Hooligan Wolf - Mac's hooligans' wolves on the road west of Cobblestone Village (Npcs.json 3156-3158 at -2100,-46,460 and 4164-4166 at -1925,-49,296). Newbie-area pack: level 1, 500 HP, 20 damage, 15 stars.",
+      "NameIds": [ 5100200 ],
+      "Level": 1,
+      "Tier": "Normal"
+    },
+    {
+      "Comment": "Hooligan - Mac's crew standing around the village outskirts and the outlying camps (4154, 4155, 4159-4161, 4667-4675 area). Level 2, 575 HP, 23 damage, 17 stars.",
+      "NameIds": [ 5100401 ],
+      "Level": 2,
+      "Tier": "Normal"
+    },
+    {
+      "Comment": "Hooligan Archer (4157, 4158 and the camp archers). Level 2 like the brawlers; longer reach so they shoot from a few paces back (the client plays the bow contact event; there is no server projectile for mobs yet).",
+      "NameIds": [ 5100400 ],
+      "Level": 2,
+      "Tier": "Normal",
+      "AttackRange": 12
+    },
+    {
+      "Comment": "Alpha Wolf - the three placed alphas near Lakeshore (Npcs.json 3096, 3101, 3105 around -600, 1, 1160). Boss tier on level 4: 3,800 HP, 54 damage, which is the captured Frostfang Alpha exactly (5 x a level-4 pack wolf). Same model as the Hooligan Wolves, so the HostileModelIds rule would have caught them anyway; listed so the numbers are explicit.",
+      "NameIds": [ 102128 ],
+      "Level": 4,
+      "Tier": "Boss"
+    }
+  ]
+}

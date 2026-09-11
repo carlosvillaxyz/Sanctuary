@@ -46,6 +46,8 @@ public interface IResourceManager
     RankLevelDefinitionCollection RankLevels { get; }
     AbilityDefinitionCollection CombatAbilities { get; }
     JobKitDefinitionCollection CombatJobs { get; }
+    EnemyDefinitionCollection Enemies { get; }
+    CombatSettingsCollection CombatSettings { get; }
 
     bool Load();
 }

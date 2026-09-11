@@ -58,6 +58,8 @@ public class ResourceManager : IResourceManager
     public static readonly string RankLevelsFile = Path.Combine(BaseDirectory, "RankLevels.json");
     public static readonly string CombatAbilitiesFile = Path.Combine(BaseDirectory, "CombatAbilities.json");
     public static readonly string CombatJobsFile = Path.Combine(BaseDirectory, "CombatJobs.json");
+    public static readonly string EnemiesFile = Path.Combine(BaseDirectory, "Enemies.json");
+    public static readonly string CombatSettingsFile = Path.Combine(BaseDirectory, "CombatSettings.json");
 
 
     public IdToStringLookup HairMappings { get; }
@@ -103,6 +105,8 @@ public class ResourceManager : IResourceManager
     public RankLevelDefinitionCollection RankLevels { get; }
     public AbilityDefinitionCollection CombatAbilities { get; }
     public JobKitDefinitionCollection CombatJobs { get; }
+    public EnemyDefinitionCollection Enemies { get; }
+    public CombatSettingsCollection CombatSettings { get; }
 
     public ResourceManager(ILogger<ResourceManager> logger)
     {
@@ -156,6 +160,8 @@ public class ResourceManager : IResourceManager
         RankLevels = new(_logger);
         CombatAbilities = new(_logger);
         CombatJobs = new(_logger);
+        Enemies = new(_logger);
+        CombatSettings = new(_logger);
     }
 
     public bool Load()
@@ -241,6 +247,12 @@ public class ResourceManager : IResourceManager
             return false;
 
         if (!CombatJobs.Load(CombatJobsFile))
+            return false;
+
+        if (!Enemies.Load(EnemiesFile))
+            return false;
+
+        if (!CombatSettings.Load(CombatSettingsFile))
             return false;
 
         foreach (var kit in CombatJobs.Values)
@@ -424,6 +436,10 @@ public class ResourceManager : IResourceManager
                 loaded = CombatAbilities.Load(CombatAbilitiesFile);
             else if (e.FullPath == CombatJobsFile)
                 loaded = CombatJobs.Load(CombatJobsFile);
+            else if (e.FullPath == EnemiesFile)
+                loaded = Enemies.Load(EnemiesFile);
+            else if (e.FullPath == CombatSettingsFile)
+                loaded = CombatSettings.Load(CombatSettingsFile);
             else
                 _logger.LogWarning("Unknown file changed. File: {filepath}", e.FullPath);
 
