@@ -4,6 +4,22 @@ Carlos's observations from playing, newest first. Each note: what happened, what
 and whether it is a bug, a missing server feature, or a quality-of-life change. Triage decides which roadmap
 phase it lands in; QoL changes must pass the "remaster, not reimagine" rule in ROADMAP.md.
 
+## 2026-09-11 — quests, second session (branch `quests`: Sulphural's quest system + PR #120 levelling)
+Working: real quest-offer window with rewards and styled buttons, overhead "!" markers, map and minimap
+tracking, tracker panel with "Take Me There", journal, "New Goal" banners, quest chat log, rewards. "Introduce
+Yourself" and "Call the Crew" (to Shakey at Wildwood Speedway) play through.
+- **Talk cursor only on the "!" icon.** Hovering the NPC's body keeps the purple pointer; hovering the overhead
+  "!" shows a hand. Carlos remembers a purple speech-bubble cursor on the NPC itself. Open: the NPC-relevance
+  cursor packet is sent but has no visible effect; may need another flag.
+- **Journal opens on the wrong page.** First open shows a different quest area until the book tab ("Other
+  Quests") is clicked.
+- **Tracker glitches after closing the journal.** The quest detail panel needed its arrows clicked to recover.
+- **Dialogue camera too close.** Tune the camera focus parameter; compare with the MMOHut footage.
+- **No level-up.** Quest XP was display-only in that branch. Fixed the same night: quest XP now uses PR #120's
+  real levelling (persisted, rank table, level-up toast).
+- **Coins.** New characters get 999,999,999 coins (dev value in `login.json`). Carlos will recreate his character
+  once the economy is designed.
+
 ## 2026-09-10 — first playthrough
 - All jobs start at level 20. (Fixed on `integrate-upstream`: characters now start at level 1.)
 - NPCs cannot be clicked and have no dialogue. (In progress: conversation-window spike, untested.)

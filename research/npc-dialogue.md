@@ -293,3 +293,25 @@ quest and sends only the tracker/journal packets.
 7. **Interaction lock.** oxide disables interaction during a dialog and sends `FreeInteractNpc` after; the FR
    Lua has `SetInteractionEnabled` / `DisableDialogClose`. Verify what happens if the player walks away or gets
    a second InteractRequest mid-dialog.
+
+## F. Corrections from a working implementation (2026-09-11)
+
+We adopted Sulphural's `quest-upstream-v2` branch (github.com/Sulphural/Sanctuary), which gets the dialogue and
+quest UI right in the live client. What it taught us, versus our own first attempt:
+
+- **Button art is data, not defaults.** Each `CommandPacketShowDialog` response is
+  `{Id, ActionType, LabelTextId, Param1, Param2}`: `Param1` is the button's icon image id (check, X, return
+  arrow, plus) and `Param2` is the button background image set (e.g. the green button). We sent zeros there and
+  the client drew its "OOPS" placeholder banner.
+- **Let the client frame the camera.** They send zero camera vectors and put a focus parameter (1.0) in the float
+  after the escape flag; the client frames the speaker itself. Tune that parameter, not hand-built camera
+  positions, if the shot is too tight.
+- **Quest offers are not dialogue.** Offers and turn-ins use `QuestInfoPacket` (opcode 49, sub 1): the quest
+  card, "Show Details", rewards, and the green accept / tan decline buttons. `ShowDialog` is for the lines in
+  between ("You got it!").
+- **The NPC talks.** A talk animation plays on the speaker while a line is shown, and stops after.
+- **Markers.** Overhead quest icons come from `PlayerUpdatePacketAddNotifications` / `RemoveNotifications`
+  (image set per quest state), refreshed per player on every quest state change; map and minimap tracking comes
+  from `ObjectiveTargetUpdatePacket`; the tracker panel from the quest add / objective packets and `SelectQuest`.
+- **Method.** Recover a packet's layout from the client decompilation and the 2010 captures, test it live,
+  iterate; keep content in data (`Quests.json`, authoring guide in `src/Resources/QUESTS.md`).
