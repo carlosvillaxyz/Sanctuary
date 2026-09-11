@@ -98,7 +98,8 @@ public sealed partial class Player
     // jobs, 400 for the rest).
     private void RegenTick()
     {
-        if (IsDead)
+        // 0 while alive = not initialised yet (ApplyLevelStats fills it on zone entry).
+        if (IsDead || CurrentHealth <= 0)
             return;
 
         var max = MaxHealth;
@@ -188,7 +189,7 @@ public sealed partial class Player
     }
 
     /// <summary>Apply already-mitigated damage: drop health, push the bar, knock out at 0.</summary>
-    public void TakeDamage(int amount, Npc source)
+    public void TakeDamage(int amount, Npc? source)
     {
         if (IsDead || amount <= 0)
             return;
@@ -375,6 +376,28 @@ public sealed partial class Player
 
         SendTunneled(new EncounterOverworldCombatPacket { InWorldCombat = false });
         SendTunneled(new EncounterPacketIsFighting { InWorldCombat = false });
+    }
+
+    #endregion
+
+    #region Attacking
+
+    private long _nextBasicSwingTicks;
+
+    /// <summary>
+    /// One basic swing per recast window: the client fires presses faster than the swing plays, so extra
+    /// presses inside the window are dropped (no cast, no number). Shared by the toolbar (op36) and
+    /// click-to-attack (op32) paths so neither can out-pace the other.
+    /// </summary>
+    public bool TryGateBasicSwing(int recastMs)
+    {
+        var now = Environment.TickCount64;
+
+        if (now < _nextBasicSwingTicks)
+            return false;
+
+        _nextBasicSwingTicks = now + Math.Max(0, recastMs);
+        return true;
     }
 
     #endregion

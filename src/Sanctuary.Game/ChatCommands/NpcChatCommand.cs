@@ -1,4 +1,4 @@
-using System.Linq;
+﻿using System.Linq;
 using System.Numerics;
 
 using Sanctuary.Game.Entities;
@@ -57,7 +57,23 @@ public class NpcChatCommand : IChatCommand
             return true;
         }
 
-        if (!invoker.Zone.TryCreateNpc(null, definition, out var npc))
+        Npc? npc;
+
+        // A definition Enemies.json classifies as a monster spawns as a live enemy anchored where you stand, so a
+        // fight can be set up anywhere for testing.
+        if (_resourceManager.Enemies.TryResolve(definition, out var enemyStats))
+        {
+            if (!invoker.Zone.TryCreateCombatNpc(null, definition, enemyStats, out var enemy))
+            {
+                ChatHelper.SendSystemMessage(invoker, "The enemy could not be spawned.");
+                return true;
+            }
+
+            enemy.SpawnPosition = invoker.Position;
+            enemy.SpawnRotation = invoker.Rotation;
+            npc = enemy;
+        }
+        else if (!invoker.Zone.TryCreateNpc(null, definition, out npc))
         {
             ChatHelper.SendSystemMessage(invoker, "The NPC could not be spawned.");
             return true;

@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "Id":  1001,
         "Comment":  "archer generic - bare-hand fallback (no/unmapped weapon equipped)",
@@ -100,6 +100,7 @@
         "Comment":  "medic super - Triage (sheet dmg 'Heals: 254. Dmg: 889')",
         "EffectType":  "AoeDamageHeal",
         "Damage":  889,
+        "HealAmount":  254,
         "AoeRadius":  10,
         "EnergyCost":  100,
         "AnimationId":  1113,

@@ -9,6 +9,10 @@ public sealed class AbilityDefinition
     public string EffectType { get; set; } = "SweepDamage";
 
     public int Damage { get; set; }
+
+    /// <summary>Self-heal that lands with the hit (AoeDamageHeal specials such as Triage). Scaled like Damage.</summary>
+    public int HealAmount { get; set; }
+
     public int HitCount { get; set; }
     public float AoeRadius { get; set; }
     public int EnergyCost { get; set; }

@@ -987,6 +987,10 @@ public sealed partial class Player : ClientPcData, IEntity
         ForceDismount = true
     };
 
+    /// <summary>The equipped weapon's basic and special abilities for the active job's kit.</summary>
+    public (AbilityDefinition? Basic, AbilityDefinition? Special) ResolveWeaponAbilities(JobKitDefinition kit)
+        => ResolveWeaponAbilities(kit, GetEquippedWeaponDefinitionId());
+
     private (AbilityDefinition? Basic, AbilityDefinition? Special) ResolveWeaponAbilities(JobKitDefinition kit, int weaponDefinitionId)
     {
         var mapping = weaponDefinitionId != 0

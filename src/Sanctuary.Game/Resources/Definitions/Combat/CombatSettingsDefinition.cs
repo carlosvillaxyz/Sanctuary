@@ -45,8 +45,6 @@ public sealed class EnemyCombatSettings
     public float PositionBroadcastDistance { get; set; } = 0.3f;
 
     public byte AttackCursorId { get; set; } = 11;
-
-    public int HitAnimationHoldMs { get; set; } = 700;
 }
 
 public sealed class AbilityCombatSettings
@@ -59,4 +57,15 @@ public sealed class AbilityCombatSettings
 
     public int DodgeAnimationId { get; set; } = 1406;
     public int DodgeChancePercent { get; set; }
+
+    /// <summary>
+    /// Player ability damage by job level: CombatAbilities.json numbers are taken as the value at
+    /// DamageReferenceLevel and scaled by DamageGrowthPerLevel^(level - reference), the same 1.15 ratio the
+    /// captured health curve follows so time-to-kill stays flat across levels. Our design, not retail's.
+    /// </summary>
+    public int DamageReferenceLevel { get; set; } = 5;
+    public float DamageGrowthPerLevel { get; set; } = 1.15f;
+
+    /// <summary>A selected target may be this many times the job's reach away and still be hit (client lag).</summary>
+    public float SelectedTargetRangeSlack { get; set; } = 2f;
 }
