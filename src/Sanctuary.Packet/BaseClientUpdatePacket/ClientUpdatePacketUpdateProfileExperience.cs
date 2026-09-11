@@ -7,9 +7,11 @@ public class ClientUpdatePacketUpdateProfileExperience : BaseClientUpdatePacket,
     public new const short OpCode = 14;
 
     public int ProfileId;
-    public int XpGained;
-    public int TotalXpInLevel;
-    public int CurrentLevel;
+    public int Rank;
+    public int RankPercent;
+    public int StarsAvailable;
+    public int StarsEarned;
+    public int Unknown6;
 
     public ClientUpdatePacketUpdateProfileExperience() : base(OpCode)
     {
@@ -22,9 +24,11 @@ public class ClientUpdatePacketUpdateProfileExperience : BaseClientUpdatePacket,
         Write(writer);
 
         writer.Write(ProfileId);
-        writer.Write(XpGained);
-        writer.Write(TotalXpInLevel);
-        writer.Write(CurrentLevel);
+        writer.Write(Rank);
+        writer.Write(RankPercent);
+        writer.Write(StarsAvailable);
+        writer.Write(StarsEarned);
+        writer.Write(Unknown6);
 
         return writer.Buffer;
     }

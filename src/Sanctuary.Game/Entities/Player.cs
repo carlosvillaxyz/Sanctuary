@@ -84,17 +84,6 @@ public sealed class Player : ClientPcData, IEntity
 
     public System.Action? PendingQuestEndAction { get; set; }
 
-    public void AwardXp(int xp)
-    {
-        SendTunneled(new ClientUpdatePacketUpdateProfileExperience
-        {
-            ProfileId = ActiveProfileId,
-            XpGained = xp,
-            TotalXpInLevel = 0,
-            CurrentLevel = 0
-        });
-    }
-
     public ConcurrentDictionary<ChatChannel, bool> ChatChannelStatus { get; set; } = [];
 
     public int StationCash { get; set; }
@@ -660,6 +649,14 @@ public sealed class Player : ClientPcData, IEntity
             commandPacketInteractionList.List.Interactions.Add(GuildInviteInteraction.Data);
 
         player.SendTunneled(commandPacketInteractionList);
+    }
+
+    public void OnLevelUp(ClientPcProfile profile)
+    {
+        // TODO: Hook for player level-up mechanics. The reward manager will call
+        // this function whenever a level-up is detected for the given job.
+        // Use this to implement stat changes, or any other level-up specific
+        // benefits.
     }
 
     #endregion

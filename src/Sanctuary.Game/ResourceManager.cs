@@ -55,6 +55,7 @@ public class ResourceManager : IResourceManager
     public static readonly string QuestsFile = Path.Combine(BaseDirectory, "Quests.json");
     public static readonly string MapsDirectory = Path.Combine(BaseDirectory, "Maps");
     public static readonly string RewardTablesFile = Path.Combine(BaseDirectory, "Rewards.json");
+    public static readonly string RankLevelsFile = Path.Combine(BaseDirectory, "RankLevels.json");
     public static readonly string CombatAbilitiesFile = Path.Combine(BaseDirectory, "CombatAbilities.json");
     public static readonly string CombatJobsFile = Path.Combine(BaseDirectory, "CombatJobs.json");
 
@@ -99,6 +100,7 @@ public class ResourceManager : IResourceManager
 
     public RewardTableDefinitionCollection RewardTables { get; }
 
+    public RankLevelDefinitionCollection RankLevels { get; }
     public AbilityDefinitionCollection CombatAbilities { get; }
     public JobKitDefinitionCollection CombatJobs { get; }
 
@@ -151,6 +153,7 @@ public class ResourceManager : IResourceManager
         Quests = new(_logger);
         Maps = new(_logger);
         RewardTables = new(_logger);
+        RankLevels = new(_logger);
         CombatAbilities = new(_logger);
         CombatJobs = new(_logger);
     }
@@ -327,6 +330,9 @@ public class ResourceManager : IResourceManager
         if (!Maps.Load(MapsDirectory))
             return false;
 
+        if (!RankLevels.Load(RankLevelsFile))
+            return false;
+
         return true;
     }
 
@@ -412,6 +418,8 @@ public class ResourceManager : IResourceManager
                 loaded = Quests.Load(QuestsFile);
             else if (e.FullPath == RewardTablesFile)
                 loaded = RewardTables.Load(RewardTablesFile);
+            else if (e.FullPath == RankLevelsFile)
+                loaded = RankLevels.Load(RankLevelsFile);
             else if (e.FullPath == CombatAbilitiesFile)
                 loaded = CombatAbilities.Load(CombatAbilitiesFile);
             else if (e.FullPath == CombatJobsFile)

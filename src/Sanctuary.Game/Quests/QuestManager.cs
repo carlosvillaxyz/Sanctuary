@@ -11,6 +11,7 @@ using Sanctuary.Core.IO;
 using Sanctuary.Database;
 using Sanctuary.Database.Entities;
 using Sanctuary.Game.Entities;
+using Sanctuary.Game.Helpers;
 using Sanctuary.Game.Interactions;
 using Sanctuary.Game.Resources.Definitions;
 using Sanctuary.Game.Zones;
@@ -465,8 +466,8 @@ public sealed class QuestManager : IQuestManager
     private void FillRewardBundle(RewardBundleBase bundle, QuestDefinition quest)
     {
         bundle.Success = false;
-        bundle.Unknown1 = quest.RewardCoins;
-        bundle.RewardKind = quest.RewardExperience;
+        bundle.Coins = quest.RewardCoins;
+        bundle.Experience = quest.RewardExperience;
         bundle.Unknown3 = 0;
         bundle.Multiplier = 1f;
         bundle.IconId = -1;
@@ -971,7 +972,10 @@ public sealed class QuestManager : IQuestManager
 
         var experience = quest.RewardExperience;
         if (experience > 0)
-            player.AwardXp(experience);
+        {
+            using var db = _dbContextFactory.CreateDbContext();
+            RewardHelper.TryGrantExperience(_resourceManager, db, _logger, player, player.ActiveProfileId, experience);
+        }
 
         var grantedCollection = quest.RewardCollectionId != 0 &&
             _resourceManager.Collections.TryGetValue(quest.RewardCollectionId, out var rewardedCollection)
@@ -985,8 +989,8 @@ public sealed class QuestManager : IQuestManager
             // Success also gates whether each entry's tail is written; only the actual
             // collection id needs one here, so only flip it when there is a collection to report.
             celebration.RewardBundle.Success = grantedCollection is not null;
-            celebration.RewardBundle.Unknown1 = coins;
-            celebration.RewardBundle.RewardKind = experience;
+            celebration.RewardBundle.Coins = coins;
+            celebration.RewardBundle.Experience = experience;
             celebration.RewardBundle.Unknown3 = 0;
             celebration.RewardBundle.Multiplier = 1f;
             celebration.RewardBundle.IconId = -1;
