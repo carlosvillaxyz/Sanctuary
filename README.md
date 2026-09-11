@@ -8,7 +8,8 @@
 > which is why it lives here rather than upstream, whose contribution policy excludes AI-authored code.
 >
 > - [docs/ROADMAP.md](docs/ROADMAP.md) — the phased plan
-> - [docs/HANDOFF-2026-09-10.md](docs/HANDOFF-2026-09-10.md) — current status, decisions, next steps
+> - [docs/HANDOFF-2026-09-11.md](docs/HANDOFF-2026-09-11.md) — current status, decisions, next steps (previous: [2026-09-10](docs/HANDOFF-2026-09-10.md))
+> - [docs/PLAN-cobblestone.md](docs/PLAN-cobblestone.md) — the current milestone
 > - [research/README.md](research/README.md) — what game data survived the 2014 shutdown, and where
 > - [tools/asset-server/README.md](tools/asset-server/README.md) — the client's asset streaming protocol
 >
