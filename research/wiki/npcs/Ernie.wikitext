@@ -1,0 +1,27 @@
+<!-- Ernie | https://freerealms.fandom.com/wiki/Ernie | CC-BY-SA -->
+{{Infobox
+|name= Ernie
+|image= Ernie.jpg
+|gender= Male
+|race= Penguin
+|eye color= Green
+|location(s)= [[Snowhill]]
+|occupation= [[Postman]]}}
+'''Ernie''' is a penguin [[Non-Playable-Character|NPC]] that can be found in [[Snowhill]].
+
+==Appearances==
+*Free Realms Be the Postman Trailer
+*Free Realms 2nd Birthday Yearbook Video
+*[[Trading Card Game#Series 1 TCG Cards List|Trading Card Game Series 1]]
+
+==Gallery==
+<gallery>
+Bert & Ernie color.jpg|Concept art of [[Bert]] and Ernie by Jason Johnson.
+Cory-rohlfs-fr-characters.jpg|3D artwork of the characters by Cory Rohlfs.
+</gallery>
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Penguins]]
+[[Category:Postman]]
+[[Category:Snowhill]]
+[[Category:Trading Card Game]]

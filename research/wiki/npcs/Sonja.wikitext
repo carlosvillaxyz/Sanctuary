@@ -1,0 +1,34 @@
+<!-- Sonja | https://freerealms.fandom.com/wiki/Sonja | CC-BY-SA -->
+{{Infobox
+|Image file = Sonja.jpg
+|Row 1 title = Race
+|Row 1 info = [[Human]]
+|Row 2 title = Gender
+|Row 2 info = Female
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]
+|Row 4 title = Occupation
+|Row 4 info = [[Merchant]]
+|Box title = Sonja<br><Warrior Gear>}}
+'''Sonja''' is a female [[Human]] [[NPC]] [[Merchant]] that can be found in [[Snowhill]].
+
+Sonja sells [[Warrior]] [[Job]] related [[items]], and was introduced in game on the update of October 1, 2013.
+==Sells==
+*[[Combat Bonus Warrior Pauldrons]]
+*[[Combat Bonus Warrior Breeches]]
+*[[Combat Bonus Warrior Helm]]
+*[[Combat Bonus Warrior Gauntlets]]
+*[[Combat Bonus Warrior Hightops]]
+*[[Combat Bonus Warrior Tunic]]
+*[[Warrior's Flair Shard of Focus]]
+*[[Warrior's Power Shard of Vitality III]]
+*[[Warrior's Necklace of Vitality III]]
+*[[Warrior's Ring of Regeneration III]]
+*[[Warrior's Battle Hammer of Hurling]]
+*[[Warrior's Battle Hammer of Warcry]]
+*[[Warrior's Battle Hammer of Cleaving]]
+[[Category:Snowhill]]
+[[Category:Warrior]]
+[[Category:Human]]
+[[Category:NPC]]
+[[Category:Merchant]]

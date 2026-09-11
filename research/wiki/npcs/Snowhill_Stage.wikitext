@@ -1,0 +1,8 @@
+<!-- Snowhill Stage | https://freerealms.fandom.com/wiki/Snowhill Stage | CC-BY-SA -->
+{{LocationInfobox2
+|image= Snowhillstage.jpg
+|type= Stage
+|location= [[Snowhill]]}}
+The '''[[Snowhill]] Stage''' is a local stage for performances located in Snowhill. Famous appearance on this stage include performers such as [[Bruce]] and [[The Dares]].
+[[Category:Locations]]
+[[Category:Snowhill]]

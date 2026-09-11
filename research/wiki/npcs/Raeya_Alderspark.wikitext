@@ -1,0 +1,23 @@
+<!-- Raeya Alderspark | https://freerealms.fandom.com/wiki/Raeya%20Alderspark | CC-BY-SA -->
+{{Infobox
+|Box title = Raeya Alderspark
+|Image file = 
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Hair color
+|Row 3 info = Black
+|Row 4 title = Eye color
+|Row 4 info = Green
+|Row 5 title = Location(s)
+|Row 5 info = [[Lakeshore]]}}
+'''Raeya Alderspark''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in [[Lakeshore]].
+
+==[[Quests]]==
+*Quest:Flickering Flames
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Quest Givers]]
+[[Category:Lakeshore]]

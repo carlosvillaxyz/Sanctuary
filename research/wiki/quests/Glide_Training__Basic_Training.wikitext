@@ -1,0 +1,27 @@
+<!-- Quest:Glide Training: Basic Training | https://freerealms.fandom.com/wiki/Quest%3AGlide%20Training%3A%20Basic%20Training | CC-BY-SA -->
+{{Quest2
+|detail summary = Troy Ridewrangler in Seaside has asked me to use a launch pad to launch myself and my untrained glide-trainable ride through a fiery hoop in Merry Vale.|first reward = [[Proof of Training - Part 2 of 5|Proof of Training<br>- Part 2 of 5]]|first reward image name = Ticketquestreward.png}}{{Questprog
+|previous = [[Quest:Glide Training: Getting Started|Glide Training: Getting Started]]|quest series = [[Glide Training#Quests|Glide Training Quest Series]]|next = [[Quest:Glide Training: Confidence Is Key|Glide Training: Confidence Is Key]]}}
+==Requirements==
+Player must own a usable glide-trainable [[ride]] along with waiting at least one day after completion of [[Quest:Glide Training: Getting Started]] in order to do [[Quest:Glide Training: Basic Training]]
+==To Start==
+Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+==Goals==
+Bounce through the fiery hoop above the launch pad in Merry Vale while on your untrained glide-trainable ride.
+*Bounce through the Merry Vale hoop
+*Return to Troy Ridewrangler
+==Steps==
+#Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+#*"The second step in training a ride is to make sure that the ride understands the absolute basics of gliding.<br />Go to the launch pads in Merry Vale and jump through the fiery hoop above while riding your untrained glide-trainable ride." -Troy Ridewrangler
+#Bounce through the Merry Vale hoop
+#*While on your ride bounce on the specific launch pad in North-Eastern [[Merry Vale]], aim for the middle of the pad.
+#Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+#*"Good job! Your ride's understanding of the basics has been transferred to the Training Saddle!<br />Training is hard work. Come back tomorrow and we can continue the training!" -Troy Ridewrangler
+==References==
+*[[Glide Training]]
+*[[Troy Ridewrangler]]
+*[[Launch Pad]]
+*[[Merry Vale]]
+*[[Seaside]]
+*[[Rides]]
+[[Category:Quest]]

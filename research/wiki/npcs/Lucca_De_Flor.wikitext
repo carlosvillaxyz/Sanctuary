@@ -1,0 +1,46 @@
+<!-- Lucca De'Flor | https://freerealms.fandom.com/wiki/Lucca%20De%27Flor | CC-BY-SA -->
+{{Infobox
+|name= Lucca De'Flor
+|image= F6d4eecdf674c726f89ae2a68891901f.jpg
+|gender= Male
+|race= [[Pixies|Pixie]]
+|hair color= Light brown
+|eye color= Green
+|location(s)= [[Snowhill]]
+|occupation= [[Chef]]}}
+'''Lucca De'Flor''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in [[Snowhill]] where he's standing near his cooking table at 2 Icecrest Ct.
+
+==[[Quests]]==
+*Quest:Lucca's New Creation
+*Quest:Chef: Double Dog Dare
+*Quest:Chef: Achieve Level 15
+*Quest:Chef: Glerga
+*Quest:Helping the Local Chef <small>(repeatable)</small>
+
+==Appearances==
+*Quest:Lucca's New Creation
+*Quest:Snowhill Secret Society
+*Quest:Chef: The Food Reviewer
+*Quest:Chef: Double Dog Dare
+*Quest:Chef: Achieve Level 15
+*Quest:Chef: Glerga
+*Quest:Chef: Family Style <small>(mentioned)</small>
+*Quest:Cakey Clue
+*Quest:Birthday Cake Bake-off
+*Quest:Helping the Local Chef
+*[[Free Realms Issue 11]]
+*[[Free Realms Issue 12]]
+*[[Trading Card Game#Series 3 TCG Cards List|Trading Card Game Series 3]]
+
+==Gallery==
+<gallery>
+FR comics Lucca De'Flor.jpg|Lucca in Free Realms Issues 11-12.
+</gallery>
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Chef]]
+[[Category:Quest Givers]]
+[[Category:Snowhill]]
+[[Category:Comic]]
+[[Category:Trading Card Game]]

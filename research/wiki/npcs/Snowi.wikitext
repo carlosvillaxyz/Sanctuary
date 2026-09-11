@@ -1,0 +1,14 @@
+<!-- Snowi | https://freerealms.fandom.com/wiki/Snowi | CC-BY-SA -->
+{{Infobox
+|Box title = Snowi
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]}}
+'''Snowi '''is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in the [[Snowhill Stage]], located in [[Snowhill]].
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Snowhill]]

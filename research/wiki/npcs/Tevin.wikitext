@@ -1,0 +1,27 @@
+<!-- Tevin | https://freerealms.fandom.com/wiki/Tevin | CC-BY-SA -->
+{{Infobox
+|Box title = Tevin
+|Image file = Tevin.png
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Hair color
+|Row 3 info = Light brown
+|Row 4 title = Eye color
+|Row 4 info = Purple
+|Row 5 title = Location(s)
+|Row 5 info = [[Snowhill]]}}
+'''Tevin''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in [[Snowhill]].
+
+==[[Quests]]==
+*Quest:Brawler: Way of the Brawler
+
+==Appearances==
+*Quest:Brawler: The Growler Report
+*Quest:Brawler: Way of the Brawler
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Quest Givers]]
+[[Category:Snowhill]]

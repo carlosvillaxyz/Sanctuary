@@ -1,0 +1,50 @@
+<!-- Baron von Darkcheat (character) | https://freerealms.fandom.com/wiki/Baron%20von%20Darkcheat%20%28character%29 | CC-BY-SA -->
+''Were you looking for the [[Baron Von Darkcheat Booster Pack|Booster Pack]] or the [[Baron von Darkcheat Costume|costume]]?''
+{{Infobox
+|name= Baron von Darkcheat
+|image= baron v darkcheat.png
+|gender= Male
+|race= [[Dwarves|Dwarf]]
+|hair color= Black
+|eye color= Silver
+|location(s)= [[Snowhill]]<br>[[Seaside]]
+|occupation= [[Card Duelist|Card duelist]]}}{{Quote|Don't think this is over. I can restore the power of The First Deck! I just need to win a few games... and then no will be able to stop me from becoming the King of [[Sacred Grove]]!|Baron von Darkcheat, tell the player about his plan to becoming the King of Sacred Grove}}
+'''Baron von Darkcheat''' is an [[NPC]] [[Card Duelist|card duelist]] featuring as the primary antagonist of the TCG Heroes/[[Baron von Darkcheat]] [[Quests|questline]]. He is primarily at odds with the [[Realmkeepers]] ([[Crackshot]], [[Magetech]], [[Ghostshadow]], and [[Wildclaw]]), [[Madam Zelda]], and the player. The player must choose a “Realmkeeper” Cardie deck in the game to combat him, as he is threatening all of [[Sacred Grove]] with his own evil Mystery Chest Cardie deck. He is also said to have created the [[The Gloamstone|Gloamstone]], a presumably ancient weapon that would further aid in his evil plans.
+
+With their decks, players must win enough games against Baron and his three henchmen to ensure that Baron’s deck loses its power and fades from existence, foiling Baron’s plans to become King of Free Realms and plunge Sacred Grove into darkness.
+
+Similar to the Realmkeepers, there is also an outfit that can be gained by opening a Heroes TCG pack. From the packs, in-game décor such as trophies in the likeness of the Baron could also be obtained. On top of this, the Gloamstone becomes an obtainable hoverboard for players who complete the questline.
+
+==[[Quests]]==
+*Quest:Card Duelist: Baron von Darkcheat
+
+==Appearances==
+*Quest:Card Duelist: Dark Deal <small>(mentioned)</small>
+*Quest:Card Duelist: In Search of The Baron <small>(mentioned)</small>
+*Quest:Card Duelist: Suspicious Sneak <small>(indirectly mentioned)</small>
+*Quest:Card Duelist: To Catch a Sneak <small>(indirectly mentioned)</small>
+*Quest:Card Duelist: Finder of Secrets <small>(indirectly mentioned)</small>
+*Quest:Card Duelist: A Guide to The Baron <small>(indirectly mentioned)</small>
+*Quest:Card Duelist: Master Explorer <small>(indirectly mentioned)</small>
+*Quest:Card Duelist: Confronting The Baron
+*Quest:Card Duelist: Baron von Darkcheat
+*Quest:Card Duelist: Zelda's Warning <small>(mentioned)</small>
+*Quest:Card Duelist: Heart of Darkness <small>(mentioned)</small>
+*Quest:Card Duelist: Slow and Steady <small>(mentioned)</small>
+*Quest:Card Duelist: Stinky Feet <small>(mentioned)</small>
+*Quest:Card Duelist: Meet the Boss
+
+==Gallery==
+<gallery>
+Baron v darkcheat2.png|Baron von Darkcheat as seen in promotional art for the TCG Heroes questline.
+Gloamstone.jpg|Baron von Darkcheat holding the [[The Gloamstone|Gloamstone]].
+Baron v darkcheat3.png|Obtainable, in-game trophies in the likeness of Baron von Darkcheat.
+</gallery>
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Dwarves]]
+[[Category:Card Duelist]]
+[[Category:Quest Givers]]
+[[Category:Snowhill]]
+[[Category:Seaside]]
+[[Category:Trading Card Game]]

@@ -1,0 +1,11 @@
+<!-- Mr. Twinkle | https://freerealms.fandom.com/wiki/Mr. Twinkle | CC-BY-SA -->
+{{Infobox
+|name = Mr. Twinkle
+|image = Img 20130204-08-29-46 thumb.png 
+|gender = Male
+|race = [[Pixies|Pixie]]
+|location(s) = [[Snowhill]]}}'''Mr. Twinkle''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] located next to [[Big J]] in [[Snowhill]] in front of Big J's cafe.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Snowhill]]

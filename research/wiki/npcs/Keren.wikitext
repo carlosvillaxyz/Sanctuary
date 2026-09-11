@@ -1,0 +1,37 @@
+<!-- Keren | https://freerealms.fandom.com/wiki/Keren | CC-BY-SA -->
+{{Infobox
+|Box title = Keren
+|Image file = Keren.jpg
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = Thunder Falls Speedway, [[Lakeshore]]
+|Row 4 title = Occupation
+|Row 4 info = [[Brawler]]<br>[[Merchants|Merchant]]}}
+'''Keren''' is a [[Human|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found south of the [[Thunder Falls Raceway|Thunder Falls]] [[Speedways|Speedway]], located in [[Lakeshore]]. She sells exclusively [[Brawler]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*{{Member}}[[Stick and Move Brawler Shoulderpads]]
+*{{Member}}[[Stick and Move Brawler Pants]]
+*{{Member}}[[Stick and Move Brawler Helmet]]
+*{{Member}}[[Stick and Move Brawler Gloves]]
+*{{Member}}[[Stick and Move Brawler Boots]]
+*{{Member}}[[Stick and Move Brawler Jacket]]
+*[[Brawler's Flair Shard of Shattering]]
+*[[Brawler's Power Shard of Vitality IV]]
+*[[Brawler's Necklace of Vitality IV]]
+*[[Brawler's Drill Hammer of Slammage]]
+*[[Brawler's Drill Hammer of Dirt Kick]]
+*[[Brawler's Drill Hammer of Cheapshot]]
+*[[Brawler's Drill Hammer of Roundhouse]]
+
+==Trivia==
+*Keren was introduced in-game on August 6, 2013.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Human]]
+[[Category:Brawler]]
+[[Category:Merchant]]
+[[Category:Lakeshore]]

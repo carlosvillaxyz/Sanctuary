@@ -1,0 +1,32 @@
+<!-- Yaren Sunstare | https://freerealms.fandom.com/wiki/Yaren%20Sunstare | CC-BY-SA -->
+{{Infobox
+|Box title = Yaren Sunstare
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Hair color
+|Row 3 info = Dark blue
+|Row 4 title = Eye color
+|Row 4 info = Purple
+|Row 5 title = Location(s)
+|Row 5 info = [[Snowhill]]}}
+'''Yaren Sunstare''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in [[Snowhill]].
+
+==[[Quests]]==
+*Quest:Wizard: Merry Magical Story
+*Quest:Wizard: Lost Student
+*Quest:Wizard: Osgood as it Gets
+
+==Appearances==
+*Quest:Wizard: An Icy Mistake
+*Quest:Wizard: Merry Magical Story
+*Quest:Wizard: Feeding the Storyteller
+*Quest:Wizard: Lost Student
+*Quest:Wizard: Osgood as it Gets
+*Quest:Wizard: Helping a Friend <small>(mentioned)</small>
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Quest Givers]]
+[[Category:Snowhill]]

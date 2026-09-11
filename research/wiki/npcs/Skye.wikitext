@@ -1,0 +1,29 @@
+<!-- Skye | https://freerealms.fandom.com/wiki/Skye | CC-BY-SA -->
+{{Infobox
+|Image file = Skye.jpg
+|Row 1 title = Race
+|Row 1 info = [[Pixie]]
+|Row 2 title = Gender
+|Row 2 info = Female
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]
+|Row 4 title = Occupation
+|Row 4 info = [[Merchant]]
+|Box title = Skye<br><Chef Gear>}}
+'''Skye''' is a female [[Pixie]] [[NPC]] [[Merchant]] that can be found in near the  [[Snowhill]] [[Cooking Table]]. 
+
+Skye sells [[Chef]] [[Job]] related [[items]], and was introduced in game on the update of October 1, 2013.
+==Sells==
+*[[Broiled Chef Pants]]
+*[[Broiled Chef Hat]]
+*[[Broiled Chef Shoes]]
+*[[Broiled Chef Shirt]]
+*[[Chef's Charbroiled Flair Shard]]
+*[[Chef's Power Shard of Talent III]]
+*[[Chef's Ring of Talent III]]
+*[[Chef's Skillet of Timing III]]
+[[Category:Chef]]
+[[Category:NPC]]
+[[Category:Snowhill]]
+[[Category:Merchant]]
+[[Category:Pixie]]

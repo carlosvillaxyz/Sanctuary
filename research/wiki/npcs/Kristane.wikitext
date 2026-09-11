@@ -1,0 +1,36 @@
+<!-- Kristane | https://freerealms.fandom.com/wiki/Kristane | CC-BY-SA -->
+{{Infobox
+|Box title = Kristane
+|Image file = Kristane.jpg
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Lakeshore]]
+|Row 4 title = Occupation
+|Row 4 info = [[Brawler]]<br>[[Merchants|Merchant]]}}
+'''Kristane''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found near the [[Lakeshore]] [[Cooking Table]]. She sells exclusively [[Brawler]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*{{Member}}Rubber Match Brawler Shoulderpads
+*{{Member}}Rubber Match Brawler Pants
+*{{Member}}Rubber Match Brawler Helmet
+*{{Member}}Rubber Match Brawler Gloves
+*{{Member}}Rubber Match Brawler Boots
+*{{Member}}Rubber Match Brawler Jacket
+*[[Brawler's Power Shard of Regeneration III]]
+*Brawler's Ring of Energy III
+*Brawler's Necklace of Bark Skin III
+*[[Brawler's Anvil Hammer of Dirt Kick]]
+*[[Brawler's Anvil Hammer of Roundhouse]]
+*[[Brawler's Anvil Hammer of Sweeps]]
+
+==Trivia==
+*Kristane was introduced in-game on August 6, 2013.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Brawler]]
+[[Category:Merchant]]
+[[Category:Lakeshore]]

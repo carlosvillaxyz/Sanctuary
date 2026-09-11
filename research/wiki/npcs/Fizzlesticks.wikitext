@@ -1,0 +1,43 @@
+<!-- Fizzlesticks | https://freerealms.fandom.com/wiki/Fizzlesticks | CC-BY-SA -->
+{{Infobox
+|Box title = Fizzlesticks
+|Image file = Robcamp01.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Robgoblins|Robgoblin]]
+|Row 3 title = Eye color
+|Row 3 info = Red
+|Row 4 title = Location(s)
+|Row 4 info = [[Robgoblin Camp]], [[Lakeshore]]
+|Row 5 title = Occupation
+|Row 5 info = [[Wizard]]}}
+'''Fizzlesticks''' is a [[Robgoblins|robgoblin]] [[Non-Playable-Character|NPC]], and [[Wizard|wizard]] trainer that can be found in the [[Robgoblin Camp]], located in [[Lakeshore]].
+
+==[[Quests]]==
+*Quest:Wizard: How to be a Wizard
+*Quest:Wizard: I Can't Read This!
+*Quest:Wizard: Sticky Spell Book
+*Quest:Wizard: Lightning Bolt!
+*Quest:Wizard: The First Rule of Being a Wizard...
+*Quest:Wizard: Market Wizards
+*Quest:Wizard: Student Profits
+*Quest:Wizard: Reach Level 5
+*Quest:Wizard: An Icy Mistake
+
+==Appearances==
+*Quest:Wizard: How to be a Wizard
+*Quest:Wizard: I Can't Read This!
+*Quest:Wizard: Sticky Spell Book
+*Quest:Wizard: Lightning Bolt!
+*Quest:Wizard: The First Rule of Being a Wizard...
+*Quest:Wizard: Market Wizards
+*Quest:Wizard: Student Profits
+*Quest:Wizard: Reach Level 5
+*Quest:Wizard: An Icy Mistake
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Robgoblin]]
+[[Category:Wizard]]
+[[Category:Quest Givers]]
+[[Category:Lakeshore]]

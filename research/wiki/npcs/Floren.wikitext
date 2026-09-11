@@ -1,0 +1,58 @@
+<!-- Floren | https://freerealms.fandom.com/wiki/Floren | CC-BY-SA -->
+{{RaceInfobox
+|name= Floren
+|image= Floren.png
+|complexion= Leafy, shades of green, purple, orange
+|eye color= Orange, green, white
+|location(s)= [[Northern Wilds]]<br>[[Snowhill]]<br>[[Shrouded Glade]]<br>[[Bristlewood]]}}
+'''Floren''' are a plant-like sentient [[Races|race]] that live in the [[Floren Forest]]. Some of white pigmentation can be found in [[Snowhill]].
+
+==Notable Floren==
+===[[Sanctuary]]===
+*Jacque
+
+===[[Northern Wilds]]===
+*Lief
+*[[Floren Leafling]]
+*[[Floren Defender]]
+*[[Corrupted Floren]]
+*[[Bitterleaf]]
+
+===[[Blackspore Swamp]]===
+*Silverray
+
+===[[Bristlewood]]===
+*[[Vile Floren]]
+*[[Evil Floren]]
+*[[Grumpy Amaranthus]]
+
+===Other===
+*[[Friendly Leafling]]
+
+==Appearances==
+*[[Bristlewood Glade]]
+*[[Feisty Floren!]]
+*[[Floren Forest]]
+*[[Misty Mountain]]
+*[[Northern Wilds]]
+
+==Gallery==
+<gallery>
+FR Roster Dailey.jpg|Artwork of the rosters by Patrick Dailey.
+Fr filter 22.jpg
+Floren concept.jpg|Concept art
+The-free-realms-filter-55.webp
+Floren beautyshot.jpg|3D model and finished version by Alix Banegas.
+Floren Model.jpg|Model of the floren by Alix Banegas.
+Frcomicpitchart.jpg
+981.jpg
+</gallery>
+
+==Sources==
+*[https://www.deviantart.com/zatransis/art/Free-Realms-Comic-Pitch-Art-125162820 Free Realms Comic Pitch Art] on [https://www.deviantart.com/ DeviantArt]
+[[Category:Races]]
+[[Category:Floren]]
+[[Category:Wilds]]
+[[Category:Snowhill]]
+[[Category:Shrouded Glade]]
+[[Category:Bristlewood]]

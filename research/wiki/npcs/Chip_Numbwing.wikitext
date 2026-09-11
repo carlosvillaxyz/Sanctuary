@@ -1,0 +1,23 @@
+<!-- Chip Numbwing | https://freerealms.fandom.com/wiki/Chip Numbwing | CC-BY-SA -->
+{{Infobox
+|Box title = Chip Numbwing
+|Image file = Chip Numbwing.png
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Hair color
+|Row 3 info = Blonde
+|Row 4 title = Eye color
+|Row 4 info = Green
+|Row 5 title = Location(s)
+|Row 5 info = [[Seaside]]
+|Row 6 title = Occupation
+|Row 6 info = [[Fisherman]]<br>[[Merchants|Merchant]]}}
+'''Chip Numbwing''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found in [[Snowhill]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Fisherman]]
+[[Category:Merchant]]
+[[Category:Snowhill]]

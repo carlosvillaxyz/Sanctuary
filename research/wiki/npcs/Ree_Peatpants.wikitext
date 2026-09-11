@@ -1,0 +1,37 @@
+<!-- Ree Peatpants | https://freerealms.fandom.com/wiki/Ree Peatpants | CC-BY-SA -->
+{{Infobox
+|Box title = Ree Peatpants
+|Image file = Reepeat.png
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Eye color
+|Row 3 info = Blue
+|Row 4 title = Location(s)
+|Row 4 info = [[Snowhill]]
+|Row 5 title = Occupation
+|Row 5 info = [[Ninja]]}}
+'''Ree Peatpants''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found at south of [[Snowhill]], east of Perry's Pastures.
+
+==[[Quests]]==
+*Quest:Contract: Trouble in Snowhill <small>(repeatable)</small>
+*Quest:Contract: Sharp Claws and Sharper Swords <small>(repeatable)</small>
+*Quest:Contract: Fending off the Floren <small>(repeatable)</small>
+*Quest:Contract: Spirits and Spider Trainers <small>(repeatable)</small>
+
+==Appearances==
+*Quest:Ninja: Achieve Level 5
+*Quest:Contract: Trouble in Snowhill
+*Quest:Ninja: Achieve Level 10
+*Quest:Contract: Sharp Claws and Sharper Swords
+*Quest:Ninja: Achieve Level 15
+*Quest:Contract: Fending off the Floren
+*Quest:Ninja: Achieve Level 20
+*Quest:Contract: Spirits and Spider Trainers
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Ninja]]
+[[Category:Quest Givers]]
+[[Category:Snowhill]]

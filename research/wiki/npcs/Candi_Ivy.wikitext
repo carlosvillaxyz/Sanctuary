@@ -1,0 +1,49 @@
+<!-- Candi Ivy | https://freerealms.fandom.com/wiki/Candi Ivy | CC-BY-SA -->
+{{Infobox
+|name= Candi Ivy
+|image= Candi ivy.jpg
+|gender= Female
+|race= [[Human]]
+|hair color= Light brown
+|eye color= Brown
+|location(s)= [[Snowhill]] during the [[Snow Days]]}}
+'''Candi Ivy''' is a [[Human|human]] [[Non-Playable-Character|NPC]] that can be found near the [[The Gifting Tree|Gifting Tree]] during the [[Snow Days]] in [[Snowhill]].
+
+==[[Quests]]==
+*Quest:The Gifting Tree <small>(repeatable)</small>
+*Quest:Present Problems
+*Quest:Holiday Cheer
+*Quest:Silversnow's Sapling
+*Quest:Guarding the Gifting Tree
+*Quest:The Perfect Disguise
+*Quest:Robgoblin Robbery Ring
+*Quest:Snowmen Disassembly
+*Quest:An Unexpected Gift
+*Quest:Bye-Bye Supplies!
+
+==Appearances==
+*Quest:The Gifting Tree
+*Quest:Present Problems
+*Quest:Holiday Cheer
+*Quest:Silversnow's Sapling
+*Quest:Guarding the Gifting Tree
+*Quest:The Perfect Disguise
+*Quest:Robgoblin Robbery Ring
+*Quest:Snowmen Disassembly
+*Quest:An Unexpected Gift
+*Quest:Bye-Bye Supplies!
+
+==Gallery==
+<gallery>
+Screenshot of Candi Ivy.jpg
+</gallery>
+
+==Trivia==
+*Candi was named after one of the SOE employees who worked on the Marketing Team for ''[[Free Realms]]''.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Human]]
+[[Category:Quest Givers]]
+[[Category:Snowhill]]
+[[Category:Snow Days]]
+[[Category:Seasonal]]

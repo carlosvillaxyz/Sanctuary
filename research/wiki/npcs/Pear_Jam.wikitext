@@ -1,0 +1,19 @@
+<!-- Pear Jam | https://freerealms.fandom.com/wiki/Pear Jam | CC-BY-SA -->
+{{Infobox
+|Box title = Pear Jam
+|Image file = Pearjam.png
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Hair color
+|Row 3 info = White
+|Row 4 title = Eye color
+|Row 4 info = Purple
+|Row 5 title = Location(s)
+|Row 5 info = [[Wilds]]}}
+'''Pear Jam''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in the [[The Roadhouse|Roadhouse]], located in the [[Wilds]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Wilds]]

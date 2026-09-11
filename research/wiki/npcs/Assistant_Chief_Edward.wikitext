@@ -1,0 +1,15 @@
+<!-- Assistant Chief Edward | https://freerealms.fandom.com/wiki/Assistant Chief Edward | CC-BY-SA -->
+{{Infobox
+|Box title = Assistant Chief Edward
+|Image file = Assitantchiefsnowhill.png
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]}}
+'''Assistant Chief Edward''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] located in [[Snowhill]]. He sells Chef Supplies.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixies]]
+[[Category:Snowhill]]

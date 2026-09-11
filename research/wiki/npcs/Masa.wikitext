@@ -1,0 +1,34 @@
+<!-- Masa | https://freerealms.fandom.com/wiki/Masa | CC-BY-SA -->
+{{Infobox
+|Box title = Masa
+|Image file = Masa.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Lakeshore]]
+|Row 4 title = Occupation
+|Row 4 info = [[Blacksmith]]<br>[[Merchants|Merchant]]}}
+'''Masa''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found at the [[Lakeshore]] Crafting Station near the Lakeshore [[Cooking Table]]. He sells exclusively [[Blacksmith]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*{{Member}}[[Combining Blacksmith Apron]]
+*{{Member}}[[Combining Blacksmith Goggles]]
+*{{Member}}[[Combining Blacksmith Gloves]]
+*{{Member}}[[Combining Blacksmith Boots]]
+*{{Member}}[[Combining Blacksmith Shirt]]
+*[[Blacksmith's Flair Shard of Tempering]]
+*[[Blacksmith's Power Shard of Talent III]]
+*[[Blacksmith's Ring of Talent III]]
+*[[Blacksmith's Forgeblower of Talent III]]
+*[[Eclipse Infused Wand Recipe]]
+
+==Trivia==
+*Masa was introduced in-game on August 6, 2013.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Blacksmith]]
+[[Category:Merchant]]
+[[Category:Lakeshore]]

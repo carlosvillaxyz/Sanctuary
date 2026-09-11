@@ -1,0 +1,46 @@
+<!-- Fritti Bluebelle | https://freerealms.fandom.com/wiki/Fritti Bluebelle | CC-BY-SA -->
+{{characterInfobox
+ |name  = Fritti Bluebelle
+|image  = 
+|caption  = 
+|title  = 
+|gender  = Female
+|race  = Pixie
+|faction  = 
+|health  = 
+|level  = 
+|status  = Vendor (Member Only)
+|location  = Snowhill
+}}
+
+<!---useMultiEdit--->
+<!---descr="Several sentence lead section with bolded mention of '''article name'''."--->
+
+
+==Background==
+<!---descr="Background and history on the character (or interactive thing)."--->
+
+
+==Involvement==
+<!---descr="How it is involved in the game."--->
+
+She sells Medic clothing and tools.
+==Strategy==
+<!---descr="How to defeat the character if possible."--->
+
+
+==Quotes==
+<!---descr="List of quotes."--->
+
+"I have the medic tools if you need them. What I am saying is everyone needs Medic clothes"
+==Trivia==
+<!---descr="Games + trivia = match made in heaven."--->
+
+
+==See also==
+<!---descr="Links to other wiki articles."--->
+
+
+==External links==
+<!---descr="Links off-wiki."--->
+[[Category:NPC]]

@@ -1,0 +1,23 @@
+<!-- Lizzie Larkspur | https://freerealms.fandom.com/wiki/Lizzie%20Larkspur | CC-BY-SA -->
+{{Infobox
+|name= Lizzie Larkspur
+|image= 
+|gender= Female
+|race= [[Human]]
+|hair color= Mustard yellow
+|eye color= Purple
+|location= [[Lakeshore]]
+|occupation= [[Kart Driver|Kart driver]]}}
+'''Lizzie Larkspur''' is a [[Human|human]] [[Non-Playable-Character|NPC]] that can be found in [[Lakeshore]].
+
+==Gallery==
+<gallery>
+FR comics LizzieLarkspur.jpg|Lizzie Larkspur in the [[Free Realms Issue 3]].
+</gallery>
+
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Human]]
+[[Category:Kart Driver]]
+[[Category:Lakeshore]]
+[[Category:Comic]]

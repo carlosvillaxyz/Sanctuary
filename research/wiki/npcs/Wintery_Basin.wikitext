@@ -1,0 +1,20 @@
+<!-- Wintery Basin | https://freerealms.fandom.com/wiki/Wintery%20Basin | CC-BY-SA -->
+[[File:Wintery Basin.png|thumb|340px]] 
+'''Wintery Basin''' is a [[:Category:Difficulty 1|Difficulty 1]] fishing game.
+
+==[[Collections]]==
+*Snowhill Pond Fish
+*Snowhill Stream Fish
+*Extra Large Catch of the Day
+
+==Types of Fish==
+*Frozen Char - Catchable at level 1
+*Winter Piranha - Catchable at level 1
+*Frostgill Smelt - Catchable at level 5
+*Spineless Stickleback - Catchable at level 10
+*Blubracuda - Catchable at level 14
+*Coach Loach - Catchable at level 17
+*Ferocious Fangler - Catchable at level 20
+[[Category:Difficulty 1]]
+[[Category:Fishing]]
+[[Category:Snowhill]]

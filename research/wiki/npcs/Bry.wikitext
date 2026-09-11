@@ -1,0 +1,38 @@
+<!-- Bry | https://freerealms.fandom.com/wiki/Bry | CC-BY-SA -->
+{{Infobox
+|name= Bry
+|image= Bry.jpg
+|gender= Female
+|race= [[Pixies|Pixie]]
+|eye color= Light brown
+|location(s)= [[Lakeshore]]
+|occupation= [[Warrior]]<br>[[Card Duelist]]}}
+'''Bry''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in [[Lakeshore]].
+
+==Deck==
+* Sphere - Chaos
+* Trick - Berserker Shout
+* Resource - Spiked Bracers
+* Creature - Vine Wolf Companion
+* Hero - Bry
+
+==[[Quests]]==
+*Quest:Card Duelist: Battle Bry
+*Quest:Card Duelist: Cardie Party
+*Quest:Card Duelist: Garrisoning Garrison
+
+==Appearances==
+*Quest:Card Duelist: An Old Friend
+*Quest:Card Duelist: Battle Bry
+*Quest:Card Duelist: Cardie Party
+*Quest:Card Duelist: Garrisoning Garrison
+*Quest:Thieves About!
+*[[Trading Card Game#Series 1 TCG Cards List|Trading Card Game Series 1]]
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Warrior]]
+[[Category:Card Duelist]]
+[[Category:Quest Givers]]
+[[Category:Lakeshore]]
+[[Category:Trading Card Game]]

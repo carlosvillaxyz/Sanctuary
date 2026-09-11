@@ -1,0 +1,29 @@
+<!-- Reba | https://freerealms.fandom.com/wiki/Reba | CC-BY-SA -->
+{{Infobox
+|Image file = Reba.jpg
+|Row 1 title = Race
+|Row 1 info = [[Human]]
+|Row 2 title = Gender
+|Row 2 info = Female
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]
+|Row 4 title = Occupation
+|Row 4 info = [[Merchant]]|Box title = Reba<br><Postman Gear>}}
+'''Reba''' is a female [[Human]] [[NPC]] [[Merchant]] that can be found near the Post Office located in [[Snowhill]].
+
+Reba sells [[Postman]] [[Job]] related [[items]], and was introduced in game on the update of October 1, 2013.
+==Sells==
+*[[Postman's Power Shard of Timing III]]
+*[[Postman's Necklace of Timing III]]
+*[[Postman's Ring of Talent III]]
+*[[Certified Postman Skirt]]
+*[[Certified Postman Shorts]]
+*[[Certified Postman Hat]]
+*[[Certified Postman Gloves]]
+*[[Certified Postman Shoes]]
+*[[Certified Postman Shirt]]
+[[Category:Merchant]]
+[[Category:Postman]]
+[[Category:NPC]]
+[[Category:Snowhill]]
+[[Category:Human]]

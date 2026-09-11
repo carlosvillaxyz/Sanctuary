@@ -1,0 +1,18 @@
+<!-- Hank Fisticuffs | https://freerealms.fandom.com/wiki/Hank Fisticuffs | CC-BY-SA -->
+{{Infobox
+|Box title = Hank Fisticuffs
+|Image file = Img 20130204-10-25-20 thumb.png
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]
+|Row 4 title = Occupation
+|Row 4 info = [[Merchants|Merchant]]}}
+'''Hank Fisticuffs''' is a [[Human|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] located at [[Snowhill]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Merchant]]
+[[Category:Snowhill]]

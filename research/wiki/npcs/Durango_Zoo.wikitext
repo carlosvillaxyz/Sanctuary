@@ -1,0 +1,11 @@
+<!-- Durango Zoo | https://freerealms.fandom.com/wiki/Durango Zoo | CC-BY-SA -->
+{{LocationInfobox2
+|image= 081.jpg
+|type= Zoo
+|location= [[Lakeshore]]}}
+The '''Durango Zoo''' is a public open-air zoo with fenced enclosures for animals located on the northern banks of [[Lakeshore]]. It is a place where people can see the wild animals of [[Sacred Grove]] such as bears, antelopes, and more. The zookeeper of Durango Zoo is Sam Durango.
+
+{{Location}}
+[[Category:Locations]]
+[[Category:Lakeshore]]
+[[Category:Sacred Grove]]

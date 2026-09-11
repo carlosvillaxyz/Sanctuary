@@ -1,0 +1,26 @@
+<!-- Quest:Glide Training: License to Glide | https://freerealms.fandom.com/wiki/Quest%3AGlide%20Training%3A%20License%20to%20Glide | CC-BY-SA -->
+{{Quest2
+|detail summary = Troy Ridewrangler in Seaside has asked me to use a launch pad to launch myself and my untrained glide-trainable ride through a fiery hoop in Seaside.|first reward = [[Training Saddle of Gliding]]|first reward image name = trainingsaddlequest.png}}{{Questprog
+|previous = [[Quest:Glide Training: I'm Advanced!|Glide Training: I'm Advanced!]]|quest series = [[Glide Training#Quests|Glide Training Quest Series]]}}
+==Requirements==
+Player must own a usable glide-trainable [[ride]] along with waiting at least one day after completion of [[Quest:Glide Training: I'm Advanced!]] in order to do [[Quest:Glide Training: License to Glide]]
+==To Start==
+Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+==Goals==
+Bounce through the fiery hoop above the launch pad in Seaside while on your untrained glide-trainable ride.
+*Bounce through the Seaside hoop
+*Return to Troy Ridewrangler
+==Steps==
+#Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+#*"The fifth and final step in training a ride how to glide is to reinforce the lessons already learned.<br />Go to the launch pads in Seaside and jump through the fiery hoop above while riding your untrained glide-trainable ride." -Troy Ridewrangler
+#Bounce through the Lakeshore hoop
+#*While on your ride bounce on the specific launch pad in [[Seaside]], aim for the middle of the pad.
+#Speak with [[Troy Ridewrangler]] located near the [[Seaside]] [[Warpstones|Warpstone]].
+#*"Great job! The training reinforcement has been transferred to the saddle!<br />This saddle is now complete! Use the saddle or speak to me again and we can permanently transfer this knowledge to one of your untrained glide-traininable rides.<br />Speak to me again tomorrow if you'd like to start the training process from the beginning." -Troy Ridewrangler
+==References==
+*[[Glide Training]]
+*[[Troy Ridewrangler]]
+*[[Launch Pad]]
+*[[Seaside]]
+*[[Rides]]
+[[Category:Quest]]

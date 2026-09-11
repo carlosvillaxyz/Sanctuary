@@ -1,0 +1,30 @@
+<!-- Sorin | https://freerealms.fandom.com/wiki/Sorin | CC-BY-SA -->
+{{Infobox
+|Box title = Sorin
+|Image file = Sorinnametag.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Dwarves|Dwarf]]
+|Row 3 title = Eye color
+|Row 3 info = Light brown
+|Row 4 title = Location(s)
+|Row 4 info = [[Singing Crystal Mines]], [[Snowhill]]
+|Row 5 title = Occupation
+|Row 5 info = [[Miner]]}}
+'''Sorin''' is a [[Dwarves|dwarf]] [[Non-Playable-Character|NPC]] that can be found in the [[Singing Crystal Mines]], located in [[Snowhill]].
+
+==[[Quests]]==
+*Quest:Miner: Reach Level 5
+*Quest:Miner: Dartmoor Mining Camp
+
+==Appearances==
+*Quest:Miner: Gem Appraisal
+*Quest:Miner: Reach Level 5
+*Quest:Miner: Dartmoor Mining Camp
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Dwarves]]
+[[Category:Miner]]
+[[Category:Quest Givers]]
+[[Category:Snowhill]]

@@ -1,0 +1,205 @@
+<!-- Cragara | https://freerealms.fandom.com/wiki/Cragara | CC-BY-SA -->
+{{Infobox
+|title= Cragara<br><Mysterious Merchant>
+|image= cragara.png
+|caption= Cragara resting in [[Merry Vale]]
+|gender= Female
+|race= Snail
+|eye color= Black
+|location(s)= [[Seaside]]<br>[[Merry Vale]]<br>[[Snowhill]]<br>[[Blackspore Swamp]]<br>[[Briarwood]]<br>[[Sunstone Valley]]
+|occupation= [[Merchants|Merchant]]}}{{Quote|Has it come to see the wonders Cragara is selling today?|Cragara}}
+'''Cragara''', also known as the '''Mysterious Merchant''', is a mysterious [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that appears at [[Locations|locations]] at random offering items at random.
+
+Generally Cragara sells items that vary from regular [[Station Cash Marketplace|SC Marketplace]] [[Items|items]] with large discount prices, exclusive content that isn't available through the SC Marketplace, and SC Marketplace items at store price but available in rare, exclusive colors.
+
+Cragara is constantly relocating her shop and is not always available in [[World|Free Realms]]. She only offers the opportunity to purchase 4-6 different items at random and in limited quantity at each relocation.
+
+==Cragara's Shop Closed==
+{{Quote|Hmmm, is it a customer, perhaps interested in the rare items Cragara has brought to sell?<br>Ah, then it has arrived too soon! Cragara's journey from the [[Black Forest]] was long. Cragara must rest before the shop can be opened! But Cragara makes a promise... the items that Cragara brought will be worth the wait!|Cragara's resting dialogue}}
+Originally Cragara's shops were closed upon the in-game introduction of late 2012. When activated, Cragara provided dialogue explaining that she was resting after a long journey from Black Forest, an area that is located east of [[Stillwater Crossing]].
+
+==Locations==
+Cragara spawns in the six following locations: [[Seaside]], [[Merry Vale]], [[Snowhill]], [[Blackspore Swamp]], [[Briarwood]], and [[Sunstone Valley]].
+
+<gallery widths="650" position="center" hideaddbutton=true spacing="small">
+Cragaramap.jpg
+</gallery>
+
+==Items Cragara sells==
+{{Hidden|header=<h3>Clothing</h3>|content=
+*[[Astronaut Suit]]
+*[[Bat Mask]]
+*[[Beanie Cap]]
+*[[Boots of the Branch Druid]]
+*[[Boots of the Viper Druid]]
+*[[Bowling Pin Outfit]]
+*[[Cardboard Robot Head]]
+*[[Cat Ears]]
+*[[Cat Tail]]
+*[[Cyborg Eye]]
+*[[Designer Cowboy Boots]]
+*[[Dinosaur Outfit]]
+*[[Dog Ears]]
+*[[Dog Tail]]
+*[[Dragon Mask]]
+*[[Easy Reader Monocle]]
+*[[Fairy Antennae]]
+*[[Fluffy Boots]]
+*[[Fluffy Gloves]]
+*[[Freewheeler Biker Backpack]]
+*[[Freewheeler Biker Boots]]
+*[[Freewheeler Biker Gloves]]
+*[[Freewheeler Biker Goggles]]
+*[[Freewheeler Biker Jacket]]
+*[[Freewheeler Biker Pants]]
+*[[Frog Face]]
+*[[Glove of the Branch Druid]]
+*[[Glove of the Viper Druid]]
+*[[Greaser Biker Backpack]]
+*[[Greaser Biker Gloves]]
+*[[Greaser Biker Pants]]
+*[[Hood of the Branch Druid]]
+*[[Hood of the Viper Druid]]
+*[[Hoodie Plaid Jacket]]
+*[[Lion Mane]]
+*[[Military Cap]]
+*[[Milk Carton Suit]]
+*[[Octopus Hat]]
+*[[Oversized Ears]]
+*[[Panda Mask]]
+*[[Pants of the Branch Druid]]
+*[[Pants of the Viper Druid]]
+*[[Pinstripe Jacket]]
+*[[Pinstripe Pants]]
+*[[Pirate Corset]]
+*[[Pirate Hat]]
+*[[Pirate Pegleg Pants]]
+*[[Pirate Shirt]]
+*[[Plaid Sneakers]]
+*[[Polkadot Sunglasses]]
+*[[Ruby Encrusted Turban]]
+*[[Sailor Hat]]
+*[[Shoulder Pads of the Branch Druid]]
+*[[Shoulder Pads of the Viper Druid]]
+*[[Skeletal Hoodie]]
+*[[Smooth Dress Shoes]]
+*[[Superhero Mask]]
+*[[T-Rex Mask]]
+*[[Tiger Sunglasses]]
+*[[Tiki Mask]]
+*[[Top Hat]]
+*[[Torn Skinny Jeans]]
+*[[Tunic of the Branch Druid]]
+*[[Tunic of the Viper Druid]]
+*[[Tuxedo Jacket]]
+*[[Tuxedo Pants]]
+*[[Umbrella Hat]]
+*[[Unicorn Hat]]
+*[[Vintage Diving Suit]]
+}}
+{{Hidden|header=<h3>Flairs</h3>|content=
+*[[Emerald Glowing Flair Shard]]
+*[[Flourishing Sparkling Flair Shard]]
+}} {{Hidden|header=<h3>Housing</h3>|content=
+*[[Basic Swimming Pool]]
+*[[Blackspore Swamp House]]
+*[[Briarwood Bounce Castle]]
+*[[Creepy Laughter Painting]]
+*[[Crop Duster]]
+*[[Ernie Painting]]
+*[[From the Trash Bin Painting]]
+*[[Frostfang Cub Painting]]
+*[[Festival Pavilion]]
+*[[Gazebo]]
+*[[Giant Toilet Bowl]]
+*[[Jack-in-the-Box]]
+*[[Juice Bar]]
+*[[Large Wilds House]]
+*[[Mega Dance Floor]]
+*[[Ninja Master Painting]]
+*[[Oasis]]
+*[[Pirate Ship]]
+*[[Robgoblin Stage]]
+*[[Robgoblin Trunk]]
+*[[Rocket Ship]]
+*[[Round Mausoleum]]
+*[[Seaside Café]]
+*[[Seaside Windmill]]
+*[[Shrouded Greenhouse]]
+*[[Snowhill Lodge]]
+*[[Square Mausoleum]]
+*[[Stone Head]]
+*[[Sunstone Dam]]
+*[[Wacky Waving Arm Flailing Chatty]]
+*[[Wilds Café]]
+}}
+{{Hidden|header=<h3>Karts</h3>|content=
+*[[Barbed Crusher]]
+*[[Buccaneer Racer]]
+*[[Crazy Crusher]]
+*[[Cutlass Wrecker]]
+*[[Diego Speedster]]
+*[[Flytrap Crusher]]
+*[[Killer Crusher]]
+*[[Splash Zipper]]
+*[[Super Strike Speedster]]
+*[[Wicked Racer]]
+}}
+{{Hidden|header=<h3>Party Items</h3>|content=
+*[[Cursed Booty Cake]]
+*[[Ghost Tails Campfire]]
+*[[Party Crates]]
+*[[Pop-Dance Boombox]]
+*[[Rainbow Randomizer Boombox]]
+*[[Realms Roll Boombox]]
+*[[Totem Boombox]]
+}}{{Hidden|header=<h3>Pets</h3>|content=
+*[[Amira]]
+*[[Arcadius]]
+*[[Bort]]
+*[[Chibi]]
+*[[Chumly]]
+*[[Dashiell]]
+*[[Harley]]
+*[[Jinx]]
+*[[Kiri]]
+*[[Koko]]
+*[[Marlin]]
+*[[Milo]]
+*[[Peccadillo]]
+*[[Riley]]
+*[[Scout]]
+*[[Soccer Ball]]
+*[[Stretch]]
+*[[Zoey]]
+}} {{Hidden|header=<h3>Rides</h3>|content=
+*[[Dwarftech Chopper]]
+*[[Phoenix Ride|Phoenix]]
+*[[Pogo Stick]]
+*[[Robgoblin Mech]]
+*[[Striped Robgoblin Mech]]
+}}
+{{Hidden|header=<h3>Weapons/Tools</h3>|content=
+*[[Cactus Club]]
+*[[Genie Lamp]]
+*[[Polka Dot Umbrella]]
+*[[Yo-Yo]]
+}}
+
+==Gallery==
+<gallery>
+Cragara The Merchant.jpg
+</gallery>
+
+==Trivia==
+*Cragara is currently the only known snail in [[World|Free Realms]].
+**However there is a snail guard in one of ''[[Free Realms]]'' roster arts we have seen, thus implying that there are more of Cragara's kind.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Merchant]]
+[[Category:Seaside]]
+[[Category:Merry Vale]]
+[[Category:Snowhill]]
+[[Category:Briarwood]]
+[[Category:Blackspore]]
+[[Category:Sunstone Valley]]

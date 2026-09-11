@@ -1,0 +1,38 @@
+<!-- Vaal | https://freerealms.fandom.com/wiki/Vaal | CC-BY-SA -->
+{{Infobox
+|Box title = Vaal<br><Miner Gear>
+|Image file = Vaal.jpg
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Hair color
+|Row 3 info = Light brown
+|Row 4 title = Eye color
+|Row 4 info = Silver
+|Row 5 title = Location(s)
+|Row 5 info = [[Snowhill]]
+|Row 6 title = Occupation
+|Row 6 info = [[Miner]]<br>[[Merchants|Merchant]]}}
+'''Vaal''' is a [[Human|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found at the crafting station near the [[Singing Crystal Mines]], located in [[Snowhill]]. She sells [[Miner]] [[Job]] related [[Items|items]].
+
+==Sells==
+*[[Open-Pit Miner Kerchief]]
+*[[Open-Pit Miner Overalls]]
+*[[Open-Pit Miner Helmet]]
+*[[Open-Pit Miner Gloves]]
+*[[Open-Pit Miner Boots]]
+*[[Open-Pit Miner Shirt]]
+*[[Miner's Flair Shard of Gold Rush]]
+*[[Miner's Power Shard of Talent III]]
+*[[Miner's Ring of Talent III]]
+*[[Miner's Dynamite of Talent III]]
+
+==Trivia==
+*Vall was introduced in-game on the update of October 15, 2013.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Human]]
+[[Category:Miner]]
+[[Category:Merchant]]
+[[Category:Snowhill]]

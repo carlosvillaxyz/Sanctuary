@@ -12,15 +12,21 @@ Plan that acts on this: [../docs/ROADMAP.md](../docs/ROADMAP.md). Current status
 |---|---|---|
 | Client (v1.910, final 2014 build) + ~3.8 GiB streamed assets | Complete | community CDN (opensourcefreerealms.com); our `tools/asset-server` caches it |
 | Item table, models, stores, bundles, collections, POIs, house zones | Complete, already JSON | Sanctuary `src/Resources/*.json`; FabledRealms `data/items.json` (27 MB) |
-| All in-game strings (item names, NPC lines by NameId, e.g. 8130 = "Welcome to Free Realms!") | Complete | client `en_us_data.dat/.dir`; reader: `Udaya-X2/FreeRealmsLocaleTools` |
+| All in-game strings (item names, NPC names, quest text, e.g. 8130 = "Welcome to Free Realms!") | **Extracted**: `tools/locale/extract_strings.py` -> `strings/en_us.json` (85,932 strings, git-ignored, regenerable) | client `locale/en_us_data.dat`: `hash	tag	text`, hash = Jenkins lookup2 of `Global.Text.<id>` |
 | Job list (17), unlock NPCs, trainer chains, per-level skills/traits for the 6 combat jobs, dungeon list + level tiers, combat rules | Complete as text | Fandom job pages -> `wiki/pages/` |
 | Zone/town geography, warpstones, area volumes | Complete | client `custom/FabledRealmsAreas.xml` (1,279 volumes); FabledRealms `zone_areas.json`; `wiki/pages/Locations` etc. |
-| NPC placements (guid, NameId, ModelId, position, heading) | ~3,500 spawns: Snowhill (2,393), wilds, Sanctuary, Sunstone, minigame arenas. NOT Seaside/Merry Vale/Briarwood/Blackspore/Shrouded Glade/Wugachug | `yungcomputerchair/free-realms-re` `data/npc_spawns_unique.json` (decoded from 2010 packet captures in the old OSFR repo `ofrserver/Packets/`) |
-| Quest content with verbatim NPC dialogue | 52 quests fully transcribed -> `wiki/quests/`. Several hundred more exist only as names (per-job chains on the job pages) | Fandom `Quest:` namespace |
+| NPC placements (guid, NameId, ModelId, position, heading) | 3,521 spawns, all named via the string table. Real towns: **Snowhill ~380** (the raw label says 2,393 but ~2,000 of those are house-instance furniture), Lakeshore 121, Sanctuary ~160, wilds, Sunstone, minigame arenas. **Zero** for Seaside, Merry Vale, Briarwood, Blackspore, Shrouded Glade, Wugachug, Cobblestone, Highroad | `yungcomputerchair/free-realms-re` (2010 packet captures) -> `npc-spawns/` (`build_snowhill_roster.py`, rosters); analysis in `pilot-town.md` |
+| Quest content with verbatim NPC dialogue | 59 quests transcribed -> `wiki/quests/` (the whole `Quest:` namespace). **Plus: the client string table holds the original text of far more quests** in contiguous id blocks (e.g. 36809-36837 = Noisy Neighbors / Noise Permit, word for word). Only the quest -> step -> NPC binding is lost | Fandom + `strings/en_us.json` |
 | Packet catalogue | 343 packets / 63 families documented | `yungcomputerchair/free-realms-re` PACKETS.md + catalog.db |
 | XP/star curve per level, coin/loot tables, mob stats & AI, dungeon scripts, minigame rules | **Lost.** Must be designed | none |
 | Combat ability numbers | Community spreadsheet, not SOE data | Sanctuary `CombatAbilities.json` (cites "the sheet" from the OSFR Discord) |
 | `.cdt`, `.dsk`, `.gr2` (Granny) format specs | No public docs | – |
+
+## Pilot town: Snowhill
+
+See `pilot-town.md`. Snowhill is the only town with positions + wiki coverage + dialogue; 82 named NPCs placed,
+8 quest givers, 4 job unlocks. Lakeshore is the runner-up. `npc-dialogue.md` covers how NPC conversation worked
+in the original client (a Flash window with choices, not bubbles; unvoiced) and how the server drives it.
 
 ## Key facts for design
 

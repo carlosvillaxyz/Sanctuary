@@ -1,0 +1,38 @@
+<!-- River | https://freerealms.fandom.com/wiki/River | CC-BY-SA -->
+{{Infobox
+|Box title = River
+|Image file = River.jpg
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Lakeshore]]
+|Row 4 title = Occupation
+|Row 4 info = [[Medic]]<br>[[Merchants|Merchant]]}}
+'''River''' is a [[Human|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found south of the [[Thunder Falls Raceway|Thunder Falls]] [[Speedways|Raceway]]. She sells exclusively [[Medic]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*{{Member}}[[Pressure Wave Medic Backpack]]
+*{{Member}}[[Pressure Wave Medic Fatigues]]
+*{{Member}}[[Pressure Wave Medic Helmet]]
+*{{Member}}[[Pressure Wave Medic Gloves]]
+*{{Member}}[[Pressure Wave Medic Boots]]
+*{{Member}}[[Pressure Wave Medic Jacket]]
+*[[Medic's Flair Shard of Infection]]
+*[[Medic's Power Shard of Vitality IV]]
+*[[Medic's Necklace of Vitality IV]]
+*[[Medic's Ring of Regeneration IV]]
+*[[Medic's Megasaw of Vitae]]
+*[[Medic's Megasaw of Shock]]
+*[[Medic's Megasaw of Alarm]]
+*[[Medic's Megasaw of Vitals]]
+
+==Trivia==
+*River was introduced in-game on August 27, 2013.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Human]]
+[[Category:Medic]]
+[[Category:Merchant]]
+[[Category:Lakeshore]]

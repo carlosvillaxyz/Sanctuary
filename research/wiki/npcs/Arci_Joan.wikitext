@@ -1,0 +1,20 @@
+<!-- Arci Joan | https://freerealms.fandom.com/wiki/Arci Joan | CC-BY-SA -->
+{{Infobox
+|Box title = Arci Joan
+|Image file = Img 20130205-11-40-43 thumb.png
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]}}
+'''Arci Joan''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] located in [[Snowhill]] next to Easy Penguin Defense mini-game.
+
+== Trivia ==
+
+* Her name is a reference to Joan of Arc.
+
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixies]]
+[[Category:Snowhill]]

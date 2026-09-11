@@ -1,0 +1,17 @@
+<!-- Buren | https://freerealms.fandom.com/wiki/Buren | CC-BY-SA -->
+{{Infobox
+|Box title = Buren
+|Image file = Buren.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Dwarves|Dwarf]]
+|Row 3 title = Eye color
+|Row 3 info = Green
+|Row 4 title = Location(s)
+|Row 4 info = [[Snowhill]]}}
+'''Buren''' is a [[Dwarves|dwarf]] [[Non-Playable-Character|NPC]] located at the [[Singing Crystal Mines]] in [[Snowhill]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Dwarves]]
+[[Category:Snowhill]]

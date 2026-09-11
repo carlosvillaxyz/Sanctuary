@@ -1,0 +1,15 @@
+<!-- Silversnow | https://freerealms.fandom.com/wiki/Silversnow | CC-BY-SA -->
+{{Infobox
+|name= Silversnow
+|image= 7c1af63564ac6a37f2dff7f94f9ced75.png
+|gender= Male
+|race= [[Pixies|Pixie]]
+|location(s)= [[Snowhill]]}}
+'''Silversnow''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in [[Snowhill]]. He is an elderly man who has been waiting in front of the [[Crystal Barrier]] for hundreds of years. He waited for the Crystal Barrier to open, and to finally be reunited with the [[Elves]] on the other side. Silversnow carried a box of fruitcake he had prepared for the Elves' return.
+
+==Trivia==
+*Silversnow were supposed get to see the Elves, but it never happened before the game shut down.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Snowhill]]

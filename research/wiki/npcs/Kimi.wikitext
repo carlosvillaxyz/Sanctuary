@@ -1,0 +1,36 @@
+<!-- Kimi | https://freerealms.fandom.com/wiki/Kimi | CC-BY-SA -->
+{{Infobox
+|Box title = Kimi
+|Image file = Kimi.jpg
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Lakeshore]]
+|Row 4 title = Occupation
+|Row 4 info = [[Archer]]<br>[[Merchants|Merchant]]}}
+'''Kimi''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found near the [[Lakeshore]] [[Cooking Table]]. She sells exclusively [[Archer]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*{{Member}}[[Cross Wind Archer Quiver]]
+*{{Member}}[[Cross Wind Archer Leggings]]
+*{{Member}}[[Cross Wind Archer Cap]]
+*{{Member}}[[Cross Wind Archer Gloves]]
+*{{Member}}[[Cross Wind Archer Boots]]
+*{{Member}}[[Cross Wind Archer Hoodie]]
+*[[Archer's Power Shard of Vitality III]]
+*[[Archer's Necklace of Vitality III]]
+*[[Archer's Ring of Regeneration III]]
+*[[Archer's Composite Bow of Splintering]]
+*[[Archer's Composite Bow of Explosions]]
+*[[Archer's Composite Bow of Volleys]]
+
+==Trivia==
+*Kimi was introduced in-game on August 6, 2013.
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Archer]]
+[[Category:Merchant]]
+[[Category:Lakeshore]]

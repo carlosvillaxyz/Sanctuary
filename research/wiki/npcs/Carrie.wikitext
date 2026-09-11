@@ -1,0 +1,14 @@
+<!-- Carrie | https://freerealms.fandom.com/wiki/Carrie | CC-BY-SA -->
+{{Infobox
+|Box title = Carrie
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]}}
+'''Carrie''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] located at [[Snowhill]].
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Snowhill]]

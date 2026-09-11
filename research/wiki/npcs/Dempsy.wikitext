@@ -1,0 +1,37 @@
+<!-- Dempsy | https://freerealms.fandom.com/wiki/Dempsy | CC-BY-SA -->
+{{Infobox
+|Box title = Dempsy
+|Image file = Dempsy.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]
+|Row 4 title = Occupation
+|Row 4 info = [[Brawler]]<br>[[Merchants|Merchant]]}}
+'''Dempsy''' is a [[Human|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found near the [[Snowhill Post Office]] located in [[Snowhill]]. He sells [[Brawler]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*[[Catchweight Brawler Shoulderpads]]
+*[[Catchweight Brawler Pants]]
+*[[Catchweight Brawler Helmet]]
+*[[Catchweight Brawler Gloves]]
+*[[Catchweight Brawler Boots]]
+*[[Catchweight Brawler Jacket]]
+*[[Brawler's Flair Shard of Fire]]
+*[[Brawler's Power Shard of Vitality III]]
+*[[Brawler's Necklace of Vitality III]]
+*[[Brawler's Ring of Regeneration III]]
+*[[Brawler's Anvil Hammer of Cheapshot]]
+*[[Brawler's Anvil Hammer of Pummeling]]
+*[[Brawler's Anvil Hammer of Rumbling]]
+
+==Trivia==
+*Dempsy was introduced in-game on the update of August 6, 2013.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Brawler]]
+[[Category:Merchant]]
+[[Category:Snowhill]]

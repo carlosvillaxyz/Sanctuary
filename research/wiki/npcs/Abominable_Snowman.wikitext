@@ -1,0 +1,57 @@
+<!-- Abominable Snowman | https://freerealms.fandom.com/wiki/Abominable%20Snowman | CC-BY-SA -->
+{{Infobox
+|name= Abominable Snowman
+|image= Abominable snowman.jpg
+|gender= Male
+|race= Unknown
+|eye color= Black
+|location(s)= [[Snowhill]] during the [[Snow Days]]}}
+The '''Abominable Snowman''' is an [[:Category:Enemies|enemy]] [[Non-Playable-Character|NPC]] [[Boss|boss]] featured as the main antagonist of the [[Snow Days]]. He is the giant snow monster, his main goal while arrived is to stealing presents in [[Snowhill]] which all the people will be upset.
+
+==Open World Battle==
+During the Snow Days, a message will pop up saying "Snowman Invaders are stealing presents in Snowhill". While the Abominable Snowman is arrived, the snowball piles appear on the pathways of Snowhill which you will find somewhere near where the Abominable Snowman is. Bring snowballs to throw him and stop the snowmen from stealing presents.
+
+Once defeated, the Abominable Snowman drops a special treasure chest that rewards the players that assisted in that specific battle a Snow Days themed item. If he wins, he will successfully stealing presents that will make all the people upset and disappear, which will not drop anything.
+
+==Dialogues==
+{{Quote|Buhahaha! Soon all of your gifts will be MINE!|The Abominable Snowman}}
+
+{{Quote|Nooo! You can't stop me! NOOO!|The Abominable Snowman, when the player defeat him}}
+
+{{Quote|Buahahaha! One more gift for ME!|The Abominable Snowman, when he wins to steal a present}}
+
+==TCG==
+[[File:Abominablesnowman.jpg|220px|right]]
+In December 2012 during the Snow Days, a [[Trading Card Game]] promotional Hero card was introduced based on Abominable Snowman in a Heroes TCG Bundle. The bundle contained two Baron von Darkcheat Booster Packs, two Heroes Booster Packs, and one Abominable Snowman promo card. The card's ID is 4P24.
+
+==Boss Cake==
+The Abominable Snowman is included in the [[Birthday Bash]] [[Station Cash Marketplace|SC Marketplace]] [[Items|item]] named the [[Boss Cake]]. The Boss Cake grants players an illusion to appear as a boss.
+
+==Appearances==
+*Free Realms Holiday TV Spot
+*[[Trading Card Game#Series 4 TCG Cards List|Trading Card Game Series 4]]
+*Free Realms Snow Days Commercial
+
+==Gallery==
+<gallery>
+FreeRealms SnowmanBoss.jpg|Concept art of the Abominable Snowman by Steve Merghart.
+FreeRealms snowmanBoss 3D.jpg|3D model of the Abominable Snowman by Steve Merghart.
+EventsSnowman.jpg|Promotional image
+Blog 16.jpg|Teaser image
+6516940105 96943f6467 o.jpg
+</gallery>
+
+==Trivia==
+*Unlike the [[Cakenstein|three]] [[Stone Heart|seasonal]] [[Pumpkin Prince|bosses]], the Abominable Snowman is the only seasonal boss that didn't have the combat [[Mini-Games|minigame]]. 
+
+==Sources==
+*[http://freerealms.wordpress.com/2009/12/11/december-update-preview-pt-2 December Update Preview, Pt. 2] on [http://freerealms.wordpress.com/ Official ''Free Realms'' Blog]
+*[http://stevemerghart.blogspot.ca/2013/09/freerealms.html It's the Meatiest!: FreeRealms] on [http://stevemerghart.blogspot.ca/ It's the Meatiest] (The online portfolio of Steve Merghart)
+[[Category:NPC]]
+[[Category:Boss]]
+[[Category:Enemies]]
+[[Category:Males]]
+[[Category:Snowhill]]
+[[Category:Snow Days]]
+[[Category:Seasonal]]
+[[Category:Trading Card Game]]

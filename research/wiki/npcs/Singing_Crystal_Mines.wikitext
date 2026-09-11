@@ -1,0 +1,23 @@
+<!-- Singing Crystal Mines | https://freerealms.fandom.com/wiki/Singing Crystal Mines | CC-BY-SA -->
+{{Infobox
+|Image file = Screen Shot 2016-06-29 at 1.43.49 PM.png
+|Row 1 title = Type
+|Row 1 info = Mining corporation
+|Row 2 title = Location
+|Row 2 info = [[Snowhill]]}}
+The '''Singing Crystal Mines''' is a mining corporation located in [[Snowhill]], in which mostly [[Pixies|pixies]], [[Chugawugs|chugawugs]], and [[Dwarves|dwarves]] work. It is one of the five [[Mines|mines]] in-game and one of the three to be found in an actual cave; the others being in [[Briarwood]] and in the [[Southern Wilds]] near the [[Lavender Coast Pass]] [[Warpstones|warpstone]]. It is full of different mining games of different materials, mostly copper ore and turquoise. Moreover, it's the largest mine in material.
+
+Outside sits the welding anvil for [[Blacksmith]]'s making this possibly the best location work to work with in blacksmithing before the release of [[Sunstone Valley]].
+
+==[[Dungeons]]==
+*[[The Bat Cave!]]
+*[[Deep Mines]]
+
+==Gallery==
+<gallery>
+Singing Crystal Mines Interior Concept Art.jpg|Concept art of interior of the Singing Crystal Mines.
+Img 20130117-17-52-44.jpg
+</gallery>
+[[Category:Locations]]
+[[Category:Snowhill]]
+[[Category:Mines]]

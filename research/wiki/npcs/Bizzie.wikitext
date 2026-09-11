@@ -1,0 +1,17 @@
+<!-- Bizzie | https://freerealms.fandom.com/wiki/Bizzie | CC-BY-SA -->
+{{Infobox
+|Box title = Bizzie
+|Image file = Bizzie.jpg
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Robgoblins|Robgoblin]]
+|Row 3 title = Eye color
+|Row 3 info = Purple
+|Row 4 title = Location(s)
+|Row 4 info = [[Robgoblin Camp]], [[Lakeshore]]}}
+'''Bizzie''' is a [[Robgoblins|robgoblin]] [[Non-Playable-Character|NPC]] that can be found in the [[Robgoblin Camp]], located in [[Lakeshore]].
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Robgoblin]]
+[[Category:Lakeshore]]

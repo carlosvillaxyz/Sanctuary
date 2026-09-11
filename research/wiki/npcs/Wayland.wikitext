@@ -1,0 +1,33 @@
+<!-- Wayland | https://freerealms.fandom.com/wiki/Wayland | CC-BY-SA -->
+{{Infobox
+|Box title = Wayland
+|Image file = Wayland.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]
+|Row 4 title = Occupation
+|Row 4 info = [[Blacksmith]]<br>[[Merchants|Merchant]]}}
+'''Wayland''' is a [[Humans|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found at the crafting station near the [[Singing Crystal Mines]] in [[Snowhill]]. He sells exclusively [[Blacksmith]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*[[Bending Blacksmith Apron]]
+*[[Bending Blacksmith Goggles]]
+*[[Bending Blacksmith Gloves]]
+*[[Bending Blacksmith Boots]]
+*[[Bending Blacksmith Shirt]]
+*[[Blacksmith's Flair Shard of Tempering]]
+*[[Blacksmith's Power Shard of Timing III]]
+*[[Blacksmith's Necklace of Timing III]]
+*[[Blacksmith's Forgeblower of Timing III]]
+
+==Trivia==
+*Wayland was introduced in-game on August 6, 2013.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Blacksmith]]
+[[Category:Merchant]]
+[[Category:Snowhill]]

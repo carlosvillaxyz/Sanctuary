@@ -1,0 +1,30 @@
+<!-- Frostpetal | https://freerealms.fandom.com/wiki/Frostpetal | CC-BY-SA -->
+{{Infobox
+|name= Frostpetal
+|image= F3dc4e23eb59b6f37f732b010959ad9e.png
+|gender= Female
+|race= [[Pixies|Pixie]]
+|hair color= Orange
+|eye color= Green
+|location(s)= [[Snowhill]]}}
+'''Frostpetal''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] that can be found in [[Snowhill]]. She stands to the right in front of the entrance.
+
+==[[Quests]]==
+*Quest:Meet the Mayor!
+*Quest:Ninja: Return to the Mentor
+
+==Appearances==
+*Quest:Meet the Mayor!
+*Quest:Snowhill Secret Society
+*Quest:Ninja: Return to the Mentor
+*Quest:Ninja: Troubled Waters
+
+==Gallery==
+<gallery>
+ConceptArt Frostpetal.jpg|Concept art of Frostpetal by Jason Johnson.
+</gallery>
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Quest Givers]]
+[[Category:Snowhill]]

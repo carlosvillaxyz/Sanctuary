@@ -1,0 +1,72 @@
+<!-- Pumpkin Prince | https://freerealms.fandom.com/wiki/Pumpkin%20Prince | CC-BY-SA -->
+{{Infobox
+|name= Pumpkin Prince
+|image= 4a685beda430321c55bcc27ee44402c3.th96.png
+|gender= Male
+|race= Unknown
+|eye color= White
+|location(s)= [[Sanctuary]]<br>[[Snowhill]]<br>[[Briarwood]]<br>[[Blackspore Swamp]] (all during the [[Super Spooktacular]])
+|occupation= Prince of the [[Underworld]]}}{{Quote|BOO! Ha! Ha!<br>You will not send me back!|The Pumpkin Prince}}
+The '''Pumpkin Prince''' is an [[:Category:Enemies|enemy]] [[Non-Playable-Character|NPC]] [[Boss|boss]] featured as the main antagonist of the [[Super Spooktacular]]. He is the pumpkin monster, his main goal while arrived is to terrorizing the four [[Locations|locations]], though his goal was said to rule all of [[Sacred Grove]].
+
+==Battle==
+===Open World===
+During the Super Spooktacular, a message will pop up saying "The Pumpkin Prince is terrorizing in <[[Warpstones|Warpstone]]>". While the Pumpkin Prince is arrived, ectoplasmic destabilizer dispseners appear on the pathways of four [[Locations|locations]] which you will find somewhere near where the Pumpkin Prince is (he is walking around somewhere in that area and anyone can attack him). All you must do is keep firing at him with your ectoplasmic shooter which will be at the bottom of your screen where your combat moves are.
+
+The Pumpkin Prince can spawn undead enemies such as [[Grave Elemental|grave elementals]] or [[Necrowart Zombie|necrowart zombies]] that will attack you with effects that slow you down. The Pumpkin Prince can also attack you with himself and if he strikes you will be turned into a necrowart zombie and lose your ectoplasmic shooter ability. You will have to pick up another one when the effect wears off.
+
+Once defeated, he will cry a call in defeat and drop a treasure chest, which will give you a limited Super Spooktacular reward. If he wins he will cry a call of victory and will not drop anything.
+
+===[[Bone Bog Cemetery]]===
+The Pumpkin Prince appears in the Bone Bog Cemetery, located in [[Blackspore Swamp]] during the Super Spooktacular, which at one point will require you to encounter him in a battle which requires you to be level 13 combat job or above to enter. You going to the [[Dungeons|dungeon]] with Lucinda. You will go to fight against the Pumpkin Prince, and send his undead army back to the [[Underworld|ghost world]]. The Pumpkin Prince also spawn the [[Wraith|ghosts]] which will heal him in a battle when he has low HP.
+
+==Dialogues==
+{{Quote|Foolish mortals! I can't be beaten; I am the Pumpkin Prince!|The Pumpkin Prince, when he has low HP since the player attack him}}
+
+{{Quote|This isn't the end, I'll be back! And next time I won't be stopped!|The Pumpkin Prince, when the player defeat him}}
+
+{{Quote|Now I am stronger than ever, and no one can stop me! Ha ha ha!|The Pumpkin Prince, when he wins and cry a call of victory}}
+
+{{Quote|Noo! I needed them to stay in this world!|The Pumpkin Prince, when the player defeated the [[Wraith|ghosts]]}}
+
+==Boss Cake==
+The Pumpkin Prince is included in the [[Birthday Bash]] [[Station Cash Marketplace]] [[Items|item]] named the [[Boss Cake]]. The Boss Cake grants players an illusion to appear as a boss.
+
+==TCG==
+[[File:Pumpkinprince.png|220px|right]]
+In October 2012 during the Super Spooktacular, a [[Trading Card Game]] promotional Hero card was introduced based on the Pumpkin Prince in a Pumpkin Prince TCG Bundle. The bundle contained two Baron von Darkcheat Booster Packs, two Heroes Booster Packs, and one Pumpkin Prince promo card. The card's ID is 4P23.
+
+==Snow Days 2013==
+[[File:Prlwemgsbf,rF.png|thumb|Snow Days Toy]]{{IGD|Snow Days Toy [2013 Edition]}}
+A [[Snow Days]] 2013 [[Snow Days Toys|Toy]] based on the Pumpkin Prince was introduced in-game on December 10, 2013.
+
+Battle Wheels that featured the toy:
+*[[Tavern Cellar]]
+*[[Ambushed!]]
+*[[Feisty Floren!]]
+*[[Oasis of Peril!]]
+
+==Appearances==
+*Free Realms Halloween TV Spot 2010
+*Free Realms Spooktacular Commercial
+*Quest:Guardians of the Tomb <small>(mentioned)</small>
+*Quest:Sealed with a Signet
+*Quest:The Pumpkin Prince <small>(mentioned)</small>
+*[[Bone Bog Cemetery]]
+*Quest:The Great Scare
+*[[Trading Card Game#Series 4 TCG Cards List|Trading Card Game Series 4]]
+
+==Trivia==
+*The Pumpkin Prince was first introduced in 2009 in the first [[Super Spooktacular]].
+[[Category:NPC]]
+[[Category:Enemies]]
+[[Category:Boss]]
+[[Category:Males]]
+[[Category:Royalty]]
+[[Category:Sanctuary]]
+[[Category:Snowhill]]
+[[Category:Briarwood]]
+[[Category:Blackspore]]
+[[Category:Seasonal]]
+[[Category:Super Spooktacular]]
+[[Category:Trading Card Game]]

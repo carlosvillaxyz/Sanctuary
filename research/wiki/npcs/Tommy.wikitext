@@ -1,0 +1,37 @@
+<!-- Tommy | https://freerealms.fandom.com/wiki/Tommy | CC-BY-SA -->
+{{Infobox
+|Box title = Tommy
+|Image file = Tommy.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Location(s)
+|Row 3 info = [[Snowhill]]
+|Row 4 title = Occupation
+|Row 4 info = [[Archer]]<br>[[Merchants|Merchant]]}}
+'''Tommy''' is a [[Human|human]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found in [[Snowhill]]. He sells exclusively [[Archer]] [[Jobs|Job]] [[Items|items]].
+
+==Sells==
+*[[Drifting Archer Quiver]]
+*[[Drifting Archer Leggings]]
+*[[Drifting Archer Cap]]
+*[[Drifting Archer Gloves]]
+*[[Drifting Archer Boots]]
+*[[Drifting Archer Hoodie]]
+*[[Archer's Flair Shard of the Arctic]]
+*[[Archer's Power Shard of Regeneration III]]
+*[[Archer's Ring of Energy III]]
+*[[Archer's Necklace of Bark Skin III]]
+*[[Archer's Composite Bow of Flame]]
+*[[Archer's Composite Bow of Stunning]]
+*[[Archer's Composite Bow of Blizzards]]
+
+==Trivia==
+*Tommy was introduced in-game on August 6, 2013.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Archer]]
+[[Category:Merchant]]
+[[Category:Snowhill]]

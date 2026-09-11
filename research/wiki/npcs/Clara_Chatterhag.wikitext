@@ -1,0 +1,19 @@
+<!-- Clara Chatterhag | https://freerealms.fandom.com/wiki/Clara Chatterhag | CC-BY-SA -->
+{{Infobox
+|Box title = Clara Chatterhag
+|Image file = Clara Chatterhag.png
+|Row 1 title = Gender
+|Row 1 info = Female
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Hair color
+|Row 3 info = Mangeta
+|Row 4 title = Eye color
+|Row 4 info = Purple
+|Row 5 title = Location(s)
+|Row 5 info = [[Snowhill]]}}
+'''Clara Chatterhag''' is a [[Pixies|pixie]] [[Non-Playable-Character|NPC]] located at [[Snowhill]].
+[[Category:NPC]]
+[[Category:Females]]
+[[Category:Pixie]]
+[[Category:Snowhill]]

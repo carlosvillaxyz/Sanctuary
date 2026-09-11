@@ -1,0 +1,38 @@
+<!-- Alexander | https://freerealms.fandom.com/wiki/Alexander | CC-BY-SA -->
+{{Infobox
+|Box title = Alexander
+|Image file = Alexander.jpg
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Pixies|Pixie]]
+|Row 3 title = Eye color
+|Row 3 info = Cyan
+|Row 4 title = Location(s)
+|Row 4 info = [[Lakeshore]]
+|Row 5 title = Occupation
+|Row 5 info = [[Warrior]]<br>[[Merchants|Merchant]]}}
+'''Alexander''' is a male [[Pixies|pixie]] [[Non-Playable-Character|NPC]] [[Merchants|merchant]] that can be found near the [[Lakeshore]] [[Cooking Table]]. He sells [[Warrior]] [[Jobs|Job]] related [[Items|items]].
+
+==Sells==
+*[[Charge Attack Warrior Pauldrons]]
+*[[Charge Attack Warrior Breeches]]
+*[[Charge Attack Warrior Helm]]
+*[[Charge Attack Warrior Gauntlets]]
+*[[Charge Attack Warrior Hightops]]
+*[[Charge Attack Warrior Tunic]]
+*[[Warrior's Power Shard of Regeneration III]]
+*[[Warrior's Ring of Energy III]]
+*[[Warrior's Necklace of Bark Skin III]]
+*[[Warrior's Battle Hammer of Whirlwind]]
+*[[Warrior's Battle Hammer of Earthquake]]
+*[[Warrior's Battle Hammer of Spinning]]
+
+==Trivia==
+*Alexander was introduced in-game on the update of October 1, 2013.
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Pixie]]
+[[Category:Warrior]]
+[[Category:Merchant]]
+[[Category:Lakeshore]]

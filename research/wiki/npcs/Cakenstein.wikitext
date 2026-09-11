@@ -1,0 +1,82 @@
+<!-- Cakenstein | https://freerealms.fandom.com/wiki/Cakenstein | CC-BY-SA -->
+{{Infobox
+|name= Cakenstein
+|image= Cakestein.png
+|gender= Male
+|race= Unknown
+|eye color= Green
+|location(s)= [[Sanctuary]]<br>[[Merry Vale]]<br>[[Seaside]]<br>[[Wugachug]]<br>[[Snowhill]]<br>[[Briarwood]]<br>[[Blackspore Swamp]]<br>[[Shrouded Glade]] (all during the [[Birthday Bash]])}}{{Quote|Cakenstein is the best cake!|Cakenstein}}
+'''Cakenstein''' is an [[:Category:Enemies|enemy]] [[Non-Playable-Character|NPC]] [[Boss|boss]] featured as the main antagonist of the [[Birthday Bash]]. He is a mutant-like walking cake that appears during the only Birthday Bash and in [[Treasure War]]. His main goal is to eat the cakes made for the birthday of ''[[Free Realms]]''. Cakenstein was created by a [[Robgoblins|robgoblin]] chef, Glerga. He is often accompanied by [[Cakeling|cakelings]].
+
+==Battle==
+===Open World===
+During the Birthday Bash, a message will pop up saying  "Cakenstein has risen in <[[Warpstones|Warpstone]]>". While Cakenstein is risen, fireworks appear in crates on the pathways of eight [[Locations|locations]] near Cakenstein. You must fire fireworks at him, but while fighting him, he will run around the area, eating the cakes and getting stronger while doing it.
+
+Cakenstein can also spawn cakelings which bring cake to him. If they succeed, Cakenstein will becomes invincible for a short amount of time.
+
+Once defeated, Cakenstein will melt and drop piles of cakes and a treasure chest, which will give you a limited Birthday Bash reward. If he wins, he will successfully eat birthday cakes and disappear, and he will not drop anything.
+
+===Cakenstein Attacks!===
+Cakenstein appears in [[Queensfields]], located in just outside [[Sanctuary]]. This battle requires you to be level 13 or higher to start. Cakenstein is trying to eat more birthday cakes, and you must stop him before he becomes any stronger. During the battle he spawns cakelings which will attack you. He also seems to have a weakness of the Fire Power-Up if you use Fire Power-Up to attack him.
+
+==Dialogues==
+{{Quote|Cakenstein SMASH cake!|Cakenstein}}
+
+{{Quote|Cakenstein want cake!|Cakenstein}}
+
+{{Quote|You not stop Cakenstein!|Cakenstein, when the player attack him}}
+
+{{Quote|NO! Cakenstein not lose! NO!|Cakenstein, when the player defeat him}}
+
+{{Quote|Cakenstein is BEST cake! Ha Ha Ha!|Cakenstein, when he wins to eat the birthday cake}}
+
+{{Quote|Mmm... Caaake! Want Caaake!|Cakenstein, when the player arrives to fight}}
+
+{{Quote|Grrrr! RAWR!|Cakenstein, when the player attack him}}
+
+{{Quote|CAAAKE! OM NOM NOM NOM!|Cakenstein, when he eat a birthday cake}}
+
+{{Quote|FIIIRE!! BAAAD!!|Cakenstein, when the player attack him with the Fire Power-Up}}
+
+==Boss Cake==
+Cakenstein is included in the Birthday Bash [[Station Cash Marketplace|SC Marketplace]] [[Items|item]] named the [[Boss Cake]]. The Boss Cake grants players an illusion to appear as a boss.
+
+==Appearances==
+*Free Realms 2nd Birthday Yearbook Video
+*Quest:Cakey Clue <small>(mentioned)</small>
+*Quest:Perfecting the Batter
+*Quest:All Cakensteins Must Die
+*Quest:Cakey Madness
+*Cakenstein Attacks!
+*Quest:Downing Cakenstein
+*[[Treasure War]]
+*Happy 3rd Birthday Free Realms
+
+==Gallery==
+<gallery>
+Cakenstein concept.jpg|Concept art of Cakenstein.
+Cakenstein ChavisM.jpg|Model of Cakenstein.
+BirthdayGuide 08-1-.jpg|Cakenstein on a rampage.
+Party8.png
+</gallery>
+
+==Trivia==
+*The name "Cakenstein" comes from a combination of "Cake" and “Frankenstein”. It is likely a reference to the fact that Cakenstein have two iron nails on his head.
+*He is one of the bosses that one can turn into by consuming the [[Boss Cake]].
+*The ingredient Glerga used in his creation, which is the possible cause for his sentience, is Mystery Meat.
+
+[[Category:NPC]]
+[[Category:Enemies]]
+[[Category:Boss]]
+[[Category:Males]]
+[[Category:Sanctuary]]
+[[Category:Merry Vale]]
+[[Category:Seaside]]
+[[Category:Wugachug]]
+[[Category:Snowhill]]
+[[Category:Briarwood]]
+[[Category:Blackspore]]
+[[Category:Shrouded Glade]]
+[[Category:Seasonal]]
+[[Category:Birthday Bash]]
+[[Category:Combat Mini-game]]

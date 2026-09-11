@@ -1,0 +1,20 @@
+<!-- Roland Sporeling | https://freerealms.fandom.com/wiki/Roland Sporeling | CC-BY-SA -->
+{{Infobox
+|Box title = Roland Sporeling<br><Racetrack Challenge Winner>
+|Image file = Rolandnpcs.png
+|Row 1 title = Gender
+|Row 1 info = Male
+|Row 2 title = Race
+|Row 2 info = [[Human]]
+|Row 3 title = Eye color
+|Row 3 info = Blue
+|Row 4 title = Location(s)
+|Row 4 info = [[Snowhill]]}}{{Quote|Hey, check out my racetrack. I call it, "The Diamondback!"<br/>My average time is 0:35 on my hoverboard. Try and beat that!|In-game dialogue}}
+'''Roland Sporeling''' is a [[Human|human]] [[Non-Playable-Character|NPC]] found in the mountains above [[Frostfang Caverns]], in front of the Diamondback Raceway.
+
+==Trivia==
+*The character Roland Sporeling is based on the Diamondback Raceway's creator, Roland Spore, who was also the creator of [[BrawlWiki]].
+[[Category:NPC]]
+[[Category:Males]]
+[[Category:Human]]
+[[Category:Snowhill]]
