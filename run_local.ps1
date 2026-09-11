@@ -26,7 +26,21 @@ foreach ($p in "Login", "Gateway", "WebAPI") {
 }
 
 if (-not $NoClient) {
-    Start-Sleep -Seconds 4
+    # Wait for the servers to actually listen. Launching the client too early makes it exit silently a second
+    # after start, with nothing in its log past the command line.
+    $ports = @{ "asset server" = 20050; "WebAPI" = 5000; "login" = 20042; "gateway" = 20260 }
+    foreach ($name in $ports.Keys) {
+        $port = $ports[$name]
+        $ready = $false
+        foreach ($attempt in 1..30) {
+            $listening = (netstat -ano | Select-String ":$port\s" | Where-Object { $_ -notmatch 'TIME_WAIT' } | Measure-Object).Count -gt 0
+            if ($listening) { $ready = $true; break }
+            Start-Sleep -Seconds 1
+        }
+        if (-not $ready) { Write-Error "$name (port $port) never started"; exit 1 }
+    }
+
+    Start-Sleep -Seconds 2
 
     # Game assets missing from the community streaming server (no-op once placed). See tools\client-fixes.
     if (Test-Path "$repo\client") { python "$repo\tools\client-fixes\place_local_assets.py" }
