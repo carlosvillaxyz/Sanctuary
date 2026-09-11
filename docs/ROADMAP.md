@@ -13,9 +13,10 @@ Guiding rules
   Keep what made the game the game: layout, NPCs, quests, jobs, pacing, tone. Change only (a) quality-of-life
   improvements and (b) the server-side gaps Sony took with them. Anything that alters the feel or the meta needs
   a stated reason. Model: the 2025 Oblivion remaster — improves what badly needed it, keeps the original intact.
-- **The new-player path is the pilot.** Build the game in the order a new player met it: Sacred Glade tutorial,
-  then Cobblestone Village (the final build's starting town), then outward along the roads. See
-  `research/starting-area.md`.
+- **The new-player path is the pilot, final-build era (decided 2026-09-11).** Rebuild the March 2013 "NPX 4.0"
+  flow: Darkthorne's Briarwood Caverns tutorial, Farnum's Farm, Cobblestone Village (Bartle vs Mac's hooligans,
+  the Cobblestone Showdown), then the Queen in Sanctuary. The 2009 Sacred Glade tutorial (complete text, voiced)
+  is a later optional "classic start" mode. See `research/starting-area.md`.
 - **Small vertical slices.** Every phase ends with something you can play in the client, not a framework.
 - **Start in one town.** Everything gets built and proven in Cobblestone Village before scaling out.
 - **Data over code.** Quests, dialogue, NPCs, drops live in JSON/Lua under `src/Resources` and `src/Scripts`,
