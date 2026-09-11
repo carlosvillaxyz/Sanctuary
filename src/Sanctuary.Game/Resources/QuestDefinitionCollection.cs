@@ -27,8 +27,11 @@ public class QuestDefinitionCollection
 
     public bool TryGet(int questId, out QuestDefinition definition) => Quests.TryGetValue(questId, out definition!);
 
-    /// <summary>Client Resources/Cursors.txt: "cursor_interaction_talk.cur".</summary>
-    public const byte TalkCursorId = 13;
+    /// <summary>
+    /// Client Resources/Cursors.txt id 5, "cursor_talk" (Resources/Cursors/cursor_talk.cur). Ids 13 and 14 name
+    /// talk cursors whose files the client does not ship, and a missing file shows no cursor at all.
+    /// </summary>
+    public const byte TalkCursorId = 5;
 
     private bool IsTalkTarget(ulong npcGuid)
     {

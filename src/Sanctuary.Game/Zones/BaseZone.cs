@@ -928,10 +928,8 @@ public abstract class BaseZone : IZone, IDisposable
                 var dx = npc.Position.X - player.Position.X;
                 var dy = npc.Position.Y - player.Position.Y;
                 var dz = npc.Position.Z - player.Position.Z;
-                if (dx * dx + dy * dy + dz * dz > Npc.AmbientGreetRangeSquared)
-                    continue;
 
-                npc.TryAmbientGreet();
+                npc.UpdateAmbientGreeting(player, dx * dx + dy * dy + dz * dz);
             }
         }
     }

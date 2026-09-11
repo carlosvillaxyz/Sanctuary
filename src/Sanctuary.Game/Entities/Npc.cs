@@ -120,18 +120,41 @@ public class Npc : IScriptableNpc, IEntity
     public const float AmbientGreetRange = 18f;
     public const float AmbientGreetRangeSquared = AmbientGreetRange * AmbientGreetRange;
 
-    private const int AmbientGreetCooldownMs = 25_000;
+    // Leaving this far re-arms the greeting. The gap above AmbientGreetRange stops a player hovering at the edge
+    // from being greeted over and over.
+    public const float AmbientRearmRange = 26f;
+    public const float AmbientRearmRangeSquared = AmbientRearmRange * AmbientRearmRange;
+
+    // Floor between two greetings from the same NPC, whatever the player does.
+    private const int AmbientGreetCooldownMs = 30_000;
     private long _nextAmbientGreetTicks;
 
-    public void TryAmbientGreet()
+    // Players this NPC has already greeted and who have not walked away since.
+    private readonly HashSet<ulong> _greetedPlayers = [];
+
+    /// <summary>
+    /// Called every second for each player who can see this NPC. Greets once when the player comes within
+    /// <see cref="AmbientGreetRange"/>, then stays quiet until they go beyond <see cref="AmbientRearmRange"/>.
+    /// </summary>
+    public void UpdateAmbientGreeting(Player player, float distanceSquared)
     {
         if (AmbientLineIds is null || AmbientLineIds.Length == 0)
+            return;
+
+        if (distanceSquared > AmbientRearmRangeSquared)
+        {
+            _greetedPlayers.Remove(player.Guid);
+            return;
+        }
+
+        if (distanceSquared > AmbientGreetRangeSquared || _greetedPlayers.Contains(player.Guid))
             return;
 
         var now = Environment.TickCount64;
         if (now < _nextAmbientGreetTicks)
             return;
 
+        _greetedPlayers.Add(player.Guid);
         _nextAmbientGreetTicks = now + AmbientGreetCooldownMs;
 
         // IsChatLogged=false: bubble over the head, nothing in the chat log.
