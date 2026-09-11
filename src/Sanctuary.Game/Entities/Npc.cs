@@ -7,6 +7,7 @@ using System.Numerics;
 using Microsoft.Extensions.Logging;
 
 using Sanctuary.Core.Collections;
+using Sanctuary.Game.Dialogue;
 using Sanctuary.Game.Pathfinding;
 using Sanctuary.Game.Zones;
 using Sanctuary.Packet;
@@ -97,6 +98,7 @@ public class Npc : IScriptableNpc, IEntity
 
     public void OnInteract(Player player)
     {
+        DialogueManager.Start(player, this);
     }
 
     public virtual void OnAddVisibleNpcs(params IEnumerable<Npc> npcs)

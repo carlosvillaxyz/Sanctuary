@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using Sanctuary.Core.Collections;
 using Sanctuary.Core.IO;
 using Sanctuary.Game.ChatCommands;
+using Sanctuary.Game.Dialogue;
 using Sanctuary.Game.Helpers;
 using Sanctuary.Game.Interactions;
 using Sanctuary.Game.Resources.Definitions.Combat;
@@ -49,6 +50,9 @@ public sealed class Player : ClientPcData, IEntity
         Profiles.FirstOrDefault(x => x.Id == ActiveProfileId) ?? Profiles.First();
 
     public Mount? Mount { get; set; }
+
+    /// <summary>Conversation window currently open for this player, if any.</summary>
+    public DialogueState? ActiveDialogue { get; set; }
 
     public List<FriendData> Friends { get; set; } = [];
     public List<IgnoreData> Ignores { get; set; } = [];
