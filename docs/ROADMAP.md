@@ -9,9 +9,15 @@ experience where the data survives and our own design where it doesn't. AI-assis
 compatibility is not a goal; we track upstream only to cherry-pick fixes.
 
 Guiding rules
+- **Remaster, not reimagine.** The reference is the final live build (client v1.910, 2014) as players knew it.
+  Keep what made the game the game: layout, NPCs, quests, jobs, pacing, tone. Change only (a) quality-of-life
+  improvements and (b) the server-side gaps Sony took with them. Anything that alters the feel or the meta needs
+  a stated reason. Model: the 2025 Oblivion remaster — improves what badly needed it, keeps the original intact.
+- **The new-player path is the pilot.** Build the game in the order a new player met it: Sacred Glade tutorial,
+  then Cobblestone Village (the final build's starting town), then outward along the roads. See
+  `research/starting-area.md`.
 - **Small vertical slices.** Every phase ends with something you can play in the client, not a framework.
-- **Start in one town.** Everything gets built and proven in Cobblestone Village / Highroad Junction (the
-  original starter area after the tutorial) before scaling out.
+- **Start in one town.** Everything gets built and proven in Cobblestone Village before scaling out.
 - **Data over code.** Quests, dialogue, NPCs, drops live in JSON/Lua under `src/Resources` and `src/Scripts`,
   so content can be generated, reviewed and edited without touching C#.
 - **Never redistribute the client.** Daybreak DMCA'd a GitHub client mirror in 2016. Our repo holds tools and data only.
@@ -67,8 +73,10 @@ Deliverable: the Brawler questline to level 10 is completable.
 Deliverable: buy furniture, decorate, invite a second character.
 
 ## Phase 6 — Scale out
-- Repeat Phase 2-4 per town: Highroad Junction -> Sanctuary -> Seaside -> Snowhill (Snowhill has the richest
-  spawn data: 2,393 recovered NPC placements)
+- Sacred Glade tutorial as a separate instanced zone (terrain, gate assets and its voiced NPC lines all survive in
+  the streamed assets; needs upstream PR #116 generic zoning)
+- Repeat Phase 2-4 per town along the new-player roads: Highroad Junction / Stillwater Crossing (the other two
+  post-tutorial exits) -> Sanctuary -> Snowhill (best recovered 2010 data) -> Seaside
 - Minigames (kart, derby, soccer, TCG) last: they need the most reverse-engineering and matter least to "playable"
 
 ## Content pipeline (cross-cutting)
