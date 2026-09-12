@@ -134,6 +134,31 @@ restart the gateway (or `!npc despawn` / `!npc spawn`) to see new enemy numbers.
   `AoeDamage`, `AoeDamageHeal`), `Damage`, new `HealAmount`, `AoeRadius`, `EnergyCost`, animation and FX ids.
 - `src/Resources/LevelStats.json` (B1) - player health by level; `RankLevels.json` - stars per level.
 
+## After the first play-test (2026-09-11)
+
+What the play-test settled, and two corrections to what the port's own commit messages claimed.
+
+- **The health-bar coupling has a way out.** `SendInWorldCombatFlag` is off for good. Enemy bars survive without
+  it (they are drawn from the enemy's own hitpoints) and the floating numbers come back through **op32/7
+  AttackProcessed**, which carries the number, the bar and the hit effect in one packet - the same packet enemies
+  already use on the player. `Abilities.SendAttackProcessedOnHit` switches between that and op35/35
+  HitPointModification. The "every nameplate bar off / numbers on is not available" risk below is therefore
+  **resolved**, not accepted.
+- **Correction: kill XP was never in the port.** Commit 98ef51dc's message says StartingZone pays a kill's stars,
+  initialises health on zone entry and gains Kill quest goals. None of that was in the diff. Kill XP
+  (`StartingZone.OnNpcKilled`) and the health init (`Player.OnEnteredWorld`) landed after the play-test; **Kill
+  quest goals are still missing** and are needed by C1.
+- **Correction: quest NPCs were not protected.** `IsProtectedNpc` was still the `false` base. It now guards quest
+  givers and targets. Nothing placed collides today - checked all 50 quest NPCs against the 245 NPCs the rules
+  classify hostile - so this is a guard, not a fix.
+- **Classification by model id is not enough.** Sony reuses a display name across string ids and models: three
+  "Hooligan"s on string 20483 and two "Mini Necrowart Zombie"s on model 73 spawned inert beside hostile twins.
+  `ShippedEnemyDataTests` now fails the build if any NPC shares a name with an enemy and is not one.
+- **Attached effects need effect tags.** A trail composite effect (Leg Sweep's foot beam, 15402) has no end
+  trigger; as a `CastEffectId` it never stops and follows the character across job switches. `TrailEffectId` /
+  `TrailDurationMs` add and pull it by tag, the way `BoomboxAbility` does with its song.
+- **Respawn** went 8 s -> 45 s: at 8 s a camp could never be cleared.
+
 ## Risks
 
 - **First live test of our re-implementation.** Sulphural's numbers were tuned against their client feedback; ours

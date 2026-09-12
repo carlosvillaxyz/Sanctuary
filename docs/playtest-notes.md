@@ -4,6 +4,44 @@ Carlos's observations from playing, newest first. Each note: what happened, what
 and whether it is a bug, a missing server feature, or a quality-of-life change. Triage decides which roadmap
 phase it lands in; QoL changes must pass the "remaster, not reimagine" rule in ROADMAP.md.
 
+## 2026-09-11 — combat, third session (overworld combat merged from the port)
+
+Working: knockout and the respawn window, wolves aggro on the road and leash back, the two attack buttons, job
+health scaling with level, enemies respawning.
+
+### Fixed the same day (commit after this play-test)
+- **Health bars on every NPC, forest critters and the car-crash bystanders included.** op41/132 SetInWorldCombat
+  is a GLOBAL client switch: it draws the floating damage numbers *and* bars every nameplate in view. Turning it
+  off removed the friendly bars and kept the enemy bars (those come from the enemy's own hitpoints) but took the
+  damage numbers with it. The numbers now come from op32/7 AttackProcessed instead - the same packet an enemy
+  already uses when it hits us - which carries the number, the bar and the hit effect in one, with the global
+  switch left off.
+- **A camp where only one hooligan fought back and the rest could not be hit.** Sony shipped the display name
+  "Hooligan" under two string ids; Enemies.json listed only 5100401, so the three placed under the older 20483
+  (23623, 23624, 23626, around archer 23625) spawned as scenery: white name, no bar, no aggro, unhittable. A
+  data test over the shipped files now fails if any NPC shares a name with an enemy and is not one - it found a
+  second case immediately, the two Mini Necrowart Zombies on model 73 standing beside their hostile twins.
+- **No stars for kills.** The kill path never paid experience - the combat commit's message said it did, but the
+  change was not in it. A kill now pays the enemy's stars (Enemies.json XpByLevel x tier) into the job that
+  landed it, so fighting levels you and fires the level-up celebration.
+- **Respawning at 2,500 health at level 1.** The server kept ClientPcData's 2,500 placeholder and a current
+  health of 0 all session: the client was told the right numbers at login, the server was not. So the first
+  enemy hit knocked the player out instantly and the revive that followed handed back 2,500. Health, regen and
+  a full bar are now applied on world entry, which is also what a job switch was accidentally fixing.
+- **The blue streak from Leg Sweep stuck to the character for the rest of the session, across job switches.**
+  The trail is an attached effect with no end trigger of its own; sent as a cast effect nothing ever stopped it.
+  It is now added and pulled by effect tag, like the boombox song.
+- **The light attack showed no effects.** It has the standard hit flash, which only plays where a hit lands -
+  and the hooligans it was being swung at were not hittable. Should come back with them.
+
+### Still open
+- **Enemy AI is each-mob-for-itself.** Carlos: a nearby enemy should be able to alert its neighbours. An enemy
+  only hunts players its own zone tile has handed it, so a camp never reacts as a group. Wanted for the combat
+  improvement pass, together with the richer 2009-era combat.
+- **Combat is basic** compared to the 2009 build Carlos wants to explore once this is solid.
+- **Kart racing.** The racing minigame is in the client; its server side was Sony's and would be a project of
+  its own rather than a quest fix.
+
 ## 2026-09-11 — quests, second session (branch `quests`: Sulphural's quest system + PR #120 levelling)
 Working: real quest-offer window with rewards and styled buttons, overhead "!" markers, map and minimap
 tracking, tracker panel with "Take Me There", journal, "New Goal" banners, quest chat log, rewards. "Introduce

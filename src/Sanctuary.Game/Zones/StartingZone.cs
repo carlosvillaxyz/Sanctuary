@@ -1,12 +1,14 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
 
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 using Sanctuary.Core.Extensions;
 using Sanctuary.Core.IO;
+using Sanctuary.Database;
 using Sanctuary.Game.Entities;
 using Sanctuary.Game.Helpers;
 using Sanctuary.Game.Quests;
@@ -21,6 +23,7 @@ public sealed class StartingZone : BaseZone
     private readonly IZoneManager _zoneManager;
     private readonly IResourceManager _resourceManager;
     private readonly IQuestManager _questManager;
+    private readonly IDbContextFactory<DatabaseContext> _dbContextFactory;
 
     private readonly StartingZoneDefinition _zoneDefinition;
 
@@ -32,7 +35,35 @@ public sealed class StartingZone : BaseZone
         _zoneManager = serviceProvider.GetRequiredService<IZoneManager>();
         _resourceManager = serviceProvider.GetRequiredService<IResourceManager>();
         _questManager = serviceProvider.GetRequiredService<IQuestManager>();
+        _dbContextFactory = serviceProvider.GetRequiredService<IDbContextFactory<DatabaseContext>>();
     }
+
+    #region Combat
+
+    /// <summary>
+    /// A kill pays the enemy's stars into the job that landed it, which is what makes fighting a way to level
+    /// (Enemies.json XpByLevel x the tier multiplier). Going up a level fires the celebration and re-applies
+    /// the job's health through RewardHelper -> Player.OnLevelUp.
+    /// </summary>
+    public override void OnNpcKilled(Player killer, Npc npc)
+    {
+        if (npc is not CombatNpc enemy || enemy.Stats.Xp <= 0)
+            return;
+
+        using var dbContext = _dbContextFactory.CreateDbContext();
+
+        RewardHelper.TryGrantExperience(_resourceManager, dbContext, Logger, killer, killer.ActiveProfileId,
+            enemy.Stats.Xp, enemy.Guid);
+    }
+
+    /// <summary>
+    /// Quest givers and quest targets never spawn hostile, whatever Enemies.json says about their name or
+    /// model: a quest NPC you cannot talk to is a dead end. (Nothing placed collides today; this keeps it
+    /// that way as quests and species are added.)
+    /// </summary>
+    protected override bool IsProtectedNpc(ulong guid) => guid != 0 && _questManager.IsQuestNpc(guid);
+
+    #endregion
 
     #region Client Is Ready
 

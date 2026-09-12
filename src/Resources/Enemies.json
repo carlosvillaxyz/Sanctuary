@@ -223,6 +223,12 @@
   ],
   "Species": [
     {
+      "Comment": "Mini Necrowart Zombie - Blackspore's little zombies. Listed by name id because the placed ones use two different models: 3217 (necrowartzombie_01, 3269-3271) is in HostileModelIds but 73 (necrowartzombie_03, 31544-31545) is not, so that pair spawned inert beside its hostile twins. No Level or Tier override, so the stats stay exactly what the model rule already gave the others: level 3, Normal.",
+      "NameIds": [
+        118945
+      ]
+    },
+    {
       "Comment": "Hooligan Wolf - Mac's hooligans' wolves on the road west of Cobblestone Village (Npcs.json 3156-3158 at -2100,-46,460 and 4164-4166 at -1925,-49,296). Newbie-area pack: level 1, 500 HP, 20 damage, 15 stars.",
       "NameIds": [
         5100200
@@ -231,9 +237,10 @@
       "Tier": "Normal"
     },
     {
-      "Comment": "Hooligan - Mac's crew standing around the village outskirts and the outlying camps (4154, 4155, 4159-4161, 4667-4675 area). Level 2, 575 HP, 23 damage, 17 stars.",
+      "Comment": "Hooligan - Mac's crew standing around the village outskirts and the outlying camps (4154, 4155, 4159-4161, 4667-4675 area). Level 2, 575 HP, 23 damage, 17 stars. Sony shipped the name twice: most of the crew carry string 5100401, but three placed hooligans (23623, 23624, 23626, the camp beside archer 23625 on the west road) carry the older string 20483 with the same display name. Both are listed; without 20483 those three spawned as scenery - white nameplate, no bar, unhittable and inert - which is what the first combat play-test hit.",
       "NameIds": [
-        5100401
+        5100401,
+        20483
       ],
       "Level": 2,
       "Tier": "Normal"

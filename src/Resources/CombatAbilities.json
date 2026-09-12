@@ -205,7 +205,7 @@
   },
   {
     "Id": 6012,
-    "Comment": "brawler super - Leg Sweep (sheet dmg '889) | effects: the client's own leg-sweep trail + landing flash (level-1 blue set)",
+    "Comment": "brawler super - Leg Sweep (sheet dmg '889) | effects: the client's own leg-sweep trail + landing flash (level-1 blue set). The trail is an ATTACHED effect with no end trigger of its own, so it rides TrailEffectId (added and pulled by effect tag); as a CastEffectId it burned on the character for the rest of the session.",
     "EffectType": "AoeDamage",
     "Damage": 889,
     "AoeRadius": 10,
@@ -215,7 +215,8 @@
     "NameId": 442455,
     "DescriptionId": 0,
     "IconId": 11637,
-    "CastEffectId": 15402,
+    "TrailEffectId": 15402,
+    "TrailDurationMs": 1200,
     "CasterEndEffectId": 5275,
     "HitEffectId": 7
   }

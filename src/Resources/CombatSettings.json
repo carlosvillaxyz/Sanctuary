@@ -15,7 +15,7 @@
     "ReviveEffectId": 15117,
     "SendInWorldCombatFlag": false,
     "SendIsFightingFlag": true,
-    "SendInWorldCombatFlagComment": "op41/132 is a GLOBAL client switch: it draws floating damage numbers but also puts a health bar on every nameplate in view, friendly NPCs included. Off while we check whether enemy bars (drawn from their own hitpoints) and damage numbers survive on op41/133 alone."
+    "SendInWorldCombatFlagComment": "op41/132 is a GLOBAL client switch: it draws floating damage numbers but also puts a health bar on every nameplate in view, friendly NPCs included. Play-test verdict (2026-09-11): with it OFF the friendly bars go away and enemy bars still work (they come from the enemy's own hitpoints), but the floating numbers go with it. It stays off; the numbers come back through op32/7 AttackProcessed instead (Abilities.SendAttackProcessedOnHit)."
   },
   "Enemy": {
     "Comment": "Death presentation is the 2014-04-01 capture's exact recipe for a dying pack wolf: RemovePlayerGracefully(Animate=true, Delay=2000, effect 5017, Duration=1000) - the client plays the model's own death clip, then the poof, then despawns. PositionBroadcastDistance: how far a chasing enemy moves before another position update is streamed (Sulphural a126be4b). AttackCursorId 11 = crossed swords. HitAnimationHoldMs: how long a hit-reaction clip stays on an enemy before its idle is restored.",
@@ -34,6 +34,8 @@
     "SpecialActionTimeSeconds": 0.4,
     "SpecialDamageDelaySeconds": 0.4,
     "DodgeAnimationId": 1406,
-    "DodgeChancePercent": 0
+    "DodgeChancePercent": 0,
+    "SendAttackProcessedOnHitComment": "A player's hit is fed back as op32/7 AttackProcessed - the same packet an enemy uses on us - which carries the floating damage number, the health bar and the hit effect itself. The alternative, op35/35 HitPointModification, moves the bar but its number only draws while the global in-world-combat switch is on, and that switch also bars every friendly nameplate in view.",
+    "SendAttackProcessedOnHit": true
   }
 }

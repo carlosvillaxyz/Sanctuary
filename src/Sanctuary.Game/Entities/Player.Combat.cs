@@ -58,6 +58,11 @@ public sealed partial class Player
     /// <summary>Called once the client has finished loading into the world.</summary>
     public void OnEnteredWorld()
     {
+        // The active job's max health, regen and a full bar. Without this the server keeps ClientPcData's
+        // 2,500 placeholder and a CurrentHealth of 0, so the first enemy hit knocked the player out at once
+        // and the revive that followed handed back 2,500 hit points (first combat play-test).
+        ApplyLevelStats();
+
         SetInvulnerable(CombatSettings.LoginInvulnerableSeconds);
     }
 

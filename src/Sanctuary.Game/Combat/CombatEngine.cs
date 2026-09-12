@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Threading;
 using System.Threading.Tasks;
 
 using Microsoft.Extensions.Logging;
@@ -22,6 +23,9 @@ public static class CombatEngine
 {
     /// <summary>The generic "you can't do that" string the item abilities already use on a refused press.</summary>
     public const int FailureStringId = 3079;
+
+    // Effect-tag ids for attached trails. Its own range, clear of the consumable abilities' counter (5000+).
+    private static int _trailTagCounter = 20_000;
 
     public const int BasicSlot = 0;
     public const int SpecialSlot = 1;
@@ -98,6 +102,28 @@ public static class CombatEngine
             HasActionProgress = false
         }, sendToSelf: true);
 
+        // An attached trail (Leg Sweep's foot beam) burns for the swing and is then pulled by its tag. The
+        // composite effect has no end trigger of its own, so sent as a cast effect it never stopped: the first
+        // play-test left a blue streak stuck to the character for the rest of the session, job switch included.
+        if (ability.TrailEffectId > 0)
+        {
+            var tagId = Interlocked.Increment(ref _trailTagCounter);
+
+            player.SendTunneledToVisible(new PlayerUpdatePacketAddEffectTagCompositeEffect
+            {
+                Guid = player.Guid,
+                TagId = tagId,
+                CompositeEffectId = ability.TrailEffectId,
+                SourceGuid = player.Guid
+            }, sendToSelf: true);
+
+            player.SendTunneledToVisibleDelayed(new PlayerUpdatePacketRemoveEffectTagCompositeEffect
+            {
+                Guid = player.Guid,
+                TagId = tagId
+            }, ability.TrailDurationMs > 0 ? ability.TrailDurationMs : lockMs, sendToSelf: true);
+        }
+
         // Cooldown sweep + grey on the pressed button for as long as the server actually holds it.
         player.SendTunneled(new AbilityPacketMeleeRefresh { CooldownMs = lockMs });
 
@@ -131,7 +157,7 @@ public static class CombatEngine
             try
             {
                 await Task.Delay(TimeSpan.FromSeconds(Math.Max(0f, damageDelay)));
-                ResolveHits(player, ability, targets, damage, heal);
+                ResolveHits(player, ability, targets, damage, heal, settings);
             }
             catch (Exception ex)
             {
@@ -142,7 +168,8 @@ public static class CombatEngine
         return true;
     }
 
-    private static void ResolveHits(Player player, AbilityDefinition ability, IReadOnlyList<CombatNpc> targets, int damage, int heal)
+    private static void ResolveHits(Player player, AbilityDefinition ability, IReadOnlyList<CombatNpc> targets,
+        int damage, int heal, AbilityCombatSettings settings)
     {
         if (player.IsDead)
             return;
@@ -159,12 +186,28 @@ public static class CombatEngine
 
             landed = true;
 
-            // TakeDamage broadcasts the floating number and the health bar (op35/35 HitPointModification), which
-            // does NOT reset the local player's melee timer the way AttackProcessed would; it also aggros the
-            // enemy onto the attacker and routes a kill to the zone.
-            target.TakeDamage(damage, player);
+            // TakeDamage drops the hit points, pushes the bar, aggros the enemy onto the attacker and routes a
+            // kill to the zone. The per-hit FEEDBACK is op32/7 AttackProcessed, the same packet an enemy uses
+            // when it hits us: it carries the floating number, the bar and the hit FX itself. op35/35's number
+            // only draws while the global in-world-combat switch is on, and that switch also puts a bar on
+            // every nameplate in view, friendly NPCs included (first play-test) - so the switch stays off.
+            target.TakeDamage(damage, player, broadcastHitNumber: !settings.SendAttackProcessedOnHit);
 
-            if (ability.HitEffectId > 0)
+            if (settings.SendAttackProcessedOnHit)
+            {
+                player.SendTunneledToVisible(new CombatPacketAttackProcessed
+                {
+                    AttackerGuid = player.Guid,
+                    TargetGuid = target.Guid,
+                    Damage = damage,
+                    MaxHealth = target.MaxHealth,
+                    CurrentHealth = target.Health,
+                    CompositeEffectId = ability.HitEffectId
+                }, sendToSelf: true);
+            }
+
+            // AttackProcessed already plays the hit effect on the target; only play it separately without it.
+            if (ability.HitEffectId > 0 && !settings.SendAttackProcessedOnHit)
             {
                 player.SendTunneledToVisible(new PlayerUpdatePacketPlayCompositeEffect
                 {

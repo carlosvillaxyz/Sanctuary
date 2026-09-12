@@ -68,4 +68,11 @@ public sealed class AbilityCombatSettings
 
     /// <summary>A selected target may be this many times the job's reach away and still be hit (client lag).</summary>
     public float SelectedTargetRangeSlack { get; set; } = 2f;
+
+    /// <summary>
+    /// Feed a player's hit back as op32/7 AttackProcessed (floating number + bar + hit FX in one packet, the
+    /// same packet enemies use on us) instead of op35/35 HitPointModification, whose number the client only
+    /// draws while the global in-world-combat switch is on.
+    /// </summary>
+    public bool SendAttackProcessedOnHit { get; set; } = true;
 }
