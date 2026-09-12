@@ -245,13 +245,26 @@ public static class CombatEngine
         }
     }
 
-    /// <summary>The selected enemy if it is live and near enough, else the nearest live enemy within reach.</summary>
+    /// <summary>
+    /// Who the swing lands on, in order: the enemy the client has selected, then the one already being fought,
+    /// then the nearest. The middle step is what makes a camp fightable - picking the nearest every swing
+    /// spread the damage over whichever enemy happened to be closest at that instant, so nothing ever died and
+    /// each one looked like it was healing itself (first combat play-test).
+    /// </summary>
     public static CombatNpc? ResolveTarget(IZone zone, Player player, ulong selectedGuid, float reach, float slack)
     {
         if (selectedGuid != 0 && zone.TryGetNpc(selectedGuid, out var selected) && selected is CombatNpc enemy
             && IsAttackable(enemy) && DistanceSquared(player, enemy) <= reach * slack * (reach * slack))
         {
+            player.CombatTargetGuid = enemy.Guid;
             return enemy;
+        }
+
+        if (player.CombatTargetGuid != 0 && zone.TryGetNpc(player.CombatTargetGuid, out var previous)
+            && previous is CombatNpc sticky && IsAttackable(sticky)
+            && DistanceSquared(player, sticky) <= reach * slack * (reach * slack))
+        {
+            return sticky;
         }
 
         CombatNpc? nearest = null;
@@ -270,6 +283,9 @@ public static class CombatEngine
             best = distance;
             nearest = candidate;
         }
+
+        if (nearest is not null)
+            player.CombatTargetGuid = nearest.Guid;
 
         return nearest;
     }

@@ -31,6 +31,12 @@ public sealed partial class Player
     /// <summary>When the player last took combat damage; gates health regen.</summary>
     public DateTime LastCombatDamageAt { get; private set; } = DateTime.MinValue;
 
+    /// <summary>
+    /// The enemy this player is fighting. Kept between swings so a basic attack does not wander onto whichever
+    /// enemy is nearest at that instant; cleared when it dies or walks out of reach (CombatEngine.ResolveTarget).
+    /// </summary>
+    public ulong CombatTargetGuid { get; set; }
+
     private long _lastWorldCombatTicks;
     private bool _worldCombatActive;
     private long _invulnerableUntilTicks;
@@ -43,8 +49,23 @@ public sealed partial class Player
 
     public bool IsInvulnerable => Environment.TickCount64 < _invulnerableUntilTicks;
 
-    public bool InWorldCombat => _lastWorldCombatTicks != 0
-        && Environment.TickCount64 - _lastWorldCombatTicks < CombatSettings.OutOfCombatSeconds * 1000L;
+    /// <summary>
+    /// Whether the client should be held in its combat state. Its own, shorter window than
+    /// <see cref="PlayerCombatSettings.OutOfCombatSeconds"/> (which governs regen): the in-world-combat flag
+    /// also bars every nameplate in view, so it is dropped as soon as the swings stop rather than six seconds
+    /// later. 0 falls back to the regen window.
+    /// </summary>
+    public bool InWorldCombat
+    {
+        get
+        {
+            var seconds = CombatSettings.InWorldCombatFlagSeconds > 0
+                ? CombatSettings.InWorldCombatFlagSeconds
+                : CombatSettings.OutOfCombatSeconds;
+
+            return _lastWorldCombatTicks != 0 && Environment.TickCount64 - _lastWorldCombatTicks < seconds * 1000L;
+        }
+    }
 
     /// <summary>The captures show DamageReductionPercent 100 for ~7 s after a revive and ~42 s after login.</summary>
     public void SetInvulnerable(int seconds)

@@ -34,6 +34,20 @@ health scaling with level, enemies respawning.
 - **The light attack showed no effects.** It has the standard hit flash, which only plays where a hit lands -
   and the hooligans it was being swung at were not hittable. Should come back with them.
 
+### Second pass the same evening
+Enemies, bars, respawn, stars and the trail all came back good. Three things left:
+- **Damage numbers are gone and AttackProcessed did not bring them back.** The client gates the world's floating
+  text on op41/132 alone. The switch is back ON, with its own short window (`InWorldCombatFlagSeconds` 3 s)
+  instead of the six-second regen window, so bystander nameplates only wear a bar while blows are actually
+  landing. `!combat numbers [on|off]` flips it live, because it is a taste call, not a bug.
+- **Enemies "healing" mid-fight, and wonky hit registration.** Same cause: a basic attack with nothing clicked
+  picked the NEAREST enemy every swing, so in a camp the damage spread over whichever one happened to be closest
+  at that instant - nothing died and each looked like it was regenerating. The target is sticky now: the clicked
+  enemy, else the one already being fought, else the nearest. Melee basic reach also went 4u -> 6u, since mobs
+  stand at 5u to attack, so swings were whiffing at exactly the distance a mob bites you from.
+- **The delay spamming the light attack is authentic.** 2014 captures put the median gap between basic swings at
+  660 ms; we pace them at 600 ms.
+
 ### Still open
 - **Enemy AI is each-mob-for-itself.** Carlos: a nearby enemy should be able to alert its neighbours. An enemy
   only hunts players its own zone tile has handed it, so a camp never reacts as a group. Wanted for the combat

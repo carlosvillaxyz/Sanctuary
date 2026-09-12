@@ -13,9 +13,10 @@
     "ReviveHereCoinCost": 0,
     "KnockoutEffectId": 5017,
     "ReviveEffectId": 15117,
-    "SendInWorldCombatFlag": false,
+    "InWorldCombatFlagSeconds": 3,
+    "SendInWorldCombatFlag": true,
     "SendIsFightingFlag": true,
-    "SendInWorldCombatFlagComment": "op41/132 is a GLOBAL client switch: it draws floating damage numbers but also puts a health bar on every nameplate in view, friendly NPCs included. Play-test verdict (2026-09-11): with it OFF the friendly bars go away and enemy bars still work (they come from the enemy's own hitpoints), but the floating numbers go with it. It stays off; the numbers come back through op32/7 AttackProcessed instead (Abilities.SendAttackProcessedOnHit)."
+    "SendInWorldCombatFlagComment": "op41/132 is a GLOBAL client switch: it draws the floating damage numbers but also puts a health bar on every nameplate in view, friendly NPCs included. Both play-tests on 2026-09-11 settled it: with it OFF the friendly bars go away and enemy bars still work (those come from the enemy's own hitpoints) but the numbers go too, and op32/7 AttackProcessed does not bring them back on its own - the client gates the world's floating text on this switch alone. So it is ON, and InWorldCombatFlagSeconds keeps it up only while the swings are actually landing instead of for the whole regen window. Admin toggle in game: !combat numbers."
   },
   "Enemy": {
     "Comment": "Death presentation is the 2014-04-01 capture's exact recipe for a dying pack wolf: RemovePlayerGracefully(Animate=true, Delay=2000, effect 5017, Duration=1000) - the client plays the model's own death clip, then the poof, then despawns. PositionBroadcastDistance: how far a chasing enemy moves before another position update is streamed (Sulphural a126be4b). AttackCursorId 11 = crossed swords. HitAnimationHoldMs: how long a hit-reaction clip stays on an enemy before its idle is restored.",
@@ -35,7 +36,7 @@
     "SpecialDamageDelaySeconds": 0.4,
     "DodgeAnimationId": 1406,
     "DodgeChancePercent": 0,
-    "SendAttackProcessedOnHitComment": "A player's hit is fed back as op32/7 AttackProcessed - the same packet an enemy uses on us - which carries the floating damage number, the health bar and the hit effect itself. The alternative, op35/35 HitPointModification, moves the bar but its number only draws while the global in-world-combat switch is on, and that switch also bars every friendly nameplate in view.",
-    "SendAttackProcessedOnHit": true
+    "SendAttackProcessedOnHitComment": "Feed a player's hit back as op32/7 AttackProcessed instead of op35/35 HitPointModification. Tried as a way to get damage numbers without the global in-world-combat switch; it does not - the client draws no number for it either - and it additionally resets the local melee cooldown timer, which Sulphural avoided. Off; kept because the packet is right and a future client trace may find what gates its number.",
+    "SendAttackProcessedOnHit": false
   }
 }

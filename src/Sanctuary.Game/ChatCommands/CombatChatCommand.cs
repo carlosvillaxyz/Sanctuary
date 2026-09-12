@@ -1,3 +1,4 @@
+using System;
 using System.Linq;
 using System.Numerics;
 
@@ -11,15 +12,17 @@ namespace Sanctuary.Game.ChatCommands;
 public class CombatChatCommand : IChatCommand
 {
     private readonly IChatCommandManager _chatCommandManager;
+    private readonly IResourceManager _resourceManager;
 
     public string KeyWord => "combat";
-    public string Usage => "enemies [radius] | hp <amount> | knockout | revive";
-    public string Description => "Lists nearby enemies with their stats, sets your health, knocks you out or revives you.";
+    public string Usage => "enemies [radius] | hp <amount> | knockout | revive | numbers [on|off]";
+    public string Description => "Lists nearby enemies with their stats, sets your health, knocks you out or revives you, toggles floating damage numbers.";
     public ChatCommandRole RequiredRole => ChatCommandRole.Admin;
 
-    public CombatChatCommand(IChatCommandManager chatCommandManager)
+    public CombatChatCommand(IChatCommandManager chatCommandManager, IResourceManager resourceManager)
     {
         _chatCommandManager = chatCommandManager;
+        _resourceManager = resourceManager;
     }
 
     public bool Handle(Player invoker, string[] args)
@@ -41,6 +44,8 @@ public class CombatChatCommand : IChatCommand
                 invoker.Revive(null);
                 _chatCommandManager.LogAction(this, invoker, "Combat revive", null, null);
                 return true;
+            case "numbers":
+                return ToggleDamageNumbers(invoker, args[1..]);
             default:
                 return false;
         }
@@ -83,6 +88,37 @@ public class CombatChatCommand : IChatCommand
                 $"dmg {enemy.Stats.Damage}, {enemy.Stats.Xp} stars, {(enemy.IsDead ? "dead" : enemy.State.ToString())}, {distance:F1} u, " +
                 $"aggro {enemy.Stats.AggroRange:F0} u, sees you: {(enemy.VisiblePlayers.ContainsKey(invoker.Guid) ? "yes" : "NO")}.");
         }
+
+        return true;
+    }
+
+    /// <summary>
+    /// The floating damage numbers and the health bar on every nameplate are one client switch (op41/132), so
+    /// this trades one for the other live rather than through a settings file and a restart.
+    /// </summary>
+    private bool ToggleDamageNumbers(Player invoker, string[] args)
+    {
+        var settings = _resourceManager.CombatSettings.Player;
+
+        bool wanted;
+
+        if (args.Length == 0)
+            wanted = !settings.SendInWorldCombatFlag;
+        else if (args[0].Equals("on", StringComparison.OrdinalIgnoreCase))
+            wanted = true;
+        else if (args[0].Equals("off", StringComparison.OrdinalIgnoreCase))
+            wanted = false;
+        else
+            return false;
+
+        settings.SendInWorldCombatFlag = wanted;
+        invoker.SendWorldCombatState(false); // drop whatever state the client is holding so the change shows at once
+
+        _chatCommandManager.LogAction(this, invoker, "Combat damage numbers", null, $"on={wanted}");
+
+        ChatHelper.SendSystemMessage(invoker, wanted
+            ? "Damage numbers ON. Every nameplate in view also wears a health bar while you are fighting - the client couples them."
+            : "Damage numbers OFF. Health bars are enemy-only again.");
 
         return true;
     }

@@ -138,12 +138,18 @@ restart the gateway (or `!npc despawn` / `!npc spawn`) to see new enemy numbers.
 
 What the play-test settled, and two corrections to what the port's own commit messages claimed.
 
-- **The health-bar coupling has a way out.** `SendInWorldCombatFlag` is off for good. Enemy bars survive without
-  it (they are drawn from the enemy's own hitpoints) and the floating numbers come back through **op32/7
-  AttackProcessed**, which carries the number, the bar and the hit effect in one packet - the same packet enemies
-  already use on the player. `Abilities.SendAttackProcessedOnHit` switches between that and op35/35
-  HitPointModification. The "every nameplate bar off / numbers on is not available" risk below is therefore
-  **resolved**, not accepted.
+- **The health-bar coupling has NO way out.** Tested both ways in one evening. With `SendInWorldCombatFlag` off,
+  friendly bars go away and enemy bars still work (they come from the enemy's own hitpoints), but the floating
+  numbers go too - and **op32/7 AttackProcessed does not bring them back**: the client draws no number for it
+  either, so the world's floating text hangs off op41/132 alone. The switch is back on, with its own short window
+  (`InWorldCombatFlagSeconds`, 3 s) instead of the 6 s regen window, so a bystander's nameplate only wears a bar
+  while blows are landing. `!combat numbers [on|off]` flips it live. `Abilities.SendAttackProcessedOnHit` stays
+  off: it also resets the client's melee timer, which Sulphural avoided.
+- **A basic attack needs a sticky target.** Picking the nearest live enemy every swing spread a camp's damage
+  across all of it, so nothing died and every enemy looked like it was healing. Order is now: the clicked enemy,
+  then the one already being fought, then the nearest (`Player.CombatTargetGuid`).
+- **Melee basic reach 4u -> 6u.** Mobs stop at 5u to swing, so basics whiffed at exactly the distance a mob
+  attacks you from - the "melee reach" risk below, confirmed in play.
 - **Correction: kill XP was never in the port.** Commit 98ef51dc's message says StartingZone pays a kill's stars,
   initialises health on zone entry and gains Kill quest goals. None of that was in the diff. Kill XP
   (`StartingZone.OnNpcKilled`) and the health init (`Player.OnEnteredWorld`) landed after the play-test; **Kill
@@ -168,7 +174,7 @@ What the play-test settled, and two corrections to what the port's own commit me
   (no obstacle routing).
 - **Health-bar side effect.** With `SendInWorldCombatFlag` on, every nameplate grows a bar while you are in combat
   (6 s after the last hit). Turn it off if that reads worse than losing the damage numbers.
-- **Every nameplate bar off / numbers on is not available** - the client couples them (Sulphural traced it).
+- **Every nameplate bar off / numbers on is not available** - the client couples them (Sulphural traced it; confirmed both ways in play 2026-09-11, including through op32/7). Live toggle: `!combat numbers`.
 - **Hot reload does not re-stat live enemies.**
 - **Kill goals are untested in game** - no quest uses them until C1.
 - **Hooligan barks**: the hooligans' "SCRAM" line (5100399) in `NpcAmbientLines.json` is now inert because enemies

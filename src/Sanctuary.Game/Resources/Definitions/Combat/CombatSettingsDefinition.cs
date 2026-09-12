@@ -30,6 +30,13 @@ public sealed class PlayerCombatSettings
     public int KnockoutEffectId { get; set; } = 5017;
     public int ReviveEffectId { get; set; } = 15117;
 
+    /// <summary>
+    /// How long the client is held in its combat state after a hit. Separate from (and shorter than)
+    /// <see cref="OutOfCombatSeconds"/>, which governs regen, because this window is also how long every
+    /// nameplate in view wears a health bar. 0 = use the regen window.
+    /// </summary>
+    public int InWorldCombatFlagSeconds { get; set; } = 3;
+
     public bool SendInWorldCombatFlag { get; set; } = true;
     public bool SendIsFightingFlag { get; set; } = true;
 }
